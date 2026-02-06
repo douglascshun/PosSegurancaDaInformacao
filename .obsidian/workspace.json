@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "LICENSE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de LICENSE"
             }
           }
         ]
@@ -173,9 +174,10 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "ef7780a3f80f5bd4",
+  "active": "ea5e68093ba05f65",
   "lastOpenFiles": []
 }
