@@ -12,12 +12,20 @@ Atualize, o SO, BIOS, sistemas de segurança. Evite ter sistemas antigos o vetor
 
 
 - 2 - Invista em rotinas confiáveis de backup
-Teste o backup, tenha uma rotina para isso, implemente política sconfiáveis  
-
+Teste o backup, tenha uma rotina para isso, implemente política confiáveis de backup. 
 
 
 - 3 - Aposte em soluções de segurança para e-mail e web
+
+
+
 - 4 - Disponha de uma política de segurança e de um plano de disaster recovery
+
+
+
 - 5 - Divulgue as boas práticas via treinamento interno
+
+
+
 - 6 - Invista em um antivírus/anti-malware robusto
 
