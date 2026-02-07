@@ -31,4 +31,4 @@ No livro "Os cinco anéis de Miyamoto Musashi", consta uma frase interessante: "
 
 `Antivírus`, sendo para uso pessoal não importa a marca, desde que ele tenha uma boa superfície de ataque seja atualizado. Sendo para uso em empresas, buscar aplicar o uso de antivírus pagos.
 
-`Firewall`, 
+`Firewall`, sendo para uso pessoal, buscar deixar o software sempre ativo seja em maquinas com Linux ou Windown
