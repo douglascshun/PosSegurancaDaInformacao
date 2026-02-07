@@ -30,4 +30,6 @@ Os host's de rede são dispositivos que "conversam" com outros hosts na rede. El
 
 - Redes públicas externas normalmente consistem na internet pública/global ou em várias extranets.
 
-- Rede privada interna define uma rede domestica, intranets corporativas e ou
+- Rede privada interna define uma rede domestica, intranets corporativas e outras redes "fechadas".
+
+- Redes de perímetro detalham redes de fronteira que consistem de hosts bastiões: host's de computador dedicados com segurança reforçada que estão prontos para resis
