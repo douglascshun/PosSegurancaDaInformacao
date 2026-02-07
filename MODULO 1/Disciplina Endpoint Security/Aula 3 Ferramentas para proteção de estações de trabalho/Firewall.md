@@ -69,3 +69,8 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 - Detectar melhor as atividades evasivas e suspeitas com correlação de eventos de rede e endpoint.
 - Reduz expressivamente o tempo entre a detecção e a limpeza com segurança retrospectiva que monitoram continuamente atividades e comportamentos suspeitos mesmo após a inspeção inicial.
 - Facilita a administração e reduz a complexidade com `políticas unificadas`  que oferecem proteção durante todo o ciclo de ataque.
+
+
+# Firewall
+
+A filtragem de tráfego por meio de um firewall utiliza regras predefinidas ou dinamicamente aprendidas para permitir e negar tentativas de 
