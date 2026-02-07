@@ -23,13 +23,13 @@ O firewall decide qual tráfego de rede pode passar e qual tráfego é considera
 
 É proteger as redes privadas e os dispositivos de endpoint contidos nelas, que são conhecidos como host's de redes.
 
-Os host's de rede são dispositivos que "conversam" com outros hosts na rede. Eles enviam e recebem entre redes internas, bem como saída e entrada entre redes externas.
+Os host's de rede são dispositivos que "conversam" com outros host's na rede. Eles enviam e recebem entre redes internas, bem como saída e entrada entre redes externas.
 
 
 # Firewall
 
-- Redes públicas externas normalmente consistem na internet pública/global ou em várias extranets.
+- Redes públicas externas normalmente consistem na internet pública/global ou em várias extranet's.
 
-- Rede privada interna define uma rede domestica, intranets corporativas e outras redes "fechadas".
+- Rede privada interna define uma rede domestica, intranet's corporativas e outras redes "fechadas".
 
-- Redes de perímetro detalham redes de fronteira que consistem de hosts bastiões: host's de computador dedicados com segurança reforçada que estão prontos para resis
+- Redes de perímetro detalham redes de fronteira que consistem de host's bastiões: host's de computador dedicados com segurança reforçada que estão prontos para resistir a ataques externos.
