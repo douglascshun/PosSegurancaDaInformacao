@@ -68,4 +68,4 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 - Reagir rapidamente a ataques com automação de segurança inteligente que define políticas e fortalece suas defesas de forma dinâmica. 
 - Detectar melhor as atividades evasivas e suspeitas com correlação de eventos de rede e endpoint.
 - Reduz expressivamente o tempo entre a detecção e a limpeza com segurança retrospectiva que monitoram continuamente atividades e comportamentos suspeitos mesmo após a inspeção inicial.
-- Facilita a administração e reduz a com
+- Facilita a administração e reduz a complexidade com `políticas unificadas`  que oferecem proteção durante todo o ciclo de ataque.
