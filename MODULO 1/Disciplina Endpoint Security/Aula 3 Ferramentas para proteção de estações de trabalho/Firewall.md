@@ -9,4 +9,4 @@ Um firewall (Muro de fogo) é um sistema de segurança de rede de computadores q
 
 Os firewalls têm  sido a linha de frente da defesa na segurança de rede há mais de 25 anos.
 
-Eles colocam uma barreira entr
+Eles colocam uma barreira entre redes internas protegidas e controladas que podem ser redes externas confiáveis ou não, como a internet.
