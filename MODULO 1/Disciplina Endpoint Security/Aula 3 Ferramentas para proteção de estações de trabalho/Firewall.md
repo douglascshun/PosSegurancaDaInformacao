@@ -25,3 +25,6 @@ O firewall decide qual tráfego de rede pode passar e qual tráfego é considera
 
 Os host's de rede são dispositivos que "conversam" com outros hosts na rede. Eles enviam e recebem entre redes internas, bem como saída e entrada entre redes externas.
 
+
+# Firewall
+Redes públicas externas normalmente consistem na internet 
