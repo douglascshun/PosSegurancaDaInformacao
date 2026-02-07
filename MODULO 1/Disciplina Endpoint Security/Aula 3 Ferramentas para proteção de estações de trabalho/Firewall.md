@@ -38,4 +38,4 @@ Os host's de rede são dispositivos que "conversam" com outros host's na rede. E
 
 Um firewall de proxy é um dos primeiros tipos de firewall e funciona como a passagem de uma rede para outra de uma aplicação específica.
 
-Servidores proxy podem oferecer recursos adicionais, como armazenamento em cahce e segurança de conteúdo ao evitar conexões diretas de fora da rede No entando, isso também pode afetar a capacidade de taxa de transferência e as aplicaç~
+Servidores proxy podem oferecer recursos adicionais, como armazenamento em cache e segurança de conteúdo ao evitar conexões diretas de fora da rede No entanto, isso também pode afetar a capacidade de taxa de transferência e as aplicações que eles podem comportar.
