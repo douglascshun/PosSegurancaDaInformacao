@@ -75,4 +75,8 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 
 A filtragem de tráfego por meio de um firewall utiliza regras predefinidas ou dinamicamente aprendidas para permitir e negar tentativas de conexão. 
 
-Essas regras são a maneira como o firewall regula o fluxo de tráfego da Web por meio da rede privada e dos dispositivos de computador privados. Independentemente 
+Essas regras são a maneira como o firewall regula o fluxo de tráfego da Web por meio da rede privada e dos dispositivos de computador privados. Independentemente do tipo, todo os firewalls podem filtrar por meio de alguma combinação dos itens a seguir.
+
+- Origem
+- Destino
+- Conte
