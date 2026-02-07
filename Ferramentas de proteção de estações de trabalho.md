@@ -24,7 +24,9 @@ No livro "Os cinco anéis de Miyamoto Musashi", consta uma frase interessante: "
 
 # As ferramentas mais utilizadas 
 - `Antivírus`
-- `Firewall pessoal
-- Antmalware
-- Hardening
-- Controle de dispositivos USB
+- `Firewall pessoal`
+- `Antmalware`
+- `Hardening`
+- `Controle de dispositivos USB`
+
+`Antivírus`, sendo 
