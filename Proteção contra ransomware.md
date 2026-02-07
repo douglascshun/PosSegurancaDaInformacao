@@ -24,8 +24,8 @@ Tenha preparado um plano em situações de risco mas antes, tenha políticas bem
 
 
 - 5 - Divulgue as boas práticas via treinamento interno
-Desenvolva e divulgue boas praticas e treinamentos, buscando impedir possíveis 
+Desenvolva e divulgue boas praticas e treinamentos, buscando impedir possíveis situações de risco vindo de dentro da empresa.
 
 
 - 6 - Invista em um antivírus/anti-malware robusto
-
+Ferramentas anti
