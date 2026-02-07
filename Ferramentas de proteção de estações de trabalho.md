@@ -33,4 +33,4 @@ No livro "Os cinco anéis de Miyamoto Musashi", consta uma frase interessante: "
 
 `Firewall`, sendo para uso pessoal, buscar deixar o software sempre ativo seja em maquinas com Linux ou Windows, em uso empresarial buscar usar o equipamento de Firewall (hardware/equipamento físico).
 
-`Antimalware`, alguns antivírus já vem com ele embutido. É um programa que roda em segundo plano fazendo análises de tudo o que é baixado, e detec
+`Antimalware`, alguns antivírus já vem com ele embutido. É um programa que roda em segundo plano fazendo análises de tudo o que é baixado, buscando detectar se o arquivo é malicioso ou não.
