@@ -33,3 +33,7 @@ Os host's de rede são dispositivos que "conversam" com outros host's na rede. E
 - Rede privada interna define uma rede domestica, intranet's corporativas e outras redes "fechadas".
 
 - Redes de perímetro detalham redes de fronteira que consistem de host's bastiões: host's de computador dedicados com segurança reforçada que estão prontos para resistir a ataques externos.
+
+# Firewall de proxy
+
+Um firewall de proxy é um dos primeiros tipos de firewall e funciona como a passagem de uma rede para outra de uma aplicação es
