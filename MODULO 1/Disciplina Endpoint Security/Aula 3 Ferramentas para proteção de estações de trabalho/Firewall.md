@@ -56,4 +56,8 @@ Normalmente, um dispositivo UTM combina, de maneira flexível, as funções de u
 Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuvem. O UTM concentra-se em simplicidade e facilidade de uso.
 
 
-# F
+# Firewall de próxima geração (NGFW)
+
+- Recursos padrão de firewall, como inspeção stateful.
+- Prevenção de invasão integrada.
+- Reconhecimento e controle da aplicação apra detectar
