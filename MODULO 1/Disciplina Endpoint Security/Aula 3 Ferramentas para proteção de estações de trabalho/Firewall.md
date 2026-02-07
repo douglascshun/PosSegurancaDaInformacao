@@ -34,6 +34,7 @@ Os host's de rede são dispositivos que "conversam" com outros host's na rede. E
 
 - Redes de perímetro detalham redes de fronteira que consistem de host's bastiões: host's de computador dedicados com segurança reforçada que estão prontos para resistir a ataques externos.
 
+
 # Firewall de proxy
 
 Um firewall de proxy é um dos primeiros tipos de firewall e funciona como a passagem de uma rede para outra de uma aplicação específica.
@@ -65,4 +66,5 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 - Técnicas para lidar com as ameaças à segurança em evolução.
 - Saber quais recursos sofrem um risco maior com reconhecimento completo de contexto.
 - Reagir rapidamente a ataques com automação de segurança inteligente que define políticas e fortalece suas defesas de forma dinâmica. 
-- Detectar melhor as atividades evasivas e suspeitas com correlaç~
+- Detectar melhor as atividades evasivas e suspeitas com correlação de eventos de rede e endpoint.
+- Reduz expressi
