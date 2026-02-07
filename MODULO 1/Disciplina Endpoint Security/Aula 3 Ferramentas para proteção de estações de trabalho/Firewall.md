@@ -21,4 +21,5 @@ O firewall decide qual tráfego de rede pode passar e qual tráfego é considera
 
 É proteger as redes privadas e os dispositivos de endpoint contidos nelas, que são conhecidos como host's de redes.
 
-Os host's de rede são dispositivos qu
+Os host's de rede são dispositivos que "conversam" com outros hosts na rede. Eles enviam e recebem entre redes internas, bem como saída e entrada entre redes externas.
+
