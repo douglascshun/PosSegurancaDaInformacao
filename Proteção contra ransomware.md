@@ -8,7 +8,7 @@ Ransomware, é um software malicioso que captura todos, ou os mais importantes d
 # Proteção contra Ransomware
 
 - 1 - Mantenha atualizações e patches em dia 
-Atualize, o SO, BIOS, sistemas de segurança. Evite ter sistemas antigos as
+Atualize, o SO, BIOS, sistemas de segurança. Evite ter sistemas antigos o vetor de exploração de vulnerabilidades deles abre um leque muito grande para atacantes que buscam encontrar meios de adentrar no sistema.
 
 
 - 2 - Invista em rotinas confiáveis de backup
