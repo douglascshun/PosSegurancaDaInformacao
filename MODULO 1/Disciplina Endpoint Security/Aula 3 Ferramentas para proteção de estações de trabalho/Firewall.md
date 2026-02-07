@@ -42,4 +42,6 @@ Servidores proxy podem oferecer recursos adicionais, como armazenamento em cache
 
 
 
-# Fire
+# Firewall com inspeção de estado
+
+Atualmente conhecido como firewall tradicional, um firewall com inspeção de estado permite ou bloqueia tráfego de acordo com o estado, a porta e o p
