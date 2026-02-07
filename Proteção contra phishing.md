@@ -9,7 +9,7 @@ Phishing é um tipo de ataque que normalmente oferece uma situação de pressão
 Treine equipes, desconfie de e-mails, atente-se..
 
 - A importância do software de segurança de internet.
-
+Mantenha softwares atualizados.
 
 - Gerenciamento de senhas facilitado
-Não facilite senhas, evite por datas, nomes pessoais, apelidos, informações disponíveis em redes sociais e públicas na internet. Aplique autentificação em 2 fatores, adicione acamad
+Não facilite senhas, evite por datas, nomes pessoais, apelidos, informações disponíveis em redes sociais e públicas na internet. Aplique autentificação em 2 fatores, adicione acamadas na segurança das suas informações. Não use a senha do seu e-mail pessoal 
