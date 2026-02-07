@@ -9,4 +9,7 @@ Ransomware, é um software malicioso que captura todos, ou os mais importantes d
 
 - 1 - Mantenha atualizações e patches em dia 
 - 2 - Invista em rotinas confiáveis de backup
-- 3 - Aposte em soluções de s
+- 3 - Aposte em soluções de segurança para e-mail e web
+- 4 - Disponha de uma política de segurança e de um plano de disaster recovery
+- 5 - Divulgue as boas práticas via treinamento interno
+- 6 - Invista em um a
