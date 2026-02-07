@@ -64,4 +64,5 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 - Atualização de caminhos para incluir feeds futuros de informação.
 - Técnicas para lidar com as ameaças à segurança em evolução.
 - Saber quais recursos sofrem um risco maior com reconhecimento completo de contexto.
-- Rea
+- Reagir rapidamente a ataques com automação de segurança inteligente que define políticas e fortalece suas defesas de forma dinâmica. 
+- Detectar melhor as atividades evasivas e suspeitas com correlaç~
