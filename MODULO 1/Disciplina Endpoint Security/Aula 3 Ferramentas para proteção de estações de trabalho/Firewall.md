@@ -27,4 +27,7 @@ Os host's de rede são dispositivos que "conversam" com outros hosts na rede. El
 
 
 # Firewall
-Redes públicas externas normalmente consistem na internet 
+
+- Redes públicas externas normalmente consistem na internet pública/global ou em várias extranets.
+
+- Rede privada interna define uma rede domestica, intranets corporativas e ou
