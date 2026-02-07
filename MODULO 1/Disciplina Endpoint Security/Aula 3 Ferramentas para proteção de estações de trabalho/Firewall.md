@@ -58,6 +58,7 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 
 # Firewall de próxima geração (NGFW)
 
-- Recursos padrão de firewall, como inspeção stateful.
+- Recursos padrão de firewall, como inspeção statefull.
 - Prevenção de invasão integrada.
-- Reconhecimento e controle da aplicação apra detectar
+- Reconhecimento e controle da aplicação para detectar e bloquear aplicativos nocivos.
+- Atualização de caminhos para incluir feeds futuros de informação
