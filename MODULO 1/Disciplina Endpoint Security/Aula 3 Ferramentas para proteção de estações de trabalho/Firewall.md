@@ -17,4 +17,8 @@ O firewall decide qual tráfego de rede pode passar e qual tráfego é considera
 
 `No entando, antes de entrarmos em detalhes, é útil entender a estrutura das redes baseadas na Web.`
 
-#
+# Qual o objetivo do firewall?
+
+É proteger as redes privadas e os dispositivos de endpoint contidos nelas, que são conhecidos como host's de redes.
+
+Os host's de rede são dispositivos qu
