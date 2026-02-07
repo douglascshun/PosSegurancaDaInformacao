@@ -20,4 +20,5 @@ Como funcional o firewall?
 
 # Ferramentas de proteção de estações de trabalho
 
-No livro "Os cinco anéis de Miyamoto Musashi"
+No livro "Os cinco anéis de Miyamoto Musashi", consta uma frase interessante: "Não pense nos oponentes que não estão atacando; se preocupe com sua própria falta de preparação".
+
