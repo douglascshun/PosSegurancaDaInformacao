@@ -20,11 +20,11 @@ O servidor é seguro? O sistema é atualizado? O sistema possuí todos os recurs
 
 
 - 4 - Disponha de uma política de segurança e de um plano de disaster recovery
-Tenha preparado um plano em situações de risco mas antes, tenha políticas bem estabelecidas e clara ao usuários dos procedimentos que devem ser seguidos dentro da empresa, esse é o fator que mais determina 
+Tenha preparado um plano em situações de risco mas antes, tenha políticas bem estabelecidas e clara ao usuários dos procedimentos que devem ser seguidos dentro da empresa, esse é um dos fatores que mais influência na segurança das empresas.
 
 
 - 5 - Divulgue as boas práticas via treinamento interno
-
+Com boas praticas
 
 
 - 6 - Invista em um antivírus/anti-malware robusto
