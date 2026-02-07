@@ -37,4 +37,4 @@ No livro "Os cinco anéis de Miyamoto Musashi", consta uma frase interessante: "
 
 `Hardening`, faz teste em todos os equipamentos físicos da empresa, teste de memória, teste de processador. Ele faz um relatório e te apresenta a informação pronta para análise.
 
-`Controle de dispositivos USB`, buscar não permitir que todos na empresa tenham controle sobre dispositivos USB 
+`Controle de dispositivos USB`, buscar não permitir que todos na empresa tenham controle sobre dispositivos USB' a serem inseridos nas maquinas.
