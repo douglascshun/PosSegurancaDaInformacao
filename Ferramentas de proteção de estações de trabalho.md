@@ -22,3 +22,4 @@ Como funcional o firewall?
 
 No livro "Os cinco anéis de Miyamoto Musashi", consta uma frase interessante: "Não pense nos oponentes que não estão atacando; se preocupe com sua própria falta de preparação".
 
+# as Ferramentas ma
