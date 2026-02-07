@@ -6,3 +6,7 @@
 Proteção a estações de trabalho.
 
 ### 2 - Proteção contra ransomware 
+Como se proteger de ransomware?
+
+### 3 - Proteção contra phishing
+Como se proteger de phishing?
