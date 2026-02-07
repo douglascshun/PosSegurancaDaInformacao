@@ -3,4 +3,4 @@
 
 # Ransomware
 
-Ransomware, é um software malicioso que captur
+Ransomware, é um software malicioso que captura todos, ou os mais importantes dados de uma empresa, criptografa e/ou codifica esses dados
