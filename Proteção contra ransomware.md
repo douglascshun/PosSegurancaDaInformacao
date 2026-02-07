@@ -12,7 +12,7 @@ Atualize, o SO, BIOS, sistemas de segurança. Evite ter sistemas antigos o vetor
 
 
 - 2 - Invista em rotinas confiáveis de backup
-Teste o backup, tenha uma rotina para isso, 
+Teste o backup, tenha uma rotina para isso, implemente política sconfiáveis  
 
 
 
