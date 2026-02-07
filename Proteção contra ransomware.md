@@ -16,7 +16,7 @@ Teste o backup, tenha uma rotina para isso, implemente política confiáveis de 
 
 
 - 3 - Aposte em soluções de segurança para e-mail e web
-O servidor é seguro? O sistema é atualizado? O sistema possuí todos os recursos ade
+O servidor é seguro? O sistema é atualizado? O sistema possuí todos os recursos adequados, firewall, antivírus? Busque empresas consolidadas, seja Google, Microsoft
 
 
 - 4 - Disponha de uma política de segurança e de um plano de disaster recovery
