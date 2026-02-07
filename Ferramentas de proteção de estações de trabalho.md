@@ -11,4 +11,8 @@ Como se proteger de ransomware?
 ### 3 - Proteção contra phishing
 Como se proteger de phishing?
 
-### 4 -
+### 4 - Proteção com malware
+Como se proteger de malware?
+
+### 5- Firewall
+Como f
