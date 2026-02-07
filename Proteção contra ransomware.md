@@ -28,4 +28,4 @@ Desenvolva e divulgue boas praticas e treinamentos, buscando impedir possíveis 
 
 
 - 6 - Invista em um antivírus/anti-malware robusto
-Ferramentas antivírus e anti-malwares, facilitam a gestão e a análise de situações onde brechas ao sistema
+Ferramentas antivírus e anti-malwares, facilitam a gestão e a análise de situações onde brechas aos sistemas da empresa poderiam ser exploradas, busque ter esses dois componentes sempre atualizados.
