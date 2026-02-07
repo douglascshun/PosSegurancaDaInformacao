@@ -83,4 +83,3 @@ Essas regras são a maneira como o firewall regula o fluxo de tráfego da Web po
 - Protocolos de pacote
 - Protocolos de aplicativos
 
-Essas regras são a maneira como o firewall regula o fluxo de tráfego da Web por meio da rede privada e dos dispositivos de computador privados. 
