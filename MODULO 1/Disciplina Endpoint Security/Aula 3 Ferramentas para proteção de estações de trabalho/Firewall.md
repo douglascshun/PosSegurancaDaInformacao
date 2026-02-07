@@ -44,4 +44,6 @@ Servidores proxy podem oferecer recursos adicionais, como armazenamento em cache
 
 # Firewall com inspeção de estado
 
-Atualmente conhecido como firewall tradicional, um firewall com inspeção de estado permite ou bloqueia tráfego de acordo com o estado, a porta e o p
+Atualmente conhecido como firewall tradicional, um firewall com inspeção de estado permite ou bloqueia tráfego de acordo com o estado, a porta e o protocolo. Ele monitora toda atividade desde o momento em que uma conexão é aberta até que ela seja fechada.
+
+As decisões de filtragem são tomadas de acordo com as regras definidas pelo administrador e com o contexto, o que significa o uso de informaçõ
