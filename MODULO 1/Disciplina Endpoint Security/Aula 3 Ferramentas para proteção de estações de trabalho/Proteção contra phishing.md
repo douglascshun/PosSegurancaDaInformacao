@@ -12,4 +12,4 @@ Treine equipes, desconfie de e-mails, atente-se..
 Mantenha softwares atualizados.
 
 - Gerenciamento de senhas facilitado
-Não facilite senhas, evite por datas, nomes pessoais, apelidos, informações disponíveis em redes sociais e públicas na internet. Aplique autentificação em 2 fatores, adicione acamadas na segurança das suas informações. Não use a senha do seu e-mail pessoal 
+Não facilite senhas, evite por datas, nomes pessoais, apelidos, informações disponíveis em redes sociais e públicas na internet. Aplique autentificação em 2 fatores, adicione acamadas na segurança das suas informações. Não use a senha do seu e-mail pessoal na sua conta corporativa.
