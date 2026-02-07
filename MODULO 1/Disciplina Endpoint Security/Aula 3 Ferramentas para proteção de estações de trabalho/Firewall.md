@@ -63,3 +63,5 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 - Reconhecimento e controle da aplicação para detectar e bloquear aplicativos nocivos.
 - Atualização de caminhos para incluir feeds futuros de informação.
 - Técnicas para lidar com as ameaças à segurança em evolução.
+- Saber quais recursos sofrem um risco maior com reconhecimento completo de contexto.
+- Rea
