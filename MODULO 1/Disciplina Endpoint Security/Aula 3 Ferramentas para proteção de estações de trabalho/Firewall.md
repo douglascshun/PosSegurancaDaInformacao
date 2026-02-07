@@ -67,4 +67,5 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 - Saber quais recursos sofrem um risco maior com reconhecimento completo de contexto.
 - Reagir rapidamente a ataques com automação de segurança inteligente que define políticas e fortalece suas defesas de forma dinâmica. 
 - Detectar melhor as atividades evasivas e suspeitas com correlação de eventos de rede e endpoint.
-- Reduz expressi
+- Reduz expressivamente o tempo entre a detecção e a limpeza com segurança retrospectiva que monitoram continuamente atividades e comportamentos suspeitos mesmo após a inspeção inicial.
+- Facilita a administração e reduz a com
