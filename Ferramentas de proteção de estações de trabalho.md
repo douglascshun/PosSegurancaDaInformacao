@@ -35,4 +35,5 @@ No livro "Os cinco anéis de Miyamoto Musashi", consta uma frase interessante: "
 
 `Antimalware`, alguns antivírus já vem com ele embutido. É um programa que roda em segundo plano fazendo análises de tudo o que é baixado, buscando detectar se o arquivo é malicioso ou não.
 
-`Hardening`, faz teste em todos os equipamentos f´
+`Hardening`, faz teste em todos os equipamentos físicos da empresa, teste de memória, teste de processador. Ele faz um relatório e te apresenta a informação pronta para análise.
+
