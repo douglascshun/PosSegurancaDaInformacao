@@ -5,4 +5,6 @@ Phishing é um tipo de ataque que normalmente oferece uma situação de pressão
 
 # Proteção contra phishing
 
-- Nunca confi
+- Nunca confie em e-mails alarmantes.
+- A importância do software de segurança de internet.
+- Gerenciamento de senhas facilitado
