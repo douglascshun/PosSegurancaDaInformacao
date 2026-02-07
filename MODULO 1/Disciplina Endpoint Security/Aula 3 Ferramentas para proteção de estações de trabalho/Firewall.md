@@ -50,4 +50,6 @@ As decisões de filtragem são tomadas de acordo com as regras definidas pelo ad
 
 # Firewall de gerenciamento unificado de ameaças (UTM)
 
-Normalmente, um dispositivo UTM combina, de maneira flexível, as funções de um firewall com
+Normalmente, um dispositivo UTM combina, de maneira flexível, as funções de um firewall com inspeção de estado e prevendo contra intrusões e antivírus.
+
+Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuvem. O UTM concentra-se em simplicidade e facilidade de uso.
