@@ -12,4 +12,4 @@ Treine equipes, desconfie de e-mails, atente-se..
 
 
 - Gerenciamento de senhas facilitado
-Não facilite senhas, evite por datas, nomes pessoais, nome
+Não facilite senhas, evite por datas, nomes pessoais, apelidos, informações disponíveis em redes sociais e públicas na internet. Aplique autentificação em 2 fatores, adicione acamad
