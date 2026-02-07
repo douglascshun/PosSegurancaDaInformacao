@@ -48,3 +48,6 @@ Atualmente conhecido como firewall tradicional, um firewall com inspeção de es
 
 As decisões de filtragem são tomadas de acordo com as regras definidas pelo administrador e com o contexto, o que significa o uso de informações de conexões e pacotes anteriores que pertencem à mesma conexão.
 
+# Firewall de gerenciamento unificado de ameaças (UTM)
+
+Normalmente, um dispositivo UTM combina, de maneira flexível, as funções de um firewall com
