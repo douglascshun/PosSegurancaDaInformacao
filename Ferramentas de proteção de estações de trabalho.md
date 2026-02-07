@@ -15,4 +15,7 @@ Como se proteger de phishing?
 Como se proteger de malware?
 
 ### 5- Firewall
-Como f
+Como funcional o firewall?
+
+
+
