@@ -61,4 +61,5 @@ Ele também pode incluir serviços adicionais e, às vezes, gerenciamento em nuv
 - Recursos padrão de firewall, como inspeção statefull.
 - Prevenção de invasão integrada.
 - Reconhecimento e controle da aplicação para detectar e bloquear aplicativos nocivos.
-- Atualização de caminhos para incluir feeds futuros de informação
+- Atualização de caminhos para incluir feeds futuros de informação.
+- Técnicas para lidar com as ameaças à segurança em evolução.
