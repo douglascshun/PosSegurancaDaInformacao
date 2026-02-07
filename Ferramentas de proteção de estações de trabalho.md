@@ -29,4 +29,4 @@ No livro "Os cinco anéis de Miyamoto Musashi", consta uma frase interessante: "
 - `Hardening`
 - `Controle de dispositivos USB`
 
-`Antivírus`, sendo 
+`Antivírus`, sendo para uso pessoal não importa a marca, desde que ele tenha uma boa superfície de ataque seja atualizado. Sendo para uso em empresas, buscar aplicar o uso de antivírus pagos
