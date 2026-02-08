@@ -37,3 +37,8 @@ Uma solução baseada em Zero Trust assume que não é possessível garantir que
 
 Nele os autores defendem que uma solução deve focar em proteger recursos como ativos, serviços, contas, fluxos de trabalho, contas de rede e outros, não apenas segmentos de rede, visto que estes deixaram de ser a principal preocupação em um ambiente protegido. 
 
+
+
+## Existem três princípios no modelo.
+
+- `Verifique explicitamente`: Sempre autorize e autentique baseado em todas as informaçõe
