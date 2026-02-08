@@ -55,4 +55,4 @@ Nele os autores defendem que uma solução deve focar em proteger recursos como 
 
 - `MFA` - Duplo fator de autenticação.
 
-- `Acesso Condicional` - O c
+- `Acesso Condicional` - O coração do Zero Trust. Esse recurso será um de seus melhores amigos na missão Zero Trust, com ele é possível analisar 
