@@ -1,5 +1,4 @@
 <details> <summary><b>Clique para visualizar a árvore completa de diretórios</b></summary>
-```text
 📁 pós-seguranca-informacao/
 ├── README.md                  ← você está aqui
 ├── MODULO 1
