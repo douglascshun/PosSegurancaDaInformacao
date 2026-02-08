@@ -7,6 +7,7 @@
 <br>
 <br>
 ##   MÓDULO 1 🌐
+<br>
 ### 🔹 Cybersecurity Essentials
 <details>
 <summary>Clique para expandir as 8 aulas</summary>
