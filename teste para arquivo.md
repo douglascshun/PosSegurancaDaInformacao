@@ -1,6 +1,8 @@
 # 🛡️ Pós-Graduação em Segurança da Informação
 
 > Navegue pelos módulos e disciplinas abaixo para acessar os materiais.
+
+
 ---
 
 ## 🌐 MÓDULO 1
@@ -23,8 +25,6 @@
 
 </details>
 
----
-
 ### 🔹 Endpoint Security
 <details>
 <summary>Clique para expandir as 3 aulas</summary>
@@ -37,8 +37,6 @@
 | **3. Ferramentas** | [Estações de Trabalho](./MODULO%201/Endpoint/Aula3.md) | [📁 Ver Imagens](./MODULO%201/Endpoint/Aula3-Img) |
 
 </details>
-
----
 
 ### 🔹 Networking Essentials
 <details>
