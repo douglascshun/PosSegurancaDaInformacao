@@ -25,11 +25,11 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 │   │   │   └── Definição de Disponibilidade
 │   │   │   └── Definição de Integridade
 │   │   │   └── Definição de Irretratabilidade
-│   │   ├── Aula 1 Conceitos de Segurança Cibernética
-│   │   │   └── Aula 1 Conceitos de Segurança Cibernética
-│   │   │   └── Definição de Autenticidade
-│   │   │   └── Definição de Confidencialidade
-│   │   │   └── Definição de Disponibilidade
+│   │   ├── Aula 1 Conceitos de Segurança Cibernética Imagens
+│   │   │   └── Exemplo de Confidencialidade
+│   │   │   └── Intercepção de mensagem confidencial
+│   │   │   └── Sucesso de envio de mensagem confidencial
+│   │   │   └── Tentativa de Envio de mensagem Confidencial
 │   │   │   └── Definição de Integridade
 │   │   │   └── Definição de Irretratabilidade
 │   │   ├── aula-02-titulo.md
