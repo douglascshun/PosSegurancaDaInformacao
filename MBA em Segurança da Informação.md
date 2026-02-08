@@ -30,4 +30,6 @@ Os materiais de apoio, como exercícios e estudos de caso, permitem que os aluno
 
 O MBA em Segurança da Informação da Descomplica Faculdade Digital é a escolha inteligente para quem busca uma formação completa e atualizada na área. Com um programa flexível e acessível, o curso permite que os alunos conciliem seus estudos com suas vidas profissionais e pessoais. 
 
-A qualidade do corpo docente, a estrutura do currículo e os recursos de aprendizado disponíveis garantem uma experiência educacional completa e gratificante. Ao concluir o programa, os formandos estarão preparados para enfrentar os desafios do mercado de trabalho e assumir cargos de liderança em segurança da informação. O MBA em Segurança da Informação da Descomplica Faculdade Digital é um investimento estratégico para aqueles que desejam impulsionar suas carreiras e alcançar o sucesso profissional na área.
+A qualidade do corpo docente, a estrutura do currículo e os recursos de aprendizado disponíveis garantem uma experiência educacional completa e gratificante. 
+
+Ao concluir o programa, os formandos estarão preparados para enfrentar os desafios do mercado de trabalho e assumir cargos de liderança em segurança da informação. O MBA em Segurança da Informação da Descomplica Faculdade Digital é um investimento estratégico para aqueles que desejam impulsionar suas carreiras e alcançar o sucesso profissional na área.
