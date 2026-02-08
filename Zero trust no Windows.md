@@ -45,4 +45,5 @@ Nele os autores defendem que uma solução deve focar em proteger recursos como 
 
 - `Use o menor provilégio de acesso o possível`: Não dê permissão além da necessária. Siga a ideia do JIT/JEA(Just-InTime / Just-Enough- Access).
 
-- `Assuma que brechas existe`: Garanta, sempre que possível criptogradia
+- `Assuma que brechas existe`: Garanta, sempre que possível criptografia de ponta ponta e recursos para evitar movimentação lateral.
+
