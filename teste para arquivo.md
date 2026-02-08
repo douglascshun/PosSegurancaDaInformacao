@@ -6,7 +6,8 @@
 ├── README.md                  ← você está aqui
 <br>
 <details>
-├──  <summary>MODULO 1
+├──  <summary> <b>MODULO 1</b></summary>
+<br>
 │   ├── Disciplina Cybersecurity Essentials
 │   │   ├── Aula 1 Conceitos de Segurança Cibernética
 │   │   │   ├── Aula 1 Conceitos de Segurança Cibernética - Imagens
