@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<summary><b>├── Disciplina Cybersecurity Essentials</b></summary>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;├── Aula 1 Conceitos de Segurança Cibernética
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;├── Aula 1 Conceitos de Segurança Cibernética<br>
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;│&nbsp;&nbsp;├── [Imagens]
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;│&nbsp;&nbsp;├── Aula 1 Conceitos de Segurança Cibernética.md
 &nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;│&nbsp;&nbsp;└── (Definições: Autenticidade, Confidencialidade, etc.)
