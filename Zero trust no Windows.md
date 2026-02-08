@@ -9,4 +9,9 @@ o que é e como funciona ?
 O que é e como funciona?
 
 ## 3 - Microsoft Defender e Criptografia 
+Entendendo a criptografia voltada para Microsoft.
 
+## 4 - Windows Defender Firewall 
+Funcionamento do firewall do Windows.
+
+## 5 - Application Guard e 
