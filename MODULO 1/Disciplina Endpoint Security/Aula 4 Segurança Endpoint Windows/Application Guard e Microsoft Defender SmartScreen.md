@@ -6,4 +6,4 @@ O Microsoft Windows Defender Credential Guard é um recurso de segurança que is
 
 ## Como funciona?
 
-#
+![[virtualização.png]]
