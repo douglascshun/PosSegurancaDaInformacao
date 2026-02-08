@@ -7,3 +7,4 @@ O Windows Defender é o antivírus que vem instalado no Windows 10 em diante. De
 - Está integrado no sistema operacional.
 - É de graça e é completo!
 - Melhorias nas configurações e consumo de recursos.
+
