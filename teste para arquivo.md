@@ -1,8 +1,6 @@
 <details> <summary>📂 </b>pós-seguranca-informacao/</b></summary> └── 📁 MODULO 1
 
 <details> <summary>📂 <b>Disciplina Cybersecurity Essentials</b></summary>
-
-<details> <summary>📂 <b>Disciplina Cybersecurity Essentials</b></summary>
 Plaintext
 
 │   ├── Aula 1 Conceitos de Segurança Cibernética
@@ -99,6 +97,10 @@ Plaintext
 │   └── Cybersecurity Essentials.md
 
 </details>
+
+
+
+
 
 <details> <summary>📂 <b>Disciplina Endpoint Security</b></summary>
 Plaintext
