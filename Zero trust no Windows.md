@@ -57,4 +57,4 @@ Nele os autores defendem que uma solução deve focar em proteger recursos como 
 
 - `Acesso Condicional` - O coração do Zero Trust. Esse recurso será um de seus melhores amigos na missão Zero Trust, com ele é possível analisar vários sinais e liberar ou não o acesso baseado nos resultados encontrados.
 
-- `Endpoint Mabager/intune` - Esse dará condiçoes de gerenciar dispositivos que estejam fora da rede da empresa.
+- `Endpoint Mabager/intune` - Esse dará condições de gerenciar dispositivos que estejam fora da rede da empresa.
