@@ -1,7 +1,7 @@
 ## Estrutura das pastas
 
-
-📁 <details></summary><b>pós-seguranca-informacao/</b></summary>
+```text
+📁 </summary></b>pós-seguranca-informacao/</b></summary>
 ├── README.md                  ← você está aqui
 ├── MODULO 1
 │   ├── Disciplina Cybersecurity Essentials
