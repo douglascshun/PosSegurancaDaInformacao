@@ -33,6 +33,7 @@ Uma solução baseada em Zero Trust assume que não é possessível garantir que
 
 É preciso garantir formas de verificação explicita de que o usuário X, é de fato o X e o não o Z. Para se garantir esse nível é preciso, focar na identidade.
 
-O NIST Públicos em 2020 um paper bem bacana falando sobre o modelo Zero Trust.`
+`O NIST Públicos em 2020 um paper bem bacana falando sobre o modelo Zero Trust.`
 
-Nele os autores defendem que uma solução deve focar em proteger recursos como ativos, serviços, contas, fluxos de trabalho, contas de rede e outros, não apenas segmentos de rede, visto que estes deixaram de ser a pricipal preocupação em um ambiente protegido. 
+Nele os autores defendem que uma solução deve focar em proteger recursos como ativos, serviços, contas, fluxos de trabalho, contas de rede e outros, não apenas segmentos de rede, visto que estes deixaram de ser a principal preocupação em um ambiente protegido. 
+
