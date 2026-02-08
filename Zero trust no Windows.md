@@ -20,3 +20,11 @@ Entendendo as aplicações.
 ## 6 - Windows Defender Credential Guard
 Entendendo as aplicações.
 
+
+
+
+# Zero trust no Windows
+
+`Confiança zero, verifíque.`
+
+Não confi
