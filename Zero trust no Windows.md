@@ -27,4 +27,6 @@ Entendendo as aplicações.
 
 `Confiança zero, verifíque.`
 
-Não confi
+Não confie no usuário nem no sistema, sempre implemente medidas de segurança robustas.
+
+Uma solução baseada em Zero TRust assume que não pe posspivel garantir que um usuário 
