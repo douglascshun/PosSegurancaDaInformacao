@@ -1,14 +1,6 @@
 # 🛡️ Pós-Graduação em Segurança da Informação
 
 > Navegue pelos módulos e disciplinas abaixo para acessar os materiais.
-
----
-
-## 📑 Sumário de Disciplinas
-* [Cybersecurity Essentials](#-cybersecurity-essentials)
-* [Endpoint Security](#-endpoint-security)
-* [Networking Essentials](#-networking-essentials)
-
 ---
 
 ## 🌐 MÓDULO 1
