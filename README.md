@@ -19,7 +19,9 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 ├── modulo-01/
 │   ├── Disciplina Cybersecurity Essentials/
 │   │   ├── Aula 1 Conceitos de Segurança Cibernética
-│   │ │   │ └── ...
+│   │   │   └── 
+│   │   │   └──
+│   │   │   └──
 │   │   ├── aula-02-titulo.md
 │   │   └── ...
 │   └── disciplina-outra/
