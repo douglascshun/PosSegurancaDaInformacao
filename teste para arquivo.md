@@ -2,7 +2,7 @@
 
 
 <details>
-<summary> 📁<b>pós-seguranca-informacao/</b><br></summary>
+<summary> 📁<b>pós-seguranca-informacao/</b></summary>
 ├── README.md                  ← você está aqui
 <br>
 <details>
