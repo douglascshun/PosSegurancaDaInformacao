@@ -1,4 +1,4 @@
-<details> <summary>📂 </b>pós-seguranca-informacao/</b></summary> └── 📁 MODULO 1
+<details> <summary>📂 </b>pós-seguranca-informacao/</b> └── 📁 MODULO 1
 
 <details> <summary>📂 <b>Disciplina Cybersecurity Essentials</b></summary>
 Plaintext
