@@ -31,4 +31,5 @@ Não confie no usuário nem no sistema, sempre implemente medidas de segurança 
 
 Uma solução baseada em Zero Trust assume que não é possessível garantir que um usuário é confiável usando única e exclusivamente sua localização (perímetro).
 
-É reciso garantir formas de verificação explicita de que o usu
+É preciso garantir formas de verificação explicita de que o usuário X, é de fato o X e o não o Z. Para se garantir esse nível é preciso, focar na identidade.
+
