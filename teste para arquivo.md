@@ -2,10 +2,9 @@
 
 
 <details>
-
-<summary> 📁<b>pós-seguranca-informacao/</b></summary><br>
+<summary> 📁<b>pós-seguranca-informacao/</b><br></summary>
 ├── README.md                  ← você está aqui
-</br
+<br>
 ├──  MODULO 1
 │   ├── Disciplina Cybersecurity Essentials
 │   │   ├── Aula 1 Conceitos de Segurança Cibernética
