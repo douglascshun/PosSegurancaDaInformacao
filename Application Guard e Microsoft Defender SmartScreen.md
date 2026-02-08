@@ -7,3 +7,4 @@ A extensão ajuda Application Guard proteger os usuários que executam outros na
 
 O Microsoft Defener Application Guard Extension defende dispositivos em sua organização contra ataques avançados, redirecionando sites não confiáveis para uma versão isolada do Microsoft Edge.
 
+Se um site não confiável for mal -intencionado, ele permanecerá dentro do contêiner seguro do Application Guard, mantendo o dispositivo protegido.
