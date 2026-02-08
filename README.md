@@ -17,10 +17,11 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 📁 pós-seguranca-informacao/
 ├── README.md                  ← você está aqui
 ├── modulo-01/
-│   ├── disciplina-nome/
+│   ├── ││/
 │   │   ├── aula-01-titulo.md
 │   │   ├── aula-02-titulo.md
 │   │   └── ...
 │   └── disciplina-outra/
 └── modulo-02/
-    └── ...
+│   └── ...
+└── modulo-02/
