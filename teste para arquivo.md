@@ -1,7 +1,8 @@
 ## Estrutura das pastas
 
 
-📁 <details>
+<<details>
+📁 
 </summary> <b>pós-seguranca-informacao/</b></summary>
 ├── README.md                  ← você está aqui
 ├── MODULO 1
@@ -207,4 +208,4 @@
 │       │   ├── Saiba mais.md
 │       │   └── Tipos de analisadores de protocolo.md
 │       └── Networking Essentials.md
-</details>
+</details>>
