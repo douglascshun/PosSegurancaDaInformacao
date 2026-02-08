@@ -51,4 +51,8 @@ Nele os autores defendem que uma solução deve focar em proteger recursos como 
 ## Simbologia Zero Tust:
 ![[Simbologia Zero Trust.png]]
 
-# Como iniciar rumo ao Zero Trust usando o 
+# Como iniciar rumo ao Zero Trust usando o Microsoft 365?
+
+- `MFA` - Duplo fator de autenticação.
+
+- `Acesso Condicional` - O c
