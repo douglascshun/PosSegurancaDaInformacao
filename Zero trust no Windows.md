@@ -19,3 +19,4 @@ Entendendo as aplicações.
 
 ## 6 - Windows Defender Credential Guard
 Entendendo as aplicações.
+
