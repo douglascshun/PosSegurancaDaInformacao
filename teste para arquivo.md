@@ -1,4 +1,5 @@
 <details> <summary><b>Clique para visualizar a árvore completa de diretórios</b></summary>
+```text
 📁 pós-seguranca-informacao/
 ├── README.md                  ← você está aqui
 ├── MODULO 1
@@ -204,5 +205,5 @@
 │       │   ├── Saiba mais.md
 │       │   └── Tipos de analisadores de protocolo.md
 │       └── Networking Essentials.md
-
+```
 </details>
