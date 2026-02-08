@@ -6,6 +6,7 @@
 <br>
 
 ├── README.md                  ← você está aqui
+ |
 <br>
 	<details>
 	<summary> <b>├── MODULO 1</b></summary>
