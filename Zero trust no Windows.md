@@ -29,4 +29,6 @@ Entendendo as aplicações.
 
 Não confie no usuário nem no sistema, sempre implemente medidas de segurança robustas.
 
-Uma solução baseada em Zero TRust assume que não pe posspivel garantir que um usuário 
+Uma solução baseada em Zero Trust assume que não é possessível garantir que um usuário é confiável usando única e exclusivamente sua localização (perímetro).
+
+É reciso garantir formas de verificação explicita de que o usu
