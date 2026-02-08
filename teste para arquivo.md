@@ -8,7 +8,7 @@
 &nbsp;&nbsp;<details>
 &nbsp;&nbsp;<summary><b>├── MODULO 1</b></summary>
 <br>
-&nbsp;&nbsp;│&nbsp;&nbsp;<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 &nbsp;&nbsp;│&nbsp;&nbsp;<summary><b>&nbsp;&nbsp;├── Disciplina Cybersecurity Essentials</b></summary>
 <br>
 &nbsp;&nbsp;│&nbsp;&nbsp;│&nbsp;&nbsp;<details>
