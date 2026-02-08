@@ -17,8 +17,9 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 📁 pós-seguranca-informacao/
 ├── README.md                  ← você está aqui
 ├── modulo-01/
-│   ├── ││/
-│   │   ├── aula-01-titulo.md
+│   ├── Disciplina Cybersecurity Essentials/
+│   │   ├── Aula 1 Conceitos de Segurança Cibernética
+│   │ │   │ └── ...
 │   │   ├── aula-02-titulo.md
 │   │   └── ...
 │   └── disciplina-outra/
