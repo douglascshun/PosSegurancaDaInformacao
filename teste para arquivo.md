@@ -7,9 +7,9 @@
 
 ├── README.md                  ← você está aqui
 <br>
-<details>
-<summary> <b>├── MODULO 1</b></summary>
-</br>
+	<details>
+	<summary> <b>├── MODULO 1</b></summary>
+	<br>
 │   ├── Disciplina Cybersecurity Essentials
 │   │   ├── Aula 1 Conceitos de Segurança Cibernética
 │   │   │   ├── Aula 1 Conceitos de Segurança Cibernética - Imagens
@@ -212,4 +212,5 @@
 │       │   ├── Saiba mais.md
 │       │   └── Tipos de analisadores de protocolo.md
 │       └── Networking Essentials.md
+</details>
 </details>
