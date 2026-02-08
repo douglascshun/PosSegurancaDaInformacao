@@ -1,8 +1,7 @@
 ## Estrutura das pastas
 
 
-📁 <details
-</summary> <b>pós-seguranca-informacao/</b></summary>
+📁 <details></summary> <b>pós-seguranca-informacao/</b></summary></details>
 ├── README.md                  ← você está aqui
 ├── MODULO 1
 │   ├── Disciplina Cybersecurity Essentials
@@ -207,4 +206,3 @@
 │       │   ├── Saiba mais.md
 │       │   └── Tipos de analisadores de protocolo.md
 │       └── Networking Essentials.md
->
