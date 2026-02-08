@@ -19,8 +19,11 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 ├── modulo-01/
 │   ├── Disciplina Cybersecurity Essentials/
 │   │   ├── Aula 1 Conceitos de Segurança Cibernética
-│   │   │   └── 
-│   │   │   └──
+│   │   │   └── Aula 1 Conceitos de Segurança Cibernética
+│   │   │   └── Definição de Autenticidade
+│   │   │   └── Definição de Confidencialidade
+│   │   │   └── Definição de Disponibilidade
+│   │   │   └── Definição de Integridade
 │   │   │   └──
 │   │   ├── aula-02-titulo.md
 │   │   └── ...
