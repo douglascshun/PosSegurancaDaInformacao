@@ -11,7 +11,7 @@ Aqui organizo todo o conteúdo aprendido ao longo do curso:
 
 O objetivo é criar um material de consulta rápido, consolidar o conhecimento e facilitar revisões para provas, trabalhos e aplicação no dia a dia profissional.
 
-## Estrutura da pasta
+## Estrutura das pastas
 
 ```text
 📁 pós-seguranca-informacao/
@@ -30,7 +30,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 │   │   │   └── Intercepção de mensagem confidencial
 │   │   │   └── Sucesso de envio de mensagem confidencial
 │   │   │   └── Tentativa de Envio de mensagem Confidencial
-│   │   │   └── Definição de Integridade
+│   │   │   └── Vulnerabilidade para obtenção de informações confidenciais
 │   │   │   └── Definição de Irretratabilidade
 │   │   ├── aula-02-titulo.md
 │   │   └── ...
