@@ -24,7 +24,8 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 │   │   │   └── Definição de Confidencialidade
 │   │   │   └── Definição de Disponibilidade
 │   │   │   └── Definição de Integridade
-│   │   │   └──
+│   │   │   └── Definição de Irretratabilidade
+
 │   │   ├── aula-02-titulo.md
 │   │   └── ...
 │   └── disciplina-outra/

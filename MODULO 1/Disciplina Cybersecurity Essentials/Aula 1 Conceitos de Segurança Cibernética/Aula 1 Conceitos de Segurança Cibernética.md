@@ -29,7 +29,7 @@ A primeira definição importante é a confidencialidade. Para entender este con
 
 Figura 1 – Cenário hipotético com Alice, Bob e Carlos
 
-![[exemplo de Confidencialidade.png]]
+![[Exemplo de Confidencialidade.png]]
 
 Fonte: Autoria própria, 2022.
 
