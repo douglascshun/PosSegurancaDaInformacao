@@ -11,8 +11,8 @@
 	<summary> <b>├── MODULO 1</b></summary>
 	<br>
 		<details>
-<summary><b>│   ├── Disciplina Cybersecurity Essentials</b> </summary>
-
+		<summary><b>│   ├── Disciplina Cybersecurity Essentials</b> </summary>
+		<br>
 │   │   ├── Aula 1 Conceitos de Segurança Cibernética
 │   │   │   ├── Aula 1 Conceitos de Segurança Cibernética - Imagens
 │   │   │   │   ├── Exemplo de Confidencialidade.png
@@ -214,5 +214,6 @@
 │       │   ├── Saiba mais.md
 │       │   └── Tipos de analisadores de protocolo.md
 │       └── Networking Essentials.md
+</details>
 </details>
 </details>
