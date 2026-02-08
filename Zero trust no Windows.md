@@ -47,3 +47,4 @@ Nele os autores defendem que uma solução deve focar em proteger recursos como 
 
 - `Assuma que brechas existe`: Garanta, sempre que possível criptografia de ponta ponta e recursos para evitar movimentação lateral.
 
+![[Simbologia Zero Trust.png]]
