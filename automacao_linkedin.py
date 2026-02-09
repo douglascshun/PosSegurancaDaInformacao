@@ -12,8 +12,11 @@ if not GEMINI_KEY or not LINKEDIN_TOKEN:
     print(f"❌ Erro: Chaves faltando! Gemini: {'OK' if GEMINI_KEY else 'Vazia'}, LinkedIn: {'OK' if LINKEDIN_TOKEN else 'Vazia'}")
     exit(1)
 
-# 2. INICIALIZA O CLIENTE GEMINI (Apenas uma vez aqui no topo)
-client = genai.Client(api_key=GEMINI_KEY)
+# 2. INICIALIZA O CLIENTE GEMINI (Forçando a versão estável da API)
+client = genai.Client(
+    api_key=GEMINI_KEY,
+    http_options={'api_version': 'v1'}
+)
 
 def get_my_urn():
     """Busca o ID (sub) do usuário usando o endpoint OpenID Connect (OIDC)"""
