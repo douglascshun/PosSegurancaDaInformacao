@@ -26,8 +26,8 @@ jobs:
 
       # ATUALIZADO: com o pipe | para melhor formatação
       - name: Instalar dependências
-        run: |
-          pip install -U google-genai requests
+        run: 
+          pip install -U google-generativeai requests
 
       - name: Verificação de Segredos (Debug)
         run: |
