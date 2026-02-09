@@ -3,7 +3,6 @@ import requests
 from google import genai
 
 # 1. CONFIGURAÇÃO DE CHAVES
-# O Client() buscará automaticamente a variável de ambiente GEMINI_API_KEY
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 LINKEDIN_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
 
