@@ -1,17 +1,18 @@
 import os
 import requests
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 # 1. CAPTURA AS CHAVES
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 LINKEDIN_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
 
-print("--- Verificação de Segurança ---")
-
-# 2. INICIALIZAÇÃO ROBUSTA
-genai.configure(api_key=GEMINI_KEY)
-# Usando o modelo sem sufixos, que é o mais resiliente no SDK estável
-model = genai.GenerativeModel('gemini-1.5-flash')
+# 2. INICIALIZA O CLIENTE FORÇANDO A VERSÃO V1 (ESTÁVEL)
+# Isso evita o erro 404 da v1beta que você recebeu
+client = genai.Client(
+    api_key=GEMINI_KEY,
+    http_options=types.HttpOptions(api_version='v1')
+)
 
 def get_my_urn():
     url = "https://api.linkedin.com/v2/userinfo"
@@ -24,9 +25,10 @@ def get_my_urn():
     return None
 
 def carregar_proximo_arquivo():
-    if not os.path.exists("post_index.txt"):
-        with open("post_index.txt", "w") as f: f.write("0")
-    with open("post_index.txt", "r") as f:
+    index_file = "post_index.txt"
+    if not os.path.exists(index_file):
+        with open(index_file, "w") as f: f.write("0")
+    with open(index_file, "r") as f:
         index = int(f.read().strip() or 0)
     
     arquivos_md = sorted([
@@ -56,32 +58,30 @@ def postar_no_linkedin(urn, texto):
         },
         "visibility": {"com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"}
     }
-    res = requests.post(url, headers=headers, json=payload)
-    return res.status_code, res.text
+    return requests.post(url, headers=headers, json=payload)
 
 # --- Fluxo Principal ---
 my_urn = get_my_urn()
 if my_urn:
-    print(f"✅ URN obtida com sucesso: {my_urn}")
     arquivo, idx = carregar_proximo_arquivo()
-    
     if arquivo:
         print(f"📖 Lendo: {arquivo}")
         with open(arquivo, "r", encoding="utf-8") as f:
             conteudo = f.read()
         
-        prompt = f"Escreva um post curto para LinkedIn sobre: {conteudo}. Use emojis e hashtags."
-        
         try:
-            # A mágica está aqui: o SDK antigo gerencia melhor o fallback de DNS
-            response = model.generate_content(prompt)
-            texto_gerado = response.text
+            # 3. GERAÇÃO USANDO O SDK NOVO
+            response = client.models.generate_content(
+                model='gemini-1.5-flash',
+                contents=f"Crie um post de LinkedIn sobre: {conteudo}"
+            )
             
-            status, res_text = postar_no_linkedin(my_urn, texto_gerado)
-            if status == 201:
-                print("🚀 POST PUBLICADO!")
-                with open("post_index.txt", "w") as f: f.write(str(idx + 1))
-            else:
-                print(f"❌ Erro LinkedIn: {status}")
+            if response.text:
+                res_post = postar_no_linkedin(my_urn, response.text)
+                if res_post.status_code == 201:
+                    print("🚀 SUCESSO!")
+                    with open("post_index.txt", "w") as f: f.write(str(idx + 1))
+                else:
+                    print(f"❌ Erro LinkedIn: {res_post.status_code}")
         except Exception as e:
             print(f"❌ Erro Gemini: {e}")
