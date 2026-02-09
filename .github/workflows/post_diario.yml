@@ -24,7 +24,8 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install -U google-genai requests
+          pip uninstall google-genai -y
+          pip install -U google-generativeai requests
 
       - name: Verificação de Segredos (Debug)
         run: |
