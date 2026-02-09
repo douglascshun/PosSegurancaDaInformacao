@@ -1,7 +1,7 @@
 import os
 import requests
 import json
-from google import genai
+import google.generativeai as genai  # Biblioteca estável
 
 # 1. CAPTURA AS CHAVES DO GITHUB ACTIONS
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
@@ -12,8 +12,9 @@ if not GEMINI_KEY or not LINKEDIN_TOKEN:
     print(f"❌ Erro: Chaves faltando! Gemini: {'OK' if GEMINI_KEY else 'Vazia'}, LinkedIn: {'OK' if LINKEDIN_TOKEN else 'Vazia'}")
     exit(1)
 
-# 2. INICIALIZA O CLIENTE GEMINI (Forçando a versão estável da API)
-client = genai.Client(api_key=GEMINI_KEY)
+# 2. INICIALIZA O GEMINI (Método Robusto)
+genai.configure(api_key=GEMINI_KEY)
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 def get_my_urn():
     """Busca o ID (sub) do usuário usando o endpoint OpenID Connect (OIDC)"""
@@ -36,7 +37,6 @@ def carregar_proximo_arquivo():
         conteudo_index = f.read().strip()
         index = int(conteudo_index) if conteudo_index else 0
     
-    # Busca arquivos .md ignorando pastas ocultas e README
     arquivos_md = sorted([
         os.path.join(r, f) for r, d, fs in os.walk(".") 
         for f in fs if f.endswith(".md") and "README" not in f.upper() and ".github" not in r
@@ -46,7 +46,7 @@ def carregar_proximo_arquivo():
         return None, 0
     
     if index >= len(arquivos_md):
-        index = 0  # Reinicia o ciclo se acabar os arquivos
+        index = 0  
         
     return arquivos_md[index], index
 
@@ -85,12 +85,8 @@ if my_urn:
         prompt = f"Crie um post para LinkedIn sobre este tema de Segurança da Informação: {conteudo}. Use emojis e hashtags."
         
         try:
-            # 3. CHAMADA DO MODELO (Sem o prefixo 'models/')
-            # O SDK google-genai já sabe lidar com a rota v1 estável
-            response = client.models.generate_content(
-                model="gemini-1.5-flash", 
-                contents=prompt
-            )
+            # 3. GERAÇÃO DE CONTEÚDO (Sintaxe da biblioteca estável)
+            response = model.generate_content(prompt)
             texto_gerado = response.text
             
             print(f"🤖 Conteúdo gerado pela IA com sucesso!")
@@ -98,12 +94,10 @@ if my_urn:
             status, response_text = postar_no_linkedin(my_urn, texto_gerado)
             if status == 201:
                 print("🚀 POST PUBLICADO NO LINKEDIN!")
-                # Atualiza o índice para o próximo arquivo
                 with open("post_index.txt", "w") as f: f.write(str(idx_atual + 1))
             else:
                 print(f"❌ Erro na postagem LinkedIn: {status} - {response_text}")
         except Exception as e:
-            # Captura erros detalhados da API
             print(f"❌ Erro ao gerar conteúdo com Gemini: {e}")
     else:
         print("📁 Nenhum arquivo .md encontrado para postagem.")
