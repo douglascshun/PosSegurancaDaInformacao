@@ -12,16 +12,22 @@ jobs:
       contents: write
 
     steps:
+      # SUBSTITUÍDO: de v3 para v4
       - name: Checkout do código
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
+      # SUBSTITUÍDO: de v4 para v5
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
+      # ATUALIZADO: com o pipe | para melhor formatação
       - name: Instalar dependências
-        run: pip install -U google-genai requests
+        run: |
+          pip install -U google-genai requests
 
       - name: Verificação de Segredos (Debug)
         run: |
