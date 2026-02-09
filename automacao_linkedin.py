@@ -13,10 +13,7 @@ if not GEMINI_KEY or not LINKEDIN_TOKEN:
     exit(1)
 
 # 2. INICIALIZA O CLIENTE GEMINI (Forçando a versão estável da API)
-client = genai.Client(
-    api_key=GEMINI_KEY,
-    http_options={'api_version': 'v1'}
-)
+client = genai.Client(api_key=GEMINI_KEY)
 
 def get_my_urn():
     """Busca o ID (sub) do usuário usando o endpoint OpenID Connect (OIDC)"""
