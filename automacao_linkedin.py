@@ -3,7 +3,7 @@ import requests
 import json
 from google import genai
 
-# CAPTURA AS CHAVES DO GITHUB ACTIONS
+# 1. CAPTURA AS CHAVES DO GITHUB ACTIONS
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 LINKEDIN_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
 
@@ -12,8 +12,7 @@ if not GEMINI_KEY or not LINKEDIN_TOKEN:
     print(f"❌ Erro: Chaves faltando! Gemini: {'OK' if GEMINI_KEY else 'Vazia'}, LinkedIn: {'OK' if LINKEDIN_TOKEN else 'Vazia'}")
     exit(1)
 
-
-# Inicializa o Cliente Gemini
+# 2. INICIALIZA O CLIENTE GEMINI (Apenas uma vez aqui no topo)
 client = genai.Client(api_key=GEMINI_KEY)
 
 def get_my_urn():
@@ -86,9 +85,15 @@ if my_urn:
         prompt = f"Crie um post para LinkedIn sobre este tema de Segurança da Informação: {conteudo}. Use emojis e hashtags."
         
         try:
-            # Usando 1.5-flash para evitar erros de cota
-            response = client.models.generate_content(model="gemini-1.5-flash", contents=prompt)
+            # 3. CHAMADA DO MODELO (Sem o prefixo 'models/')
+            # O SDK google-genai já sabe lidar com a rota v1 estável
+            response = client.models.generate_content(
+                model="gemini-1.5-flash", 
+                contents=prompt
+            )
             texto_gerado = response.text
+            
+            print(f"🤖 Conteúdo gerado pela IA com sucesso!")
             
             status, response_text = postar_no_linkedin(my_urn, texto_gerado)
             if status == 201:
@@ -98,6 +103,7 @@ if my_urn:
             else:
                 print(f"❌ Erro na postagem LinkedIn: {status} - {response_text}")
         except Exception as e:
+            # Captura erros detalhados da API
             print(f"❌ Erro ao gerar conteúdo com Gemini: {e}")
     else:
         print("📁 Nenhum arquivo .md encontrado para postagem.")
