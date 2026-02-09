@@ -1,15 +1,15 @@
 name: Post Diario LinkedIn
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Permite rodar manualmente
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 12 * * *' # Roda todo dia ao meio-dia UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Essencial para salvar o progresso do índice
 
     steps:
       - name: Checkout do código
@@ -25,14 +25,15 @@ jobs:
 
       - name: Rodar Script de Postagem
         env:
+          # Mapeando os segredos do GitHub para o ambiente do Python
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
         run: python automacao_linkedin.py
 
-      - name: Salvar progresso
+      - name: Salvar progresso do índice
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
           git add post_index.txt
-          git commit -m "Atualiza índice [skip ci]" || echo "Sem mudanças"
+          git commit -m "Atualiza índice de postagem [skip ci]" || echo "Sem mudanças"
           git push
