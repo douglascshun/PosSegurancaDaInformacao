@@ -75,7 +75,7 @@ if my_urn:
         prompt = f"Crie um post para LinkedIn sobre este tema de Segurança da Informação: {conteudo}. Use emojis e hashtags."
         
         try:
-            response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
+            response = client.models.generate_content(model="gemini-1.5-flash", contents=prompt)
             texto_gerado = response.text
             
             status, response_text = postar_no_linkedin(my_urn, texto_gerado)
