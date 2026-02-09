@@ -1,4 +1,4 @@
-name: Post Diário LinkedIn IA
+name: Post Diário LinkedIn IA 1
 on:
   schedule:
     - cron: '0 12 * * *' # Roda todo dia às 09:00 Brasília
