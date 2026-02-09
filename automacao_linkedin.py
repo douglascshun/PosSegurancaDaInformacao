@@ -1,5 +1,5 @@
 import os
-import google.generativeai as genai
+from google import genai
 import requests
 import json
 
@@ -8,17 +8,14 @@ GEMINI_KEY = os.environ.get("GEMINI_API_KEY")
 LINKEDIN_TOKEN = os.environ.get("LINKEDIN_ACCESS_TOKEN")
 
 print("--- Verificação de Segurança ---")
-if not GEMINI_KEY:
-    print("❌ Erro: Chave GEMINI_API_KEY não encontrada!")
-if not LINKEDIN_TOKEN:
-    print("❌ Erro: Chave LINKEDIN_ACCESS_TOKEN não encontrada!")
+if not GEMINI_KEY or not LINKEDIN_TOKEN:
+    print(f"❌ Erro: Chaves faltando! Gemini: {'OK' if GEMINI_KEY else 'FALTA'}, LinkedIn: {'OK' if LINKEDIN_TOKEN else 'FALTA'}")
+    exit(1)
 
-if GEMINI_KEY and LINKEDIN_TOKEN:
-    print("✅ Chaves carregadas com sucesso!")
-    genai.configure(api_key=GEMINI_KEY)
-    model = genai.GenerativeModel('gemini-pro')
-else:
-    exit(1) # Para a execução se não houver chaves
+print("✅ Chaves detectadas no ambiente!")
+
+# Configuração do novo Cliente Google GenAI
+client = genai.Client(api_key=GEMINI_KEY)
 
 def get_my_urn():
     url = "https://api.linkedin.com/v2/me"
@@ -36,13 +33,12 @@ def carregar_proximo_arquivo():
     with open("post_index.txt", "r") as f:
         index = int(f.read().strip())
     
-    arquivos_md = []
-    for root, dirs, files in os.walk("."):
-        for file in files:
-            if file.endswith(".md") and "README" not in file.upper() and ".github" not in root:
-                arquivos_md.append(os.path.join(root, file))
+    arquivos_md = sorted([os.path.join(r, f) for r, d, fs in os.walk(".") 
+                         for f in fs if f.endswith(".md") and "README" not in f.upper() and ".github" not in r])
     
-    arquivos_md.sort()
+    if not arquivos_md:
+        return None, 0
+    
     if index >= len(arquivos_md):
         index = 0
     return arquivos_md[index], index
@@ -72,20 +68,25 @@ def postar_no_linkedin(urn, texto):
 my_id = get_my_urn()
 if my_id:
     arquivo_da_vez, idx_atual = carregar_proximo_arquivo()
+    if not arquivo_da_vez:
+        print("❌ Nenhum arquivo .md encontrado para postar.")
+        exit(0)
+
     print(f"Processando: {arquivo_da_vez}")
-    
     with open(arquivo_da_vez, "r", encoding="utf-8") as f:
         conteudo = f.read()
     
-    prompt = f"Atue como especialista em Segurança da Informação. Crie um post educativo para LinkedIn com emojis e hashtags baseado nisto: {conteudo}"
+    prompt = f"Crie um post educativo para LinkedIn com emojis e hashtags baseado nisto: {conteudo}"
     
     try:
-        response = model.generate_content(prompt)
+        # Chamada usando a nova biblioteca
+        response = client.models.generate_content(model="gemini-2.0-flash", contents=prompt)
         status = postar_no_linkedin(my_id, response.text)
+        
         if status == 201:
-            print("✅ Post publicado!")
+            print("✅ Post publicado com sucesso!")
             with open("post_index.txt", "w") as f: f.write(str(idx_atual + 1))
         else:
-            print(f"❌ Erro LinkedIn: {status}")
+            print(f"❌ Erro LinkedIn (Status {status})")
     except Exception as e:
-        print(f"❌ Erro IA: {e}")
+        print(f"❌ Erro na IA: {e}")
