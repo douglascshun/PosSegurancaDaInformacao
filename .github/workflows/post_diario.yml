@@ -23,9 +23,13 @@ jobs:
       - name: Instalar dependências
         run: pip install google-generativeai requests
 
+      - name: Verificação de Segredos (Debug)
+        run: |
+          if [ -z "${{ secrets.GEMINI_API_KEY }}" ]; then echo "❌ GEMINI_API_KEY está vazia nos Secrets"; else echo "✅ GEMINI_API_KEY detectada"; fi
+          if [ -z "${{ secrets.LINKEDIN_ACCESS_TOKEN }}" ]; then echo "❌ LINKEDIN_ACCESS_TOKEN está vazia nos Secrets"; else echo "✅ LINKEDIN_ACCESS_TOKEN detectada"; fi
+
       - name: Rodar Script de Postagem
         env:
-          # É ESTA PARTE QUE O SEU GITHUB ESTÁ IGNORANDO:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
         run: python automacao_linkedin.py
