@@ -1,15 +1,15 @@
-name: Automação LinkedIn Post
+name: Post Diario LinkedIn
 
 on:
-  workflow_dispatch: # Permite que você clique num botão para testar
+  workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *' # Roda automaticamente todos os dias
+    - cron: '0 12 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essencial para salvar o progresso no post_index.txt
+      contents: write
 
     steps:
       - name: Checkout do código
@@ -25,15 +25,14 @@ jobs:
 
       - name: Rodar Script de Postagem
         env:
-          # ESTA É A PARTE QUE ESTÁ A FALTAR NO SEU LOG:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
         run: python automacao_linkedin.py
 
-      - name: Git Auto-commit (Salvar progresso)
+      - name: Salvar progresso
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add post_index.txt
-          git commit -m "Atualizando índice de postagem [skip ci]" || echo "Sem alterações"
+          git commit -m "Atualiza índice [skip ci]" || echo "Sem mudanças"
           git push
