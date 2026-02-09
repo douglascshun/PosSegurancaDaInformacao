@@ -3,14 +3,15 @@ import requests
 import json
 from google import genai
 
-# 1. Configurações das Chaves (Puxando do GitHub Action)
-GEMINI_KEY = os.environ.get("GEMINI_API_KEY")
-LINKEDIN_TOKEN = os.environ.get("LINKEDIN_ACCESS_TOKEN")
+# CAPTURA AS CHAVES DO GITHUB ACTIONS
+GEMINI_KEY = os.getenv("GEMINI_API_KEY")
+LINKEDIN_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
 
 print("--- Verificação de Segurança ---")
 if not GEMINI_KEY or not LINKEDIN_TOKEN:
-    print("❌ Erro: Chaves faltando!")
+    print(f"❌ Erro: Chaves faltando! Gemini: {'OK' if GEMINI_KEY else 'Vazia'}, LinkedIn: {'OK' if LINKEDIN_TOKEN else 'Vazia'}")
     exit(1)
+
 
 # Inicializa o Cliente Gemini
 client = genai.Client(api_key=GEMINI_KEY)
