@@ -1,7 +1,7 @@
 import os
 import requests
 import json
-import google.generativeai as genai  # Biblioteca estável
+from google import genai  # Novo SDK oficial
 
 # 1. CAPTURA AS CHAVES DO GITHUB ACTIONS
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
@@ -12,9 +12,9 @@ if not GEMINI_KEY or not LINKEDIN_TOKEN:
     print(f"❌ Erro: Chaves faltando! Gemini: {'OK' if GEMINI_KEY else 'Vazia'}, LinkedIn: {'OK' if LINKEDIN_TOKEN else 'Vazia'}")
     exit(1)
 
-# 2. INICIALIZA O GEMINI (Método Robusto)
-genai.configure(api_key=GEMINI_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+# 2. INICIALIZA O CLIENTE GEMINI
+# Deixamos o SDK gerenciar a versão da API, mas forçamos o modelo estável
+client = genai.Client(api_key=GEMINI_KEY)
 
 def get_my_urn():
     """Busca o ID (sub) do usuário usando o endpoint OpenID Connect (OIDC)"""
@@ -37,6 +37,7 @@ def carregar_proximo_arquivo():
         conteudo_index = f.read().strip()
         index = int(conteudo_index) if conteudo_index else 0
     
+    # Busca arquivos .md ignorando pastas ocultas e README
     arquivos_md = sorted([
         os.path.join(r, f) for r, d, fs in os.walk(".") 
         for f in fs if f.endswith(".md") and "README" not in f.upper() and ".github" not in r
@@ -85,8 +86,12 @@ if my_urn:
         prompt = f"Crie um post para LinkedIn sobre este tema de Segurança da Informação: {conteudo}. Use emojis e hashtags."
         
         try:
-            # 3. GERAÇÃO DE CONTEÚDO (Sintaxe da biblioteca estável)
-            response = model.generate_content(prompt)
+            # 3. CHAMADA DO MODELO
+            # Usar o sufixo -002 força o roteamento para o modelo estável físico, evitando o 404
+            response = client.models.generate_content(
+                model="gemini-1.5-flash-002", 
+                contents=prompt
+            )
             texto_gerado = response.text
             
             print(f"🤖 Conteúdo gerado pela IA com sucesso!")
@@ -103,3 +108,4 @@ if my_urn:
         print("📁 Nenhum arquivo .md encontrado para postagem.")
 else:
     print("❌ Não foi possível obter a URN do perfil.")
+    
