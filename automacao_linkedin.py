@@ -7,6 +7,16 @@ import json
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY")
 LINKEDIN_TOKEN = os.environ.get("LINKEDIN_ACCESS_TOKEN")
 
+# LOG DE DIAGNÓSTICO
+print("--- Verificação de Segurança ---")
+if not GEMINI_KEY:
+    print("❌ Erro: Chave GEMINI_API_KEY não encontrada no ambiente!")
+if not LINKEDIN_TOKEN:
+    print("❌ Erro: Chave LINKEDIN_ACCESS_TOKEN não encontrada no ambiente!")
+if GEMINI_KEY and LINKEDIN_TOKEN:
+    print("✅ Chaves carregadas com sucesso!")
+print("--------------------------------")
+
 # Configura a IA
 genai.configure(api_key=GEMINI_KEY)
 model = genai.GenerativeModel('gemini-pro')
