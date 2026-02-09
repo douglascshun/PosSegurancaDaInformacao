@@ -23,9 +23,7 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependências
-        run: |
-          pip uninstall google-genai -y
-          pip install -U google-generativeai requests
+        run: pip install -U google-genai requests
 
       - name: Verificação de Segredos (Debug)
         run: |
