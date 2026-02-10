@@ -6,4 +6,6 @@
 
 O iptables não é essencialmente um firewall, mas um programa que, por meio de seus módulos, possibilita ao usuário configurar o kernel Linux e o conjunto de regras do filtro de pacotes - função típica do firewall.
 
-Na prática, o administrador de sistemas tem de gerenciar quatro tabelas (Filter, NAT, Mangle e Secu)
+Na prática, o administrador de sistemas tem de gerenciar quatro tabelas (Filter, NAT, Mangle e Security) com funções distintas e, com isso, aplica as regras desejadas.
+
+Como a interação ocorre quase diretamente com o Kernel, praticamente não há limites quanto à aplicação de regras via ipatables.
