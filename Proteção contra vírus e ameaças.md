@@ -12,4 +12,5 @@ Resposta direta: SIM!
 - Evitar se conectar em redes desconhecidas
 - Agir na defensiva
 - Escanear a maquina
-- 
+- Fazer backup's regularmente 
+
