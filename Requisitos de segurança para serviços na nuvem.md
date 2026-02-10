@@ -53,4 +53,6 @@ Quando uma violação de política é detectada, o DLP pode tomar ações autom�
 
 - `Inteligência, monitoramento e prevenção de ameaças`: Monitore as informações, tenha formas de conseguir acompanha-las, verifica-las, pode ser por meio de equipe interna ou externa.
   
-  - `Criptogra
+  - `Criptografia`: Tenha sempre os dados e informações blindados para que não vazem.
+
+- `Teste de Vulnerabilidade`: Sempre que 
