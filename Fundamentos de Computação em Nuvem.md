@@ -33,7 +33,7 @@ Com a maior exposição de indivíduos à internet e o frenético consumo de ser
 
 Essa infraestrutura disponibilizada normalmente por um data center e os servidores são virtuais, onde o cliente paga pelo seu uso.
 
-Exemplos: estrutura completa com servidores web, aplicações de dados, servidores de e-mail todos armaezando
+Exemplo: estrutura completa com servidores web, aplicações de dados, servidores de e-mail todos armazenados e/ou processados na nuvem.
 
 ![[Exemplo de IaaS.png]]
 
@@ -42,4 +42,4 @@ Exemplos: estrutura completa com servidores web, aplicações de dados, servidor
 
 `Platform as a Service ou PaaS`: é o modelo disponibilizado pelo fornecedor que apresenta uma plataforma para desenvolvimento de aplicações oferecidas na nuvem, proporcionando todo um sistema de infraestrutura, armazenamento e comunicação.
 
-Exemplo: 
+Exemplo: tenho um servidor que executa vários processos dentro da empresa, porém contrato 
