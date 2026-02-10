@@ -17,3 +17,5 @@ Proteger a nuvem começa com entender o que exatamente é protegido, além dos a
 - `Servidores de dados`: hardware e software de computação de rede essencial
 
 - `Estruturas de virtualização de computador`: Software de máquina virtual, máquinas de host e máquinas de convidados.
+
+- `Sistemas Operacionais (OS)`: Software que oferece suporte para todas as funções do com
