@@ -51,4 +51,6 @@ Quando uma violação de política é detectada, o DLP pode tomar ações autom�
 
 - `Segurança física`: Só permita a entrada de funcionários na empresa que estiverem com seus crachás devidamente apresentados e verificados.
 
-- `Inteligência, monitoramento e prevenção de ameaças`: Monitore as informações, tenh
+- `Inteligência, monitoramento e prevenção de ameaças`: Monitore as informações, tenha formas de conseguir acompanha-las, verifica-las, pode ser por meio de equipe interna ou externa.
+  
+  - `Criptogra
