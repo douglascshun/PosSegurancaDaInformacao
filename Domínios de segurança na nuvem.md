@@ -16,6 +16,10 @@
 
 `Gerenciamento de risco`: Ter alguém específico para buscar situações que podem expor riscos a empresa, como testes em sites, aplicações, rede..
 
-# 3° pilar
+# 3° pilar:
 
-`Proteção de dados:` Como posso proteger minhas informações? Criptografia, backup
+`Proteção de dados:` Como posso proteger minhas informações? Criptografia, backup..
+
+# Topo da Pirâmide
+
+`Coplience`
