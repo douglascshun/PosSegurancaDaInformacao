@@ -43,3 +43,9 @@ Quando uma violação de política é detectada, o DLP pode tomar ações autom�
 - **Criptografar:** Permite o envio, mas protege o arquivo com senha automaticamente.
 
 - **Notificar:** Envia um alerta para o administrador de TI e avisa o usuário sobre a política da empresa.
+
+
+# Recomendações de Segurança
+
+- `Gestão de identidade e acesso`
+- Segurança 
