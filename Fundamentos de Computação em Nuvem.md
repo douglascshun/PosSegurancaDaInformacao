@@ -52,3 +52,5 @@ Exemplo: tenho um servidor que executa vários processos dentro da empresa, por�
 `Software as a Service ou SaaS`: é um modelo onde as aplicações são disponibilizadas na nuvem, com objetivo de se compartilhar este serviço a diversos usuários, neste cenário é comum que estes serviços sejam acessados via navegador (browser) ou por um aplicativo disponibilizado pelo provedor.
 
 Exemplo: Netflix, é uma aplicação onde os usuários pagam mensalmente para acessar essa navegação.
+
+![[Exemplo de SaaS.png]]
