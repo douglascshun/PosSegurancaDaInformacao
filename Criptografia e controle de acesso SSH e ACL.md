@@ -2,4 +2,4 @@
 
 O SSH é protocolo seguro de acesso as maquinas, servidores entre outros dispositivos conectados a rede.
 
-O SSH foi projetado com segurança em primeiro lugar, isto é, com vários mecanismos para garantir a integridade, confidencialidade e autent
+O SSH foi projetado com segurança em primeiro lugar, isto é, com vários mecanismos para garantir a integridade, confidencialidade e autenticidade dos usuários e dados entre duas maquinas. Esse protocolo roda na porta 1157.
