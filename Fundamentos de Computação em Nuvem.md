@@ -24,3 +24,4 @@ Como utilizar a segurança na nuvem?
 
 Com a maior exposição de indivíduos à internet e o frenético consumo de serviços dispostos neste ambiente por empresas, surgiu uma modalidade de serviço que hoje está em forte crescente que são denominados `serviços de computação em nuvem`.
 
+ 
