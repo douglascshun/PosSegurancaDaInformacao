@@ -8,3 +8,4 @@
 ![[Distros linux 1.png]]
 
 
+`Uma das vantagens das distribuíções Linux é a sua`
