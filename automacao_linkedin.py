@@ -80,6 +80,7 @@ if my_urn:
     "\n5. EMOJIS: Use moderadamente para pontuar os tópicos."
     "\n6. HASHTAGS: Adicione 3 hashtags relevantes ao final."
     "\n\nRestrição: O texto deve ter no máximo 1300 caracteres."
+    )
 )
             
             if response.text:
