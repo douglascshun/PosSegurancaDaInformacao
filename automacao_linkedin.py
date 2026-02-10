@@ -68,8 +68,19 @@ if my_urn:
             # 3. SOLICITAÇÃO AO GEMINI (MODELO 3 FLASH PREVIEW)
             response = client.models.generate_content(
                 model="gemini-3-flash-preview", 
-                contents=f"Resuma e crie um post para LinkedIn sobre este conteúdo: {conteudo}. Use emojis."
-            )
+                contents=(
+    f"Atue como um Especialista em Marketing de Conteúdo e LinkedIn Creator, e Segurança da Informação "
+    f"Seu objetivo é transformar o conteúdo técnico abaixo em um post de alto impacto para o LinkedIn. "
+    f"\n\nCONTEÚDO BASE: {conteudo} \n\n"
+    "DIRETRIZES DE FORMATAÇÃO:"
+    "\n1. HOOK: Comece com uma frase de impacto (gancho) que gere curiosidade ou ataque uma dor comum."
+    "\n2. CORPO: Use bullet points para facilitar a leitura (escaneabilidade)."
+    "\n3. TOM: Profissional, porém leve e autêntico (evite termos corporativos excessivamente genéricos)."
+    "\n4. CTA: Termine com uma pergunta para incentivar comentários."
+    "\n5. EMOJIS: Use moderadamente para pontuar os tópicos."
+    "\n6. HASHTAGS: Adicione 3 hashtags relevantes ao final."
+    "\n\nRestrição: O texto deve ter no máximo 1300 caracteres."
+)
             
             if response.text:
                 res_post = postar_no_linkedin(my_urn, response.text)
