@@ -13,4 +13,9 @@ Ao entrar no terminal, logue como super usuário digitando o comando `Sudo su`, 
 
 - `Deletar usuário`:
 
-Para deletar o usuário criado, no nosso exemplo o usuário `Joao`, basta usar o comando `userdel` seguido do nome do usuário que pretende deletar, ficando `userdel `
+Para deletar o usuário criado, no nosso exemplo o usuário `Joao`, basta usar o comando `userdel` seguido do nome do usuário que pretende deletar, ficando `userdel Joao`, feito isso o usuário terá sido deletado do sistema.
+
+
+- `Criar Grupos`:
+
+Para criar grupos, 
