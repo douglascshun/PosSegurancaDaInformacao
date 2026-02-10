@@ -2,3 +2,4 @@
 
 # Algumas distribuições linux
 
+![[Distros linux.png]]
