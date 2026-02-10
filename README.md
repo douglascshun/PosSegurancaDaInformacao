@@ -146,6 +146,26 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 │   │   │   ├── Proteção contra malware.md
 │   │   │   ├── Proteção contra phishing.md
 │   │   │   └── Proteção contra ransomware.md
+│   │   ├── Aula 4 Segurança Endpoint Windows
+│   │   │   ├── Aula 4 Segurança Endpoint Windows Imagens
+│   │   │   │   ├── Simbologia Zero Trust.png
+│   │   │   │   └── virtualização.png
+│   │   │   ├── Application Guard e Microsoft Defender SmartScreen.md
+│   │   │   ├── Aula 4 Segurança Endpoint Windows.md
+│   │   │   ├── Microsoft Defender Antivírus.md
+│   │   │   ├── Microsoft Defender e Criptografia.md
+│   │   │   ├── Windows Defender Credential Guard.md
+│   │   │   ├── Windows Defender Firewall.md
+│   │   │   └── Zero trust no Windows.md
+│   │   ├── Aula 5 Segurança Endpoint Linux
+│   │   │   ├── Aula 5 Segurança Endpoint Linux Imagens
+│   │   │   │   ├── Distros linux 1.png
+│   │   │   │   └── Distros linux.png
+│   │   │   ├── Aula 5 Segurança Endpoint Linux.md
+│   │   │   ├── Controle de pacotes aplicações e serviços.md
+│   │   │   ├── Criptografia e controle de acesso SSH e ACL.md
+│   │   │   ├── Firewall iptables e netfilter.md
+│   │   │   └── Proteção contra vírus e ameaças.md
 │   │   └── Endpoint Security.md
 │   └── Disciplina Networking Essentials
 │       ├── Aula 1 Comunicação de dados
@@ -219,4 +239,3 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 │       │   ├── Saiba mais.md
 │       │   └── Tipos de analisadores de protocolo.md
 │       └── Networking Essentials.md
-
