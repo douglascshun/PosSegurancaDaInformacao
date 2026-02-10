@@ -2,7 +2,9 @@
 
 # Algumas distribuições linux
 
-![[Distros linux.png]]
+![[MODULO 1/Disciplina Endpoint Security/Aula 5 Segurança Endpoint Linux/Aula 5 Segurança Endpoint Linux Imagens/Distros linux.png]]
 
 
-![[Pasted image 20260210143402.png]]
+![[Distros linux 1.png]]
+
+
