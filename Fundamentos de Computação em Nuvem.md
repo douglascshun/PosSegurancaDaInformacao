@@ -26,4 +26,6 @@ Com a maior exposição de indivíduos à internet e o frenético consumo de ser
 
  Os principais modelos de serviços constituem aos denominados `IaaS` (Infraestrutura como Serviço), `PaaS` (Plataforma como Serviço) e `SaaS` (Software como Serviço).
 
-`Infrastructure as a Service ou IaaS`: é o modelo onde a infra
+`Infrastructure as a Service ou IaaS`: é o modelo onde a infraestrutura de servidores é contratada como serviço, para fazer a hospedagem de uma ou mais aplicações.
+
+Essa infraestrutura disponibilizada normalmente por um data center e os servidores são virtuais, onde o cliente paga pelo seu uso.
