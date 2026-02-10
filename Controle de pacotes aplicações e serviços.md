@@ -12,8 +12,7 @@
 
 # Gerenciadores de pacotes no Linux
 
-Os ger^
-
+Os gerenciadores de pacotes são as ferramentas que fazem o gere
 - Apt
 - YUM
 - ZYpp
