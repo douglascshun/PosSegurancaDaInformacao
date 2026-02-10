@@ -11,4 +11,4 @@ Esse protocolo segue a mesma lógica do telnet do windows, só que para o Linux.
 
 # ACL:
 
-Uma `ACL` ()
+Uma `ACL` (Acces Control List/ Lista de Controle de Acesso) é uma configuração de segurança que nos fornece um controle mais refinado sobre quais usuários podem acessar o
