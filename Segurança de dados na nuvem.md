@@ -10,4 +10,8 @@ Proteger a nuvem começa com entender o que exatamente é protegido, além dos a
 
 - `Redes físicas:`Roteadores, energia elétrica, cabeamento, controles de climatização etc..
 
-- 
+- `Armazenamento de dados`: Discos rígidos etc..
+
+- `Servidores de dados`: hardware e software de computação de rede essencial
+
+- Estruturas de virtualização de computador:
