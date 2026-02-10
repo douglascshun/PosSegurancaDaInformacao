@@ -12,8 +12,9 @@
 
 # Gerenciadores de pacotes no Linux
 
-Os gerenciadores de pacotes são as ferramentas que fazem o gere
-- Apt
+Os gerenciadores de pacotes são as ferramentas que fazem o gerenciamento das ferramentas e dos pacotes dentro do sistema operacional, alguns exemplos:
+
+- Apt: Usado no Debian
 - YUM
 - ZYpp
 - Entropy
