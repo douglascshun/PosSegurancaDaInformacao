@@ -47,5 +47,6 @@ Quando uma violação de política é detectada, o DLP pode tomar ações autom�
 
 # Recomendações de Segurança
 
-- `Gestão de identidade e acesso`
-- Segurança 
+- `Gestão de identidade e acesso`: Implemente meios de verificar se quem é, de fato é quem diz ser.
+
+- `Segurança física`: I
