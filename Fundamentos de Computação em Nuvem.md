@@ -40,3 +40,4 @@ Exemplos, servidores web, aplicações de dados, servidores de e-mail..
 
 # PaaS
 
+`Platform as a Service ou PaaS`: é o modelo disponibilizado pelo fornecedor que apresenta uma plataforma para desenvolvimento de aplicações o
