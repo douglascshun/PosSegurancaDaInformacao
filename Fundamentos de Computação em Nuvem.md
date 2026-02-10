@@ -12,4 +12,8 @@ O que preciso para ter um sistema na nuvem?
 # 3 - Domínios de segurança na nuvem
 Formas de domínios de segurança na nuvem.
 
-4 
+# 4 - Segurança de dados na nuvem 
+Segurança na nuvem.
+
+# 5 - Boas práticas de segurança para serviços na nuvem 
+Como utilizar a segurança na nuvem
