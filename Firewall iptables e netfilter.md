@@ -15,3 +15,6 @@ Como a interação ocorre quase diretamente com o Kernel, praticamente não há 
 
 `Exemplo de uso:` Na empresa não se poderá usar rede sociais, o iptable gera uma tabela com os principais sites bloqueando o acesso de redes como Instagram, X, Facebook e Reddit. Posso bloquear portas na tabela de cada usuário.
 
+# Netfilter
+
+O Netfilter
