@@ -35,4 +35,8 @@ Essa infraestrutura disponibilizada normalmente por um data center e os servidor
 
 Exemplos, servidores web, aplicações de dados, servidores de e-mail..
 
-![[Pasted image 20260210190620.png]]
+![[Exemplo de IaaS.png]]
+
+
+# PaaS
+
