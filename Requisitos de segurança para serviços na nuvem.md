@@ -49,4 +49,6 @@ Quando uma violação de política é detectada, o DLP pode tomar ações autom�
 
 - `Gestão de identidade e acesso`: Implemente meios de verificar se quem é, de fato é quem diz ser.
 
-- `Segurança física`: Só permita a entrada de funcionários na empresa que estiverem com seus crachás devidamente apresentados e verifícado
+- `Segurança física`: Só permita a entrada de funcionários na empresa que estiverem com seus crachás devidamente apresentados e verificados.
+
+- `Inteligência, monitoramento e prevenção de ameaças`: Monitore as informações, tenh
