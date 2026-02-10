@@ -1,5 +1,4 @@
-Observação: este site inclui um sistema de acessibilidade. Pressione Control-F11 para ajustar o site para pessoas com deficiências visuais que usam um leitor de tela; Pressione Control-F10 para abrir um menu de acessibilidade.
-
+[[Endpoint Security]]
 ## Segurança Endpoint Linux
 
 **Introdução**
