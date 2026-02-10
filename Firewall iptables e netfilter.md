@@ -5,3 +5,5 @@
 `Iptables` é um código de firewall das versões 2.4 do kernel, que substituiu o ipchains (Presente nas séries 2.2 do Kernel). Ele Foi incluído no kernel na série 2.4 em meados de Junho/Julho de 1999.
 
 O iptables não é essencialmente um firewall, mas um programa que, por meio de seus módulos, possibilita ao usuário configurar o kernel Linux e o conjunto de regras do filtro de pacotes - função típica do firewall.
+
+Na prática, o administrador de sistemas tem de gerenciar quatro tabelas (Filter, NAT, Mangle e Secu)
