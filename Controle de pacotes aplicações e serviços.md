@@ -16,7 +16,7 @@ Os gerenciadores de pacotes são as ferramentas que fazem o gerenciamento das fe
 
 - Apt: Usado no Debian, Ubunto, Linux Mint, elementary, Zorin
 - YUM: CentOS, Fedora, RedHat
-- ZYpp:
-- Entropy:
-- Pacman: MAnj
-- SNAP:
+- ZYpp: ..
+- Entropy: ..
+- Pacman: Manjaro, ArchLinux
+- SNAP: ..
