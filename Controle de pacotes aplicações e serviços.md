@@ -8,4 +8,6 @@
 ![[Distros linux 1.png]]
 
 
-`Uma das vantagens das distribuíções Linux é a sua adaptabilidade, que permite que voê programe, configure e mude tudo no sistema uma vez que você tem um determinado nível de conhecimento em programaçã`
+`Uma das vantagens das distribuíções Linux é a sua adaptabilidade, que permite que voê programe, configure e mude tudo no sistema uma vez que você tem um determinado nível de conhecimento em programação`
+
+# gerenciadores de pac
