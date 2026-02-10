@@ -1,3 +1,5 @@
 [[Aula 5 Segurança Endpoint Linux]]
 
-O SSH é protocolo seguro de acesso as maquinas, serv
+O SSH é protocolo seguro de acesso as maquinas, servidores entre outros dispositivos conectados a rede.
+
+O SSH foi projetado com segurança em primeiro lugar, isto é, com vários mecanismos para garantir a integridade, confidencialidade e autent
