@@ -33,4 +33,6 @@ Com a maior exposição de indivíduos à internet e o frenético consumo de ser
 
 Essa infraestrutura disponibilizada normalmente por um data center e os servidores são virtuais, onde o cliente paga pelo seu uso.
 
-Exemplos, servidores web, aplicações da 
+Exemplos, servidores web, aplicações de dados, servidores de e-mail..
+
+![[Pasted image 20260210190620.png]]
