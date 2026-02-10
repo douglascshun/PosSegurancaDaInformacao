@@ -14,4 +14,4 @@
 
 # 2° pilar:
 
-`Gerenciamento de risco
+`Gerenciamento de risco`: Ter alguém específico para buscar situações que podem expor riscos a empresa, como testes em sites, aplicações, rede
