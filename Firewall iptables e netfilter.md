@@ -28,5 +28,8 @@ Iniciar um por meio de definições conversadas diretamente com a empresa, um co
 
 Após o norte de regras serem discutidos, destrinchar o conteúdo e definir o que pode ser cortado ou implementado, e posteriormente configurar regra a regra manualmente com cautela. 
 
-# Dica 
-Existe uma documentação hospedada em um site chamado 
+# Dica:
+
+Existe uma documentação hospedada em um site chamado netfilter.org, onde por meio desse é possível ter um passo a passo de regras a serem definidas e como configura-las.
+
+Outro site que
