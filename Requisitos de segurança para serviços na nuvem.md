@@ -55,4 +55,6 @@ Quando uma violação de política é detectada, o DLP pode tomar ações autom�
   
   - `Criptografia`: Tenha sempre os dados e informações blindados para que não vazem.
 
-- `Teste de Vulnerabilidade`: Sempre que 
+- `Teste de Vulnerabilidade`: Sempre que possível faça testes de vulnerabilidades como o de phishing internamente na empresa, ou de penetração de software para não ter dados vazados dentro de suas aplicações.
+  
+  - ``
