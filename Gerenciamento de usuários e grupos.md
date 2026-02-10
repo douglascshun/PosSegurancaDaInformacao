@@ -6,4 +6,4 @@ O sistema pode ser usado por inúmeros usuários simultaneamente, sem que um atr
 
 # Como criar um usuário no Linux (Distro usada: Ubunto)
 
-Ao entrar no terminal, logue como super usuário digitando o comando `Sudo su`, após isso digite a senha do super usuário. 
+Ao entrar no terminal, logue como super usuário digitando o comando `Sudo su`, após isso digite a senha do super usuário, após isso digite o comando `useradd` seguindo na mesma linha com o nome do usuário que 
