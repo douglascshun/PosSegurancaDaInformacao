@@ -22,4 +22,4 @@
 
 # Topo da Pirâmide
 
-`Coplience`
+`Compliance`:  O que abrange todas as informações anteriores.
