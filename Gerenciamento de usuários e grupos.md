@@ -23,4 +23,7 @@ Para criar grupos, bastará digitar `groupadd` seguido do nome que você quer qu
 
 - `Adicionar usuários ao grupo`:
 
-Para adicionar usuários ao grupo o processo é uma logica simples, comando `usermod`, que seria o equivalente a "modificar usuário", seguido de `-aG` onde podemos pensar em algo do tipo "Adicionar ao grupo", o nome do grupo, nosso caso `engenharia` e por fim que nós queremos adicionar no grupo, po ``
+Para adicionar usuários ao grupo o processo é uma logica simples, comando `usermod`, que seria o equivalente a "modificar usuário", seguido de `-aG` onde podemos pensar em algo do tipo "Adicionar ao grupo", o nome do grupo, nosso caso `engenharia` e por fim que nós queremos adicionar no grupo, por exemplo o `Joao`, onde o comando completo fica:
+`usermod -aG engenharia Joao`
+
+
