@@ -42,4 +42,11 @@ Exemplo: estrutura completa com servidores web, aplicações de dados, servidore
 
 `Platform as a Service ou PaaS`: é o modelo disponibilizado pelo fornecedor que apresenta uma plataforma para desenvolvimento de aplicações oferecidas na nuvem, proporcionando todo um sistema de infraestrutura, armazenamento e comunicação.
 
-Exemplo: tenho um servidor que executa vários processos dentro da empresa, porém contrato uma plataforma na nuvem que abre um servidor dedicado para mim pois não quero que o servidor de e-mail rode dentro da minha empresa por conter muitos dados sensíveis.
+Exemplo: tenho um servidor que executa vários processos dentro da empresa, porém contrato uma plataforma na nuvem que abre um servidor dedicado para mim pois não quero que o servidor de e-mail rode dentro da minha empresa por conter muitos dados sensíveis, ele serve para aplicações específicas.
+
+![[Exemplo de PaaS.png]]
+
+
+# SaaS
+
+`Software as a Service ou SaaS`: é um modelo onde as aplicações são dispo
