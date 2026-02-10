@@ -18,4 +18,4 @@ Para deletar o usuário criado, no nosso exemplo o usuário `Joao`, basta usar o
 
 - `Criar Grupos`:
 
-Para criar grupos, 
+Para criar grupos, bastará digitar `groupadd` seguido do nome que você quer que o grupo receba, no caso usarei 
