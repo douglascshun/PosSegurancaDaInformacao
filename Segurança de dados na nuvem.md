@@ -5,3 +5,5 @@ A segurança na nuvem é o pacote completo de tecnologia protocolos e melhores p
 Proteger a nuvem começa com entender o que exatamente é protegido, além dos aspectos de sistema que precisam ser gerenciados.
 
 `Ter a visão do que precisa ser protegido na nuvem, "Credencial", "informações sensíveis", para com base nisso de forma mais clara conseguir criar um plano de proteção e segurança dentro do sistema.`
+
+**O escopo completo da segurança na nuvem foi projetado para proteger os seguintes pontos, quaisque**
