@@ -22,4 +22,4 @@ Proteger a nuvem começa com entender o que exatamente é protegido, além dos a
 
 - `Middleware`: Gestão de interface de programação de aplicativos (API).
 
-Àmbientes de te
+- `Ambientes de tempo de execução`: execução e manutenção de um programa em operação.
