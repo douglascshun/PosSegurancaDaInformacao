@@ -21,3 +21,10 @@ O Netfilter é um módulo que fornece ao sistema operacional Linux as funções 
 
 O IP tables é o nome da ferramenta que permite a criação de regras de firewall e NAT's. Apesar de, tecnicamente, ser apenas uma ferramenta que controla o módulo netfilter, o nome "IPtables" é frequentemente utilizado como referência ao conjunto completo de funcionalidades de netfilter.
 
+
+# Implementar
+
+Inic
+
+# Prática
+
