@@ -10,4 +10,8 @@
 
 # 1° pilar:
 
-`Controle de Acesso`: Sempre usar usuário e senha, de preferência trocando de tempos em tempos, usar senhas fortes, procurar sempre ter a autentificação em dois fatores, implementar outras formas de impe aquele usuário não com
+`Controle de Acesso`: Sempre usar usuário e senha, de preferência trocando de tempos em tempos, usar senhas fortes, procurar sempre ter a autentificação em dois fatores, implementar outras formas de impedir aquele usuário de compartilhar senhas com outros usuários.
+
+# 2° pilar:
+
+`Gerenciamento de risco
