@@ -32,4 +32,4 @@ Após o norte de regras serem discutidos, destrinchar o conteúdo e definir o qu
 
 Existe uma documentação hospedada em um site chamado netfilter.org, onde por meio desse é possível ter um passo a passo de regras a serem definidas e como configura-las.
 
-Outro site que pode ajudar é o linux.die.net, site esse que hospeda toda a documentação de como definir as regras e configurar as tabelas
+Outro site que pode ajudar é o linux.die.net, site esse que hospeda toda a documentação de como definir as regras de portas e configurar as tabelas de iptables.
