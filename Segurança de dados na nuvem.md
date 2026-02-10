@@ -6,4 +6,8 @@ Proteger a nuvem começa com entender o que exatamente é protegido, além dos a
 
 `Ter a visão do que precisa ser protegido na nuvem, "Credencial", "informações sensíveis", para com base nisso de forma mais clara conseguir criar um plano de proteção e segurança dentro do sistema.`
 
-**O escopo completo da segurança na nuvem foi projetado para proteger os seguintes pontos, quaisque**
+**O escopo completo da segurança na nuvem foi projetado para proteger os seguintes pontos, quaisquer que sejam suas responsabilidades:**
+
+- `Redes físicas:`Roteadores, energia elétrica, cabeamento, controles de climatização etc..
+
+- 
