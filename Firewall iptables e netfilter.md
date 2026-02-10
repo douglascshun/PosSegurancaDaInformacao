@@ -24,7 +24,7 @@ O IP tables é o nome da ferramenta que permite a criação de regras de firewal
 
 # Implementar
 
-Inic
+Iniciar um por meio de definições conversadas diretamente com a empresa, um conjunto de regras que definem o que pode ser potencialmente arriscado
 
 # Prática
 
