@@ -14,9 +14,9 @@
 
 Os gerenciadores de pacotes são as ferramentas que fazem o gerenciamento das ferramentas e dos pacotes dentro do sistema operacional, alguns exemplos:
 
-- Apt: Usado no Debian
-- YUM
-- ZYpp
-- Entropy
-- Pacman
-- SNAP
+- Apt: Usado no Debian, Ubunto, Linux Mint, elementary, Zorin
+- YUM:
+- ZYpp:
+- Entropy:
+- Pacman:
+- SNAP:
