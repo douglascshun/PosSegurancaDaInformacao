@@ -14,4 +14,8 @@
 
 # 2° pilar:
 
-`Gerenciamento de risco`: Ter alguém específico para buscar situações que podem expor riscos a empresa, como testes em sites, aplicações, rede
+`Gerenciamento de risco`: Ter alguém específico para buscar situações que podem expor riscos a empresa, como testes em sites, aplicações, rede..
+
+# 3° pilar
+
+`Proteção de dados:` Como posso proteger minhas informações? Criptografia, backup
