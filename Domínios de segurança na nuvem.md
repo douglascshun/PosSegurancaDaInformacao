@@ -10,4 +10,4 @@
 
 # 1° pilar:
 
-`Controle de Acesso`: 
+`Controle de Acesso`: Sempre usar usuário e senha, de preferência trocando de tempos em tempos, usar senhas fortes, procurar 
