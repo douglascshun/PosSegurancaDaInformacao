@@ -43,9 +43,10 @@ Marcas na tela
 **Múltiplas formas de ataques comumente exploradas por agentes mal intencionados:
 
 - `Mensagens de SMS` (Engenharia Social)
-
+Famoso clique aqui e ganhe algo, normalmente pedem dados pessoais do usuários, ou acessos privilegiados a recursos seus
 
 - `Navegação na Internet` (phishing)
+Sites que buscam pegar dados seus, estábelecer 
 
 - `Anexoss de e-mails`(phishing)
 
