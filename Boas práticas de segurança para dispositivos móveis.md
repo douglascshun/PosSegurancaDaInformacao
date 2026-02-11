@@ -11,4 +11,4 @@ O uso de anti-vírus e anti-spyware, cobre e reforça ainda mais as brechas que 
 Túnelar a rede cria um canal com implementações de segurança mais robustas aumentando ainda mais o nível de segurança, o que coloca mais uma barreira entre o dispositivo e o atacante. 
 
 - `Escolha cuidadosamente a rede sem fio que você irá se conectar`
-Redes abertas são um parque de diversões para figuras má intencionadas, pois a grande maioria das vezes essas redes não possuem medidas de segurança, impedem ações maliciosas, permitindo assim que o atacante consiga mais facilmente acesso a dados, senhas, monitorar outros dispositivos e em casos piores até controlar remotamente quem está na rede.
+Redes abertas são um parque de diversões para figuras má intencionadas, pois a grande maioria das vezes essas redes não possuem medidas de segurança, impedem ações maliciosas, permitindo assim que o atacante consiga mais facilmente acesso a dados, senhas, monitorar outros dispositivos e em casos piores até controlar remotamente quem está na rede. Isso se a rede não foi criada pelo atacante.
