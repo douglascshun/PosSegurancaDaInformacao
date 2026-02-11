@@ -15,3 +15,7 @@
 - Android (Google)
   
   - iOS (Apple)
+
+- HarmonyOS (Huawei)
+
+- HyperOS (Xiaomi)`
