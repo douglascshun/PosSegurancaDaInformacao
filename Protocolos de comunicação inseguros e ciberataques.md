@@ -4,4 +4,6 @@ Existem diversos modelos de referência, o modelo TCP/IP é usado para protocolo
 
 Pelo fato da IoT ter sido baseado com os princípios da internet. O modelo TCP/IP possui apenas quatro camadas: `Aplcação, Transporte, Internet` e `Rede`.
 
-Os protocolos da IEEE 802.15 foram desenvolvidos para as redes 
+Os protocolos da IEEE 802.15 foram desenvolvidos para as redes conhecidas como redes sem fio que alcançam poucos metros de distância (Wireless Personal Area Network: WPAN).
+
+O protocolo Bluetooth está 
