@@ -139,6 +139,8 @@ No mundo da cibersegurança, os detalhes invisíveis no nível do bit são o que
 # Infraestrutura
 
 - Requer um servidor de autenticação (RADIUS);
+Programa que vem dentro do rot
+
 - Opcionalmente pode necessitar de uma infraestrutura de chaves públicas (PKI/ICP);
 - Isola o tráfego da rede sem fio, para a rede cabeada
 - Utilização de uma DMZ;
