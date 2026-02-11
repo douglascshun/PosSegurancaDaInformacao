@@ -17,4 +17,4 @@
 - `HarmonyOS (Huawei)`
 - `HyperOS (Xiaomi)`
 
-Quando falamos na escolha do sistema operacional de dispositivos móveis para as empresas, vale a pena citar o fato da grande diferença que cada um deles oferece, por exemplo, sistemas android possuem a maior dominância do mercado atualmente mas isso trás pontos como
+Quando falamos na escolha do sistema operacional de dispositivos móveis para as empresas, vale a pena citar o fato da grande diferença que cada um deles oferece, por exemplo, sistemas android possuem a maior dominância do mercado atualmente mas isso trás pontos maior numero de explorações a vulnerabilidades e as vezes baixa vida útil do aparelho. IOS, ainda uma das maiores do mercado, porém possu
