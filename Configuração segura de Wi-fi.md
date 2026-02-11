@@ -140,4 +140,6 @@ No mundo da cibersegurança, os detalhes invisíveis no nível do bit são o que
 
 - Requer um servidor de autenticação (RADIUS);
 - Opcionalmente pode necessitar de uma infraestrutura de chaves públicas (PKI/ICP);
-- Isola o tráfego da rede sem fio da rede
+- Isola o tráfego da rede sem fio, para a rede cabeada
+- Utilização de uma DMZ;
+- Provê autenticação para usuários da rede sem fio terem acesso a rede cabeada:
