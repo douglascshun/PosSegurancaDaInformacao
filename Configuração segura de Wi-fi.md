@@ -142,6 +142,11 @@ No mundo da cibersegurança, os detalhes invisíveis no nível do bit são o que
 Programa que vem dentro do roteador, dentro desse programa costuma vir o protocolo, a senha e mais informações, permitindo também configurações, como limitar o numero de dispositivos conectados.
 
 - Opcionalmente pode necessitar de uma infraestrutura de chaves públicas (PKI/ICP);
+
+
 - Isola o tráfego da rede sem fio, para a rede cabeada
+Um exemplo prático de onde pode ser interessante é uma loja com wifi aberto, onde você isola a rede interna d
+
 - Utilização de uma DMZ;
+
 - Provê autenticação para usuários da rede sem fio terem acesso a rede cabeada
