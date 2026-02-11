@@ -26,6 +26,7 @@ Em situações de emergências isso facilita a recuperação dos dados capturado
 Em caso de roubo físico ou acesso remoto é uma barreria a mais direcionado as dados.
 
 - `Exclua completamente os dados sensíveis depois de utilizá-los`
-Nada de senhas salvas em conversas do Whatsapp ou situações semlhentas.
+Nada de senhas salvas em conversas do Whatsapp ou situações semelhantes.
 
-- Utilize ferrament
+- `Utilize ferramentas de localização e wipe remoto`
+Isso permite o gerenciamento remoto do seu 
