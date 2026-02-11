@@ -26,4 +26,7 @@ Quando falamos na escolha do sistema operacional de dispositivos móveis para as
 
 **Senha de Acesso:
 - Dispositivos sem senha, não devem existir
-- Senhas fáceis de serem descobertas (1)
+- Senhas fáceis de serem descobertas (1234,senha, entrar, admin...)
+- Métodos de digitação (marcas na tela).
+
+**Múltiplas formas de a
