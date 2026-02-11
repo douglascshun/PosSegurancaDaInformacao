@@ -24,8 +24,13 @@ Controle remoto de Aplicações.
 
 # Recomendações e políticas para dispositivos móveis
 
+
 `O que é uma Comunicação sem fio?`
+
+Qualquer tipo de conexão que se dê sem o uso de cabos, somente por transmissão de ondas como:
+
 - Conexão via infra-vermelho
 - Redes sem fio 802.11a/b/g/n/ac
 - Redes de celular (2,5 G, 3G, 4G, 5G.. )
-- 
+- NFC
+- Bluetooh
