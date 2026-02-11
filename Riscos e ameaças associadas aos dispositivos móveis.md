@@ -7,4 +7,5 @@
 
 `Na transmissão de dadsos pelo ar`: Sistemas de segurança utilizados no link sem fio nem sempre garantem a segurança suficiente.
 
-``
+`No provedor de acesso ou dentro de redes internas`: Processos de acesso a rede nem sempre garantem a identificação correta do usuário.
+
