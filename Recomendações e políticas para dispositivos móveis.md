@@ -26,4 +26,6 @@ Controle remoto de Aplicações.
 
 `O que é uma Comunicação sem fio?`
 - Conexão via infra-vermelho
-- Redes sem fio 802.11
+- Redes sem fio 802.11a/b/g/n/ac
+- Redes de celular (2,5 G, 3G, 4G, 5G.. )
+- 
