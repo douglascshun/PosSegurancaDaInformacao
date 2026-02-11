@@ -14,4 +14,6 @@ Túnelar a rede cria um canal com implementações de segurança mais robustas a
 Redes abertas são um parque de diversões para figuras má intencionadas, pois a grande maioria das vezes essas redes não possuem medidas de segurança, impedem ações maliciosas, permitindo assim que o atacante consiga mais facilmente acesso a dados, senhas, monitorar outros dispositivos e em casos piores até controlar remotamente quem está na rede. Isso se a rede não foi criada pelo atacante.
 
 - `Utilizar senhas fortes e diferentes para serviços diferentes`
-Quando uma senha é vazada de algum lugar, vamos supor o e-mail. é fácil para o ata
+Quando uma senha é vazada de algum lugar, vamos supor o e-mail. é fácil para o atacante usar a senha e e-mail vazado e tentar replicar para obter o acesso em outros lugares, como aplicativos de bancos e outros lugares com dados sensíveis.
+
+-
