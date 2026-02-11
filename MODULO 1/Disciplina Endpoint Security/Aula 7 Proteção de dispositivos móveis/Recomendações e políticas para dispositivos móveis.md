@@ -45,3 +45,4 @@ Qualquer tipo de conexão que se dê sem o uso de cabos, somente por transmissã
 - Fotos/Filmes
 - Navegação na internet 
 - Localização
+
