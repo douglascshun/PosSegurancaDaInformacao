@@ -49,6 +49,6 @@ Famoso clique aqui e ganhe algo, normalmente pedem dados pessoais do usuários, 
 Sites que buscam pegar dados seus, estabelecer privilégios dentro de seus dispositivos, te induzem a baixar programas ou arquivos modificados.
 
 - `Anexoss de e-mails`(phishing)
-Segue o mesmo conceito do phishing 
+Segue o mesmo conceito do phishing em SMS, onde te induzem a clicar em um link malicioso, ou baixar um arquivo modificado, o diferencial desse caso é que grande parte das vezes buscam isso por meio da imposiç
 
 - `Bluetooh`(Bluejacking, Bluesnarfing, Bluebugging, BIAS)
