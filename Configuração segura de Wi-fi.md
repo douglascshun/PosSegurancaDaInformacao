@@ -150,3 +150,9 @@ Um exemplo prático de onde pode ser interessante é uma loja com wifi aberto, o
 - `Provê autenticação para usuários da rede sem fio terem acesso a rede cabeada`
 Isso permite que seja configurado o acesso de uma rede a outra por meio de uma configuração, usando IP ou MAC.
 
+
+
+# VPN (Virtual Private Network)
+
+- Provê uma solução escalável de autenticação e criptografia
+- tilização do protocolo
