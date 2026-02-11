@@ -124,4 +124,16 @@ Por isso, ele foi substituído pelo **CCMP (AES)** no WPA2, que faz tudo isso po
 
 
 
+
 	-`Vetor de inicialização de 48 bits`
+
+O WEP usava um Vetor de Inicialização (IV) de apenas 24 bits. Era como ter um segredo que se repetia a cada 16 milhões de frases. Para um hacker, era como montar um quebra-cabeça com peças repetidas.
+
+O WPA2 elevou o jogo para **48 bits**. Parece pouco? Matematicamente, saltamos de milhões para **281 TRILHÕES** de combinações.
+
+Esse número é tão grande que garante que cada pacote de dados enviado pelo seu Wi-Fi seja único e, mais importante, protege você contra ataques de 'Replay' (quando um invasor tenta reenviar seus dados para ganhar acesso).
+
+No mundo da cibersegurança, os detalhes invisíveis no nível do bit são o que mantêm os seus dados bancários seguros enquanto você navega no Wi-Fi do aeroporto.
+
+
+# Infr
