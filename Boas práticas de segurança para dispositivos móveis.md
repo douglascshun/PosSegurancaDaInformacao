@@ -20,4 +20,4 @@ Quando uma senha é vazada de algum lugar, vamos supor o e-mail. é fácil para 
 Auto explicativo
 
 - `Mantenha backup's atualizados
-Em situações de emergências isso facilita a recuperação dos dados capturado e ou perdidos, mas siga uma boa prática com isso, salve seu backup em outro lugar, na 
+Em situações de emergências isso facilita a recuperação dos dados capturado e ou perdidos, mas siga uma boa prática com isso, salve seu backup em outro lugar ou na nuvem..
