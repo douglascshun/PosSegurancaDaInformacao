@@ -30,7 +30,7 @@ Quando falamos na escolha do sistema operacional de dispositivos móveis para as
 - Métodos de digitação (marcas na tela).
 
 **Múltiplas formas de ataques comumente exploradas por agentes mal intencionados:
-- Mensagens de SMS (Engenharia Social)
+- Mensagens de SMS` (Engenharia Social)
 - Navegação na Internet (phishing)
 - Anexoss de e-mails(phishing)
-- Bluetooh
+- Bluetooh(Bluejacking, Bluesnarfing, Bluebugging, BIAS)
