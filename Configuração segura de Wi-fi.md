@@ -136,4 +136,8 @@ Esse número é tão grande que garante que cada pacote de dados enviado pelo se
 No mundo da cibersegurança, os detalhes invisíveis no nível do bit são o que mantêm os seus dados bancários seguros enquanto você navega no Wi-Fi do aeroporto.
 
 
-# Infr
+# Infraestrutura
+
+- Requer um servidor de autenticação (RADIUS);
+- Opcionalmente pode necessitar de uma infraestrutura de chaves públicas (PKI/ICP);
+- Isola o tráfego da rede sem fio da rede
