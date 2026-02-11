@@ -8,6 +8,7 @@ Normalmente nessas atualizações sempre vem patches de segurança cobrindo as n
 O uso de anti-vírus e anti-spyware, cobre e reforça ainda mais as brechas que podem existir, mas lembre-se de mante-los atualizados pois são exploradas vulnerabilidades novas todos os dias
 
 - `Sempre que possível estabeleça uma Virtual Private Network (VPN) para a comunicação`
+Túnelar a rede cria um canal com implementações de segurança mais robustas aumentando aind 
 
 
 - `Escolha cuidadosamente a rede sem fio que você irá se conectar`
