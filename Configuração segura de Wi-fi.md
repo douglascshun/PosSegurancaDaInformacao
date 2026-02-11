@@ -47,7 +47,7 @@ O processo funciona assim:
 - **Output:** Gera uma **PMK (Pairwise Master Key)** de 256 bits.
 
 
-> **Importante:** Como o nome da rede (SSID) faz parte do cálculo, usar o mesmo nome de rede do vizinho ("Wi-Fi-Casa", por exemplo) torna você mais vulnerável a ataques de **Rainbow Tables** (tabelas de senhas pré-computadas).
+ **Importante:** Como o nome da rede (SSID) faz parte do cálculo, usar o mesmo nome de rede do vizinho ("Wi-Fi-Casa", por exemplo) torna você mais vulnerável a ataques de **Rainbow Tables** (tabelas de senhas pré-computadas).
 
 ---
 
@@ -154,7 +154,8 @@ Isso permite que seja configurado o acesso de uma rede a outra por meio de uma c
 
 # VPN (Virtual Private Network)
 
-Cria um tú
+Cria um túnel entre o usuário final e uma rede.
+Características da VPN:
 
 - Provê uma solução escalável de autenticação e criptografia
 
