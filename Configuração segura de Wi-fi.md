@@ -2,7 +2,7 @@
 
 # WPA-PSK
 
-- Similar ao WEB
+- Similar ao WEP
 - Chave Compartilhada
 - Troca de chaves automatizadas (Temporal Key Integrity Protocol - TKIP)
 - Vetor de inicialização de 48 bits
