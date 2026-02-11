@@ -21,3 +21,6 @@ Auto explicativo
 
 - `Mantenha backup's atualizados
 Em situações de emergências isso facilita a recuperação dos dados capturado e ou perdidos, mas siga uma boa prática com isso, salve seu backup em outro lugar ou na nuvem..
+
+- `Criptografe os dados armazenados`
+Em
