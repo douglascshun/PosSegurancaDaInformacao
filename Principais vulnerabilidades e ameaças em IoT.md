@@ -6,4 +6,5 @@
 - Uso de componentes inseguros ou desatualizados
 - Proteção de privacidade insuficiente
 - Transferência e armazenamento de dados inseguros
-- 
+- Falta de gerenciamento de dispositivos
+
