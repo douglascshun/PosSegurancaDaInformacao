@@ -3,4 +3,8 @@
 
 **Vulnerabilidades
 
-`No dispositivo do cliente`: Dispositivos móveis são físicos e logivamente 
+`No dispositivo do cliente`: Dispositivos móveis são físicos e logicamente vulneráveis.
+
+`Na transmissão de dadsos pelo ar`: Sistemas de segurança utilizados no link sem fio nem sempre garantem a segurança suficiente.
+
+``
