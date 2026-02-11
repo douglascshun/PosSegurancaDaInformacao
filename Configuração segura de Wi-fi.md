@@ -120,8 +120,7 @@ Apesar de ser genial para a época, o TKIP ainda rodava sobre o algoritmo **RC4*
 
 Por isso, ele foi substituído pelo **CCMP (AES)** no WPA2, que faz tudo isso por hardware e de forma muito mais segura.
 
-> **Curiosidade:** Se você configurar seu roteador moderno como "WPA2-TKIP", sua velocidade provavelmente será limitada a níveis de internet antiga (802.11g), mesmo que seu Wi-Fi seja de última geração.
-
+ **Curiosidade:** Se você configurar seu roteador moderno como "WPA2-TKIP", sua velocidade provavelmente será limitada a níveis de internet antiga (802.11g), mesmo que seu Wi-Fi seja de última geração.
 
 
 
