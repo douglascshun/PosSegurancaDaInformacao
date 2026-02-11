@@ -56,4 +56,7 @@ Bluejacking considerada a forma mais "leve" de ataque. O invasor envia mensagens
 Bluetooth Is Any Shape (ou BIAS) o ataque mais moderno que foca na falha de autenticação. O invasor "engana" dois dispositivos que já foram pareados anteriormente, fazendo-os acreditar que ele é um deles, contornando a segurança do pareamento original.
 
 - `Cartões de memória`
-Pode inserir códigos, instalar softwares, roubar informações e ter controle total do dispositivo **nunca 
+Pode inserir códigos, instalar softwares, roubar informações e ter controle total do dispositivo **Nunca insira um cartão de memória sem saber a fonte dele, de onde ele vem..
+
+- `Roubo`
+Auto explicativo..
