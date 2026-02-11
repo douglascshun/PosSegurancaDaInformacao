@@ -138,15 +138,15 @@ No mundo da cibersegurança, os detalhes invisíveis no nível do bit são o que
 
 # Infraestrutura
 
-- Requer um servidor de autenticação (RADIUS);`
+- `Requer um servidor de autenticação (RADIUS)`
 Programa que vem dentro do roteador, dentro desse programa costuma vir o protocolo, a senha e mais informações, permitindo também configurações, como limitar o numero de dispositivos conectados.
 
-- Opcionalmente pode necessitar de uma infraestrutura de chaves públicas (PKI/ICP);
+- `Opcionalmente pode necessitar de uma infraestrutura de chaves públicas (PKI/ICP)`;
 
 
-- Isola o tráfego da rede sem fio, para a rede cabeada (DMZ - Zona Desmilitarizada)
+- `Isola o tráfego da rede sem fio, para a rede cabeada (DMZ - Zona Desmilitarizada)`
 Um exemplo prático de onde pode ser interessante é uma loja com wifi aberto, onde você isola a rede interna da loja, com seus dispositivos da rede que você disponibiliza para os clientes acessarem.
 
-- Provê autenticação para usuários da rede sem fio terem acesso a rede cabeada
+- `Provê autenticação para usuários da rede sem fio terem acesso a rede cabeada`
 Isso permite que seja configurado o acesso de uma rede a outra por meio de uma configuração, usando IP ou MAC.
 
