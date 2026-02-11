@@ -49,6 +49,13 @@ Famoso clique aqui e ganhe algo, normalmente pedem dados pessoais do usuários, 
 Sites que buscam pegar dados seus, estabelecer privilégios dentro de seus dispositivos, te induzem a baixar programas ou arquivos modificados.
 
 - `Anexoss de e-mails`(phishing)
-Segue o mesmo conceito do phishing em SMS, onde te induzem a clicar em um link malicioso, ou baixar um arquivo modificado, o diferencial desse caso é que grande parte das vezes buscam isso por meio da imposição de urgência como "você tem tal prazo para clicar", "é sua ultima chance", "modifique sua senha pois"
+Segue o mesmo conceito do phishing em SMS, onde te induzem a clicar em um link malicioso, ou baixar um arquivo modificado, o diferencial desse caso é que grande parte das vezes buscam isso por meio da imposição de urgência como "você tem tal prazo para clicar", "é sua ultima chance", "modifique sua senha pois seu login expirou, ou acessaram sua conta"
 
-`Bluetooh`(Bluejacking, Bluesnarfing, Bluebugging, BIAS)
+`Bluetooh`Bluejacking considea forma mais "leve" de ataque. O invasor envia mensagens não solicitadas (como cartões de visita eletrônicos) para o seu dispositivo.
+
+- **Objetivo:** Geralmente é usado para pegadinhas ou marketing invasivo.
+    
+- **Risco:** Baixo, mas serve como um alerta de que seu Bluetooth está visível para estranhos.
+
+Bluesnarfing, 
+Bluebugging, BIAS)
