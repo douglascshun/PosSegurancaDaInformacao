@@ -37,5 +37,11 @@ Qualquer tipo de conexão que se dê sem o uso de cabos, somente por transmissã
 
 
 
-**O que seriam informações privadas em um dispositivo móvel como um Smartphone? 
+**O que seriam informações privadas/sensívi em um dispositivo móvel como um Smartphone? 
 
+- Ligações executadas ou recebidas
+- Agenda de contatos
+- Mensagens, texto e documentos
+- Fotos/Filmes
+- Navegação na internet 
+- Localização
