@@ -29,4 +29,6 @@ Em caso de roubo físico ou acesso remoto é uma barreria a mais direcionado as 
 Nada de senhas salvas em conversas do Whatsapp ou situações semelhantes.
 
 - `Utilize ferramentas de localização e wipe remoto`
-Isso permite o gerenciamento remoto do seu 
+Isso permite o gerenciamento remoto do seu dispositivo por uma conexão segura, e em caso de perda ou roubo é mais fácil de se recuperar.
+
+- `Mantenha os dispositivos móveis e meio de armazenamento digital com você ou em algum l
