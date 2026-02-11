@@ -51,11 +51,9 @@ Sites que buscam pegar dados seus, estabelecer privilégios dentro de seus dispo
 - `Anexoss de e-mails`(phishing)
 Segue o mesmo conceito do phishing em SMS, onde te induzem a clicar em um link malicioso, ou baixar um arquivo modificado, o diferencial desse caso é que grande parte das vezes buscam isso por meio da imposição de urgência como "você tem tal prazo para clicar", "é sua ultima chance", "modifique sua senha pois seu login expirou, ou acessaram sua conta"
 
-`Bluetooh`Bluejacking considea forma mais "leve" de ataque. O invasor envia mensagens não solicitadas (como cartões de visita eletrônicos) para o seu dispositivo.
+`Bluetooh`Bluejacking considerada a forma mais "leve" de ataque. O invasor envia mensagens não solicitadas (como cartões de visita eletrônicos) para o seu dispositivo, com o objetivo de geralmente é usado para pegadinhas ou marketing invasivo considerado com o grau de risco baixo, mas serve como um alerta de que seu Bluetooth está visível para estranhos. Bluesnarfing, ste já é bem mais perigoso. O invasor consegue acessar seu dispositivo para **roubar informações**.
 
-- **Objetivo:** Geralmente é usado para pegadinhas ou marketing invasivo.
+- **O que levam:** Lista de contatos, mensagens SMS, fotos, vídeos e até o seu calendário.
     
-- **Risco:** Baixo, mas serve como um alerta de que seu Bluetooth está visível para estranhos.
-
-Bluesnarfing, 
+- **Como ocorre:** Explora vulnerabilidades no protocolo de troca de informações do Bluetooth.
 Bluebugging, BIAS)
