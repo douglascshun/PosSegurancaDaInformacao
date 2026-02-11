@@ -9,4 +9,3 @@ Os protocolos da IEEE 802.15 foram desenvolvidos para as redes conhecidas como r
 O protocolo Bluetooth está incluso nesse padrão. Fazem parte desse padrão os protocolos ZigBee, 6LoWPAN, Wireless Hart, ISA100.11a, ESP-NOW, ESP-MESH e MQTT.
 
 
-# Protocolos de comunicação 
