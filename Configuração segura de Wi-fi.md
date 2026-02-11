@@ -145,8 +145,9 @@ Programa que vem dentro do roteador, dentro desse programa costuma vir o protoco
 
 
 - Isola o tráfego da rede sem fio, para a rede cabeada
-Um exemplo prático de onde pode ser interessante é uma loja com wifi aberto, onde você isola a rede interna d
+Um exemplo prático de onde pode ser interessante é uma loja com wifi aberto, onde você isola a rede interna da loja, com seus dispositivos da rede que você disponibiliza para os clientes acessarem.
 
 - Utilização de uma DMZ;
+Rede Zona Desmilitarizada 
 
 - Provê autenticação para usuários da rede sem fio terem acesso a rede cabeada
