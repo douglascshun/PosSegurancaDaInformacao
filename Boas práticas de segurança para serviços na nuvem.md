@@ -8,4 +8,6 @@
 - Avaliação e disponibilização de VPN's;
 - Backup de dados;
 - Elaboração e aplicação de planos de contigência e recuperação de desastres;
-- Gestão de bancos d
+- Gestão de bancos de dados;
+- Monitoramento de recursos de rede e servidores;
+- Suporte a usuários.
