@@ -25,12 +25,19 @@ Quando falamos na escolha do sistema operacional de dispositivos móveis para as
 - Cavalos de Troia
 
 **Senha de Acesso:
-- Dispositivos sem senha, não devem existir
-- Senhas fáceis de serem descobertas (1234,senha, entrar, admin...)
+- `Dispositivos sem senha`
+não devem existir
+
+- Senhas fáceis de serem descobertas 
+- 1234,senha, entrar, admin...
+
 - Métodos de digitação (marcas na tela).
 
 **Múltiplas formas de ataques comumente exploradas por agentes mal intencionados:
-- Mensagens de SMS` (Engenharia Social)
-- Navegação na Internet (phishing)
-- Anexoss de e-mails(phishing)
-- Bluetooh(Bluejacking, Bluesnarfing, Bluebugging, BIAS)
+- `Mensagens de SMS` (Engenharia Social)
+
+- `Navegação na Internet` (phishing)
+
+- `Anexoss de e-mails`(phishing)
+
+- `Bluetooh`(Bluejacking, Bluesnarfing, Bluebugging, BIAS)
