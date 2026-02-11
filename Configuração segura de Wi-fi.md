@@ -154,5 +154,10 @@ Isso permite que seja configurado o acesso de uma rede a outra por meio de uma c
 
 # VPN (Virtual Private Network)
 
+Cria um tú
+
 - Provê uma solução escalável de autenticação e criptografia
-- tilização do protocolo
+
+- Utilização do protocolo IPSec
+
+- Outros protocolos de criptografia como SSL, SSH e PGP
