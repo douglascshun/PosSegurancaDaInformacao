@@ -32,4 +32,5 @@ Quando falamos na escolha do sistema operacional de dispositivos móveis para as
 **Múltiplas formas de ataques comumente exploradas por agentes mal intencionados:
 - Mensagens de SMS (Engenharia Social)
 - Navegação na Internet (phishing)
-- Anexoss de e-mails(ph)
+- Anexoss de e-mails(phishing)
+- Bluetooh
