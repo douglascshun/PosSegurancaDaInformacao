@@ -4,3 +4,5 @@ No Brasil, `Lei Geral da Proteção de Dados`, aprovada em agosto de 2018 e em v
 
 Seu objetivo é garantir a privacidade e a proteção de dados pessoais e promover a transparência na relação entre pessoas físicas e jurídicas.
 
+A segurança da informação e o vazamento de dados são apenas alguns dos desafios encontrados relacionados ao tratamento de dados pessoais para desenvolvimento de IoT em conformidade com a LGPD.
+
