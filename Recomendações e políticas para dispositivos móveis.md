@@ -35,3 +35,7 @@ Qualquer tipo de conexão que se dê sem o uso de cabos, somente por transmissã
 - NFC
 - Bluetooh
 
+
+
+**O que seriam informações privadas em um dispositivo móvel como um Smartphone? 
+
