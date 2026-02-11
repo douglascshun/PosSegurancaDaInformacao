@@ -80,7 +80,47 @@ Vale destacar os pontos fracos:
 
 
 
+
 	-`Troca de chaves automatizadas (Temporal Key Integrity Protocol - TKIP)`
+
+
+O **TKIP** foi a grande "mágica" que salvou o Wi-Fi no início dos anos 2000. Como vimos, o WEP era um desastre porque a chave era estática: se você descobrisse a chave uma vez, conseguia ler todo o tráfego para sempre.
+
+O TKIP introduziu a **troca de chaves automatizada**, funcionando como um sistema que troca o "segredo" da conversa a cada poucos segundos.
+
+Aqui está como esse processo de troca funciona dentro do WPA-PSK:
+
+##### O Mecanismo de Chaves Dinâmicas
+
+Diferente do WEP, onde a chave que você digitava era a mesma usada para criptografar os dados, no WPA-PSK com TKIP existem níveis de chaves:
+
+1. **Chave Mestra (PMK):** É gerada a partir da senha (passphrase) que você digita no Wi-Fi. Ela nunca é transmitida pelo ar.
+
+2. **Chave Temporal (TK):** É aqui que o TKIP brilha. A partir da chave mestra, o protocolo gera uma chave única para cada cliente conectado.
+
+3. **Chave por Pacote:** O TKIP mistura o endereço MAC do dispositivo e o número de sequência do pacote com a Chave Temporal.
+
+
+**O resultado:** Cada pacote de dados enviado pelo ar possui uma chave de criptografia diferente. Mesmo que um hacker consiga quebrar a chave de _um_ pacote, ela já terá mudado no pacote seguinte.
+
+#### As 3 defesas principais do TKIP:
+
+- **Hashing de Chaves:** Mistura a chave base com um contador de pacotes, garantindo que a mesma chave nunca seja usada duas vezes.
+
+- **Message Integrity Check (MIC):** Apelidado de "Michael", é um código adicionado ao pacote para garantir que ninguém alterou os dados no meio do caminho (evita ataques de injeção).
+
+- **Sequence Counter:** Impede ataques de "Replay" (onde um hacker captura um comando legítimo, como "abrir porta", e o reenvia mais tarde), pois o receptor descarta pacotes com números de sequência fora de ordem ou repetidos.
+
+
+---
+
+### Por que o TKIP "aposentou"?
+
+Apesar de ser genial para a época, o TKIP ainda rodava sobre o algoritmo **RC4**. Com o tempo, matemáticos encontraram formas de prever partes dessa "mistura" de chaves. Além disso, o processo de ficar misturando chaves via software pesava muito no processador dos roteadores, limitando a velocidade da rede a **54 Mbps**.
+
+Por isso, ele foi substituído pelo **CCMP (AES)** no WPA2, que faz tudo isso por hardware e de forma muito mais segura.
+
+> **Curiosidade:** Se você configurar seu roteador moderno como "WPA2-TKIP", sua velocidade provavelmente será limitada a níveis de internet antiga (802.11g), mesmo que seu Wi-Fi seja de última geração.
 
 
 
