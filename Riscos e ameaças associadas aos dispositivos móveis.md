@@ -46,8 +46,9 @@ Marcas na tela
 Famoso clique aqui e ganhe algo, normalmente pedem dados pessoais do usuários, ou acessos privilegiados a recursos seus
 
 - `Navegação na Internet` (phishing)
-Sites que buscam pegar dados seus, estábelecer 
+Sites que buscam pegar dados seus, estabelecer privilégios dentro de seus dispositivos, te induzem a baixar programas ou arquivos modificados.
 
 - `Anexoss de e-mails`(phishing)
+Segue o mesmo conceito do phishing 
 
 - `Bluetooh`(Bluejacking, Bluesnarfing, Bluebugging, BIAS)
