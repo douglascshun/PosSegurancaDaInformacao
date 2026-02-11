@@ -3,3 +3,5 @@
 # WPA-PSK
 
 - Similar ao WEB
+- Chave Compartilhada
+- Troca de chaves automatizadas (Temporal Key Inte)
