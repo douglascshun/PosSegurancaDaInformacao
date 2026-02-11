@@ -12,3 +12,6 @@
 
 # Sistemas Operacionais de Celulares
 
+- Android (Google)
+  
+  - iOS (Apple)
