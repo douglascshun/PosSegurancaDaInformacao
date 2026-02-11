@@ -2,4 +2,6 @@
 
 Existem diversos modelos de referência, o modelo TCP/IP é usado para protocolos na internet.
 
-Pelo fato da IoT ter sido baseado com os princípios da internet. O modelo TCP/IP possui apenas quatro camadas: `Aplcação, Transporte, In
+Pelo fato da IoT ter sido baseado com os princípios da internet. O modelo TCP/IP possui apenas quatro camadas: `Aplcação, Transporte, Internet` e `Rede`.
+
+Os protocolos da IEEE 802.15 foram desenvolvidos para as redes 
