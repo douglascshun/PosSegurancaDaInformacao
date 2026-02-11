@@ -11,4 +11,4 @@ O uso de anti-vírus e anti-spyware, cobre e reforça ainda mais as brechas que 
 
 
 - `Escolha cuidadosamente a rede sem fio que você irá se conectar`
-Redes abertas são um par
+Redes abertas são um parque de diversões para figuras má intencionadas, pois a grande maioria das vezes essas redes não possuem medidas de segurança, impedem ações maliciosas 
