@@ -4,4 +4,5 @@
 
 - Similar ao WEB
 - Chave Compartilhada
-- Troca de chaves automatizadas (Temporal Key Inte)
+- Troca de chaves automatizadas (Temporal Key Integrity Protocol - TKIP)
+- Vetor de inicialização de 48 bits
