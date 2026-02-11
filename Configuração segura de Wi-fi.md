@@ -31,5 +31,9 @@ O WPA foi desenhado para ser uma **atualização de software** para dispositivos
 
 
 
+
 	-`Troca de chaves automatizadas (Temporal Key Integrity Protocol - TKIP)`
+
+
+
 	-`Vetor de inicialização de 48 bits`
