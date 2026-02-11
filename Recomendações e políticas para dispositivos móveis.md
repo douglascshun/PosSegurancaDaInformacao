@@ -24,3 +24,6 @@ Controle remoto de Aplicações.
 
 # Recomendações e políticas para dispositivos móveis
 
+`O que é uma Comunicação sem fio?`
+- Conexão via infra-vermelho
+- Redes sem fio 802.11
