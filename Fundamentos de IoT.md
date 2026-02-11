@@ -7,4 +7,6 @@ Permitem conexão do mesmo a outros dispositivos, se valendo em geral de comunic
 
 ![[Internet das Coisas.png]]
 
-Estes dispositivos contêm um sistema operacional e no mínimo, uma aplicação. Em geral, essa permite 
+Estes dispositivos contêm um sistema operacional e no mínimo, uma aplicação. Em geral, essa permite acesso remoto de um ou mais controladores, sendo que estes dispositivos podem ser destinados a uso pessoal ou corporativo.
+
+Normalmente, não contam com aimplementação de mecanismos ou controles em segurança, tornando-os vulneráveis
