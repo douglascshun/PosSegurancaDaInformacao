@@ -6,4 +6,10 @@
 # 1 - Recomendações e políticas para dispositivos móveis
 Quais são os riscos em dispositivos móveis?
 
-# 2 - Riscos e ameaças associadas aos dispositivos m´
+# 2 - Riscos e ameaças associadas aos dispositivos móveis
+Principais ameaças aos dispositivos móveis. 
+
+# 3 - Boas Práticas de segurança para dispositivos móveis
+Como proteger os dispositivos móveis?
+
+4 -
