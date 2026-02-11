@@ -25,4 +25,7 @@ Em situações de emergências isso facilita a recuperação dos dados capturado
 - `Criptografe os dados armazenados`
 Em caso de roubo físico ou acesso remoto é uma barreria a mais direcionado as dados.
 
-- 
+- `Exclua completamente os dados sensíveis depois de utilizá-los`
+Nada de senhas salvas em conversas do Whatsapp ou situações semlhentas.
+
+- Utilize ferrament
