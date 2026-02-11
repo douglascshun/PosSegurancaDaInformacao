@@ -75,7 +75,7 @@ Vale destacar os pontos fracos:
 - **Ataques de Dicionário:** O maior risco. O invasor captura o "Four-Way Handshake" e tenta descobrir a senha offline usando força bruta.
 
 - **WPS (Wi-Fi Protected Setup):** Aquele botãozinho ou PIN de 8 dígitos. Se estiver ativo, ele permite que a PSK seja descoberta em minutos, ignorando a complexidade da senha.
-    
+
 - **KRACK Attack:** Uma vulnerabilidade descoberta em 2017 que explorava justamente o passo 3 do Handshake para reinstalar chaves já usadas.
 
 
