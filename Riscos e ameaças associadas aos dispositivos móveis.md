@@ -12,10 +12,9 @@
 
 # Sistemas Operacionais de Celulares
 
-- Android (Google)
-  
-  - iOS (Apple)
+- `Android (Google)`
+- `iOS (Apple)`
+- `HarmonyOS (Huawei)`
+- `HyperOS (Xiaomi)`
 
-- HarmonyOS (Huawei)
-
-- HyperOS (Xiaomi)`
+Quando falamos na escolha do sistema operacional de dispositivos móveis para as empre
