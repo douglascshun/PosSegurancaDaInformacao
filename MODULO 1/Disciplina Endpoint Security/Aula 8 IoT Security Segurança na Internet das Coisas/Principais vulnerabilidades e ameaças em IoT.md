@@ -8,3 +8,4 @@
 - Transferência e armazenamento de dados inseguros
 - Falta de gerenciamento de dispositivos
 
+![[Exemplo de dispositivos detectados.png]]
