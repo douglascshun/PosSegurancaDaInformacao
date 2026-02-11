@@ -12,4 +12,7 @@ Principais ameaças aos dispositivos móveis.
 # 3 - Boas Práticas de segurança para dispositivos móveis
 Como proteger os dispositivos móveis?
 
-4 -
+# 4 - Configuração segura de Wi-Fi 
+Rede Wi-fi e segurança.
+
+# 5 - Soluções de gerenciamento e mon
