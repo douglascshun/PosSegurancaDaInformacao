@@ -1,6 +1,7 @@
 
 [[Aula 7 Proteção de dispositivos móveis]]
 
+
 # Sumário
 
 # 1 - Recomendações e políticas para dispositivos móveis
@@ -15,4 +16,11 @@ Como proteger os dispositivos móveis?
 # 4 - Configuração segura de Wi-Fi 
 Rede Wi-fi e segurança.
 
-# 5 - Soluções de gerenciamento e mon
+# 5 - Soluções de gerenciamento e monitoramento remoto
+Controle remoto de Aplicações.
+
+
+
+
+# Recomendações e políticas para dispositivos móveis
+
