@@ -16,4 +16,7 @@ Redes abertas são um parque de diversões para figuras má intencionadas, pois 
 - `Utilizar senhas fortes e diferentes para serviços diferentes`
 Quando uma senha é vazada de algum lugar, vamos supor o e-mail. é fácil para o atacante usar a senha e e-mail vazado e tentar replicar para obter o acesso em outros lugares, como aplicativos de bancos e outros lugares com dados sensíveis.
 
--
+- `Mude imediatamente sua senha caso suspeite que ele atenha sido comprometida`
+Auto explicativo
+
+- `Mantenha backup's a
