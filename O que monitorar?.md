@@ -3,7 +3,7 @@
 ## Camada 7 - Aplicações
 
 - `HTTP`
-Os critérios para
+Um exemplo é a quantidade de requisição pois se as requisições de 
 
 - `DNS`
 - `SSH`
