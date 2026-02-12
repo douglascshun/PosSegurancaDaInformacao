@@ -42,3 +42,5 @@ Supondo que esse gráfico seja de outra empresa e o pacote de internet contratad
 
 ![[Pasted image 20260212175340.png]]
 Esse exemplo do monitoramento de rede, onde é possível ver a tentativa de força bruta para obter acesso ao roteador
+
+# 4 - Prevenção de quedas no d
