@@ -50,3 +50,7 @@ Um exemplo disso é a telefonia IP, ela precisa de 150ms de latência, se ela po
 Essa latência não costuma ser um problema em outros exemplos como TCP ou E-mail. 
 
 Com o monitoramento da rede se é possível prever que haverá uma queda no desempenho da rede, no momento que a rede for tentar ser utilizada por voIP, ela apresentará latência. 
+
+# 5 - Redução de tempo e custo de TI
+
+Com o monitoramento é possível analisar onde é necessário o gerenciamento de tempo e recursos
