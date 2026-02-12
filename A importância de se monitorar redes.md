@@ -38,3 +38,4 @@ Supondo que esse gráfico seja de outra empresa e o pacote de internet contratad
 
 ![[exemplo de economia por monitoramento 2.png]]
 
+# 3 - Maior Segurança
