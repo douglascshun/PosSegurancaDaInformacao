@@ -6,13 +6,14 @@
 - `Passivo`
 
 
- `Ativo:`
+ # Ativo:
   Fornece respostas instantâneas mas, não monitora a todo momento somente quando solicitado, é bom para monitoramento planejado e ao longo do tempo.
+  
 `Exemplos:`
 - SNMP (Simple Network Protocolo)
 Usado em monitoramento de redes fornece dados sobre como está o dispositivo, uso do processador, rede, hd. O protocolo funciona por meio de códigos, onde cada código fornece um dado, como código 1 para o status da CPU, código 2 para o status da conexão de rede e ai vai...
 
-- ICMP
+- ICMP (Internet )
 
 
 - SSH
