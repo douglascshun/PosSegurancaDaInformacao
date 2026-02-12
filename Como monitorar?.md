@@ -6,4 +6,7 @@
 - `Passivo`
 
 
- `Ativo:` Fornece respostas instantâneas mas, não monitora a todo momento somente quando solicitado, é bom para monitoramento pl
+ `Ativo:` Fornece respostas instantâneas mas, não monitora a todo momento somente quando solicitado, é bom para monitoramento planejado e ao longo do tempo.
+
+
+ `Passivo`:
