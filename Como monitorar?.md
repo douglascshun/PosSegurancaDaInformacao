@@ -6,7 +6,7 @@
 - `Passivo`
 
 
- # Ativo:
+# Ativo:
   Fornece respostas instantâneas mas, não monitora a todo momento somente quando solicitado, é bom para monitoramento planejado e ao longo do tempo.
   
 `Exemplos:`
@@ -19,5 +19,12 @@ Responsável por varias ferramentas uteis como o ping
 - SSH
 Usado para acessar maquinas, o que fornece ativamente dados de qualquer dispositivo que tenha conexão via SSH estabelecida
 
- `Passivo`: Fornece monitoramento contínuo, ou seja a todo momento.
- - `Exemplos:`
+
+# Passivo: 
+
+Fornece monitoramento contínuo, ou seja a todo momento.
+
+
+- `Exemplos:`
+
+- S
