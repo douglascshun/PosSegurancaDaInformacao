@@ -47,6 +47,7 @@ Confiável
 
 Monitorar as portas abertas e fechadas em cada um dos dois
 
+
 # Camada 3 - Rede
 
 - `IPv4
@@ -60,4 +61,11 @@ Monitorar o protocolo de mensagens
 Protocolo de Grupos
 
 - `X.25`
-Protocolo antigo que se era utilizado em ope
+Protocolo antigo que se era utilizado em operações de cartões de credito.
+
+
+# Camada 2 - Link Dados
+
+- `Ethernet 802.3`
+- `Wi-Fi 802.11`
+- `PPP`
