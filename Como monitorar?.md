@@ -25,6 +25,7 @@ Usado para acessar maquinas, o que fornece ativamente dados de qualquer disposit
 Fornece monitoramento contínuo, ou seja a todo momento.
 
 
-- `Exemplos:`
+ `Exemplos:`
 
-- S
+- SNMP (Simple Network Protocolo)
+- 
