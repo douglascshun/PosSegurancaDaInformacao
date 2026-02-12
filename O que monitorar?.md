@@ -67,5 +67,10 @@ Protocolo antigo que se era utilizado em operações de cartões de credito.
 # Camada 2 - Link Dados
 
 - `Ethernet 802.3`
+
+
 - `Wi-Fi 802.11`
+Protocolos no wifi
+
 - `PPP`
+VPN
