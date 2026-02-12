@@ -20,6 +20,6 @@ O protocolo que faz voIP, se monitorado é possível prever quedas em serviços 
 # Camada 6 - Apresentação
 
 - TLS
-
-
 - SSL
+
+A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois protocolos que exercem esse papel
