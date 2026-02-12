@@ -27,4 +27,4 @@ Fornece monitoramento contínuo, ou seja a todo momento.
 
  `Exemplos:`
 - SNMP (Simple Network Protocolo)
- Sim novamente ele, ativo e passivo. Ele permite o uso do chamado trap SNMP, que faz com que ao chegar em determinado estado o servidor
+ Sim novamente ele, ativo e passivo. Ele permite o uso do chamado trap SNMP, que faz com que ao chegar em determinado estado o servidor busco o servidor para mandar uma mensagem
