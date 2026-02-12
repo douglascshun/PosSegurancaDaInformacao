@@ -51,7 +51,13 @@ Monitorar as portas abertas e fechadas em cada um dos dois
 
 - `IPv4
 - `IPv6`
-- `ICMP`
-- `IGMP`
-- `X.25`
+Parâmetros
 
+- `ICMP`
+Monitorar o protocolo de mensagens 
+
+- `IGMP`
+Protocolo de Grupos
+
+- `X.25`
+Protocolo antigo que se era utilizado em ope
