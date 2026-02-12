@@ -27,4 +27,5 @@ Fornece monitoramento contínuo, ou seja a todo momento.
 
  `Exemplos:`
 - SNMP (Simple Network Protocolo)
- Sim novamente ele, ativo e passivo. Ele permite o uso do chamado trap SNMP, que faz com que ao chegar em determinado estado o servidor busco o servidor para mandar uma mensagem
+Traps SNMP são mensagens assíncronas enviadas proativamente por dispositivos de rede (agentes) para um sistema de gerenciamento (NMS) na porta UDP 162 para notificar eventos urgentes em tempo real, como falhas de hardware, alterações de configuração ou quedas de interface. 
+
