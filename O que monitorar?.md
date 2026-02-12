@@ -30,7 +30,6 @@ A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois 
 Uma página HTTP, não tem uma conexão solo, ela tem várias conexões dento da página como, Banner, Videos.. muitas vezes  cada um desses levando a servidores diferentes, se todas essas conexões fossem feitas soltas iria-se gastar muito recurso do processador, então se é o usado o SCP, protocolo esse que cria uma conexão como um túnel, diminuindo o fluxo de processamento. Se é interessante monitorar esse recurso pois, se um servidor tiver muitas requisições é mais fácil chegar a raiz do problemas, como botnets feitas por um atacante, as vezes o servidor mal configurado.. 
 
 - RTCP
-O RTCP é um protocolo de comunicação em tempo real, ele por si só, já avalia, latência, perda de pacote.. pois é um protocolo que já é feito para isso, comunicações em tempo real, e isso tras 
+O RTCP é um protocolo de comunicação em tempo real, ele por si só, já avalia, latência, perda de pacote.. pois é um protocolo que já é feito para isso, comunicações em tempo real, e isso trás exigências, então com o monitoramento desse protocolo você já consegue obter essas informações.
 
 - NetBIOS
-
