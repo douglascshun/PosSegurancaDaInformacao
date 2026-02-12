@@ -26,6 +26,5 @@ Fornece monitoramento contínuo, ou seja a todo momento.
 
 
  `Exemplos:`
-
 - SNMP (Simple Network Protocolo)
-- 
+ Sim novamente ele, ativo e passivo. Ele permite o uso do chm
