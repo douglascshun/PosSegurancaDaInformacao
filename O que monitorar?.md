@@ -27,7 +27,7 @@ A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois 
 # Camada 5 - Sessão
 
 - SCP
-Uma página HTTP, não tem uma conexão solo, ela tem várias conexões dento da página como, Banner, Videos.. cad
+Uma página HTTP, não tem uma conexão solo, ela tem várias conexões dento da página como, Banner, Videos.. muitas vezes  cada um desses levando a servidores diferentes, se todas essas conexões fossem f
 
 - RTCP
 
