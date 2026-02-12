@@ -79,5 +79,9 @@ VPN
 # Camada 1 - Física
 
 - ` 100Base-TX`
+Cabo ethernet
 
-- `R
+- `RS-232`
+Conexões seriais
+
+- `USB`
