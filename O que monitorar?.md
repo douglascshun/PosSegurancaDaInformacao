@@ -6,8 +6,8 @@
 Um exemplo é a quantidade de requisição pois se as requisições de acesso ao meu servidor forem maior do que a quantidade permitida e configurada o servidor começará a apresentar problemas
 
 - `DNS`
-Segue o mesmo principio pois também é necessário um servidor 
-
+Segue o mesmo principio pois também é necessário um servidor para fazer a transformação de IP (192.168.x.x) em um WWW da vida 
+ 
 - `SSH`
 - `E-mail`
 - `SIP`
