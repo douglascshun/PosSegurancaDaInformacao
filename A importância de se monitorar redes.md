@@ -45,4 +45,4 @@ Esse exemplo do monitoramento de rede, onde é possível ver a tentativa de for�
 
 # 4 - Prevenção de quedas no desempenho da rede
 
-Um exemplo disso é a telefonia IP, ela precisa de 150ms de latência, se ela possuir mais latência do que isso, ela
+Um exemplo disso é a telefonia IP, ela precisa de 150ms de latência, se ela possuir mais latência do que isso, será apresentado eco por problemas em falta de sincronismo na liga
