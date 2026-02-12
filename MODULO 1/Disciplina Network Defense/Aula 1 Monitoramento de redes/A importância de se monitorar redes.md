@@ -40,7 +40,7 @@ Supondo que esse gráfico seja de outra empresa e o pacote de internet contratad
 
 # 3 - Maior Segurança
 
-![[Pasted image 20260212175340.png]]
+![[Monitoramento de ataque de forca bruta.png]]
 Esse exemplo do monitoramento de rede, onde é possível ver a tentativa de força bruta para obter acesso ao roteador
 
 # 4 - Prevenção de quedas no desempenho da rede
@@ -53,4 +53,4 @@ Com o monitoramento da rede se é possível prever que haverá uma queda no dese
 
 # 5 - Redução de tempo e custo de TI
 
-Com o monitoramento é possível analisar onde é necessário o gerenciamento de tempo e recursos
+Com o monitoramento é possível analisar onde é necessário o gerenciamento de tempo e recursos para a implementações
