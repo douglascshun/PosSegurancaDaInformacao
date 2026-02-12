@@ -22,4 +22,4 @@ O protocolo que faz voIP, se monitorado é possível prever quedas em serviços 
 - TLS
 - SSL
 
-A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois protocolos que exercem esse papel
+A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois protocolos que exercem esse papel, sendo o TLS mais antigo o SSL mais novo. se é possível implementar o monitoramento de certificados, vendo se eles não estão vencidos, o que sendo o c
