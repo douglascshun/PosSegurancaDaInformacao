@@ -9,7 +9,9 @@
  `Ativo:`
   Fornece respostas instantâneas mas, não monitora a todo momento somente quando solicitado, é bom para monitoramento planejado e ao longo do tempo.
 `Exemplos:`
-- SNMP (Simple Network)
+- SNMP (Simple Network Protocolo)
+Usado em monitoramento de redes fornece dados sobre como está o dispositivo, 
+
 - ICMP
 - SSH
 
