@@ -17,12 +17,14 @@ O e-mail diferente dos anteriores é tolerante a atrasos, porém pode-se ter com
 - `SIP`
 O protocolo que faz voIP, se monitorado é possível prever quedas em serviços de telefone IP.
 
+
 # Camada 6 - Apresentação
 
 - TLS
 - SSL
 
 A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois protocolos que exercem esse papel, sendo o TLS mais antigo o SSL mais novo. se é possível implementar o monitoramento de certificados, vendo se quem os assinou, qual a origem, o que sendo o caso abriria um vetor de ataque ao atacante se os certificados forem negligenciados.
+
 
 # Camada 5 - Sessão
 
@@ -34,3 +36,8 @@ O RTCP é um protocolo de comunicação em tempo real, ele por si só, já avali
 
 - NetBIOS
 Um protocolo criado pela Microsoft para facilitar o compartilhamento de arquivos, porém a segurança dele é muito baixa por se tratar de um protocolo de criação de rede para usuários que não entendem tanto do assunto, por isso se é interessante monitorar ele para não ocorrer na exposição de dados sensíveis por meio deste.
+
+# Camada 4 - Transporte
+
+- UDP
+- TCP
