@@ -33,4 +33,4 @@ Uma página HTTP, não tem uma conexão solo, ela tem várias conexões dento da
 O RTCP é um protocolo de comunicação em tempo real, ele por si só, já avalia, latência, perda de pacote.. pois é um protocolo que já é feito para isso, comunicações em tempo real, e isso trás exigências, então com o monitoramento desse protocolo você já consegue obter essas informações.
 
 - NetBIOS
-Um protocolo criado pela Microsoft para facilitar o compartilhamento de arquivos, porém a segurança dele é
+Um protocolo criado pela Microsoft para facilitar o compartilhamento de arquivos, porém a segurança dele é muito baixa por se tratar de um protocolo de criação de rede para usuários que não entendem tanto do assunto, por isso se é interessante monitorar ele para não ocorrer na exposição de dados sensíveis por meio deste.
