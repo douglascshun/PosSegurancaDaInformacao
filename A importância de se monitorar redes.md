@@ -30,4 +30,7 @@ Por meio da analise do gráfico se é possível analisar que antes de outubro a 
 
 ![[Pico de consumo.png]]
 
-# Econom
+# 2 -Economia Financeira
+
+![[Pasted image 20260212174743.png]]
+
