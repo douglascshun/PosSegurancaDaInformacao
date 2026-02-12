@@ -27,6 +27,10 @@ A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois 
 # Camada 5 - Sessão
 
 - SCP
+O http, não 
+
 - RTCP
+
+
 - NetBIOS
 
