@@ -18,3 +18,8 @@ Quais os sistemas disponíveis no mercado?
 ### 5 - Erros comuns em monitoramento de redes
 Quais os erros que as pessoas mais cometem?
 
+
+
+# A importância de se monitorar redes 5 motivos:
+
+### 1 - Análise de Tendências
