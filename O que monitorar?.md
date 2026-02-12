@@ -50,4 +50,8 @@ Monitorar as portas abertas e fechadas em cada um dos dois
 # Camada 3 - Rede
 
 - `IPv4
-- IPv6
+- `IPv6`
+- `ICMP`
+- `IGMP`
+- `X.25`
+
