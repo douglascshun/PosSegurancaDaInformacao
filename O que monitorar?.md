@@ -15,4 +15,5 @@ Monitorar acessos indevidos pois o SSH assim com o TELNET é um protocolo para a
 O e-mail diferente dos anteriores é tolerante a atrasos, porém pode-se ter como implemento o monitoramento de Spam.
 
 - `SIP`
-O protocolo que faz voIP, se monitorado é possível prever quedas em serviço
+O protocolo que faz voIP, se monitorado é possível prever quedas em serviços de telefone IP.
+
