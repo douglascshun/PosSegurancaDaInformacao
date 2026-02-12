@@ -40,7 +40,14 @@ Um protocolo criado pela Microsoft para facilitar o compartilhamento de arquivos
 # Camada 4 - Transporte
 
 - `UDP`
+Não confiável
 
 - `TCP`
+Confiável
 
 Monitorar as portas abertas e fechadas em cada um dos dois
+
+# Camada 3 - Rede
+
+- `IPv4
+- IPv6
