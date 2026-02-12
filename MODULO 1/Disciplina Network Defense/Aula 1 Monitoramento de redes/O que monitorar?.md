@@ -85,3 +85,4 @@ Cabo ethernet
 Conexões seriais
 
 - `USB`
+Monitorar o imput de pendrives..
