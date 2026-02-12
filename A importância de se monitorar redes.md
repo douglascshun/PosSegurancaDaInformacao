@@ -28,3 +28,6 @@ Quais os erros que as pessoas mais cometem?
 
 Por meio da analise do gráfico se é possível analisar que antes de outubro a empresa precisa atualizar a largura de banda para não exceder o consumo limite estabelecido pelo fornecedor:
 
+![[Pico de consumo.png]]
+
+# Econom
