@@ -12,3 +12,8 @@ Quais são os itens que se deve monitorar?
 Como se implementar o monitoramento?
 
 # 4 - Principais ferramentas de monitoramento
+Quais os sistemas disponíveis no mercado?
+
+# 5 - Erros comuns em monitoramento de redes
+Quais os erros que as pessoas mais cometem?
+
