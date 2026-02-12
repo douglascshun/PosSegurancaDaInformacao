@@ -17,6 +17,7 @@ Usado em monitoramento de redes fornece dados sobre como está o dispositivo, us
 Responsável por varias ferramentas uteis como o ping
 
 - SSH
+Usado para acessar maquinas, o que fornece ativamente dados de qualquer dispositivo que tenha conexão via SSH estabelecida
 
  `Passivo`: Fornece monitoramento contínuo, ou seja a todo momento.
  - `Exemplos:`
