@@ -14,7 +14,7 @@
 Usado em monitoramento de redes fornece dados sobre como está o dispositivo, uso do processador, rede, hd. O protocolo funciona por meio de códigos, onde cada código fornece um dado, como código 1 para o status da CPU, código 2 para o status da conexão de rede e ai vai...
 
 - ICMP (Internet Control Message Protocol)
-Respon´
+Responsável por varias ferramentas uteis como o ping
 
 - SSH
 
