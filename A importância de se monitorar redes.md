@@ -34,4 +34,4 @@ Por meio da analise do gráfico se é possível analisar que antes de outubro a 
 
 ![[Pasted image 20260212174743.png]]
 
-Supondo que esse gráfico seja de outra empresa e o pacote de internet contratado seja de 1 GB, é possível analisar que o consu
+Supondo que esse gráfico seja de outra empresa e o pacote de internet contratado seja de 1 GB, é possível analisar que o consumo está muito inferior ao pacote contratado, o que sugere que pode haver uma economia 
