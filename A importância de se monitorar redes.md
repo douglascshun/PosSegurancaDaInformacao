@@ -23,3 +23,6 @@ Quais os erros que as pessoas mais cometem?
 # A importância de se monitorar redes 5 motivos:
 
 ### 1 - Análise de Tendências
+
+![[Análise de Tendências.png]]
+
