@@ -26,4 +26,5 @@ Quais os erros que as pessoas mais cometem?
 
 ![[Análise de Tendências.png]]
 
-Por meio da analise do gráfico se é possível analisar que antes de outubro a empr
+Por meio da analise do gráfico se é possível analisar que antes de outubro a empresa precisa atualizar a largura de banda para não exceder o consumo limite estabelecido pelo fornecedor:
+
