@@ -3,6 +3,8 @@
 ## Camada 7 - Aplicações
 
 - `HTTP`
+Os critérios para
+
 - `DNS`
 - `SSH`
 - `E-mail`
