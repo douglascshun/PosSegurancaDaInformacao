@@ -12,7 +12,7 @@ Segue o mesmo principio pois também é necessário um servidor para fazer a tra
 Monitorar acessos indevidos pois o SSH assim com o TELNET é um protocolo para acessar dispositivos, acessos indevidos podem ser bloqueados e mitigados com o monitoramento desse recurso 
 
 - `E-mail`
-
+O e-mail diferente dos anteriores é tolerante a atrasos, porém pode-se ter como implemento o monitoramento de Spam
 
 - `SIP`
 
