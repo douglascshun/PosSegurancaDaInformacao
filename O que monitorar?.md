@@ -22,4 +22,11 @@ O protocolo que faz voIP, se monitorado é possível prever quedas em serviços 
 - TLS
 - SSL
 
-A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois protocolos que exercem esse papel, sendo o TLS mais antigo o SSL mais novo. se é possível implementar o monitoramento de certificados, vendo se quem os assinou, qual a origem, o que sendo o caso abriria um vetor de ataque ao atacante 
+A camada que principalmente faz a criptografia dos dados, o TLS e SSL são dois protocolos que exercem esse papel, sendo o TLS mais antigo o SSL mais novo. se é possível implementar o monitoramento de certificados, vendo se quem os assinou, qual a origem, o que sendo o caso abriria um vetor de ataque ao atacante se os certificados forem negligenciados.
+
+# Camada 5 - Sessão
+
+- SCP
+- RTCP
+- NetBIOS
+
