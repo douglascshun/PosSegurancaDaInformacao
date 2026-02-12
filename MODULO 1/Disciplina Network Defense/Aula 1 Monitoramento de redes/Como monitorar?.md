@@ -29,3 +29,5 @@ Fornece monitoramento contínuo, ou seja a todo momento.
 - SNMP (Simple Network Protocolo)
 Traps SNMP são mensagens assíncronas enviadas proativamente por dispositivos de rede (agentes) para um sistema de gerenciamento (NMS) na porta UDP 162 para notificar eventos urgentes em tempo real, como falhas de hardware, alterações de configuração ou quedas de interface. 
 
+- Agent
+Programa que monitora um parâmetro para notificar caso algo aconteça.
