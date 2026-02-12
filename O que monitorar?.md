@@ -18,3 +18,8 @@ O e-mail diferente dos anteriores é tolerante a atrasos, porém pode-se ter com
 O protocolo que faz voIP, se monitorado é possível prever quedas em serviços de telefone IP.
 
 # Camada 6 - Apresentação
+
+- TLS
+
+
+- SSL
