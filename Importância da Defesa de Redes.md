@@ -21,3 +21,5 @@ Lei Geral da Proteção de Dados Pessoais (LGPD)
 	VII - Segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acesso não autorizados e de situações acidentais ou ilícitasde destruição, perdas, alteração, comunicação ou difusão;
 	
 	VII - Prevenção: adoção de medidas para previnir a ocorrência de danos em virtude do  tratamento de dados pessoais;
+	
+	X - Responsabilização e prestação de contas: demonstração, pelo agente da adoção de medidas efica
