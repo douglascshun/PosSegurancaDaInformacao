@@ -2,5 +2,4 @@
 # Zabbix
 
 ![[Zabbix.png]]
-
-Ferramenta q
+Ferramenta (Open Source)que monitora, servidores, sites, redes, dispositivos,
