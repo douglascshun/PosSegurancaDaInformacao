@@ -11,3 +11,5 @@ Saiba que muitas das informações só são apresentadas em telas de log, eles s
 
 - `Negligenciar as principais atualizações de rede:`
 Atualize, busque novas ferramentas. Ao deixar de atualizar ferramentas você perde a proteção de novas vulnerabilidades que são exploradas por atacantes.
+
+- `Não impor praticas de higiene social aos usuários:`
