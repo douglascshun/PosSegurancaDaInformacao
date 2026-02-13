@@ -15,6 +15,6 @@ Faz o mesmo que o Zabbix o problema é ser mantido pela comunidade e possuir uma
 
 
 
-	Os banco de dados do Cacti, Nagio e Zabbix, são banco de dados abertos, isso signifíca que podem ser contextados júridicamente, ou seja, por conta de os dados serem armazenado
+	Os banco de dados do Cacti, Nagio e Zabbix, são banco de dados abertos, isso signifíca que podem ser contextados júridicamente, ou seja, por conta de os dados serem armazenados por você, eles podem ser modifícados propositalmente, causando alguma falha ou algum outro problema com os dados 
 # PRTG
 ![[PRTG.png]]
