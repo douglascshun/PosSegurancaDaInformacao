@@ -23,4 +23,7 @@ A rede de câmeras usa um tipo de conexão diferente,  as câmeras se conectam a
 
 
 # Rede Mista
+
 ![[Rede Mista.png]]
+
+Esse tipo de rede tem uma interconexão com outros tipos de rede
