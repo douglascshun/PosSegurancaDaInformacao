@@ -17,4 +17,7 @@ III - Proteção dos dados pessoais, na forma da lei;
 Lei Geral da Proteção de Dados Pessoais (LGPD)
 
 	Art. 6° As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:
-	VII - Segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acesso não autorizados e de situações acidentais ou ilícitasde destruição, perdas, alteração, comunicação ou 
+	
+	VII - Segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acesso não autorizados e de situações acidentais ou ilícitasde destruição, perdas, alteração, comunicação ou difusão;
+	
+	VII - Prevenção: adoção de medidas para previnir a ocorrência de danos em virtude do  tratamento de dados pessoais;
