@@ -9,4 +9,5 @@ A rede é uma ferramenta da empresa, não deixe de lado o monitoramento das apli
 - `Não coletar e analisar logs:`
 Saiba que muitas das informações só são apresentadas em telas de log, eles são a maior fonte de informação
 
-- Negligenciar as ´
+- `Negligenciar as principais atualizações de rede:`
+Atualize, busque novas ferramentas. Ao deixar de atualizar ferramentas você perde a proteção de novas vulnerabilidades que são exploradas por atacantes.
