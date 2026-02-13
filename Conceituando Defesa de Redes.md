@@ -18,4 +18,4 @@ Na rede telefônica os dispositivos se conectam por meio de um PBX (Private Bran
 
 ![[Rede de cameras.png]]
 
-A rede de câmeras usa um tipo de conexão diferente,  as câmeras se conectam ao DVR esse apa
+A rede de câmeras usa um tipo de conexão diferente,  as câmeras se conectam ao DVR esse aparelho se coneta a um monitor ou televisão para exibir as imagens e permitir a configuração, além disso alguns tipos de DVR permite ser contados a internet para moni
