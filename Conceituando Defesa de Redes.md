@@ -6,4 +6,5 @@
 
 # Tipos de rede - Telefonia
 
-![[Pasted image 20260213175745.png]]Na rede telefônica os dispositivos se conectam por meio de um PBX (Private Branch Exchange), porem essa rede pode ser interceptada, permitindo que atacantes por meio do acesso ao cabo conectem-se a linha do telefone ao PBX e escult
+![[Rede telefonica.png]]Na rede telefônica os dispositivos se conectam por meio de um PBX (Private Branch Exchange), porem essa rede pode ser interceptada, permitindo que atacantes por meio do acesso ao cabo conectem-se a linha do telefone ao PBX e escultem as conversas como no seguinte exemplo:
+![[Pasted image 20260213180001.png]]
