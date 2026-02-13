@@ -6,4 +6,7 @@ O monitoramento não é feito para reagir, é feito para você antecipar, prever
 - `Não assistir dispositivos e aplicações:`
 A rede é uma ferramenta da empresa, não deixe de lado o monitoramento das aplicações da rede pois elas são o que fornecem dinheiro a empresa (foco no dinheiro).
 
-- Não coletar e analisar logs:`
+- `Não coletar e analisar logs:`
+Saiba que muitas das informações só são apresentadas em telas de log, eles são a maior fonte de informação
+
+- Negligenciar as ´
