@@ -26,4 +26,6 @@ Lei Geral da Proteção de Dados Pessoais (LGPD)
 
 	Seção I - Das Sanções Administrativas
 	
-	Art. 52. Os agentes de tratamento de dados, em razão das infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguintes sanções administrativas aplicá
+	Art. 52. Os agentes de tratamento de dados, em razão das infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguintes sanções administrativas aplicáveis pela autoridade nacional:
+	
+	II - Multa simples, de até 2% (dois por cento) do faturamento da pessoa jur´dica de direito privado, grupo ou c
