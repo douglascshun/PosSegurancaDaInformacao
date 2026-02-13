@@ -4,3 +4,4 @@
 O monitoramento não é feito para reagir, é feito para você antecipar, prever. O objetivo não é reagir, é evitar.
 
 - Não assistir dispositivos e aplicações:
+A rede é u
