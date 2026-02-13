@@ -11,4 +11,4 @@ Faz o mesmo que o Zabbix o problema é ser mantido pela comunidade e possuir uma
 
 # Cacti
 ![[Cacti.png]]
-é usado para fazer gráficos, vários
+é usado para fazer gráficos, vários softwares utilizam ele como os próprios Zabbix e Nagio, sua vantagem é usar o banco de dados  
