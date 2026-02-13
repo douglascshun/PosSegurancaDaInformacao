@@ -1,4 +1,4 @@
-
+[[Aula 1 Monitoramento de redes]]
 # Zabbix
 
 ![[Zabbix.png]]
