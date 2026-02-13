@@ -6,4 +6,5 @@ Ferramenta (Open Source)que monitora, servidores, sites, redes, dispositivos usa
 
 # Nagio
 ![[Pasted image 20260213162506.png]]
-faz o mesmo que o 
+Faz o mesmo que o Zabbix o problema é ser mantido pela comunidade e possuir uma interface menos amigável. 
+
