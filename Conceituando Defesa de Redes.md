@@ -22,4 +22,4 @@ A rede de câmeras usa um tipo de conexão diferente,  as câmeras se conectam a
 
 
 
-# Rede Mista
+# Rede Mista![[Captura de tela_2026-02-13_18-07-31.xcf]]
