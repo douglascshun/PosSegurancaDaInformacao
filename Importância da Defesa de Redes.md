@@ -14,4 +14,6 @@ III - Proteção dos dados pessoais, na forma da lei;
 # Lei n°13.709
 
 14 de Agosto de 2018
-Lei Geral da Proteção de Dados P
+Lei Geral da Proteção de Dados Pessoais (LGPD)
+
+	Art
