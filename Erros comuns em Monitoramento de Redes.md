@@ -13,4 +13,4 @@ Saiba que muitas das informações só são apresentadas em telas de log, eles s
 Atualize, busque novas ferramentas. Ao deixar de atualizar ferramentas você perde a proteção de novas vulnerabilidades que são exploradas por atacantes.
 
 - `Não impor praticas de higiene social aos usuários:`
-Existem usuários não vão gostar das novas implementações das práticas, mas em hipótese alguma deixar de aplicalas.
+Existem usuários não vão gostar das novas implementações das práticas, mas em hip
