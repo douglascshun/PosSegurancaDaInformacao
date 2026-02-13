@@ -37,7 +37,10 @@ Lei Geral da Proteção de Dados Pessoais (LGPD)
 
 # CERT.br
 
-![[Pasted image 20260213184128.png]]
+![[CERT.png]]
 Site que publica os incidentes no Brasil.
 
 # CGI.br
+
+![[Pasted image 20260213184350.png]]
+Site que publica os incidentes no Brasil a cada ano.
