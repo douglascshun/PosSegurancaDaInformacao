@@ -23,3 +23,5 @@ Lei Geral da Proteção de Dados Pessoais (LGPD)
 	VII - Prevenção: adoção de medidas para previnir a ocorrência de danos em virtude do  tratamento de dados pessoais;
 	
 	X - Responsabilização e prestação de contas: demonstração, pelo agente da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dadospessais e, inclusive, da eficácia dessas medidas.
+
+	Seção 
