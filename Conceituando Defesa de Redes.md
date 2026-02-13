@@ -16,4 +16,6 @@ Na rede telefônica os dispositivos se conectam por meio de um PBX (Private Bran
 
 # Tipos de Rede - CFTV
 
-![[Pasted image 20260213180220.png]]
+![[Rede de cameras.png]]
+
+A rede de câmeras usa um tipo de conexão diferente,  as câmeras se conectam ao DVR esse apa
