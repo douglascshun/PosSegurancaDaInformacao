@@ -25,4 +25,5 @@ Lei Geral da Proteção de Dados Pessoais (LGPD)
 	X - Responsabilização e prestação de contas: demonstração, pelo agente da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dadospessais e, inclusive, da eficácia dessas medidas.
 
 	Seção I - Das Sanções Administrativas
-		
+	
+	Art. 52. Os agentes de tratamento de dados, em razão das infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguintes sanções administrativas aplicá
