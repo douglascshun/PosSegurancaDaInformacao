@@ -24,8 +24,9 @@ Lei Geral da Proteção de Dados Pessoais (LGPD)
 	
 	X - Responsabilização e prestação de contas: demonstração, pelo agente da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dadospessais e, inclusive, da eficácia dessas medidas.
 
+
 	Seção I - Das Sanções Administrativas
 	
 	Art. 52. Os agentes de tratamento de dados, em razão das infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguintes sanções administrativas aplicáveis pela autoridade nacional:
 	
-	II - Multa simples, de até 2% (dois por cento) do faturamento da pessoa jur´dica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$50.000.000,00 (cinquenta mil)
+	II - Multa simples, de até 2% (dois por cento) do faturamento da pessoa jur´dica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$50.000.000,00 (cinquenta milhões de reais) por infração.
