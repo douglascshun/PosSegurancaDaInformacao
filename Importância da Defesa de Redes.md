@@ -42,5 +42,5 @@ Site que publica os incidentes no Brasil.
 
 # CGI.br
 
-![[Pasted image 20260213184350.png]]
+![[CGI.png]]
 Site que publica os incidentes no Brasil a cada ano.
