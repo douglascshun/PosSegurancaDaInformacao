@@ -34,6 +34,8 @@ Lei Geral da Proteção de Dados Pessoais (LGPD)
 	IV - publicalização da infração após devidamente apurada e confirmada a sua ocorrência;
 
 
+
 # CERT.br
 
 ![[Pasted image 20260213184128.png]]
+Site que publica os incidentes no Brasil.
