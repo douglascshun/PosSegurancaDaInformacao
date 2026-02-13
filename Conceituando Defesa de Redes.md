@@ -16,3 +16,4 @@ Na rede telefônica os dispositivos se conectam por meio de um PBX (Private Bran
 
 # Tipos de Rede - CFTV
 
+![[Pasted image 20260213180220.png]]
