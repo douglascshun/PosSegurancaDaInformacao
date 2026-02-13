@@ -16,4 +16,4 @@ III - Proteção dos dados pessoais, na forma da lei;
 14 de Agosto de 2018
 Lei Geral da Proteção de Dados Pessoais (LGPD)
 
-	Art
+	Art. 6° As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípo
