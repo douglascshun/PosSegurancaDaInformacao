@@ -36,7 +36,7 @@ Protocolos de Roteamento:Implementar autenticação em protocolos como OSPF ou B
 
 Não basta proteger o roteador; é preciso dividir a rede para conter danos.
 
-VLANs (Virtual LANs):Isolar o tráfego de diferentes departamentos (ex: Financeiro separado do Wi-Fi de Visitantes).
+VLANs (Virtual LANs): Isolar o tráfego de diferentes departamentos (ex: Financeiro separado do Wi-Fi de Visitantes).
 
 DMZ (Zona Desmilitarizada): Uma sub-rede isolada que contém os serviços externos da empresa (servidor web, e-mail), agindo como um "tampão" entre a internet pública e a rede interna privada.
 
