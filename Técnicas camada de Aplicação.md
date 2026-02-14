@@ -2,4 +2,4 @@
 
 # HTTP
 
-O protocolo mais importante da camada de aplicação. Recomenda-se a impl
+O protocolo mais importante da camada de aplicação. Recomenda-se a implementação de SSL ou TLS o que impl
