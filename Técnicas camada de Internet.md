@@ -3,3 +3,5 @@
 # Camada de Internet 
 
 - `IPv4` e `IPv6`:
+
+Ambos protocolos são diferentes e I
