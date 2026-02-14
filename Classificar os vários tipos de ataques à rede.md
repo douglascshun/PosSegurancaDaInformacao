@@ -17,3 +17,5 @@ Exemplificado na figura acima podemos ver a situação em que a informação ou 
 
 # Interceptação:
 
+![[Interceptacao.png]]
+No exemplo acima vemos como 
