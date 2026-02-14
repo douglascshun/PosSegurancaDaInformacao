@@ -7,3 +7,4 @@ Esse outro caso, a JBS, empresa do setor de carnes pagou 11 milhões de Dólares
 
 
 ![[Caso Prefeitura do RJ.png]]
+A prefeitura do Rio de Janeiro sofreu um ataque que fez com que a mesma suspende-se os pagamentos 
