@@ -32,5 +32,8 @@ O Pacote deveria sair da origem e chegar ao destino, porém nessa situação o a
 # Fabricação:
 
 ![[Fabricacao.png]]
-Na figura acima, mostrada a situação de fabricação de dados, onde o atacante cria um dado/informação e envia ao destino da informação
+Na figura acima, mostrada a situação de fabricação de dados, onde o atacante cria um dado/informação e envia ao destino da informação. O atacante finge ser a origem. 
+
+
+# Resumo:
 
