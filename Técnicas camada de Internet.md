@@ -34,17 +34,16 @@ Não basta proteger o roteador; é preciso dividir a rede para conter danos.
 
 VLANs (Virtual LANs):Isolar o tráfego de diferentes departamentos (ex: Financeiro separado do Wi-Fi de Visitantes).
 
-DMZ (Zona Desmilitarizada):**Uma sub-rede isolada que contém os serviços externos da empresa (servidor web, e-mail), agindo como um "tampão" entre a internet pública e a rede interna privada.
-    
+DMZ (Zona Desmilitarizada): Uma sub-rede isolada que contém os serviços externos da empresa (servidor web, e-mail), agindo como um "tampão" entre a internet pública e a rede interna privada.
 
-### 4. Firewalls e Listas de Controle de Acesso (ACLs)
+- `Firewalls e Listas de Controle de Acesso (ACLs)`:
 
-- **ACLs de Entrada e Saída:** Regras que definem quais IPs e portas podem entrar ou sair da rede.
-    
-- **Stateful vs. Stateless:** Firewalls modernos (Stateful) acompanham o estado das conexões, sendo muito mais seguros que filtros de pacotes simples.
-    
+ACLs de Entrada e Saída: Regras que definem quais IPs e portas podem entrar ou sair da rede.
 
-### 5. IDS e IPS (Sistemas de Detecção e Prevenção)
+Stateful vs. Stateless: Firewalls modernos (Stateful) acompanham o estado das conexões, sendo muito mais seguros que filtros de pacotes simples.
+
+
+IDS e IPS (Sistemas de Detecção e Prevenção)
 
 - **IDS (Intrusion Detection System):** Monitora o tráfego e alerta sobre atividades suspeitas (passivo).
     
