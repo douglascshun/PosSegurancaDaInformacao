@@ -1,3 +1,5 @@
 [[Aula 3 Técnicas para proteção de redes]]
 
-# Fluxo B
+# Fluxo Normal da Informação:
+
+![[Fluxo Normal da Informação.png]]
