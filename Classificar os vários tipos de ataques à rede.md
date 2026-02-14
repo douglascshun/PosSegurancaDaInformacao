@@ -10,4 +10,4 @@ Se espera que o fluxo da informação siga como no caminho acima, porém nem sem
 # Interrupção:
 
 ![[Interrupcao.png]]
-Nesse exemplo 
+Exemplificado na figura acima podemos ver a situação em que a informação ou o dado é barrado/interrompido do seu ponto de inicial ao seu ponto de destino.
