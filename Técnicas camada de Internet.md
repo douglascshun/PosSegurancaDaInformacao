@@ -1,6 +1,8 @@
 [[Aula 3 Técnicas para proteção de redes]]
 
+
 # Camada de Internet 
+
 
 - ` Aprofundando em IPv4 e IPv6`:
 
@@ -28,6 +30,8 @@ Gerenciamento Out-of-Band (OOB):*Garantir que a interface de gerenciamento do ro
 Protocolos de Roteamento:Implementar autenticação em protocolos como OSPF ou BGP para evitar que vizinhos maliciosos injetem rotas falsas
 
 
+
+
 - `Segmentação de Rede (VLANs)`:
 
 Não basta proteger o roteador; é preciso dividir a rede para conter danos.
@@ -36,6 +40,8 @@ VLANs (Virtual LANs):Isolar o tráfego de diferentes departamentos (ex: Financei
 
 DMZ (Zona Desmilitarizada): Uma sub-rede isolada que contém os serviços externos da empresa (servidor web, e-mail), agindo como um "tampão" entre a internet pública e a rede interna privada.
 
+
+
 - `Firewalls e Listas de Controle de Acesso (ACLs)`:
 
 ACLs de Entrada e Saída: Regras que definem quais IPs e portas podem entrar ou sair da rede.
@@ -43,8 +49,10 @@ ACLs de Entrada e Saída: Regras que definem quais IPs e portas podem entrar ou 
 Stateful vs. Stateless: Firewalls modernos (Stateful) acompanham o estado das conexões, sendo muito mais seguros que filtros de pacotes simples.
 
 
-IDS e IPS (Sistemas de Detecção e Prevenção)
 
-- **IDS (Intrusion Detection System):** Monitora o tráfego e alerta sobre atividades suspeitas (passivo).
-    
-- **IPS (Intrusion Prevention System):** Toma medidas automáticas para bloquear o tráfego malicioso assim que detectado (ativo).
+
+`IDS e IPS (Sistemas de Detecção e Prevenção)`:
+
+IDS (Intrusion Detection System): Monitora o tráfego e alerta sobre atividades suspeitas (passivo).
+
+IPS (Intrusion Prevention System): Toma medidas automáticas para bloquear o tráfego malicioso assim que detectado (ativo).
