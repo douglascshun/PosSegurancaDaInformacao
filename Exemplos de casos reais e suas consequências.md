@@ -28,3 +28,4 @@ A prefeitura do Rio de Janeiro sofreu um ataque que fez com que a mesma suspende
 
 ![[Caso Record TV.png]]
 
+Todo o o acervo de vídeos da Record TV foi sequestrado por Hackers, onde foi imposta uma ameça aos dados criptogr
