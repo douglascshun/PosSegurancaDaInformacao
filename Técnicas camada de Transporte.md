@@ -19,4 +19,4 @@ Se você está configurando um firewall ou um servidor para se defender disso, a
 
 
 # UDP: 
-Esse protocolo é contraponto do TCP, esse por sua vez quebra a confiabilidade, ele não confirma o recebimento de informações 
+Esse protocolo é contraponto do TCP, esse por sua vez quebra a confiabilidade, ele não confirma o recebimento de informações, o que por sua vez torna ele mais rápido, permitindo o envio de informações em maior quantidade porém permite um ataque 
