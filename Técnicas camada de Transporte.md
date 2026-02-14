@@ -16,3 +16,7 @@ Se você está configurando um firewall ou um servidor para se defender disso, a
 - **Reciclagem de Conexões TCP semiabertas:** Forçar o descarte das conexões mais antigas para dar lugar a novas.
 
 - **Filtros de Firewall/IPS:** Bloquear IPs que estão disparando requisições em uma velocidade anormal ou usar firewalls que fazem o "proxy" do handshake (o firewall completa o handshake antes de passar para o servidor real).
+
+
+# UDP: 
+Esse protocolo é contraponto do 
