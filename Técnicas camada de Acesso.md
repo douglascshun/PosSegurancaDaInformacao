@@ -11,4 +11,4 @@ O roubo de dados, incluí o roubo físico de algo dentro da empresa, um atacante
 
 # Segurança Física dos equipamentos:
 
-O atacante conseguiu entrar na empresa é precisa pensar em medidas técnicas de segurança para impedir que o atacante consiga acessar o computador, o servidor, cabos de rede. Por meio de cadeados, salas trancadas, con
+O atacante conseguiu entrar na empresa é precisa pensar em medidas técnicas de segurança para impedir que o atacante consiga acessar o computador, servidor, cabos de rede, Switch instalados. Por meio de por  exemplo cadeados, salas trancadas e conduítes por 
