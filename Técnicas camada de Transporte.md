@@ -1,4 +1,4 @@
 [[Aula 3 Técnicas para proteção de redes]]
 
 - `TCP`:
-Para a proteção desse protocolo
+A Característica desse protocolo é a confiabilidade. 
