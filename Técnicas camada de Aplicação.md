@@ -9,3 +9,6 @@ O protocolo mais importante da camada de aplicação. Recomenda-se a implementa�
 
 O DNS não tem uma solução definitiva que foi adotada pelo mercado como o HTTP, ele possuí varias soluções como do DNSec que é o DNS autenticado, existe o DNS dentro de VPN, trabalhar com portas criptografadas 
 
+
+# E-mail
+O grande problema do e-mail é o spam e a entrega de vírus, um dos meios para mitigar essa situação é 
