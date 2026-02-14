@@ -8,4 +8,4 @@ De todas seria a mais importante, ela consiste no tipo de defesa que prevê, ou 
 Ela parte do princípio de que já se base que existe um ataque , por exemplo, eu sei que existe uma falha no Windows, eu vou precisar baixar o patch de atualização para cobrir esse vetor de ataque, impedindo que a falha seja explorada.
 
 - Reativa:
-Esse é o pior dos cenários. Se parte do princípio de que o sistema já está sendo afetado, por criptografia, coleta de dados ou qualquer outra forma maliciosa proposital. Para tentar mitigar essa situação pode-se utilizar, as políticas de backup, 
+Esse é o pior dos cenários. Se parte do princípio de que o sistema já está sendo afetado, por criptografia, coleta de dados ou qualquer outra forma maliciosa proposital. Para tentar mitigar essa situação pode-se utilizar por exemplo, as políticas de backup. Essa situação busca minimizar os danos e problemas associados a aquele ataque.
