@@ -2,4 +2,4 @@
 
 # Camada de Internet 
 
-- `IPv4`:
+- `IPv4` e `IPv6`:
