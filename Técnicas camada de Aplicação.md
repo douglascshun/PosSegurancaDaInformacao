@@ -1,17 +1,16 @@
 [[Aula 3 Técnicas para proteção de redes]]
 
-# HTTP
 
+# HTTP
 O protocolo mais importante da camada de aplicação. Recomenda-se a implementação de certificados de segurança SSL ou TLS o que com isso como extensão ao HTTP, tornando-o HTTPS.
 
 
 # DNS
-
 O DNS não tem uma solução definitiva que foi adotada pelo mercado como o HTTP, ele possuí varias soluções como do DNSec que é o DNS autenticado, existe o DNS dentro de VPN, trabalhar com portas criptografadas 
 
 
 # E-mail
-O grande problema do e-mail é o spam e a entrega de vírus, um dos meios para mitigar essa situação é o uso de softwares antivírus, softwares anti-spam, ou seja softwares adicionais,
+O grande problema do e-mail é o spam e a entrega de vírus, um dos meios para mitigar essa situação é o uso de softwares antivírus, softwares anti-spam, phishingou seja softwares adicionais,
 
 
-Camadas mais altas necessitam de soft
+	Camadas mais altas necessitam de softwares específicos para impedir ataques de cada aplicação.
