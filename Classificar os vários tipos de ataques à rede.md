@@ -18,4 +18,8 @@ Exemplificado na figura acima podemos ver a situação em que a informação ou 
 # Interceptação:
 
 ![[Interceptacao.png]]
-No exemplo acima vemos como é feita uma interceptação, onde o atacante consegue acesso ao caminho da informação, estabelecendo um ponto de moni
+No exemplo acima vemos como é feita uma interceptação, onde o atacante consegue acesso ao caminho da informação, estabelecendo um ponto de monitoramento.
+
+
+
+# Modifica~
