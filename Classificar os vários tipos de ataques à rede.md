@@ -37,3 +37,4 @@ Na figura acima, mostrada a situação de fabricação de dados, onde o atacante
 
 # Resumo:
 
+![[Resumo.png]]
