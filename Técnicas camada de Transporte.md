@@ -50,12 +50,9 @@ O UDP é o protocolo favorito para ataques de **Amplificação de DNS ou NTP**. 
 Diferente do TCP, onde os _SYN Cookies_ resolvem muita coisa, o UDP é mais difícil de filtrar porque o tráfego legítimo (como VoIP, streaming e DNS) se parece muito com o ataque.
 
 - **Taxa de Limite (Rate Limiting):** Configurar o roteador ou firewall para descartar pacotes ICMP e UDP se eles ultrapassarem um limite de volume por segundo.
-    
-- **Bloqueio de ICMP na Saída:** Impedir que o servidor responda "Destination Unreachable". Isso economiza CPU, embora não salve a largura de banda.
-    
-- **Serviços de Scrubbing (Nuvem):** Usar serviços como Cloudflare ou Akamai. Eles recebem todo o tráfego, filtram o que é lixo em uma rede gigantesca e só entregam o tráfego limpo para o seu servidor.
-    
-- **Anycast:** Distribuir o tráfego por vários servidores ao redor do mundo para que o ataque seja diluído.
-    
 
----
+- **Bloqueio de ICMP na Saída:** Impedir que o servidor responda "Destination Unreachable". Isso economiza CPU, embora não salve a largura de banda.
+
+- **Serviços de Scrubbing (Nuvem):** Usar serviços como Cloudflare ou Akamai. Eles recebem todo o tráfego, filtram o que é lixo em uma rede gigantesca e só entregam o tráfego limpo para o seu servidor.
+
+- **Anycast:** Distribuir o tráfego por vários servidores ao redor do mundo para que o ataque seja diluído.
