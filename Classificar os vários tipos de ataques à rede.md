@@ -30,3 +30,6 @@ O Pacote deveria sair da origem e chegar ao destino, porém nessa situação o a
 
 
 # Fabricação:
+
+![[Fabricacao.png]]
+Na figura a c
