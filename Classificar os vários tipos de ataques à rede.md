@@ -22,4 +22,6 @@ No exemplo acima vemos como é feita uma interceptação, onde o atacante conseg
 
 
 
-# Modifica~
+# Modificação:
+
+O Pacote deveria sair da origem e chegar ao destino, porém nessa situação o atacante captura a informação, lê, e modifica a informação, encaminhando ela ao destinatário.
