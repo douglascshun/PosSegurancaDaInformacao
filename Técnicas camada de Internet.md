@@ -7,4 +7,4 @@
 Ambos protocolos são diferentes e incompatíveis, as regras de ambos são diferentes
 
 - `Roteador`:
-Boas praticas no sentido de não negligenciar a configuração como 
+Boas praticas no sentido de não negligenciar a configuração como alterar usuários padrão ip padrão, e portas abertas. Lembrando também de isolar o acesso físico ao dispositivocomple
