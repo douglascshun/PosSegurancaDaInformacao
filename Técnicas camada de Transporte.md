@@ -19,4 +19,43 @@ Se você está configurando um firewall ou um servidor para se defender disso, a
 
 
 # UDP: 
-Esse protocolo é contraponto do TCP, esse por sua vez quebra a confiabilidade, ele não confirma o recebimento de informações, o que por sua vez torna ele mais rápido, permitindo o envio de informações em maior quantidade porém permite um ataque 
+Esse protocolo é contraponto do TCP, esse por sua vez quebra a confiabilidade, ele não confirma o recebimento de informações, o que por sua vez torna ele mais rápido, permitindo o envio de informações em maior quantidade porém permite um ataque:
+### Como funciona o UDP Flood
+
+O objetivo aqui não é esgotar a "memória de conexões" (como no SYN), mas sim **entupir a largura de banda** (bandwidth) e processamento do alvo.
+
+1. O atacante envia uma avalanche de pacotes UDP para **portas aleatórias** no servidor alvo.
+
+2. O servidor recebe o pacote e verifica se alguma aplicação está ouvindo naquela porta.
+
+3. Ao perceber que não há aplicação ali, o sistema operacional do servidor gera um pacote de erro **ICMP "Destination Unreachable"**.
+
+4. **O Resultado:** O servidor fica tão ocupado processando os pacotes inúteis e respondendo com erros ICMP que o link de rede satura e o processador (CPU) trava.
+ 
+# A Variante Perigosa: Ataque de Amplificação
+
+O UDP é o protocolo favorito para ataques de **Amplificação de DNS ou NTP**. Funciona assim:
+
+- O atacante falsifica o IP da vítima (Spoofing).
+
+- Envia uma pergunta pequena para um servidor DNS público ("Me dê a lista completa de registros de tal domínio").
+
+- O servidor DNS responde com um pacote **muito maior** do que a pergunta, mas envia para o IP da vítima.
+
+- Com pouco esforço, o atacante consegue gerar um tráfego de Gigabits por segundo contra o alvo.
+
+
+### Estratégias de Defesa para UDP
+
+Diferente do TCP, onde os _SYN Cookies_ resolvem muita coisa, o UDP é mais difícil de filtrar porque o tráfego legítimo (como VoIP, streaming e DNS) se parece muito com o ataque.
+
+- **Taxa de Limite (Rate Limiting):** Configurar o roteador ou firewall para descartar pacotes ICMP e UDP se eles ultrapassarem um limite de volume por segundo.
+    
+- **Bloqueio de ICMP na Saída:** Impedir que o servidor responda "Destination Unreachable". Isso economiza CPU, embora não salve a largura de banda.
+    
+- **Serviços de Scrubbing (Nuvem):** Usar serviços como Cloudflare ou Akamai. Eles recebem todo o tráfego, filtram o que é lixo em uma rede gigantesca e só entregam o tráfego limpo para o seu servidor.
+    
+- **Anycast:** Distribuir o tráfego por vários servidores ao redor do mundo para que o ataque seja diluído.
+    
+
+---
