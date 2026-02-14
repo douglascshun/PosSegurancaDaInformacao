@@ -8,4 +8,4 @@ Uma das técnicas de proteção é inicialmente partir de que o Switch deve esta
 
 Deve-se também trocar o IP, do usuário, o login e senha. Uma das formas de ataque mais normais de ataque é a negligencia nessa parte da configuração. O atacante pode fácil mente entrar na internet baixar o manual de configuração do dispositivo e obter as credenciais padrão, juntamente ao endereço logico de fabrica o que facilita direcionar um vetor de ataque.
 
-Ativar configurações sem saber sobre suas funcionalidades e riscos, como o SM
+Ativar configurações sem saber sobre suas funcionalidades e riscos, como o SNMP
