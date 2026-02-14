@@ -1,3 +1,4 @@
 [[Aula 2 Defesa de redes]]
 
-![[Pasted image 20260214134925.png]]
+![[Caso Renner.png]]Em 2020 a icou 3 dias fora do ar, a Renner alegou não ter pago o resgate.
+
