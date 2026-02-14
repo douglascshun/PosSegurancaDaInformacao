@@ -12,4 +12,4 @@ Ativar configurações sem saber sobre suas funcionalidades e riscos, como o SNM
 
 - `MAC:`
 
-Use a parte lógica ao favor da proteção aplique filtros de MAC e F
+Use a parte lógica ao favor da proteção aplique filtros de MAC e Firewall pra impedir acessos indevidos de dispositivos não autorizados.
