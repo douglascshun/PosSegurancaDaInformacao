@@ -10,25 +10,23 @@ Dual Stack: Onde o dispositivo roda ambos os protocolos. O perigo aqui é config
 
 Tunelamento: Encapsular pacotes IPv6 dentro de IPv4. Isso pode ser usado para contornar sistemas de detecção de intrusão (IDS) se não for monitorado.
 
-- **ICMP (Internet Control Message Protocol):** Essencial para o funcionamento da rede, mas deve ser limitado. Ataques como _Smurf Attack_ ou _Ping of Death_ utilizam esse protocolo.
-    
+ICMP (Internet Control Message Protocol): Essencial para o funcionamento da rede, mas deve ser limitado. Ataques como _Smurf Attack_ ou _Ping of Death_ utilizam esse protocolo.
 
-### 2. Endurecimento (Hardening) de Roteadores
+
+
+
+- ` Endurecimento (Hardening) de Roteadores`:
 
 Além do acesso físico e senhas, considere estes pontos críticos:
 
 - **Desativar o WPS (Wi-Fi Protected Setup):** É uma porta de entrada comum para ataques de força bruta.
-    
+
 - **Gerenciamento Out-of-Band (OOB):** Garantir que a interface de gerenciamento do roteador não esteja acessível pela Internet (WAN), apenas por uma rede local segura ou VPN.
-    
+
 - **Atualização de Firmware:** Manter o SO do roteador atualizado para corrigir CVEs (vulnerabilidades conhecidas).
-    
-- **Protocolos de Roteamento:** Implementar autenticação em protocolos como OSPF ou BGP para evitar que vizinhos maliciosos injetem rotas falsas.
-    
 
----
+- **Protocolos de Roteamento:** Implementar autenticação em protocolos como OSPF ou BGP para evitar que vizinhos maliciosos injetem rotas falsas
 
-## 🛠️ Novos Tópicos Essenciais para a Aula 3
 
 ### 3. Segmentação de Rede (VLANs)
 
