@@ -4,4 +4,7 @@
 
 - `IPv4` e `IPv6`:
 
-Ambos protocolos são diferentes e incompatíveis, as regras de ambos são diferentes 
+Ambos protocolos são diferentes e incompatíveis, as regras de ambos são diferentes
+
+- `Roteador`:
+Boas praticas no sentido de não negligenciar a configuração como 
