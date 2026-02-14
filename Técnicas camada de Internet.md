@@ -4,4 +4,4 @@
 
 - `IPv4` e `IPv6`:
 
-Ambos protocolos são diferentes e I
+Ambos protocolos são diferentes e incompatíveis 
