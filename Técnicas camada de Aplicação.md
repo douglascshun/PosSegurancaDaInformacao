@@ -10,7 +10,7 @@ O DNS não tem uma solução definitiva que foi adotada pelo mercado como o HTTP
 
 
 # E-mail
-O grande problema do e-mail é o spam e a entrega de vírus, um dos meios para mitigar essa situação é o uso de softwares antivírus, softwares anti-spam, phishingou seja softwares adicionais,
+O grande problema do e-mail é o spam e a entrega de vírus, um dos meios para mitigar essa situação é o uso de softwares antivírus, softwares anti-spam, phishing, ou seja softwares adicionais e cultura da empresa.
 
 
 	Camadas mais altas necessitam de softwares específicos para impedir ataques de cada aplicação.
