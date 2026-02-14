@@ -1,3 +1,5 @@
 [[Aula 3 Técnicas para proteção de redes]]
 
-# 
+# HTTP
+
+O protocolo mais importante da camada de aplicação. Recomenda-se a impl
