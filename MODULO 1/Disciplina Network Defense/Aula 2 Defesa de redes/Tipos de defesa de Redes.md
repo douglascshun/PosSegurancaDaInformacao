@@ -5,4 +5,4 @@ De todas seria a mais importante, ela consiste no tipo de defesa que prevê, ou 
 
 
 - Preventiva:
-Ela parte do princípio de que já se base que existe um ataque
+Ela parte do princípio de que já se base que existe um ataque , por exemplo, eu sei que existe uma falha no Windows, eu vou precisar baixar o patche 
