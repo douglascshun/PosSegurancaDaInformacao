@@ -13,4 +13,4 @@ Frequentemente são vazadas senhas de inúmeros lugares mesmo se a senha for vaz
 Usuários entram e saem constantemente das empresas, deixar usuários fantasmas ou seja, usuários que já desocuparam o cargo é um grande risco, pois o mesmo pode tentar o acesso ou ceder o acesso a alguém com más intenções comprometendo o acesso direto ao servidor aplicação e/ou dado sensível.
 
 # Ferramenta de gestão:
-Automatizar processos de forma que 
+Automatizar processos de forma que não seja gasto mais tempo com a gestão manual do que com a implementação de novas medidas de segurança.
