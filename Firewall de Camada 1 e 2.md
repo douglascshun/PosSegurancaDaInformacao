@@ -38,3 +38,9 @@ O DHCP é o protocolo que entrega automaticamente o endereço IP, a máscara de 
 ### Como acontece:
 
 1. O atacante coloca um servidor DHCP falso na rede.
+
+2. Quando um novo dispositivo pede um IP, o servidor falso responde mais rápido que o legítimo.
+
+3. O atacante entrega configurações "viciadas": ele se coloca como o Gateway (roteador) ou define um DNS que ele controla.
+4
+4. **Resultado:** Você navega achando que está tudo certo, mas todo o seu tráfego é direcionado para onde o atacante quiser.
