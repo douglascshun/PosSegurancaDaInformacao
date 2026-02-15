@@ -9,3 +9,5 @@ Senhas são facilmente quebráveis, busque senhas com mais de 8 caracteres, cont
 # Múltiplos fatores de autenticação:
 Frequentemente são vazadas senhas de inúmeros lugares mesmo se a senha for vazada e um atacante tentar forçar o acesso por meio dessa senha o usuário se mantem com acesso ao sistema, pela autentificação de no minimo 2 fatores, por outro lado se essa pratica não for estabelecida e o usuário ter como erro falha na sua cultura utilizar a mesma senha em mais de um lugar é muito provável que ele perderá o acesso em outros lugares alem daquela aplicação também, podendo comprometer ainda mais o sistema.
 
+# Revisar regularmente usuários:
+Usuários entram e saem 
