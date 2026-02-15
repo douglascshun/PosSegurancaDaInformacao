@@ -1,3 +1,5 @@
 [[Aula 5 Firewalls]]
 
-![[Pasted image 20260215122328.png]]
+![[Camadas 1  2  3  e  4 p firewall.png]]
+
+Como descrito anteriormente sobre as c
