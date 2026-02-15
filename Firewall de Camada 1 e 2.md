@@ -9,5 +9,5 @@ Camada 1 é constituída pela parte físcia, ou seja cabos de redes e portas, on
 
 
 # Camada 2:
-A camada 2 diferencialmente da camada 1, tem a capacidade de ler dados lógicos por atuar com endereçamento e MAC, pode-se também efetuar a leitura de dados binários, com base nisso é possível saber a origem e o destino dos pacotes para filtrar o que é desejado, e o que não for filtrar dentro dos caminhos da rede
+A camada 2 diferencialmente da camada 1, tem a capacidade de ler dados lógicos por atuar com endereçamento e MAC, pode-se também efetuar a leitura de dados binários, com base nisso é possível saber a origem e o destino dos pacotes para filtrar o que é desejado, e o que não for, aplicar filtros dentro dos caminhos da rede, por exemplo bloqueando endereços MAC que não existem dentro da minha tabela de endereços MAC dos dispositivos na rede.
 ![[Pasted image 20260215113601.png]]
