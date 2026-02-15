@@ -9,5 +9,5 @@ Camada 1 é constituída pela parte físcia, ou seja cabos de redes e portas, on
 
 
 # Camada 2:
-A camada 2 diferencialmente da camada 1, tem a capacidade de ler da
+A camada 2 diferencialmente da camada 1, tem a capacidade de ler dados lógicos por atuar com endereçamento e MAC, pode-se também efetuar a leitura de dados binários, com base nisso é possível saber a origem e o desti
 ![[Pasted image 20260215113601.png]]
