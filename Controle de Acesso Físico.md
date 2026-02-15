@@ -7,3 +7,4 @@
 Tipo de dispositivo físico normalmente giratório que tem como finalidade controlar o acesso indevido de pessoas em determinados locais como escritórios, estádios, metrôs... Esses dispositivos costumam ser aplicados com outras medidas como alguém supervisionando cada acesso
 
 - Porta:
+Parece simples, mas a simples implementação desse tipo de controle de acesso é mais uma barreira para o atacante.
