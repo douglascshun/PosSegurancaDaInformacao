@@ -10,4 +10,5 @@ Seguindo a lógica da câmera, ela pode vigiar a passagem de uma cancela e essa 
 # Senhas:
 As senhas faz parte do processo de controle de acesso autorização e autenticação de usuários a grande parte das coisas como e-mails, servidores..
 
-# cartões
+# cartões:
+Normalmente são 3 tipos, magnético, RPG (aproximação)
