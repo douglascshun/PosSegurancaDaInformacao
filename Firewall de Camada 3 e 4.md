@@ -12,7 +12,7 @@ Essa camada é a Camada de Transporte no modelo OSI, os principais protocolos pr
 
 
 # Firewall Stateless:
-Tipo de firewall que não analisam 
+Tipo de firewall que não analisam o contexto de 
 
 # Aplicação:
-As aplicações como TeamViewer, Navegação WEB, 
+As aplicações como TeamViewer, Navegação WEB, Vídeo, 
