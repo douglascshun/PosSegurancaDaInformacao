@@ -18,4 +18,4 @@ Tipo de firewall que não analisam o contexto o contexto de conexão.
 Analisam contexto ou seja o fluxo completo do conjunto de pacotes, o que os tornam mais eficientes e consomem menos recuros 
 
 # Aplicação:
-As aplicações como TeamViewer, Navegação WEB, Vídeo, WEB, precisam ser bloqueados fora do Firewall.
+As aplicações como TeamViewer, Navegação WEB, Vídeo, WEB, precisam ser bloqueados fora do Firewall ou um firewall de camada 7
