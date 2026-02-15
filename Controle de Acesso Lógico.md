@@ -5,4 +5,4 @@
 A câmera se dispõe como controle de acesso lógico pois por sua vez monitorando um ambiente e colocando uma imposição que se entrarem no ambiente restrito que a câmera vigia a entrada é dada como uma punição a demissão, ela não impede mas logicamente impõe uma restrição.
 
 # Software:
-Seguindo a lógica da câmera, ela pode vigiar a passagem de uma cancela e essa câmera pode receber um soft
+Seguindo a lógica da câmera, ela pode vigiar a passagem de uma cancela e essa câmera pode receber um software de monitoramento de placas de veículos, onde esse software compara as placas dos veículos na cancela e compara com as placas registradas em seu banco de dados, permitindo ou não a entrada do
