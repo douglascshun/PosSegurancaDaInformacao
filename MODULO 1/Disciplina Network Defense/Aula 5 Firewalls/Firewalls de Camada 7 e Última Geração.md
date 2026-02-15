@@ -9,5 +9,5 @@ Os Firewalls de Próxima Geração (**NGFW - Next-Generation Firewalls**) evolu�
 2. **Prevenção de Violação (IPS Integrado):** Ele não apenas bloqueia portas, mas inspeciona o tráfego em busca de comportamentos maliciosos e vulnerabilidades conhecidas em tempo real.
    
 3. **Tempo de Detecção:** Graças à inteligência de ameaças (Threat Intelligence), ele identifica ataques novos muito mais rápido do que sistemas manuais.
-    
+   
 4. **Automação e Integração:** Eles se conectam com outras ferramentas de segurança (antivírus de endpoint, sandboxing na nuvem, sistemas de log) para reagir automaticamente a uma invasão.
