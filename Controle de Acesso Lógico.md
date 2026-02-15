@@ -6,3 +6,8 @@ A câmera se dispõe como controle de acesso lógico pois por sua vez monitorand
 
 # Software:
 Seguindo a lógica da câmera, ela pode vigiar a passagem de uma cancela e essa câmera pode receber um software de monitoramento de placas de veículos, onde esse software compara as placas dos veículos na cancela e compara com as placas registradas em seu banco de dados, permitindo ou não a entrada do veículo. 
+
+# Senhas:
+As senhas faz parte do processo de controle de acesso autorização e autenticação de usuários a grande parte das coisas como e-mails, servidores..
+
+# cartões
