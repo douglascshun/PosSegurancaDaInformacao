@@ -7,4 +7,6 @@
 Tipo de dispositivo físico normalmente giratório que tem como finalidade controlar o acesso indevido de pessoas em determinados locais como escritórios, estádios, metrôs... Esses dispositivos costumam ser aplicados com outras medidas como alguém supervisionando cada acesso
 
 - Porta:
-Parece simples, mas a simples implementação desse tipo de controle de acesso é mais uma barreira para o atacante, um exemplo disso são em lojas, onde só é permitido o acesso a loja com a suas portas principais abertas. A porta por sí só controla, mas não 
+Parece simples, mas a simples implementação desse tipo de controle de acesso é mais uma barreira para o atacante, um exemplo disso são em lojas, onde só é permitido o acesso a loja com a suas portas principais abertas. A porta por si só controla, mas não limita o acesso, para isso busque sempre dispositivos para melhorar o sistema como fechaduras, cadeados, fechaduras eletrônicas até mesmo acesso por biometria.
+
+- Arma
