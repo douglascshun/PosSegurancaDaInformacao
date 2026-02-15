@@ -9,6 +9,8 @@ Camada 1 é constituída pela parte físcia, ou seja cabos de redes e portas, on
 
 
 # Camada 2:
-A camada 2 diferencialmente da camada 1, tem a capacidade de ler dados lógicos por atuar com endereçamento e MAC, pode-se também efetuar a leitura de dados binários, com base nisso é possível saber a origem e o destino dos pacotes para filtrar o que é desejado, e o que não for, aplicar filtros dentro dos caminhos da rede, por exemplo bloqueando endereços MAC que não existem dentro da minha tabela de endereços MAC dos dispositivos na rede. Na camada 2 também existe a Class of Service ou seja Classe de Serviço, o switch pode com isso analisar e definir prioridade em serviços, analisar também congestionamento na rede, descartar preferencialmente um pacote 
+A camada 2 diferencialmente da camada 1, tem a capacidade de ler dados lógicos por atuar com endereçamento e MAC, pode-se também efetuar a leitura de dados binários, com base nisso é possível saber a origem e o destino dos pacotes para filtrar o que é desejado, e o que não for, aplicar filtros dentro dos caminhos da rede, por exemplo bloqueando endereços MAC que não existem dentro da minha tabela de endereços MAC dos dispositivos na rede. Na camada 2 também existe a Class of Service ou seja Classe de Serviço, o switch pode com isso analisar e definir prioridade em serviços, analisar também congestionamento na rede, descartar preferencialmente um pacote em relação ao outro, ou seja aplicar políticas que podem melhorar a segurança da rede. 
+
+Ataques na camada 2, existem ataques 
 
 ![[Camada 2.png]]
