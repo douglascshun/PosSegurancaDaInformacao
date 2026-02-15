@@ -4,4 +4,5 @@
 # Câmera:
 A câmera se dispõe como controle de acesso lógico pois por sua vez monitorando um ambiente e colocando uma imposição que se entrarem no ambiente restrito que a câmera vigia a entrada é dada como uma punição a demissão, ela não impede mas logicamente impõe uma restrição.
 
-# S
+# Software:
+Seguindo a lógica da câmera, ela pode vigiar a passagem de uma cancela e essa câmera pode receber um soft
