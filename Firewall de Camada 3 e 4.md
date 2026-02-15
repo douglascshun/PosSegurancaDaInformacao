@@ -6,3 +6,6 @@ Como descrito anteriormente sobre a camada 1 ela atua diretamente na parte físi
 
 # Camada 3:
 A camada 3, trás novidades em relação as anteriores. Está camada permite a implementação de ferramentas de gerenciamento de IPv4 e IPv6, essa camada permite impor políticas de qualquer tipo de protocolos existentes na camada de Internet, como endereço de origem, endereço de destino, DSCP que é um campo de 6 bits no cabeçalho IP do IPv4 ou do IPv6 usado para classificar o tráfego de rede, também TPL que no caso de congestionamento na rede, os dispositivos utilizam ele  para decidir quais pacotes devem ser descartados primeiro.
+
+# Camada 4:
+Essa camada é a Camada de Transporte no modelo OSI
