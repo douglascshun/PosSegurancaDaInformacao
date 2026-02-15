@@ -15,16 +15,26 @@ A camada 2 diferencialmente da camada 1, tem a capacidade de ler dados lógicos 
 
 Ataques na camada 2, existem ataques exclusivos para a camada 2 onde só podem ser evitados com a implementação de firewall na mesma, um desses é o ataque de DHCP onde se tem o DHCP Spoofing, outro é o ARP Spofing, um roteador não tem a capacidade de bloquear esse tipo de ataque.
 
+
 # ARP Spoofing (Envenenamento de Cache)
+
 O protocolo ARP (Address Resolution Protocol) é o que traduz um endereço IP em um endereço MAC (físico). O problema? Ele é "confiado": se alguém enviar uma resposta ARP dizendo "Eu sou o roteador", o seu computador acredita sem questionar.
 
 ### Como acontece:
 
 1. O atacante envia mensagens ARP falsas para o seu PC, dizendo que o MAC do atacante pertence ao IP do roteador.
-    
+
 2. Ao mesmo tempo, ele diz ao roteador que o MAC dele pertence ao IP do seu PC.
-    
+
 3. **Resultado:** Todo o tráfego que deveria ir para o roteador passa primeiro pela máquina do atacante.
-    
 
 - **Principal Risco:** Roubo de credenciais em sites sem HTTPS e monitoramento de atividades.
+
+
+# DHCP Spoofing (Servidor Falso)
+
+O DHCP é o protocolo que entrega automaticamente o endereço IP, a máscara de rede e, crucialmente, o **Gateway Padrão** e o **DNS** para os dispositivos que entram na rede.
+
+### Como acontece:
+
+1. O atacante coloca um servidor DHCP falso na rede.
