@@ -8,3 +8,6 @@ Seguimos a realidade do exemplo anterior, entramos no condomínio, porém ele te
 
 `Controle de acesso para equipamentos`:
 Nessa sala, existe equipamentos. Vamos supor que essa sala seja uma sala de operações voltadas para segurança, nem todos que estão naquela sala tem a autorização de manusear todos os equipamentos daquela sala, muita das vezes o nível de acesso  só dá autorização a um único equipamento por usuário. Esse controle pode-se dar de diversas formas, seja por chave de acesso, login de usuário e senha, até mesmo meios de biometria.
+
+`Controle de acesso para Softwares`:
+Um exemplo de controle de acesso para Softwares, são os
