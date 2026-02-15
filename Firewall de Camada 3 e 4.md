@@ -12,4 +12,4 @@ Essa camada é a Camada de Transporte no modelo OSI, os principais protocolos pr
 
 
 # Aplicação:
-As aplicações como Te
+As aplicações como TeamViewer, Navegação WEB, 
