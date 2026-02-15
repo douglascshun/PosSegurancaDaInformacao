@@ -42,5 +42,17 @@ O DHCP é o protocolo que entrega automaticamente o endereço IP, a máscara de 
 2. Quando um novo dispositivo pede um IP, o servidor falso responde mais rápido que o legítimo.
 
 3. O atacante entrega configurações "viciadas": ele se coloca como o Gateway (roteador) ou define um DNS que ele controla.
-4
+
 4. **Resultado:** Você navega achando que está tudo certo, mas todo o seu tráfego é direcionado para onde o atacante quiser.
+
+# Como se proteger disso?
+
+Para usuários comuns e empresas, as defesas mais eficazes são:
+
+- **DHCP Snooping:** Uma configuração em switches profissionais que identifica quais portas podem enviar respostas DHCP (apenas a porta onde o roteador real está).
+
+- **DAI (Dynamic ARP Inspection):** O switch verifica se as mensagens ARP são legítimas antes de encaminhá-las.
+
+- **VPN:** Mesmo que alguém intercepte o tráfego, os dados estarão criptografados dentro de um túnel seguro.
+
+- **HTTPS Everywhere:** Garante que a camada de aplicação esteja protegida, dificultando a leitura de dados sensíveis mesmo em caso de interceptação.
