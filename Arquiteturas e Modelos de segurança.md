@@ -27,4 +27,9 @@ Qual a razão de ter escolhido aquele mecanismo, qual o motivo de não ter escol
 Será feito em um lugar quente? Será em um local perto o litoral? No meio da cidade ?
 
 - Como?
-Passo a passo, distribua em micro passos, aquilo criado deve 
+Passo a passo, distribua em micro passos, aquilo criado deve um passo a passo
+
+- Quando?
+Até quando? quanto tempo vai gastar? O prazo?
+
+#
