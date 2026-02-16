@@ -17,4 +17,5 @@ Um modelo para uma rede cabeada, é um, para uma rede wifi, já é outro. A tecn
 - O que?
 O que você quer fazer?;  O que você se propõe a fazer com aquele projeto ?
 
-- Quem
+- Quem?
+Para quem  aquele projeto está focado? Para uma pessoa nova, alguém de idade ?
