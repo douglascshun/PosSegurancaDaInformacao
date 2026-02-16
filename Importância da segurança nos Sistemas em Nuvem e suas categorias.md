@@ -10,3 +10,4 @@ Dadas as circunstâncias agora é necessário se preocupar com a identidade de a
 políticas, prevenção, ameaças, detecção e mitigação
 
 - Retenção de Dados (DR) e planejamento de continuidade de negócios  (BC)
+A partir do momento em que os dados deixam de ser armazenados localmente e começam a ser armaze
