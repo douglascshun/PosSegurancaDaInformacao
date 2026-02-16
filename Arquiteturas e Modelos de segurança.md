@@ -10,4 +10,6 @@ Pense em como tratar o dado, se é um dado sensível é necessário criptografar
 Pensar em quais as características da aplicação para que a segurança se adeque aquela categoria.
 
 - `Tecnologia`
-Um modelo para uma rede cabeada, é um, para uma rede wifi, já é outro. A tecnologia escolhida 
+Um modelo para uma rede cabeada, é um, para uma rede wifi, já é outro. A tecnologia escolhida impacta diretamente no desenvolvimento da seguraça do projeto e do modelo escolhido. 
+
+# O modelo da arquitetura escolhida deve responder todas as se
