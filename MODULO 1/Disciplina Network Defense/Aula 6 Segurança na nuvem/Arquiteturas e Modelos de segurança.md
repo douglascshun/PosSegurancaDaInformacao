@@ -37,4 +37,8 @@ já existem ferramentas criadas para cada situação, como por exemplo:
 
 Rede, posso utilizar Firewall
 
-E-mail
+E-mail, Anti-Spam..
+
+EndPoint, Anti- Vírus
+
+Recuperação, Backup..
