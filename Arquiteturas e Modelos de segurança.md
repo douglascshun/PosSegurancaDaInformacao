@@ -12,4 +12,4 @@ Pensar em quais as características da aplicação para que a segurança se adeq
 - `Tecnologia`
 Um modelo para uma rede cabeada, é um, para uma rede wifi, já é outro. A tecnologia escolhida impacta diretamente no desenvolvimento da seguraça do projeto e do modelo escolhido. 
 
-# O modelo da arquitetura escolhida deve responder todas as se
+# O modelo da arquitetura escolhida deve responder todas as seguintes perguntas para ser considerado razoável: 
