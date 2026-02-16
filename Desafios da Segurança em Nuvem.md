@@ -14,6 +14,6 @@
 
 - Contenção de riscos de Shadow IT e dispositivos invasores 
 
- _Shadow IT **refere-se ao uso de softwares, hardwares ou serviços em nuvem no ambiente corporativo sem o conhecimento, aprovação ou monitoramento do departamento de TI. A prática é comum para aumentar a produtividade, mas cria riscos sérios de segurança, conformidade de dados e vulnerabilidades._
+ _Shadow IT  refere-se ao uso de softwares, hardwares ou serviços em nuvem no ambiente corporativo sem o conhecimento, aprovação ou monitoramento do departamento de TI. A prática é comum para aumentar a produtividade, mas cria riscos sérios de segurança, conformidade de dados e vulnerabilidades._
 
 - Resposta lenta a ataques 
