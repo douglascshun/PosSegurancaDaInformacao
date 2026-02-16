@@ -32,4 +32,9 @@ Passo a passo, distribua em micro passos, aquilo criado deve um passo a passo
 - Quando?
 Até quando? quanto tempo vai gastar? O prazo?
 
-#
+# Ferramenta
+já existem ferramentas criadas para cada situação, como por exemplo:
+
+Rede, posso utilizar Firewall
+
+E-mail
