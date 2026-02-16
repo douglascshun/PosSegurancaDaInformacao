@@ -5,7 +5,7 @@ Essa Instituição padroniza o padrão de comportamento para empresas. Como a IS
 
 A segurança em nuvem baseada em normas ISO concentra-se principalmente na ISO/IEC 27017 funcionando como extensões da ISO/IEC 27001 Elas definem responsabilidades compartilhadas entre provedores e clientes, abordando riscos, privacidade e conformidade técnica. 
 
-Principais Normas ISO para Segurança em Nuvem
+# Principais Normas ISO para Segurança em Nuvem
 
 - **ISO/IEC 27017 (2015):** É um código de conduta que fornece diretrizes adicionais de segurança para provedores e clientes de serviços em nuvem, baseando-se na ISO/IEC 27002. Ela aborda quem é responsável pelo quê, remoção/devolução de ativos e proteção de ambiente virtual.
 
@@ -14,6 +14,9 @@ Principais Normas ISO para Segurança em Nuvem
 - **ISO/IEC 27001:** A norma base para Gestão de Segurança da Informação, necessária para a extensão da ISO 27017.
 
 Enquanto as normas ISO são focadas em certificações internacionais, as normas e publicações do National Institute of Standards and Technology (NIST) são amplamente reconhecidas como o padrão ouro técnico para definir a arquitetura e segurança da nuvem. 
+
+
+
 
 Aqui estão os pilares do NIST para computação em nuvem:
 
@@ -32,7 +35,7 @@ Fornece diretrizes práticas para a segurança em **nuvens públicas**. Foca em:
 - Gestão de Riscos: Como avaliar a segurança do provedor antes da contratação.
 - Isolamento de Dados: Orientações sobre criptografia e multi-tenancy (compartilhamento de hardware por vários clientes). 
 
-#  3 Arquitetura de Referência (NIST SP 500-292)
+#  3. Arquitetura de Referência (NIST SP 500-292)
 
 Define quem é quem no ecossistema de nuvem através de **5 atores principais**: 
 
@@ -42,6 +45,6 @@ Define quem é quem no ecossistema de nuvem através de **5 atores principais**:
 - **Cloud Broker**: Quem gerencia o uso e a entrega entre diferentes provedores.
 - **Cloud Carrier**: Quem provê a conectividade física (telecom). 
 
-4. Controles de Segurança (NIST SP 800-53)
+# 4. Controles de Segurança (NIST SP 800-53)
 
 Embora seja um padrão geral de cibersegurança para o governo dos EUA, é o catálogo de controles mais robusto utilizado por provedores de nuvem para obter certificações de alto nível (como o FedRAMP).
