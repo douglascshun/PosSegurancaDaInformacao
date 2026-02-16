@@ -13,16 +13,16 @@ Principais Normas ISO para Segurança em Nuvem
 
 - **ISO/IEC 27001:** A norma base para Gestão de Segurança da Informação, necessária para a extensão da ISO 27017.
 
-Enquanto as normas ISO são focadas em certificações internacionais, as normas e publicações do NIST** (_National Institute of Standards and Technology_) são amplamente reconhecidas como o padrão ouro técnico para definir a arquitetura e segurança da nuvem. 
+Enquanto as normas ISO são focadas em certificações internacionais, as normas e publicações do National Institute of Standards and Technology (NIST) são amplamente reconhecidas como o padrão ouro técnico para definir a arquitetura e segurança da nuvem. 
 
 Aqui estão os pilares do NIST para computação em nuvem:
 
-1. Definição e Conceitos (NIST SP 800-145)
+# 1. Definição e Conceitos (NIST SP 800-145)
 
 Esta é a "bíblia" da nuvem. Ela estabelece a linguagem comum utilizada por quase todos os provedores (AWS, Azure, Google Cloud). Define: 
 
-- **5 Características Essenciais**: Autosserviço sob demanda, amplo acesso à rede, pool de recursos, elasticidade rápida e serviço mensurável.
-- **3 Modelos de Serviço**: SaaS (Software), PaaS (Plataforma) e IaaS (Infraestrutura).
+- ** Características Essenciais**: Autosserviço sob demanda, amplo acesso à rede, pool de recursos, elasticidade rápida e serviço mensurável.
+- ** Modelos de Serviço**: SaaS (Software), PaaS (Plataforma) e IaaS (Infraestrutura).
 - **4 Modelos de Implantação**: Nuvem pública, privada, híbrida e comunitária. 
 
 2. Segurança e Privacidade (NIST SP 800-144)
