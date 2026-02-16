@@ -13,10 +13,9 @@ A segurança em nuvem baseada em normas ISO concentra-se principalmente na ISO/I
 
 - **ISO/IEC 27001:** A norma base para Gestão de Segurança da Informação, necessária para a extensão da ISO 27017.
 
+
+
 Enquanto as normas ISO são focadas em certificações internacionais, as normas e publicações do National Institute of Standards and Technology (NIST) são amplamente reconhecidas como o padrão ouro técnico para definir a arquitetura e segurança da nuvem. 
-
-
-
 
 Aqui estão os pilares do NIST para computação em nuvem:
 
