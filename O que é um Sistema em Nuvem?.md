@@ -1,4 +1,4 @@
 [[Aula 6 Segurança na nuvem]]
 
 ﻿﻿![[Demonstrativo de sistema em nuvem.png]]
-Os sistemas em nuvem funcionam de forma que os processos ou parte dos processos que deveriam ser processados em um servidor na minha rede local, roda em um servidor de outra rede que eu posso acessar remotamente. Normalmente esses servidores são disponibilizados por outras empresas que eu posso contratar como a Microsoft, Essas empresas ficam 
+Os sistemas em nuvem funcionam de forma que os processos ou parte dos processos que deveriam ser processados em um servidor na minha rede local, roda em um servidor de outra rede que eu posso acessar remotamente. Normalmente esses servidores são disponibilizados por outras empresas que eu posso contratar como a Microsoft, Essas empresas ficam responsabilizadas pela integridade do sistema, aliviando preocupações 
