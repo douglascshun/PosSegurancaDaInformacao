@@ -12,3 +12,6 @@ Analise os log do tráfego da rede, pois é uma grande porta se possuírem brech
 
 - Aplicações:
 As aplicações também estão dentro de todo o sistema e também precisam ser monitorada, um aplicativo WEB pode ler o banco de dados, um atacante pode usa-lo para obter acesso e estabelecer um vetor de ataque. Um outro exemplo disso é o Phishing por e-mails.
+
+- Dados:
+Os dados precisam ser validados. O dado é transitado 
