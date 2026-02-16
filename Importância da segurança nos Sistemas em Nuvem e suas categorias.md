@@ -7,4 +7,4 @@ Com servidores na nuvem é necessário se preocupar com novas barreiras diferent
 Dadas as circunstâncias agora é necessário se preocupar com a identidade de acesso de cada individuo, buscando quem acessou, quando acessou o que acessou e qual a razão de ter acessado.
 
 - Governança
-(políticas, prevenção, ameaças, detecção e mitigação)
+políticas, prevenção, ameaças, detecção e mitigação
