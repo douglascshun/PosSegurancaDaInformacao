@@ -10,4 +10,6 @@ Dadas as circunstâncias agora é necessário se preocupar com a identidade de a
 políticas, prevenção, ameaças, detecção e mitigação
 
 - Retenção de Dados (DR) e planejamento de continuidade de negócios  (BC)
-A partir do momento em que os dados deixam de ser armazenados localmente e começam a ser armazenados na nuvem, se é necessária uma cautela e planejamento maior em quais dados serão armazenados, abrindo a preocupação de também armazenar dados que armazenam as informações que quem acessou
+A partir do momento em que os dados deixam de ser armazenados localmente e começam a ser armazenados na nuvem, se é necessária uma cautela e planejamento maior em quais dados serão armazenados, abrindo a preocupação de também armazenar dados que armazenam as informações referente ao CRUD dos dados.
+
+- Compliance Jurídico 
