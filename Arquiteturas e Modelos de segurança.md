@@ -15,10 +15,13 @@ Um modelo para uma rede cabeada, é um, para uma rede wifi, já é outro. A tecn
 # O modelo da arquitetura escolhida deve responder todas as seguintes perguntas para ser considerado razoável: 
 
 - O que?
-O que você quer fazer?;  O que você se propõe a fazer com aquele projeto ?
+O que você quer fazer? O que você se propõe a fazer com aquele projeto?
 
 - Quem?
 Para quem  aquele projeto está focado? Para uma pessoa nova, alguém de idade ?
 
 - Porque?
-Qual a razão de ter escolhido aquele mecanismo, qual o motivo de não ter escolhido outro?
+Qual a razão de ter escolhido aquele mecanismo, qual o motivo de não ter escolhido outro? 
+
+- Onde ?
+Será feito em um lugar quente? Será em um l
