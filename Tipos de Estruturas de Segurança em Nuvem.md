@@ -21,18 +21,18 @@ Aqui estão os pilares do NIST para computação em nuvem:
 
 Esta é a "bíblia" da nuvem. Ela estabelece a linguagem comum utilizada por quase todos os provedores (AWS, Azure, Google Cloud). Define: 
 
-- ** Características Essenciais**: Autosserviço sob demanda, amplo acesso à rede, pool de recursos, elasticidade rápida e serviço mensurável.
-- ** Modelos de Serviço**: SaaS (Software), PaaS (Plataforma) e IaaS (Infraestrutura).
-- **4 Modelos de Implantação**: Nuvem pública, privada, híbrida e comunitária. 
+-  Características Essenciais: Autosserviço sob demanda, amplo acesso à rede, pool de recursos, elasticidade rápida e serviço mensurável.
+- Modelos de Serviço: SaaS (Software), PaaS (Plataforma) e IaaS (Infraestrutura).
+- Modelos de Implantação: Nuvem pública, privada, híbrida e comunitária. 
 
-2. Segurança e Privacidade (NIST SP 800-144)
+# 2. Segurança e Privacidade (NIST SP 800-144)
 
 Fornece diretrizes práticas para a segurança em **nuvens públicas**. Foca em: 
 
-- **Gestão de Riscos**: Como avaliar a segurança do provedor antes da contratação.
-- **Isolamento de Dados**: Orientações sobre criptografia e multi-tenancy (compartilhamento de hardware por vários clientes). 
+- Gestão de Riscos: Como avaliar a segurança do provedor antes da contratação.
+- Isolamento de Dados: Orientações sobre criptografia e multi-tenancy (compartilhamento de hardware por vários clientes). 
 
-3. Arquitetura de Referência (NIST SP 500-292)
+#  3 Arquitetura de Referência (NIST SP 500-292)
 
 Define quem é quem no ecossistema de nuvem através de **5 atores principais**: 
 
