@@ -23,5 +23,8 @@ Para quem  aquele projeto está focado? Para uma pessoa nova, alguém de idade ?
 - Porque?
 Qual a razão de ter escolhido aquele mecanismo, qual o motivo de não ter escolhido outro? 
 
-- Onde ?
-Será feito em um lugar quente? Será em um l
+- Onde?
+Será feito em um lugar quente? Será em um local perto o litoral? No meio da cidade ?
+
+- Como?
+Passo a passo, distribua em micro passos, aquilo criado deve 
