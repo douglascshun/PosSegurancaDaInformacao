@@ -9,4 +9,4 @@ A criptografia consiste na transmissão de uma informação entre dois agentes o
 
 # Cifra de César 
 ![[The Coder Ring.png]]
-O intuito da decoder Ring 
+O intuito da Decoder Ring existir erá mascarar informações confidenciais enviadas por meio de cartas que César enviava para  
