@@ -9,4 +9,4 @@ A criptografia consiste na transmissão de uma informação entre dois agentes o
 
 # Cifra de César 
 ![[The Coder Ring.png]]
-	O intuito da Decoder Ring existir erá mascarar informações confidenciais enviadas por meio de cartas que César enviava para suas tropas. César entregava uma dessas moedas a cada um que ele gostaria de trocar mensagens privadas, essa moeda possuía em seu topo o resultado de determinado numero de casas a frente no alfabeto
+	O intuito da Decoder Ring existir erá mascarar informações confidenciais enviadas por meio de cartas que César enviava para suas tropas. César entregava uma dessas moedas a cada um que ele gostaria de trocar mensagens privadas, essa moeda possuía em seu topo o resultado de determinado numero de casas a frente no alfabeto e em baixo o alfabeto original. No exemplo podemos ver claramente isso, o fator de casas a frente é 25 a letra letra orginal 
