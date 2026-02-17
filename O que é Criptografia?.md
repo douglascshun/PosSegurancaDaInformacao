@@ -15,4 +15,6 @@ Exemplo:
 
 Palavra = ATAQUE
 
-Tradução = Z
+Criptografada = ZSZPTD
+
+
