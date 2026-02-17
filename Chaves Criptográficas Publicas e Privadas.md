@@ -1,3 +1,3 @@
 [[Aula 7 Criptografia]]
 
-![[Pasted image 20260217151022.png]]
+![[Processo para obtencao de certificado digital.png]]
