@@ -10,3 +10,9 @@ A criptografia consiste na transmissão de uma informação entre dois agentes o
 # Cifra de César 
 ![[The Coder Ring.png]]
 O propósito do _Decoder Ring_ era ocultar informações confidenciais em mensagens enviadas por Júlio César às suas tropas. César entregava um desses discos àqueles com quem desejava trocar mensagens privadas. O dispositivo exibia, na parte superior, o alfabeto deslocado um determinado número de casas e, na parte inferior, o alfabeto original. No exemplo citado, o deslocamento é de 25 casas: se contarmos 25 posições à frente de 'A', chegaremos a 'Z'. Assim, A=Z, B=A e C=B. O disco facilitava visualmente essa tradução.
+
+Exemplo:
+
+Palavra = ATAQUE
+
+Tradução = Z
