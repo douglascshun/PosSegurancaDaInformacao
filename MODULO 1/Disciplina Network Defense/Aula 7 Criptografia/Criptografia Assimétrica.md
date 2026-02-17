@@ -3,4 +3,4 @@
 
 # Ilustração de Criptografia Assimétrica: 
 ![[Criptografia Assimetrica.png]]
-A criptografia assimétrica vem com o objetivo de resolver um problema existente da criptografia simétrica, na situação da criptografia simétrica precisávamos de um en
+A criptografia assimétrica vem com o objetivo de resolver um problema existente da criptografia simétrica, na situação da criptografia simétrica precisávamos de um encontro entre o Emissor e o Receptor para compartilharem o código que iria criptografar e descriptografar a mensagem, ou seja em redes isso exponha 
