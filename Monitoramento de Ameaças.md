@@ -2,3 +2,4 @@
 
 
 # Karpersky
+![[Pasted image 20260218171643.png]]
