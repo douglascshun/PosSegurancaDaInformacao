@@ -13,3 +13,5 @@ o objetivo disso não é ser segura, mas sim autentica
 tipo "de fato foi o Douglas que enviou essa mensagem" por mais que essa mensagem possa ser lida por outras pessoas usando a chave pública
 
 se você quiser por segurança nisso dá até pra pegar a chave pública da pessoa que você está enviando a mensagem e criptografar a sua mensagem quando for enviar, nisso só a pessoa que você enviou a mensagem pode ter acesso a isso
+
+
