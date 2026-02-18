@@ -7,4 +7,4 @@
 
 # Compras com chaves certificado digital:
 ![[Compras com chaves certificado digital.png]]
-Partindo 
+Partindo da situação de que agora o usuário vá comprar em uma loja online, e esse item é caro
