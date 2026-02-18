@@ -7,4 +7,4 @@
 
 # Compras com chaves certificado digital:
 ![[Compras com chaves certificado digital.png]]
-Partindo da situação de que agora o usuário vá comprar em uma loja online, e esse item é caro, como por exemplo um carro de luxo, é bem possível que a loja online solicite uma assinatura digital ao usuário concordar com os termos do contrato de comp
+Partindo da situação de que agora o usuário vá comprar em uma loja online, e esse item é caro, como por exemplo um carro de luxo, é bem possível que a loja online solicite uma assinatura digital ao usuário concordar com os termos do contrato de compra, essa assinatura é um dado que a cha
