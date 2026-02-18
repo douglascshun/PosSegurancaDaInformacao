@@ -2,9 +2,7 @@
 
 
 # Mensagem Segura e Assinada
-Você podepra criptografar uma mensagem usando a chave privada
-
-o sentido é que por sua chave pública ser disponivel para qualquer um no mundo, ou seja livre pra qualquer um acessar..
+Você pode criptografar uma mensagem usando a chave privada. O sentido consistem no fato de que por sua chave pública, disponível para qualquer um no mundo), ou seja livre pra qualquer um acessar..
 
 ao vc enviar essa mensagem por alguem e esse alguem descriptografar sua mensagem usando a chave pública
 
