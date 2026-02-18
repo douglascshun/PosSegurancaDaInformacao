@@ -1,6 +1,8 @@
 [[Aula 7 Criptografia]]
 
-dá pra criptografar uma mensagem usando a chave privada
+
+# Mensagem Segura e Assinada
+Você podepra criptografar uma mensagem usando a chave privada
 
 o sentido é que por sua chave pública ser disponivel para qualquer um no mundo, ou seja livre pra qualquer um acessar..
 
@@ -14,4 +16,5 @@ tipo "de fato foi o Douglas que enviou essa mensagem" por mais que essa mensagem
 
 se você quiser por segurança nisso dá até pra pegar a chave pública da pessoa que você está enviando a mensagem e criptografar a sua mensagem quando for enviar, nisso só a pessoa que você enviou a mensagem pode ter acesso a isso
 
-
+![[Pasted image 20260218143624.png]]
+você assina usando sua chave privada(pra posteriormente a pessoa abrir usando sua chave publica), depois você pega a chave publica da pessoa e criptografa (pra quando a mensagem navegar na internet ninguem ter acesso) então você envia, nisso a pessoa usa a chave privada dela pra abrir a mensagem, e depois ela usa a sua chave publica pra abrir a mensagem e obter acesso ao dado original
