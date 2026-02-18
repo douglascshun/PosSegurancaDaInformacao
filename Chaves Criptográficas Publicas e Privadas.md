@@ -7,4 +7,4 @@
 
 # Compras com chaves certificado digital:
 ![[Compras com chaves certificado digital.png]]
-!
+Quando o usuário pre
