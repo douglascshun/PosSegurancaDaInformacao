@@ -16,4 +16,5 @@ Busca Impedir a perca de recursos e informações sensíveis por meio de impleme
 Estabelecimento de políticas estratégicas, implementações e analise de dados no desenvolvimento da empresa, sistema e rede. 
 
 # NIST
-![[Pasted image 20260219133751.png]]
+![[NIST.png]]
+
