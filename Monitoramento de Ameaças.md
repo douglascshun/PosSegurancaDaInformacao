@@ -17,4 +17,4 @@ Outras empresas que seguem a mesma linha:
 
 # Sonicwall
 ![[Sonicwall.png]]
-Diferencialmente a Sonicwall, faz a fabricação de firewall
+Diferencialmente a Sonicwall, faz a fabricação de firewall onde seguindo a mesma linha tem um site que disponibiliza o mapa mundial dos aparelhos sendo atacados,mas 
