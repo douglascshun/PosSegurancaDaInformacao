@@ -3,4 +3,4 @@
 
 A ANPD (Agencia Nacional de Proteção de Dados), tem como objetivo ser uma agencia regulatória, ela que normatiza e fiscaliza as empresas estão seguindo as normas impostas pelo governo. 
 
-- Parlamento Europeu, Resolução 679 de 219. General Data Protection Regulation (GDPR)
+- Parlamento Europeu, Resolução 679 de 219. General Data Protection Regulation (GDPR).
