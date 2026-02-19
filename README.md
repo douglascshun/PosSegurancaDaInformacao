@@ -15,7 +15,6 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 
 ```text
 📁 pós-seguranca-informacao/
-├── README.md                  ← você está aqui
 ├── MODULO 1
 │   ├── Disciplina Cybersecurity Essentials
 │   │   ├── Aula 1 Conceitos de Segurança Cibernética
@@ -165,8 +164,151 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 │   │   │   ├── Controle de pacotes aplicações e serviços.md
 │   │   │   ├── Criptografia e controle de acesso SSH e ACL.md
 │   │   │   ├── Firewall iptables e netfilter.md
+│   │   │   ├── Gerenciamento de usuários e grupos.md
 │   │   │   └── Proteção contra vírus e ameaças.md
+│   │   ├── Aula 6 Proteção de serviços de nuvem
+│   │   │   ├── Aula 6 Proteção de serviços de nuvem Imagens
+│   │   │   │   ├── 5 Pilares da segurança na nuvem.png
+│   │   │   │   ├── Exemplo de IaaS.png
+│   │   │   │   ├── Exemplo de PaaS.png
+│   │   │   │   └── Exemplo de SaaS.png
+│   │   │   ├── Aula 6 Proteção de serviços de nuvem.md
+│   │   │   ├── Boas práticas de segurança para serviços na nuvem.md
+│   │   │   ├── Domínios de segurança na nuvem.md
+│   │   │   ├── Fundamentos de Computação em Nuvem.md
+│   │   │   ├── Requisitos de segurança para serviços na nuvem.md
+│   │   │   └── Segurança de dados na nuvem.md
+│   │   ├── Aula 7 Proteção de dispositivos móveis
+│   │   │   ├── Aula 7 Proteção de dispositivos móveis Imagens
+│   │   │   │   └── Monitoramento remoto.png
+│   │   │   ├── Aula 7 Proteção de dispositivos móveis.md
+│   │   │   ├── Boas práticas de segurança para dispositivos móveis.md
+│   │   │   ├── Configuração segura de Wi-fi.md
+│   │   │   ├── Recomendações e políticas para dispositivos móveis.md
+│   │   │   ├── Riscos e ameaças associadas aos dispositivos móveis.md
+│   │   │   └── Soluções de gerenciamento e monitoramento remoto.md
+│   │   ├── Aula 8 IoT Security Segurança na Internet das Coisas
+│   │   │   ├── Aula 8 IoT Security Segurança na Internet das Coisas Imagens
+│   │   │   │   ├── Exemplo de dispositivos detectados.png
+│   │   │   │   └── Internet das Coisas.png
+│   │   │   ├── Aula 8 IoT Security Segurança na Internet das Coisas.md
+│   │   │   ├── Fundamentos de IoT.md
+│   │   │   ├── Malware e Vulnerabilidades de software e firmware.md
+│   │   │   ├── Principais vulnerabilidades e ameaças em IoT.md
+│   │   │   ├── Protocolos de comunicação inseguros e ciberataques.md
+│   │   │   └── Vazamento de dados de IoT.md
 │   │   └── Endpoint Security.md
+│   ├── Disciplina Network Defense
+│   │   ├── Aula 1 Monitoramento de redes
+│   │   │   ├── Aula 1 Monitoramento de redes Imagens
+│   │   │   │   ├── Análise de Tendências.png
+│   │   │   │   ├── Cacti.png
+│   │   │   │   ├── exemplo de economia por monitoramento 2.png
+│   │   │   │   ├── exemplo de economia por monitoramento.png
+│   │   │   │   ├── Monitoramento de ataque de forca bruta.png
+│   │   │   │   ├── Nagio.png
+│   │   │   │   ├── Pico de consumo.png
+│   │   │   │   ├── PRTG.png
+│   │   │   │   └── Zabbix.png
+│   │   │   ├── A importância de se monitorar redes.md
+│   │   │   ├── Aula 1 Monitoramento de redes.md
+│   │   │   ├── Como monitorar?.md
+│   │   │   ├── Erros comuns em Monitoramento de Redes.md
+│   │   │   ├── O que monitorar?.md
+│   │   │   └── Principais Ferramentas de Monitoramento.md
+│   │   ├── Aula 2 Defesa de redes
+│   │   │   ├── Aula 2 Defesa de redes Imagens
+│   │   │   │   ├── Caso JBS.png
+│   │   │   │   ├── Caso Prefeitura do Rio de Janeiro 2.png
+│   │   │   │   ├── Caso Prefeitura do RJ.png
+│   │   │   │   ├── Caso Record TV.png
+│   │   │   │   ├── Caso Renner.png
+│   │   │   │   ├── CERT.png
+│   │   │   │   ├── CGI.png
+│   │   │   │   ├── Exemplo de rede.png
+│   │   │   │   ├── Rede de cameras.png
+│   │   │   │   ├── Rede Mista.png
+│   │   │   │   ├── Rede telefonica interceptada.png
+│   │   │   │   └── Rede telefonica.png
+│   │   │   ├── Aula 2 Defesa de redes.md
+│   │   │   ├── Conceituando Defesa de Redes.md
+│   │   │   ├── Exemplos de casos reais e suas consequências.md
+│   │   │   ├── Importância da Defesa de Redes.md
+│   │   │   └── Tipos de defesa de Redes.md
+│   │   ├── Aula 3 Técnicas para proteção de redes
+│   │   │   ├── Aula 3 Técnicas para proteção de redes Imagens
+│   │   │   │   ├── Fabricacao.png
+│   │   │   │   ├── Fluxo Normal da Informação.png
+│   │   │   │   ├── Interceptacao.png
+│   │   │   │   ├── Interrupcao.png
+│   │   │   │   ├── Modificacao.png
+│   │   │   │   └── Resumo.png
+│   │   │   ├── Aula 3 Técnicas para proteção de redes.md
+│   │   │   ├── Classificar os vários tipos de ataques à rede.md
+│   │   │   ├── Técnicas camada de Acesso.md
+│   │   │   ├── Técnicas camada de Aplicação.md
+│   │   │   ├── Técnicas camada de Internet.md
+│   │   │   ├── Técnicas camada de Rede.md
+│   │   │   └── Técnicas camada de Transporte.md
+│   │   ├── Aula 4 Controle de acesso
+│   │   │   ├── Aula 4 Controle de acesso.md
+│   │   │   ├── Controle de Acesso Físico.md
+│   │   │   ├── Controle de Acesso Lógico.md
+│   │   │   ├── Melhores Praticas para Controle de Acesso.md
+│   │   │   └── O que é o Controle de Acesso?.md
+│   │   ├── Aula 5 Firewalls
+│   │   │   ├── Aula 5 Firewalls Imagens
+│   │   │   │   ├── Camada 1 portas.png
+│   │   │   │   ├── Camada 2.png
+│   │   │   │   ├── Camadas 1  2  3  e  4 p firewall.png
+│   │   │   │   ├── Firewall.png
+│   │   │   │   ├── IDS x IPS.png
+│   │   │   │   └── Microsegmentação.png
+│   │   │   ├── Aula 5 Firewalls.md
+│   │   │   ├── Firewall de Camada 1 e 2.md
+│   │   │   ├── Firewall de Camada 3 e 4.md
+│   │   │   ├── Firewalls de Camada 7 e Última Geração.md
+│   │   │   ├── IDS e IPS.md
+│   │   │   ├── Microsegmentação.md
+│   │   │   └── O que é um firewall?.md
+│   │   ├── Aula 6 Segurança na nuvem
+│   │   │   ├── Aula 6 Segurança na nuvem Imagens
+│   │   │   │   └── Demonstrativo de sistema em nuvem.png
+│   │   │   ├── Arquiteturas e Modelos de segurança.md
+│   │   │   ├── Aula 6 Segurança na nuvem.md
+│   │   │   ├── Desafios da Segurança em Nuvem.md
+│   │   │   ├── Importância da segurança nos Sistemas em Nuvem e suas categorias.md
+│   │   │   ├── O que é um Sistema em Nuvem?.md
+│   │   │   ├── Tipos de Estruturas de Segurança em Nuvem.md
+│   │   │   └── Zero Trust.md
+│   │   ├── Aula 7 Criptografia
+│   │   │   ├── Aula 7 Criptografia Imagens
+│   │   │   │   ├── Compras com chaves certificado digital.png
+│   │   │   │   ├── Conceito de Criptografia.png
+│   │   │   │   ├── Criptografia Assimetrica.png
+│   │   │   │   ├── Criptografia simetrica.png
+│   │   │   │   ├── Mensagem Segura e Assinada.png
+│   │   │   │   ├── Processo para obtencao de certificado digital.png
+│   │   │   │   └── The Coder Ring.png
+│   │   │   ├── Aplicações de Criptografia.md
+│   │   │   ├── Aula 7 Criptografia.md
+│   │   │   ├── Chaves Criptográficas Publicas e Privadas.md
+│   │   │   ├── Criptografia Assimétrica.md
+│   │   │   ├── Criptografia Simétrica.md
+│   │   │   └── O que é Criptografia?.md
+│   │   ├── Aula 8 Estratégica de cibersegurança
+│   │   │   ├── Aula 8 Estratégias de cibersegurança Imagens
+│   │   │   │   ├── Fireeye.png
+│   │   │   │   ├── Fortinet.png
+│   │   │   │   ├── Karpersky.png
+│   │   │   │   ├── Sonicwall.png
+│   │   │   │   ├── Spamhaus.png
+│   │   │   │   └── Threatbutt.png
+│   │   │   ├── Aula 8 Estratégias de cibersegurança.md
+│   │   │   ├── Compreender o seu cenário de ameaça cibernética.md
+│   │   │   ├── Monitoramento de Ameaças.md
+│   │   │   └── Padrão modernos para a segurança e proteção de dados.md
+│   │   └── Network Defense.md
 │   └── Disciplina Networking Essentials
 │       ├── Aula 1 Comunicação de dados
 │       │   ├── Aula 1 Comunicação de dados.md
@@ -239,3 +381,18 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 │       │   ├── Saiba mais.md
 │       │   └── Tipos de analisadores de protocolo.md
 │       └── Networking Essentials.md
+├── MODULO 2
+│   └── Disciplina Cyber Threat Management
+│       ├── Aula 1 Introdução à Cyber Threat Management
+│       │   ├── Aula 1 Introdução à Cyber Threat Management Imagens
+│       │   │   └── NIST.png
+│       │   ├── Aula 1 Introdução à Cyber Threat Management.md
+│       │   └── Definição de Cyber Threat Management.md
+│       └── Cyber Threat Management.md
+├── automacao_linkedin.py
+├── LICENSE
+├── MBA em Segurança da Informação.md
+├── Os desafios.md
+├── post_index.txt
+└── README.md
+
