@@ -11,3 +11,9 @@ Esse tipo de ataque busca por meio de acesso remoto estabelecer privilégios e f
 
 - Phishing 
 O phishing é um tipo de ataque de engenharia social onde o atacante se passa por outra pessoa ou uma instituição, buscando com que o usuário atacado forneça dados sensíveis ou até mesmo conseguindo com que ele faça algo com seu privilégio. Comumente usado em e-mails, links que se passam por paginas de instituições, até mesmo ligações telefônicas.
+
+- Spoofing
+O Spoofing é dado por meio da falsificação de IP.
+
+- Man-in-the-middle
+Interceptar, modificar informações entre o caminho do 
