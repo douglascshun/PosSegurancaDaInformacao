@@ -2,4 +2,4 @@
 
 # O que é Cyber Thread Management?
 
-O gerenciamento de ameças é um processo usado para previnir ataque cibernéticos, dete
+O gerenciamento de ameças é um processo usado para prevenir ataque cibernéticos, detectar ameaças cibernéticas e responder a incidentes de segurança para minimizar o risco cibernético.
