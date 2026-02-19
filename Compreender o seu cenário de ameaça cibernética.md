@@ -10,4 +10,4 @@ O atacante invade os dados da empresa se estabelece em um ponto critico, criptog
 Esse tipo de ataque busca por meio de acesso remoto estabelecer privilégios e facilitar a exploração do atacante buscando novas formas de atacar
 
 - Phishing 
-O phishing é um tipo de ataque de engenharia social onde o atacante se passa por outra pessoa ou uma instituição, buscando com que o usuário atacado forneça dados sensíveis ou até mesmo conseguindo com que ele faça algo com seu privilégio. Comum 
+O phishing é um tipo de ataque de engenharia social onde o atacante se passa por outra pessoa ou uma instituição, buscando com que o usuário atacado forneça dados sensíveis ou até mesmo conseguindo com que ele faça algo com seu privilégio. Comumente usado em e-mails, links que se passam por paginas de instituições, até mesmo ligações telefônicas.
