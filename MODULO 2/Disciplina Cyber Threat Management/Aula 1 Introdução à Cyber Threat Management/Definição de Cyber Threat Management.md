@@ -13,4 +13,4 @@ Reconhecer as ameças para poder reagir as elas, para isso é necessário o plan
 Busca Impedir a perca de recursos e informações sensíveis por meio de implementação estratégica no desenvolvimento da empresa
 
 - O que envolve?
-Estábelecimento de 
+Estabelecimento de políticas estratégicas, implementações e analise de dados no desenvolvimento da empresa, sistema e rede. 
