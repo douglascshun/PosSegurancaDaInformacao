@@ -15,4 +15,6 @@ Outras empresas que seguem a mesma linha:
 # Fireeye
 ![[Fireeye.png]]
 
-# Son
+# Sonicwall
+![[Sonicwall.png]]
+Diferencialmente a Sonicwall, faz a fabricação de firewall
