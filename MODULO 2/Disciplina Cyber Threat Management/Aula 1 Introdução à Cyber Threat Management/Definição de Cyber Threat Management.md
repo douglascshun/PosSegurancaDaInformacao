@@ -21,3 +21,8 @@ O instituto tem como missão principal promover a inovação e a competitividade
 
 ![[NIST.png]]
 
+- **Identificar (Identify):** Compreender o contexto de negócios, os ativos (físicos e de software) e os riscos para gerenciar a cibersegurança.
+- **Proteger (Protect):** Desenvolver e implementar salvaguardas apropriadas para garantir a prestação de serviços essenciais, incluindo controle de acesso e treinamento.
+- **Detectar (Detect):** Implementar atividades para identificar a ocorrência de um evento de segurança cibernética rapidamente.
+- **Responder (Respond):** Tomar medidas de ação quando um incidente de cibersegurança é detectado, focado em conter o impacto.
+- **Recuperar (Recover):** Desenvolver planos para resiliência e restaurar capacidades ou serviços que foram prejudicados devido a um incidente.
