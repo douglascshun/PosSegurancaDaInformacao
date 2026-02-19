@@ -15,6 +15,6 @@ Busca Impedir a perca de recursos e informações sensíveis por meio de impleme
 - O que envolve?
 Estabelecimento de políticas estratégicas, implementações e analise de dados no desenvolvimento da empresa, sistema e rede. 
 
-# NIST
+# National Institute of Standards and Technology (NIST) 
 ![[NIST.png]]
 
