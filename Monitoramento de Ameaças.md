@@ -2,5 +2,5 @@
 
 
 # Karpersky
-
 ![[Karpersky.png]]
+Software antivítus, a empresa monitora os ataquem em tempo real e disponibi
