@@ -16,5 +16,7 @@ Busca Impedir a perca de recursos e informações sensíveis por meio de impleme
 Estabelecimento de políticas estratégicas, implementações e analise de dados no desenvolvimento da empresa, sistema e rede. 
 
 # National Institute of Standards and Technology (NIST) 
+
+O instituto tem como missão principal promover a inovação e acompetitividade industrial por meio do avanço da ciência da medição, pad
 ![[NIST.png]]
 
