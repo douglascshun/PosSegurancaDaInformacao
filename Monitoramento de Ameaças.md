@@ -19,3 +19,5 @@ Outras empresas que seguem a mesma linha:
 ![[Sonicwall.png]]
 Diferencialmente a Sonicwall, faz a fabricação de firewall onde seguindo a mesma linha tem um site que disponibiliza o mapa mundial dos aparelhos sendo atacados,mas diferencialmente ela usa os dados coletados para automaticamente impedir o ataque em outros dispositivos fabricados por ela.
 
+# Threatbutt
+![[Threatbutt.png]]
