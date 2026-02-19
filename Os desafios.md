@@ -3,4 +3,9 @@
 
 Como funciona a infra estrutura tecnologia, não apenas de onde acesso, mas como acessam os sistemas, acessos a rede sociais, permissões, se possuem softwares de segurança, se possuem sistema de proxy, firewall..
 
-# O 
+# O fator humano!
+
+- Conscientização do usuário
+Treinar e testar o usuário, além das implementações de politicas r´
+
+- Conhecimento 
