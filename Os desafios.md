@@ -6,7 +6,8 @@ Como funciona a infra estrutura tecnologia, não apenas de onde acesso, mas como
 # O fator humano!
 
 - Conscientização do usuário
-Treinar e testar o usuário, além das implementações de politicas rígidas e bem planejadas 
-
 - Conhecimento
-Treinamento contínuo dos usuários 
+- Treinamento 
+- Resiliência 
+
+Busque sempre trabalhar 
