@@ -17,6 +17,7 @@ Estabelecimento de políticas estratégicas, implementações e analise de dados
 
 # National Institute of Standards and Technology (NIST) 
 
-O instituto tem como missão principal promover a inovação e acompetitividade industrial por meio do avanço da ciência da medição, pad
+O instituto tem como missão principal promover a inovação e a competitividade industrial por meio do avanço da ciência da medição, padrões e tecnologia,um dos recursos que ele fornece é a IPDRR que consiste nos seguintes fatores:
+
 ![[NIST.png]]
 
