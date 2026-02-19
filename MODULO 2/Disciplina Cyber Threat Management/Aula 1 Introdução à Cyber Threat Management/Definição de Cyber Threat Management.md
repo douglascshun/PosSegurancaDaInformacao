@@ -10,6 +10,7 @@ O gerenciamento de ameças é um processo usado para prevenir ataque cibernétic
 Reconhecer as ameças para poder reagir as elas, para isso é necessário o planejamento e a implementação de normas e politicas internas por parte da empresa.
 
 - Importância 
-Impedir a perca de recursos e informações sensíveis por meio de implementação estratégica no desenvolvimento da empresa
+Busca Impedir a perca de recursos e informações sensíveis por meio de implementação estratégica no desenvolvimento da empresa
 
 - O que envolve?
+Estábelecimento de 
