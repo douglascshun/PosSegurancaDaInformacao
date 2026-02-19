@@ -278,10 +278,10 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
   </details>
   <br>
-  
-(🟢Finalizado
+
+(🟢Concluido
 🔵Em progresso
-⚪On the way)
+⚪A iniciar)
 <br>
 
 ---
