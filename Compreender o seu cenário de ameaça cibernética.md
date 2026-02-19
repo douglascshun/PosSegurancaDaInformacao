@@ -19,4 +19,4 @@ O Spoofing é dado por meio da falsificação de IP.
 Interceptar e modificar informações entre o caminho do emissor ao destinatário.
 
 - DoS e DDoS
-O Denial Of Service e o Distribute Denial of Service, co
+O Denial Of Service e o Distribute Denial of Service, consiste em  "Intupir" a banda do usuário por meio de envios de pacotes, o que sobrecarrega o servidore
