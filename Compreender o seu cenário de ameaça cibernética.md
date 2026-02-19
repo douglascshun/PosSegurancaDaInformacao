@@ -16,4 +16,7 @@ O phishing é um tipo de ataque de engenharia social onde o atacante se passa po
 O Spoofing é dado por meio da falsificação de IP.
 
 - Man-in-the-middle
-Interceptar, modificar informações entre o caminho do 
+Interceptar e modificar informações entre o caminho do emissor ao destinatário.
+
+- DoS e DDoS
+O Denial Of Service e o Distribute Denial of Service, co
