@@ -7,392 +7,286 @@ Aqui organizo todo o conteúdo aprendido ao longo do curso:
 - Divisão por módulos  
 - Disciplinas de cada módulo  
 - Resumos e anotações de cada aula  
-- Links importantes, diagramas, códigos, referências e reflexões práticas  
+- Sub-Assuntos de cada aula
 
 O objetivo é criar um material de consulta rápido, consolidar o conhecimento e facilitar revisões para provas, trabalhos e aplicação no dia a dia profissional.
 
-## Estrutura das pastas
+---
 
-```text
-📁 pós-seguranca-informacao/
-├── MODULO 1
-│   ├── Disciplina Cybersecurity Essentials
-│   │   ├── Aula 1 Conceitos de Segurança Cibernética
-│   │   │   ├── Aula 1 Conceitos de Segurança Cibernética - Imagens
-│   │   │   │   ├── Exemplo de Confidencialidade.png
-│   │   │   │   ├── Intercepção de mensagem confidencial.png
-│   │   │   │   ├── Sucesso de envio de mensagem confidencial.png
-│   │   │   │   ├── Tentativa de Envio de mensagem Confidencial.png
-│   │   │   │   └── Vulnerabilidade para obtenção de informações confidenciais.png
-│   │   │   ├── Aula 1 Conceitos de Segurança Cibernética.md
-│   │   │   ├── Definição de Autenticidade.md
-│   │   │   ├── Definição de Confidencialidade.md
-│   │   │   ├── Definição de Disponibilidade.md
-│   │   │   ├── Definição de Integridade.md
-│   │   │   └── Definição de Irretratabilidade.md
-│   │   ├── Aula 2 Ameaças, Ataques e Vulnerabilidades
-│   │   │   ├── Aula 2 Ameaças, Ataques e Vulnerabilidades Imagens
-│   │   │   │   ├── Arquitetura em Nuvem.png
-│   │   │   │   ├── O que é arquitetura?.png
-│   │   │   │   ├── Origens das ameaças.png
-│   │   │   │   ├── Por que modelo?.png
-│   │   │   │   ├── Possiveis vulnerabilidades existentes em nuvem.png
-│   │   │   │   └── Vulnerabilidades podem ser exploradas.png
-│   │   │   ├── Ameaças aos Sistemas de Informação.md
-│   │   │   ├── Arquitetura de um Sistema.md
-│   │   │   ├── Aula 2 Ameaças, Ataques e Vulnerabilidades.md
-│   │   │   ├── Modelagem do Atacante.md
-│   │   │   ├── Vetor de Ataque Cibernético.md
-│   │   │   └── Vulnerabilidades de um Sistema.md
-│   │   ├── Aula 3 Medidas de Segurança
-│   │   │   ├── Aula 3 Medidas de Segurança Imagens
-│   │   │   │   ├── Analise de risco com cuidados da sua parte mas vasão de dados na nuvem.png
-│   │   │   │   ├── Analise de risco em caso de descuido de dados com informações pessoais.png
-│   │   │   │   ├── Analise de risco em nuvem.png
-│   │   │   │   ├── Analise de risco no caso da Alice.png
-│   │   │   │   ├── Analise de risco no caso do Bob.png
-│   │   │   │   ├── Comparativo equivalente.png
-│   │   │   │   ├── Considerando a o baixo nível de segurança em dispositivos de IoT em coisas de alto risco como chuveiros.png
-│   │   │   │   ├── Considerando a o baixo nível de segurança em dispositivos de IoT em cosias simples.png
-│   │   │   │   ├── Impacto de ataque em nuvem.png
-│   │   │   │   ├── Impacto em situação de boas praticas e uso correto de aparelho profissional.png
-│   │   │   │   ├── Impacto em situação de más praticas e uso incorreto  de aparelhos profissionais.png
-│   │   │   │   ├── O que é risco ?.png
-│   │   │   │   ├── Probabilidade de ataque em dispositivos de uso profissional e ataques em fator humano com base em más práticas.png
-│   │   │   │   ├── Probabilidade de ataque em dispositivos de uso profissional e ataques em fator humano.png
-│   │   │   │   └── Probabilidade de um ataque em Nuvem.png
-│   │   │   ├── Análise de Risco em IoT.md
-│   │   │   ├── Análise de Risco.md
-│   │   │   ├── Aula 3 Medidas de Segurança.md
-│   │   │   ├── Definição de Risco.md
-│   │   │   ├── Impacto de um Ataque.md
-│   │   │   └── Probabilidade de um Ataque.md
-│   │   ├── Aula 4 Controles de Segurança para redes, servidores e aplicativos
-│   │   │   ├── Aula 4 Controles de Segurança para redes, servidores e aplicativos Imagens
-│   │   │   │   ├── Como embaralhar bem a mensagem ?.png
-│   │   │   │   ├── O que voce e.png
-│   │   │   │   ├── O que voce possui.png
-│   │   │   │   └── O que voce sabe.png
-│   │   │   ├── Aula 4 Controles de Segurança para redes, servidores e aplicativos.md
-│   │   │   ├── Autenticação.md
-│   │   │   ├── Criptografia.md
-│   │   │   ├── Firewall.md
-│   │   │   ├── Recuperação de um Ataque.md
-│   │   │   └── Sistemas de Detecção de Intrusão.md
-│   │   ├── Aula 5 Políticas de Segurança
-│   │   │   ├── Aula 5 Políticas de Segurança.md
-│   │   │   ├── Autorização.md
-│   │   │   ├── Ciclo de Vida de Credenciais.md
-│   │   │   ├── Controle de Acesso ABAC.md
-│   │   │   ├── Controle de Acesso ACL.md
-│   │   │   └── Controle de Acesso RBAC.md
-│   │   ├── Aula 6 Procedimentos adequados para a disponibilidade e o sigilo dos dados
-│   │   │   ├── Aula 6 Procedimentos adequados para a disponibilidade e o sigilo dos dados.md
-│   │   │   ├── Conceitos da GDPR.md
-│   │   │   ├── Conceitos da LGPD.md
-│   │   │   ├── Confidencialidade na Era dos Dados.md
-│   │   │   ├── Disponibilidade na Era dos Dados.md
-│   │   │   └── Políticas de Gestão de Dados.md
-│   │   ├── Aula 7 Resolução de Problemas usando Cisco Packet Tracer
-│   │   │   ├── Aula 7 Resolução de Problemas usando Cisco Packet Tracer.md
-│   │   │   ├── Exemplo, Rede com dois computadores.md
-│   │   │   ├── Exemplo. Rede com quatro computadores.md
-│   │   │   ├── Instalação do Cisco Packet Tracer.md
-│   │   │   ├── Introdução ao Cisco Packet Tracer.md
-│   │   │   └── Principais funções do Cisco Packet Tracer.md
-│   │   ├── Aula 8 Pensamento crítico
-│   │   │   ├── Aula 8 Pensamento crítico.md
-│   │   │   ├── Desafios de Segurança em Aprendizado de Máquina.md
-│   │   │   ├── Desafios de Segurança em Computação em Nuvem.md
-│   │   │   ├── Desafios de Segurança em Internet das Coisas.md
-│   │   │   ├── Desafios de Segurança na Computação Quântica.md
-│   │   │   ├── Saiba mais.md
-│   │   │   └── Trade Off entre Segurança e Usabilidade.md
-│   │   └── Cybersecurity Essentials.md
-│   ├── Disciplina Endpoint Security
-│   │   ├── Aula 1 Ameaças e ciberataques comuns aos endpoints
-│   │   │   ├── Aula 1 Ameaças e ciberataques comuns aos endpoints Imagens
-│   │   │   │   ├── Ataque de ransomware.png
-│   │   │   │   ├── Erro humano reportagem 2.png
-│   │   │   │   ├── Erro humano reportagem.png
-│   │   │   │   ├── Ilustração de ataque DDos.png
-│   │   │   │   ├── Injeção SQL.png
-│   │   │   │   ├── Nobreak.png
-│   │   │   │   ├── O cubo da cibersegurança.png
-│   │   │   │   ├── Phishing.png
-│   │   │   │   └── Triad.png
-│   │   │   ├── Ataques de software.md
-│   │   │   ├── Aula 1 Ameaças e ciberataques comuns aos endpoints.md
-│   │   │   ├── Cubo da cibersegurança.md
-│   │   │   ├── Erro humano e Sabotagem.md
-│   │   │   ├── Falhas de hardware e de energia.md
-│   │   │   ├── O que é um endpoint?.md
-│   │   │   └── Roubo de identidade e de equipamentos.md
-│   │   ├── Aula 2 Proteção de Arquivos
-│   │   │   ├── Aula 2 Proteção de Arquivos.md
-│   │   │   ├── Backup e restore.md
-│   │   │   ├── Certificados digitais.md
-│   │   │   ├── Conceitos básicos sobre sistemas de arquivos.md
-│   │   │   ├── Controle de Integridade, hash.md
-│   │   │   ├── Controles de acesso.md
-│   │   │   └── Criptografia de arquivos.md
-│   │   ├── Aula 3 Ferramentas para proteção de estações de trabalho
-│   │   │   ├── Aula 3 Ferramentas para proteção de estações de trabalho Imagens
-│   │   │   │   └── Illustracao de firewall.png
-│   │   │   ├── Aula 3 Ferramentas para proteção de estações de trabalho.md
-│   │   │   ├── Ferramentas de proteção de estações de trabalho.md
-│   │   │   ├── Firewall.md
-│   │   │   ├── Proteção contra malware.md
-│   │   │   ├── Proteção contra phishing.md
-│   │   │   └── Proteção contra ransomware.md
-│   │   ├── Aula 4 Segurança Endpoint Windows
-│   │   │   ├── Aula 4 Segurança Endpoint Windows Imagens
-│   │   │   │   ├── Simbologia Zero Trust.png
-│   │   │   │   └── virtualização.png
-│   │   │   ├── Application Guard e Microsoft Defender SmartScreen.md
-│   │   │   ├── Aula 4 Segurança Endpoint Windows.md
-│   │   │   ├── Microsoft Defender Antivírus.md
-│   │   │   ├── Microsoft Defender e Criptografia.md
-│   │   │   ├── Windows Defender Credential Guard.md
-│   │   │   ├── Windows Defender Firewall.md
-│   │   │   └── Zero trust no Windows.md
-│   │   ├── Aula 5 Segurança Endpoint Linux
-│   │   │   ├── Aula 5 Segurança Endpoint Linux Imagens
-│   │   │   │   ├── Distros linux 1.png
-│   │   │   │   └── Distros linux.png
-│   │   │   ├── Aula 5 Segurança Endpoint Linux.md
-│   │   │   ├── Controle de pacotes aplicações e serviços.md
-│   │   │   ├── Criptografia e controle de acesso SSH e ACL.md
-│   │   │   ├── Firewall iptables e netfilter.md
-│   │   │   ├── Gerenciamento de usuários e grupos.md
-│   │   │   └── Proteção contra vírus e ameaças.md
-│   │   ├── Aula 6 Proteção de serviços de nuvem
-│   │   │   ├── Aula 6 Proteção de serviços de nuvem Imagens
-│   │   │   │   ├── 5 Pilares da segurança na nuvem.png
-│   │   │   │   ├── Exemplo de IaaS.png
-│   │   │   │   ├── Exemplo de PaaS.png
-│   │   │   │   └── Exemplo de SaaS.png
-│   │   │   ├── Aula 6 Proteção de serviços de nuvem.md
-│   │   │   ├── Boas práticas de segurança para serviços na nuvem.md
-│   │   │   ├── Domínios de segurança na nuvem.md
-│   │   │   ├── Fundamentos de Computação em Nuvem.md
-│   │   │   ├── Requisitos de segurança para serviços na nuvem.md
-│   │   │   └── Segurança de dados na nuvem.md
-│   │   ├── Aula 7 Proteção de dispositivos móveis
-│   │   │   ├── Aula 7 Proteção de dispositivos móveis Imagens
-│   │   │   │   └── Monitoramento remoto.png
-│   │   │   ├── Aula 7 Proteção de dispositivos móveis.md
-│   │   │   ├── Boas práticas de segurança para dispositivos móveis.md
-│   │   │   ├── Configuração segura de Wi-fi.md
-│   │   │   ├── Recomendações e políticas para dispositivos móveis.md
-│   │   │   ├── Riscos e ameaças associadas aos dispositivos móveis.md
-│   │   │   └── Soluções de gerenciamento e monitoramento remoto.md
-│   │   ├── Aula 8 IoT Security Segurança na Internet das Coisas
-│   │   │   ├── Aula 8 IoT Security Segurança na Internet das Coisas Imagens
-│   │   │   │   ├── Exemplo de dispositivos detectados.png
-│   │   │   │   └── Internet das Coisas.png
-│   │   │   ├── Aula 8 IoT Security Segurança na Internet das Coisas.md
-│   │   │   ├── Fundamentos de IoT.md
-│   │   │   ├── Malware e Vulnerabilidades de software e firmware.md
-│   │   │   ├── Principais vulnerabilidades e ameaças em IoT.md
-│   │   │   ├── Protocolos de comunicação inseguros e ciberataques.md
-│   │   │   └── Vazamento de dados de IoT.md
-│   │   └── Endpoint Security.md
-│   ├── Disciplina Network Defense
-│   │   ├── Aula 1 Monitoramento de redes
-│   │   │   ├── Aula 1 Monitoramento de redes Imagens
-│   │   │   │   ├── Análise de Tendências.png
-│   │   │   │   ├── Cacti.png
-│   │   │   │   ├── exemplo de economia por monitoramento 2.png
-│   │   │   │   ├── exemplo de economia por monitoramento.png
-│   │   │   │   ├── Monitoramento de ataque de forca bruta.png
-│   │   │   │   ├── Nagio.png
-│   │   │   │   ├── Pico de consumo.png
-│   │   │   │   ├── PRTG.png
-│   │   │   │   └── Zabbix.png
-│   │   │   ├── A importância de se monitorar redes.md
-│   │   │   ├── Aula 1 Monitoramento de redes.md
-│   │   │   ├── Como monitorar?.md
-│   │   │   ├── Erros comuns em Monitoramento de Redes.md
-│   │   │   ├── O que monitorar?.md
-│   │   │   └── Principais Ferramentas de Monitoramento.md
-│   │   ├── Aula 2 Defesa de redes
-│   │   │   ├── Aula 2 Defesa de redes Imagens
-│   │   │   │   ├── Caso JBS.png
-│   │   │   │   ├── Caso Prefeitura do Rio de Janeiro 2.png
-│   │   │   │   ├── Caso Prefeitura do RJ.png
-│   │   │   │   ├── Caso Record TV.png
-│   │   │   │   ├── Caso Renner.png
-│   │   │   │   ├── CERT.png
-│   │   │   │   ├── CGI.png
-│   │   │   │   ├── Exemplo de rede.png
-│   │   │   │   ├── Rede de cameras.png
-│   │   │   │   ├── Rede Mista.png
-│   │   │   │   ├── Rede telefonica interceptada.png
-│   │   │   │   └── Rede telefonica.png
-│   │   │   ├── Aula 2 Defesa de redes.md
-│   │   │   ├── Conceituando Defesa de Redes.md
-│   │   │   ├── Exemplos de casos reais e suas consequências.md
-│   │   │   ├── Importância da Defesa de Redes.md
-│   │   │   └── Tipos de defesa de Redes.md
-│   │   ├── Aula 3 Técnicas para proteção de redes
-│   │   │   ├── Aula 3 Técnicas para proteção de redes Imagens
-│   │   │   │   ├── Fabricacao.png
-│   │   │   │   ├── Fluxo Normal da Informação.png
-│   │   │   │   ├── Interceptacao.png
-│   │   │   │   ├── Interrupcao.png
-│   │   │   │   ├── Modificacao.png
-│   │   │   │   └── Resumo.png
-│   │   │   ├── Aula 3 Técnicas para proteção de redes.md
-│   │   │   ├── Classificar os vários tipos de ataques à rede.md
-│   │   │   ├── Técnicas camada de Acesso.md
-│   │   │   ├── Técnicas camada de Aplicação.md
-│   │   │   ├── Técnicas camada de Internet.md
-│   │   │   ├── Técnicas camada de Rede.md
-│   │   │   └── Técnicas camada de Transporte.md
-│   │   ├── Aula 4 Controle de acesso
-│   │   │   ├── Aula 4 Controle de acesso.md
-│   │   │   ├── Controle de Acesso Físico.md
-│   │   │   ├── Controle de Acesso Lógico.md
-│   │   │   ├── Melhores Praticas para Controle de Acesso.md
-│   │   │   └── O que é o Controle de Acesso?.md
-│   │   ├── Aula 5 Firewalls
-│   │   │   ├── Aula 5 Firewalls Imagens
-│   │   │   │   ├── Camada 1 portas.png
-│   │   │   │   ├── Camada 2.png
-│   │   │   │   ├── Camadas 1  2  3  e  4 p firewall.png
-│   │   │   │   ├── Firewall.png
-│   │   │   │   ├── IDS x IPS.png
-│   │   │   │   └── Microsegmentação.png
-│   │   │   ├── Aula 5 Firewalls.md
-│   │   │   ├── Firewall de Camada 1 e 2.md
-│   │   │   ├── Firewall de Camada 3 e 4.md
-│   │   │   ├── Firewalls de Camada 7 e Última Geração.md
-│   │   │   ├── IDS e IPS.md
-│   │   │   ├── Microsegmentação.md
-│   │   │   └── O que é um firewall?.md
-│   │   ├── Aula 6 Segurança na nuvem
-│   │   │   ├── Aula 6 Segurança na nuvem Imagens
-│   │   │   │   └── Demonstrativo de sistema em nuvem.png
-│   │   │   ├── Arquiteturas e Modelos de segurança.md
-│   │   │   ├── Aula 6 Segurança na nuvem.md
-│   │   │   ├── Desafios da Segurança em Nuvem.md
-│   │   │   ├── Importância da segurança nos Sistemas em Nuvem e suas categorias.md
-│   │   │   ├── O que é um Sistema em Nuvem?.md
-│   │   │   ├── Tipos de Estruturas de Segurança em Nuvem.md
-│   │   │   └── Zero Trust.md
-│   │   ├── Aula 7 Criptografia
-│   │   │   ├── Aula 7 Criptografia Imagens
-│   │   │   │   ├── Compras com chaves certificado digital.png
-│   │   │   │   ├── Conceito de Criptografia.png
-│   │   │   │   ├── Criptografia Assimetrica.png
-│   │   │   │   ├── Criptografia simetrica.png
-│   │   │   │   ├── Mensagem Segura e Assinada.png
-│   │   │   │   ├── Processo para obtencao de certificado digital.png
-│   │   │   │   └── The Coder Ring.png
-│   │   │   ├── Aplicações de Criptografia.md
-│   │   │   ├── Aula 7 Criptografia.md
-│   │   │   ├── Chaves Criptográficas Publicas e Privadas.md
-│   │   │   ├── Criptografia Assimétrica.md
-│   │   │   ├── Criptografia Simétrica.md
-│   │   │   └── O que é Criptografia?.md
-│   │   ├── Aula 8 Estratégica de cibersegurança
-│   │   │   ├── Aula 8 Estratégias de cibersegurança Imagens
-│   │   │   │   ├── Fireeye.png
-│   │   │   │   ├── Fortinet.png
-│   │   │   │   ├── Karpersky.png
-│   │   │   │   ├── Sonicwall.png
-│   │   │   │   ├── Spamhaus.png
-│   │   │   │   └── Threatbutt.png
-│   │   │   ├── Aula 8 Estratégias de cibersegurança.md
-│   │   │   ├── Compreender o seu cenário de ameaça cibernética.md
-│   │   │   ├── Monitoramento de Ameaças.md
-│   │   │   └── Padrão modernos para a segurança e proteção de dados.md
-│   │   └── Network Defense.md
-│   └── Disciplina Networking Essentials
-│       ├── Aula 1 Comunicação de dados
-│       │   ├── Aula 1 Comunicação de dados.md
-│       │   ├── Introdução a comunicação de dados.md
-│       │   ├── Largura de banda e taxa de transmissão.md
-│       │   ├── Modos de transmissão.md
-│       │   ├── Transmissão de dados, Técnicas e tipos.md
-│       │   └── Velocidade de transmissão.md
-│       ├── Aula 2 Conceitos básicos de redes de computadores
-│       │   ├── Aula 2 Conceitos básicos de redes de computadores.md
-│       │   ├── Definições e aplicações de rede.md
-│       │   ├── Exemplos de projetos de rede.md
-│       │   ├── Fundamento de redes.md
-│       │   ├── Redes e suas classificações.md
-│       │   └── Topologia de rede.md
-│       ├── Aula 3 Componentes de rede
-│       │   ├── Aula 3 Componentes de rede.md
-│       │   ├── Hardware de rede.md
-│       │   ├── Meios físicos guiados.md
-│       │   ├── Meios físicos não guiados.md
-│       │   ├── Principais componentes de Rede.md
-│       │   └── Software de rede.md
-│       ├── Aula 4 Modelos de rede
-│       │   ├── Aula 4 Modelos de rede Imagens
-│       │   │   ├── Comparação do Modelo OSI e TCP IP.png
-│       │   │   ├── Modelo OSI.png
-│       │   │   ├── Modelo TCP IP.png
-│       │   │   └── Viagem e Entrega de Pacote.png
-│       │   ├── Aula 4 Modelos de rede.md
-│       │   ├── Camadas dos modelos OSI x TCP IP.md
-│       │   ├── Detalhando a transmissão de dados.md
-│       │   ├── Funcionalidades de cada camada.md
-│       │   ├── Modelo OSI.md
-│       │   └── Modelo TCP IP.md
-│       ├── Aula 5 Protocolos de Comunicação
-│       │   ├── Aula 5 Protocolos de Comunicação Imagens
-│       │   │   └── Exemplo de rede ponto a ponto.png
-│       │   ├── Aula 5 Protocolos de Comunicação.md
-│       │   ├── Configurações dos Protocolos de Comunicação.md
-│       │   ├── Funcionalidades dos protocolos.md
-│       │   ├── Fundamentos dos protocolos de comunicação.md
-│       │   ├── Serviços dos Protocolos de Rede.md
-│       │   └── Utilização dos protocolos de rede.md
-│       ├── Aula 6 Arquitetura de Protocolo IP
-│       │   ├── Aula 6 Arquitetura de Protocolo IP
-│       │   │   ├── Diferenças entre o IPv4 e o IPv6.png
-│       │   │   ├── Otras diferenças entre o IPv4 e o IPv6.png
-│       │   │   └── Posição do protocolo IP dentro dos protocolos TCP IP.png
-│       │   ├── Aula 6 Arquitetura de Protocolo IP.md
-│       │   ├── Implementação do IPv6.md
-│       │   ├── IPv4 e IPv6.md
-│       │   ├── IPV4 Endereçamento.md
-│       │   ├── O protocolo IP e seu datagrama.md
-│       │   └── Sub-redes.md
-│       ├── Aula 7 Camada de aplicação
-│       │   ├── Arquitetura da aplicação de rede.md
-│       │   ├── Aula 7 Camada de aplicação.md
-│       │   ├── Camada de Aplicação.md
-│       │   └── Funcionalidades da camada de aplicação.md
-│       ├── Aula 8 Gerenciamento de rede
-│       │   ├── Aula 8 Gerenciamento de rede Imagens
-│       │   │   ├── Brincando no PacoteTrancado.png
-│       │   │   ├── Coleta de dados com WireShark.png
-│       │   │   └── WireSharkExemploScanner.png
-│       │   ├── Análise de protocolos.md
-│       │   ├── Aula 8 Gerenciamento de rede.md
-│       │   ├── Fundamentos de gerenciamento de rede.md
-│       │   ├── Histórico do gerenciamento de redes.md
-│       │   ├── Packet Tracer.md
-│       │   ├── Saiba mais.md
-│       │   └── Tipos de analisadores de protocolo.md
-│       └── Networking Essentials.md
-├── MODULO 2
-│   └── Disciplina Cyber Threat Management
-│       ├── Aula 1 Introdução à Cyber Threat Management
-│       │   ├── Aula 1 Introdução à Cyber Threat Management Imagens
-│       │   │   └── NIST.png
-│       │   ├── Aula 1 Introdução à Cyber Threat Management.md
-│       │   └── Definição de Cyber Threat Management.md
-│       └── Cyber Threat Management.md
-├── automacao_linkedin.py
-├── LICENSE
-├── MBA em Segurança da Informação.md
-├── Os desafios.md
-├── post_index.txt
-└── README.md
+## 📚 Conteúdo Programático
 
+<details>
+  <summary><strong> 🟢 MODULO 1</strong></summary>
+  <blockquote>
+
+
+  <details>
+    <summary>🟢 Disciplina Networking Essentials</summary>
+    <ul>
+      <li><details><summary>Aula 1: Comunicação de Dados</summary><ul><li>Introdução a Comunicação de Dados<li>Largura de Banda e Taxa de Transmissão<li>Modos de transmissão<li>Transmissão de Dados, Técnicas e Tipos<li>Velocidade de Transmissão</li></ul></details></li>
+      <li><details><summary>Aula 2: Conceitos Básicos de Redes de Computadores</summary><ul><li>Fundamento de Redes<li>Definições e Aplicações de Rede<li>Topologia de Redes<li>Redes e Suas Classificações<li>Exemplo de Projetos de Rede</li></ul></details></li>
+      <li><details><summary>Aula 3: Componentes de Rede</summary><ul><li>Principais Componentes de Rede<li>Hardware de Rede<li>Meios Físicos Guiados<li>Meios Físicos Não Guiados<li>Softwares de Rede</li></ul></details></li>
+      <li><details><summary>Aula 4: Modelos de Rede</summary><ul><li>Camadas dos modelos OSI x TCPip<li>Detalhando a Transmissão de Dados<li>Funcionalidades de Cada Camada<li>Modelo OSI<li>Modelo TCPip</li></ul></details></li>
+      <li><details><summary>Aula 5: Protocolo de Comunicação</summary><ul><li>Fundamentos dos Protocolos de Comunicação<li>Funcionalidades dos protocolos<li>Serviços dos Protocolos de Rede<li>Utilização dos Protocolos de Rede<li>Configurações dos Protocolos de Comunicação</li></ul></details></li>
+      <li><details><summary>Aula 6: Arquitetura do protocolo IP</summary><ul><li>O protocolo IP e seu Datagrama<li>IPv4 e IPv6<li>IPv4 Endereçamento<li>Implementação do IPv6<li>Sub-redes</li></ul></details></li>
+      <li><details><summary>Aula 7: Camada de Aplicação</summary><ul><li>Camada de Aplicação<li>Arquitetura da Aplicação de Rede<li>Funcionalidades da Camada de Aplicação</li></ul></details></li>
+      <li><details><summary>Aula 8: Gerenciamento de Rede</summary><ul><li>Fundamento do Gerenciamento de Rede<li>Histórico do Gerenciamento de Redes<li>Tipo de Analisadores<li>Análise de Protocolos<li>Packet Tracer<li>Saiba mais</li></ul></details></li>
+    </ul>
+  </details>  
+
+  <details>
+    <summary>🟢 Disciplina Cybersecurity Essentials</summary>
+    <ul>
+      <li><details><summary>Aula 1: Conceitos de Segurança Cibernética</summary><ul><li>Definição de Autenticidade <li>Confidencialidade<li>Disponibilidade<li>Integridade<li>Irretratabilidade</li></ul></details></li>
+      <li><details><summary>Aula 2: Ameaças, Ataques e Vulnerabilidades</summary><ul><li>Modelagem do Atacante<li>Vetor de Ataque  Cibernético<li>Arquitetura de um Sistema<li>Vulnerabilidades de um Sistema<li>Ameaças aos Sistemas de Informação</li></ul></details></li>
+      <li><details><summary>Aula 3: Medidas de Segurança</summary><ul><li>Análise de Risco<li>Análise de Risco em Iot<li>Definição de Risco<li>Impacto de um Ataque<li>Probabilidade de um Ataque</li></ul></details></li>
+      <li><details><summary>Aula 4: Controle de Segurança para redes Servidores e Aplicações</summary><ul><li>Autenticação<li>Criptografia<li>Firewall<li>Recuperação de um Ataque<li>Sistemas de Detecção e Intrusão</li></ul></details></li>
+      <li><details><summary>Aula 5: Políticas de Segurança</summary><ul><li>Autorização<li>Ciclo de Vida de Credenciais<li>Controle de Acesso ABAC<li>Controle de Acesso ACL<li>Controle de Acesso RBAC</li></ul></details></li>
+      <li><details><summary>Aula 6: Procedimentos Adequados para a Disponibilidade e o Sigilo dos Dados</summary><ul><li>Conceitos da GDPR<li>Conceitos da LGPD<li>Confidencialidade na Era dos Dados<li>Disponibilidade na Era dos Dados<li>Políticas e Gestão de Dados</li></ul></details></li>
+      <li><details><summary>Aula 7: Resolução de Problemas Usando Cisco Packet Tracer</summary><ul><li>Instalação do Cisco Packet Tracer<li>Introdução ao Cisco Packet Tracer<li>Principais Funções do Cisco Packet Tracer<li>Rede com Dois Computadores<li>Rede com Quatro Dispositivos</li></ul></details></li>
+      <li><details><summary>Aula 8: Pensamento Crítico</summary><ul><li>Trade Off entre Segurança e Usabilidade<li>Desafios de Segurança em Aprendizado de Máquina<li>Desafios de Segurança em Computação em Nuvem<li>Desafios de Segurança em Internet das Coisas<li>Desafios de Segurança na Computação Quântica<li>Saiba Mais</li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>🟢 Disciplina Endpoint Security</summary>
+    <ul>
+      <li><details><summary>Aula 1: Ameaças e Ciberataques Comuns aos EndPoints</summary><ul><li>O que é EndPoint?<li>O Cubo da Cibersegurança<li>Ataques de Software<li>Erro Humano e Sabotagem<li>Roubo de Identidades e Equipamentos<li>Falhas de Hardware e Energia</li></ul></details></li>
+      <li><details><summary>Aula 2: Proteção de Arquivos</summary><ul><li>Conceitos Básicos Sobre Sistemas de Arquivos<li>Backup e Restore<li>Certificados Digitais<li>Controle de Integridade e Hash<li>Controles de Acesso<li>Criptografia de Arquivos</li></ul></details></li>
+      <li><details><summary>Aula 3: Ferramentas para Proteção de Estações de Trabalho</summary><ul><li>Ferramentas de proteção de estações de trabalho<li>Firewall<li>Proteção Contra Malware<li>Proteção Contra Phishing<li>Proteção Contra Ransomware</li></ul></details></li>
+      <li><details><summary>Aula 4: Segurança Endpoint Windows</summary><ul><li>Microsoft Defender Antivírus<li>Microsoft Defender e Criptografia<li>Windows Defender Credential Guard<li>Windows Defender Firewall<li>Zero trust no Windows</li></ul></details></li>
+      <li><details><summary>Aula 5: Segurança Endpoint Linux</summary><ul><li>Controle de Pacotes Aplicações e Serviços<li>Criptografia e Controle de Acesso SSH e ACL<li>Firewall Iptables e Netfilter<li>Gerenciamento de Usuários e Grupos<li>Proteção Contra Vírus e Ameaças</li></ul></details></li>
+      <li><details><summary>Aula 6: Proteção de Serviços de Nuvem</summary><ul><li>Fundamentos de Computação em Nuvem<li>Boas Práticas de Segurança para Serviços na Nuvem<li>Domínios de Segurança na Nuvem<li>Requisitos de Segurança para Serviços na Nuvem<li>Segurança de Dados na Nuvem</li></ul></details></li>
+      <li><details><summary>Aula 7: Proteção de Dispositivos Móveis</summary><ul><li>Boas práticas de segurança para dispositivos móveis<li>Configuração Segura de Wi-fi<li>Recomendações e Políticas para Dispositivos Móveis<li>Riscos e Ameaças Associadas aos Dispositivos Móveis<li>Soluções de Gerenciamento e Monitoramento Remoto</li></ul></details></li>
+      <li><details><summary>Aula 8: IoT Security Segurança na Internet das Coisas</summary><ul><li>Fundamentos de IoT<li>Malware e Vulnerabilidades de Software e Firmware<li>Principais Vulnerabilidades e Ameaças em IoT<li>Protocolos de Comunicação Inseguros e Ciberataques<li>Vazamento de Dados de IoT</li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>🟢 Disciplina Network Defense</summary>
+    <ul>
+      <li><details><summary>Aula 1: Monitoramento de Redes</summary><ul><li>A Importância de se Monitorar Redes<li>Como Monitorar?<li>Erros Comuns em Monitoramento de Redes<li>O que Monitorar?<li>Principais Ferramentas de Monitoramento</li></ul></details></li>
+      <li><details><summary>Aula 2: Defesa de Redes</summary><ul><li>Conceituando Defesa de Redes<li>Exemplos de Casos Reais e Suas Consequências<li>Importância da Defesa de Redes<li>Tipos de Defesa de Redes</li></ul></details></li>
+      <li><details><summary>Aula 3: Técnicas para Proteção de Redes</summary><ul><li>Classificar os Vários Tipos de Ataques à Rede<li>Técnicas Camada de Acesso<li>Técnicas Camada de Aplicação<li>Técnicas Camada de Internet<li>Técnicas Camada de Rede<li>Técnicas Camada de Transporte</li></ul></details></li>
+      <li><details><summary>Aula 4: Controle de Acesso</summary><ul><li>Controle de Acesso Físico<li>Controle de Acesso Lógico<li>Melhores Praticas para Controle de Acesso<li>O que é o Controle de Acesso?</li></ul></details></li>
+      <li><details><summary>Aula 5: Firewalls</summary><ul><li>Firewall de Camada 1 e 2<li>Firewall de Camada 3 e 4<li>Firewall de Camada 7 e Última Geração<li>IDS e IPS<li>Microsegmentação<li>O que é um firewall?</li></ul></details></li>
+      <li><details><summary>Aula 6: Segurança na Nuvem</summary><ul><li>Arquiteturas e Modelos de Segurança<li>Desafios da Segurança em Nuvem<li>Importância da segurança nos Sistemas em Nuvem e Suas Categorias<li>O que é um Sistema em Nuvem?<li>Tipos de Estruturas de Segurança em Nuvem<li>Zero Trust</li></ul></details></li>
+      <li><details><summary>Aula 7: Criptografia Avançada</summary><ul><li>Aplicações de Criptografia<li>Chaves Criptográficas Publicas e Privadas<li>Criptografia Assimétrica<li>Criptografia Simétrica<li>O que é Criptografia?</li></ul></details></li>
+      <li><details><summary>Aula 8: Estratégia de Cibersegurança</summary><ul><li>Compreender o seu Cenário de Ameaça Cibernética<li>Monitoramento de Ameaças<li>Padrão Modernos para a Segurança e Proteção de Dados</li></ul></details></li>
+    </ul>
+  </details>
+    
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong> 🔵 MODULO 2</strong></summary>
+  <blockquote>
+    
+  <details>
+    <summary>🔵 Disciplina Cyber Threat Management</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>⚪ Disciplina CyberOps</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>⚪ Disciplina Network Security</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary>⚪ Disciplina Cloud Security</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+  </details>
+
+
+  <details>
+  <summary><strong> ⚪ MODULO 3</strong></summary>
+  <blockquote>
+
+  <details>
+    <summary>⚪ Disciplina IoT Security</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>⚪ Disciplina Computer Security Incident Response Teams</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>⚪ Disciplina Privacy and Data Protection</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>⚪ Disciplina Data Mapping and Privacy Governance</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+  </details>
+
+
+  <details>
+  <summary><strong> ⚪ MODULO 4</strong></summary>
+  <blockquote>
+
+  <details>
+    <summary>⚪ Disciplina Tópicos Especiais de Tecnologia</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>⚪ Disciplina Tópicos Especiais de Diversidade</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>⚪ Disciplina Tópicos Especiais de Carreira</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>⚪ Disciplina Atualidades pós-graduação</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+
+   <details>
+    <summary>⚪ Disciplina Gestão do Tempo</summary>
+        <ul>
+      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+    </ul>
+  </details>
+  </details>
+  <br>
+  
+(🟢Finalizado
+🔵Em progresso
+⚪On the way)
+<br>
+
+---
+
+## 🛠️ Scripts e Extras
+* 🐍 [Automação de postagem das anotações no Linkedin](./automacao_linkedin.py)
+* 📔 [Sobre o MBA](./MBA%20em%20Segurança%20da%20Informação.md)
+* ⚖️ [LICENSE](./LICENSE)
