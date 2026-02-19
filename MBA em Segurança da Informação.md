@@ -1,6 +1,6 @@
 Commposição de modulos:
-[[MODULO 1]]
-[[Modulo 2]]
+[[Módulo 1]]
+[[Módulo 2]]
 
 
 
