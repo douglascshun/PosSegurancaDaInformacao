@@ -1,27 +1,25 @@
-# Pós-Graduação em Segurança da Informação  
-**Anotações, resumos e materiais de estudo**
+# MBA em Segurança da Informação
 
-Bem-vindo ao meu repositório pessoal de estudos do MBA em Segurança da Informação.
+ **Repositório central de estudos, resumos técnicos e documentação prática.**
 
-Aqui organizo todo o conteúdo aprendido ao longo do curso:  
-- Divisão por módulos  
-- Disciplinas de cada módulo  
-- Resumos e anotações de cada aula  
-- Sub-Assuntos de cada aula
-
-O objetivo é criar um material de consulta rápido, consolidar o conhecimento e facilitar revisões para provas, trabalhos e aplicação no dia a dia profissional.
 
 ---
+> Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
+---
 
-## 📚 Conteúdo Programático
+## 📂 Organização do Conteúdo
+
+A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-assuntos técnicos:
+
+###  Módulos e Disciplinas
 
 <details>
-  <summary><strong> 🟢 MODULO 1</strong></summary>
+  <summary><strong> 🔹 MODULO 1</strong></summary>
   <blockquote>
 
 
   <details>
-    <summary>🟢 Disciplina Networking Essentials</summary>
+    <summary>🔹 Disciplina Networking Essentials</summary>
     <ul>
       <li><details><summary>Aula 1: Comunicação de Dados</summary><ul><li>Introdução a Comunicação de Dados<li>Largura de Banda e Taxa de Transmissão<li>Modos de transmissão<li>Transmissão de Dados, Técnicas e Tipos<li>Velocidade de Transmissão</li></ul></details></li>
       <li><details><summary>Aula 2: Conceitos Básicos de Redes de Computadores</summary><ul><li>Fundamento de Redes<li>Definições e Aplicações de Rede<li>Topologia de Redes<li>Redes e Suas Classificações<li>Exemplo de Projetos de Rede</li></ul></details></li>
@@ -35,7 +33,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>  
 
   <details>
-    <summary>🟢 Disciplina Cybersecurity Essentials</summary>
+    <summary>🔹 Disciplina Cybersecurity Essentials</summary>
     <ul>
       <li><details><summary>Aula 1: Conceitos de Segurança Cibernética</summary><ul><li>Definição de Autenticidade <li>Confidencialidade<li>Disponibilidade<li>Integridade<li>Irretratabilidade</li></ul></details></li>
       <li><details><summary>Aula 2: Ameaças, Ataques e Vulnerabilidades</summary><ul><li>Modelagem do Atacante<li>Vetor de Ataque  Cibernético<li>Arquitetura de um Sistema<li>Vulnerabilidades de um Sistema<li>Ameaças aos Sistemas de Informação</li></ul></details></li>
@@ -49,7 +47,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>🟢 Disciplina Endpoint Security</summary>
+    <summary>🔹 Disciplina Endpoint Security</summary>
     <ul>
       <li><details><summary>Aula 1: Ameaças e Ciberataques Comuns aos EndPoints</summary><ul><li>O que é EndPoint?<li>O Cubo da Cibersegurança<li>Ataques de Software<li>Erro Humano e Sabotagem<li>Roubo de Identidades e Equipamentos<li>Falhas de Hardware e Energia</li></ul></details></li>
       <li><details><summary>Aula 2: Proteção de Arquivos</summary><ul><li>Conceitos Básicos Sobre Sistemas de Arquivos<li>Backup e Restore<li>Certificados Digitais<li>Controle de Integridade e Hash<li>Controles de Acesso<li>Criptografia de Arquivos</li></ul></details></li>
@@ -63,7 +61,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>🟢 Disciplina Network Defense</summary>
+    <summary>🔹 Disciplina Network Defense</summary>
     <ul>
       <li><details><summary>Aula 1: Monitoramento de Redes</summary><ul><li>A Importância de se Monitorar Redes<li>Como Monitorar?<li>Erros Comuns em Monitoramento de Redes<li>O que Monitorar?<li>Principais Ferramentas de Monitoramento</li></ul></details></li>
       <li><details><summary>Aula 2: Defesa de Redes</summary><ul><li>Conceituando Defesa de Redes<li>Exemplos de Casos Reais e Suas Consequências<li>Importância da Defesa de Redes<li>Tipos de Defesa de Redes</li></ul></details></li>
@@ -80,11 +78,11 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 </details>
 
 <details>
-  <summary><strong> 🔵 MODULO 2</strong></summary>
+  <summary><strong> 🔸 MODULO 2</strong></summary>
   <blockquote>
     
   <details>
-    <summary>🔵 Disciplina Cyber Threat Management</summary>
+    <summary>🔸 Disciplina Cyber Threat Management</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -98,7 +96,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>⚪ Disciplina CyberOps</summary>
+    <summary>▫️ Disciplina CyberOps</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -112,7 +110,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>⚪ Disciplina Network Security</summary>
+    <summary>▫️ Disciplina Network Security</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -126,7 +124,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
   
   <details>
-    <summary>⚪ Disciplina Cloud Security</summary>
+    <summary>▫️ Disciplina Cloud Security</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -142,11 +140,11 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 
 
   <details>
-  <summary><strong> ⚪ MODULO 3</strong></summary>
+  <summary><strong> ▫️ MODULO 3</strong></summary>
   <blockquote>
 
   <details>
-    <summary>⚪ Disciplina IoT Security</summary>
+    <summary>▫️ Disciplina IoT Security</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -160,7 +158,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>⚪ Disciplina Computer Security Incident Response Teams</summary>
+    <summary>▫️ Disciplina Computer Security Incident Response Teams</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -174,7 +172,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>⚪ Disciplina Privacy and Data Protection</summary>
+    <summary>▫️ Disciplina Privacy and Data Protection</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -188,7 +186,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>⚪ Disciplina Data Mapping and Privacy Governance</summary>
+    <summary>▫️ Disciplina Data Mapping and Privacy Governance</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -204,11 +202,11 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
 
 
   <details>
-  <summary><strong> ⚪ MODULO 4</strong></summary>
+  <summary><strong> ▫️ MODULO 4</strong></summary>
   <blockquote>
 
   <details>
-    <summary>⚪ Disciplina Tópicos Especiais de Tecnologia</summary>
+    <summary>▫️ Disciplina Tópicos Especiais de Tecnologia</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -222,7 +220,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>⚪ Disciplina Tópicos Especiais de Diversidade</summary>
+    <summary>▫️ Disciplina Tópicos Especiais de Diversidade</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -236,7 +234,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>⚪ Disciplina Tópicos Especiais de Carreira</summary>
+    <summary>▫️ Disciplina Tópicos Especiais de Carreira</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -250,7 +248,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
   <details>
-    <summary>⚪ Disciplina Atualidades pós-graduação</summary>
+    <summary>▫️ Disciplina Atualidades pós-graduação</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -264,7 +262,7 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
 
    <details>
-    <summary>⚪ Disciplina Gestão do Tempo</summary>
+    <summary>▫️ Disciplina Gestão do Tempo</summary>
         <ul>
       <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
@@ -279,14 +277,27 @@ O objetivo é criar um material de consulta rápido, consolidar o conhecimento e
   </details>
   <br>
 
-(🟢Concluido
-🔵Em progresso
-⚪A iniciar)
+(🔹Concluido
+🔸Em progresso
+▫️A iniciar)
 <br>
 
 ---
 
-## 🛠️ Scripts e Extras
-* 🐍 [Automação de postagem das anotações no Linkedin](./automacao_linkedin.py)
-* 📔 [Sobre o MBA](./MBA%20em%20Segurança%20da%20Informação.md)
-* ⚖️ [LICENSE](./LICENSE)
+## Scripts e Ferramentas
+* [ Automação de postagem das anotações no Linkedin](./automacao_linkedin.py)
+* [ Sobre o MBA](./MBA%20em%20Segurança%20da%20Informação.md)
+* [ LICENSE](./LICENSE)
+
+---
+
+## Contatos:
+
+- **LinkedIn:** [Douglas Cshunderlick](https://www.linkedin.com/in/cshunderlick/)
+- **E-mail:** Douglascshun@gmail.com
+
+---
+
+
+*Este repositório é atualizado automaticamente conforme o progresso das disciplinas.*
+
