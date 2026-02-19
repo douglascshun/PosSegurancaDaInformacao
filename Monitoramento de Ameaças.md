@@ -3,4 +3,5 @@
 
 # Karpersky
 ![[Karpersky.png]]
-Software antivítus, a empresa monitora os ataquem em tempo real e disponibi
+Software antivírus, a empresa monitora os ataquem em tempo real e disponibiliza um mapa mundial em seu site com os ataques recebidos ao vivo.
+
