@@ -7,5 +7,7 @@ O gerenciamento de ameças é um processo usado para prevenir ataque cibernétic
 # Conceitos de Cyber Threat Management
 
 - Objetivo
+Reconhecer as ameças para poder reagir as elas, para isso énecessario o planejamento e a implementação de normaas e politicas inte
+
 - Importância 
-- O que envolve
+- O que envolve?
