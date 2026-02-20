@@ -15,4 +15,4 @@ Inicialmente, definir os limites da responsabilidade operacional do risco cibern
 
 # Quem deve participar ?
 
-Como o nome sugere, a governança de cibersegurança recai, ates de mais nada, sob a alçada da alta adminis
+Como o nome sugere, a governança de cibersegurança recai, ates de mais nada, sob a alçada da alta administração. Comitês executivos e conselhos de administração são as figuras centrais nas tomadas de decisões.
