@@ -16,4 +16,10 @@ Usuários com permissões que não são necessárias para ele..
 Políticas, regras, leis..
 
 - Engenharia Social 
-concientiza
+Conscientização, treinamentos..
+
+# Onde identificar possíveis ricos externos?
+
+- Fornecedores  e Parceiros
+
+- API
