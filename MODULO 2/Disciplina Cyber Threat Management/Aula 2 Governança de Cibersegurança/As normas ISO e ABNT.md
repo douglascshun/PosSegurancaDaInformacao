@@ -7,7 +7,10 @@ As normas internacionais ISO, foram criadas pela Organização Internacional de 
 
 # ABNT NBR ISO/IEC 27001/2022
 
-A ISO 27001/2022 Trata de Segurança da Informação, segurança cibernética e proteção à privacidade -Sistemas de gestão da segurança da informação, requisitos.
+A ISO 27001/2022 
+Trata de:
+- Segurança da Informação
+- Segurança Cibernética e proteção à privacidade -Sistemas de gestão da segurança da informação, requisitos.
 
 É o padrão e a referência Internacional para gestão da Segurança da informação.
 
@@ -18,4 +21,4 @@ A norma tem como princípio geral a adoção pela organização de um conjunto d
 
 
 # ABNT NBR ISO/IEC 27014/2021
-TRata da Seguranç
+TRata da Segurança da Informação - Segurança Cibernética e proteção da privacidade - 
