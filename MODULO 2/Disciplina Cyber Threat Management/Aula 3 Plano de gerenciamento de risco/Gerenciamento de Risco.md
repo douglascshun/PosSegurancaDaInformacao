@@ -15,4 +15,6 @@ Uma estratégia de gerenciamento de riscos reconhece que as organizações não 
 - Identificar
 - Analisar/avaliar
 - Controlar/Tratas
-- M
+- Monitorar/revisar
+
+![[Gerenciamento de Risco.png]]
