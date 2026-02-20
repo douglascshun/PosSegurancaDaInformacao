@@ -5,4 +5,7 @@ As normas vem com objetivo de trazer suporte para a empresa trazendo padrões. E
 
 As normas internacionais ISO, foram criadas pela Organização Internacional de Padronização (ISO), com a finalidade de melhorar a qualidade de produtos e serviços.
 
-AB
+# ABNT NBR ISO/IEC 
+# 27001/2022
+
+Segurança da Informação, segurança cibernética e proteção à priva
