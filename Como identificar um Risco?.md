@@ -2,4 +2,11 @@
 
 O Risco de segurança cibernética é, normalmente, definido por três componentes, sendo eles a ameaça, vulnerabilidade e consequência. 
 
-Para identificarmos um risco é preciso, iniciialmente, analisar e detectar onde possam existir vulnerabilidades.
+Para identificarmos um risco é preciso, inicialmente, analisar e detectar onde possam existir vulnerabilidades.
+
+#  Onde identificar possíveis riscos internos?
+
+- Softwares
+- Permissões 
+- Conformidades
+- En
