@@ -7,4 +7,6 @@ A Governança de segurança cibernética é uma governança dedicada à seguran�
 
 O sistema pelo qual uma organização dirige e controla a governança de segurança, especifica a estrutura de responsabilidade e fornece supervisão para garantir que os riscos sejam mitigados adequadamente.
 
-# Por onde começar
+# Por onde começar?
+
+Inicialmente, definir os limites da responsabilidade operacional do risco cibernético. Geralmente, isso gira em torno dos responsáveis pelos processos de negócios e pelo monitoramento técnicoo do sistema de TI
