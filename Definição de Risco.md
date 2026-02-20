@@ -6,4 +6,5 @@ Um risco implica no nível de probabilidade ou chance de um evento de cibersegur
 
 É uma potencial perda, dano ou destruição de um ativo como resultado de uma ameaça que explora uma vulnerabilidade.
 
-Os riscos d
+Os riscos de segurança cibernética estão relacionados à perda de confidencialidade, integridade ou disponibilidade de informações, dados ou sistemas de informações..
+
