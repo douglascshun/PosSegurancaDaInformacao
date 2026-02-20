@@ -12,4 +12,5 @@ Governança é o conjunto de processos, decisões, políticas, leis, costumes, i
 - `Segurança`
 
 - `Governança Corportativa`:
-A Governança Corp
+A Governança Corporativa envolve essencialmente equilibrar os interesses das diversas partes interessadas de uma empresa, como acionistas, executivos de alta administração, clientes, fornecedores,  financiadores, governo e comunidade.
+
