@@ -7,6 +7,12 @@ Para identificarmos um risco é preciso, inicialmente, analisar e detectar onde 
 #  Onde identificar possíveis riscos internos?
 
 - Softwares
+SO, aplicativos, sistemas de fornecedores, aplicações..
+
 - Permissões 
+Usuários com permissões que não são
+
 - Conformidades
-- En
+
+
+- Engenharia Social 
