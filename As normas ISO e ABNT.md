@@ -11,4 +11,6 @@ A ISO 27001/2022 Trata de Segurança da Informação, segurança cibernética e 
 
 É o padrão e a referência Internacional para gestão da Segurança da informação.
 
-A norma tem como princípio geral a adoção pela organização de um conjunto de requisitos, processos e controles com o objetivo de mitigarem e gerirem adequadaemtne o r
+A norma tem como princípio geral a adoção pela organização de um conjunto de requisitos, processos e controles com o objetivo de mitigarem e gerirem adequaridade o risco da organização.
+
+![[ISO.png]]
