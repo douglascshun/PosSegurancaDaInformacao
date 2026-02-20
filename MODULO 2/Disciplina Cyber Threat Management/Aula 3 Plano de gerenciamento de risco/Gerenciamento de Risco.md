@@ -20,4 +20,6 @@ Uma estratégia de gerenciamento de riscos reconhece que as organizações não 
 ![[Gerenciamento de Risco.png]]
 
 # ABNT NBR ISO/IEC 27005
-- tEN
+- Tecnologia da informação
+- Técnicas de segurança
+Gestão de riscos de segurança da informação fornece diretrizes para o processo de gst
