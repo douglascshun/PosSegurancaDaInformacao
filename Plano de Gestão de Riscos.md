@@ -12,4 +12,4 @@ Esse documento é a o documento que apresenta como reagir a riscos. Esse documen
 - Continuidade 
 
 
-Um plano de gere
+Um plano de gerenciamento de riscos, ou "plano de mitigação de riscos", é um documento bem definido que informa como lidar com riscos específicos e quais ações de gerenciamento devem ser tomadas contra esses 
