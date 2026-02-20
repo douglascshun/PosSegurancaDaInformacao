@@ -23,7 +23,10 @@ A norma tem como princípio geral a adoção pela organização de um conjunto d
 
 
 # ABNT NBR ISO/IEC 27014/2021
-Trata de
+
+A ISO 27014/2021
+Trata de:
 - Segurança da Informação
 - Segurança Cibernética e proteção da privacidade
-- Governança da Segurança da informação
+- Governança da Segurança da Informação
+
