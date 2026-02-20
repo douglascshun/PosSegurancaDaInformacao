@@ -19,7 +19,8 @@ IT Service Management é uma ferramenta capaz de melhorar a qualidade de serviç
 
 
 
-- `ITIL`
+- `ITIL(Information Technology/Infraestructure Library)`
+É um conjunto bem conhecido de 
 É o **manual mais famoso** do mundo para colocar o ITSM em prática. Ele ensina como gerenciar incidentes (consertar algo que quebrou) e mudanças (instalar algo novo sem derrubar o sistema).
 
 
@@ -44,10 +45,10 @@ IT Service Management é uma ferramenta capaz de melhorar a qualidade de serviç
 
 
 
-- SCRUM, 
+- `SCRUM` 
 É o framework **ágil** mais popular. Em vez de planejar tudo por meses, o trabalho é dividido em ciclos curtos (Sprints) para entregar valor rapidamente.
 
 
 
-- SAFe
+- `SAFe`
 É o Scrum para **grandes empresas**. Ele serve para quando você não tem apenas um time ágil, mas centenas deles que precisam trabalhar juntos de forma sincronizada.
