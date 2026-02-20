@@ -9,17 +9,25 @@
 # Frameworks
 Quando o assunto é Governança, alguns frameworks que se destacam. Segue a analise com os principais e onde eles atuam em Cibersegurança:
 
-- ITSM
+- `ITSM (IT Service Management)`
 IT Service Management é uma ferramenta capaz de melhorar a qualidade de serviços e operações de TI, com o intuito principal de alinhas as necessidades, metas e objetivos do negócio de forma estratégica. 
--
--
+
+-Gerenciamento de Problemas
+-Gerenciamento de Incidentes
+
 É a ideia de que a TI deve agir como uma prestadora de serviços (ex: Wi-Fi, E-mail, ERP) focada na satisfação do cliente.
+
+
 
 - ITIL
 É o **manual mais famoso** do mundo para colocar o ITSM em prática. Ele ensina como gerenciar incidentes (consertar algo que quebrou) e mudanças (instalar algo novo sem derrubar o sistema).
 
+
+
 - COBIT
 É o **framework de governança**. Enquanto o ITIL foca na operação, o COBIT foca na estratégia, riscos e controles. É o "xerife" que garante que a TI está alinhada às metas da empresa.
+
+
 
 - PMBOOK, 
 É a "bíblia" do gerenciamento de projetos tradicional. Foca em prazos, custos, escopo e qualidade de forma muito estruturada.
