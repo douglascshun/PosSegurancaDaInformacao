@@ -1,6 +1,7 @@
 [[Cyber Threat Management]]
-**Introdução**
 
+
+**Introdução**
 A governança corporativa é um diferencial competitivo há muitos anos nas organizações, empregando níveis de maturidade, responsabilidades e técnicas para atingir metas e objetivos. Com o avanço tecnológico e a ampliação dos serviços com base na internet, além da governança corporativa e de TI, surge a necessidade de englobar também a governança de segurança e consequentemente de cibersegurança, que se torna mais um desafio para as empresas.
 
 **Objetivos da aula**
