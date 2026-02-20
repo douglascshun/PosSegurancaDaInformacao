@@ -40,3 +40,6 @@ Objetivos da ISO 27014/2021:
 -Entrega de Valor
 -Responsabilidades
 -Gestão de Riscos 
+
+Princípio da norma ABNT ISO/IEC 27014:
+-Estabelecer 
