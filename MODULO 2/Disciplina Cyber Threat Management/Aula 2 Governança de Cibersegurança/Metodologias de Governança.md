@@ -31,7 +31,12 @@ IT Service Management é uma ferramenta capaz de melhorar a qualidade de serviç
 
 
 - `COBIT (Control Objectives for Information and Related Technologies)`
-É um framework aplicado nas meelhores práticas de governança e gestão de TI. As organizações apl
+É um Framework aplicado nas melhores práticas de governança e gestão de TI. As organizações aplicam o COBIT na melhoria, desenvolvimento, implementação, monitoramento de estruturas de TI.
+
+-Garantir a Otimização de Riscos 
+-Gerenciar Riscos
+-Gerenciar Segurança
+
 
 É o **framework de governança**. Enquanto o ITIL foca na operação, o COBIT foca na estratégia, riscos e controles. É o "xerife" que garante que a TI está alinhada às metas da empresa.
 
