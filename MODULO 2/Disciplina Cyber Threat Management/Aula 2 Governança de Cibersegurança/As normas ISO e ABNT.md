@@ -30,7 +30,13 @@ Trata de:
 - Segurança Cibernética e prAula 2 Governança de Cibersegurançaoteção da privacidade
 - Governança da Segurança da Informação
 
+
 Fornece orientações sobre conceitos, objetivos e processos para a governança d segurança da informação pela qual as organizações podem avaliar, direcionar, monitorar e comunicar as atividades relacionadas à segurança da informação dentro da organização. 
 
+
 Objetivos da ISO 27014/2021:
--Alinhamento estraté
+
+-Alinhamento Estratégico
+-Entrega de Valor
+-Responsabilidades
+-Gestão de Riscos 
