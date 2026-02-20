@@ -19,4 +19,4 @@ Identifica quem tem poder, responsabilidade e quem toma decisões. Trata-se de u
 - `Governança de TI`:
 A Governança de TI é um elemento da governança corporativa, com o objetivo de melhorar o gerenciamento geral de TI e obter maior valor do investimento em informação e tecnologia.
 
-Permite que as organizações gerenciem seus riscos de TI com eficácia e garantam que as atividades associadas à tecnologia estejam alinhadas com os objetivo
+Permite que as organizações gerenciem seus riscos de TI com eficácia e garantam que as atividades associadas à tecnologia estejam alinhadas com os objetivos gerais de negócios.
