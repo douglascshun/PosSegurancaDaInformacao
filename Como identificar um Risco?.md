@@ -27,6 +27,7 @@ O fornecedor da mão de obra, software e trabalhos terceirizados precisam ser an
 A utilização da API de terceiro é comum, mas pode apresentar um risco com vazão de dados sensíveis.
 
 - Trabalho Remoto
-A falta de treinamento com boas praticas no acesso a rede da empr
+A falta de treinamento com boas praticas no acesso a rede da empresa e seus endpoint apresenta um grande vetor de ataque, consequentemente é um grande risco para as empresas.
 
 - Engenharia Social 
+Se não pensarmos 
