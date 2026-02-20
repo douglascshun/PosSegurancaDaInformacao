@@ -16,4 +16,18 @@ Quando o assunto é Governança, alguns frameworks que se destacam. Segue a anal
 É o **manual mais famoso** do mundo para colocar o ITSM em prática. Ele ensina como gerenciar incidentes (consertar algo que quebrou) e mudanças (instalar algo novo sem derrubar o sistema).
 
 - COBIT
-- PMBOOK, CMMI, MPS-BR, SCRUM, SAFe
+É o **framework de governança**. Enquanto o ITIL foca na operação, o COBIT foca na estratégia, riscos e controles. É o "xerife" que garante que a TI está alinhada às metas da empresa.
+
+- PMBOOK, 
+É a "bíblia" do gerenciamento de projetos tradicional. Foca em prazos, custos, escopo e qualidade de forma muito estruturada.
+
+- CMMI 
+
+
+- MPS-BR
+
+
+- SCRUM, 
+É o framework **ágil** mais popular. Em vez de planejar tudo por meses, o trabalho é dividido em ciclos curtos (Sprints) para entregar valor rapidamente.
+
+- SAFe
