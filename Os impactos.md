@@ -8,4 +8,13 @@
 - Em caso de empresas afetam o planejamento, credibilidade, vasão de dados, podendo até afetar o valor de ações em caso da perda da credibilidade.
 
 # Impactos Positivos:
-Credibilidad
+
+- Credibilidade
+
+
+- Investimento/Inovação
+
+
+- Infraestrutura
+
+- Resiliência
