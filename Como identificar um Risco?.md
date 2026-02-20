@@ -10,9 +10,10 @@ Para identificarmos um risco é preciso, inicialmente, analisar e detectar onde 
 SO, aplicativos, sistemas de fornecedores, aplicações..
 
 - Permissões 
-Usuários com permissões que não são
+Usuários com permissões que não são necessárias para ele..
 
 - Conformidades
-
+Políticas, regras, leis..
 
 - Engenharia Social 
+concientiza
