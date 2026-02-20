@@ -22,15 +22,16 @@ IT Service Management é uma ferramenta capaz de melhorar a qualidade de serviç
 - `ITIL(Information Technology/Infraestructure Library)`
 É um conjunto bem conhecido de melhores práticas de TI projetadas para ajudar as empresas a alinhar seus serviços de TI com as necessidades do cliente e do negócio.
 
--Gerenciamento de
--
--
+-Gerenciamento de Riscos 
+-Gerenciamento da Segurança da Informação
+-Gerenciamento de Incidentes
 
-É o **manual mais famoso** do mundo para colocar o ITSM em prática. Ele ensina como gerenciar incidentes (consertar algo que quebrou) e mudanças (instalar algo novo sem derrubar o sistema).
+É o manual mais famoso do mundo para colocar o ITSM em prática. Ele ensina como gerenciar incidentes (consertar algo que quebrou) e mudanças (instalar algo novo sem derrubar o sistema).
 
 
 
 - `COBIT`
+
 É o **framework de governança**. Enquanto o ITIL foca na operação, o COBIT foca na estratégia, riscos e controles. É o "xerife" que garante que a TI está alinhada às metas da empresa.
 
 
