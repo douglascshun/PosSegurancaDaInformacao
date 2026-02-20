@@ -21,5 +21,12 @@ Conscientização, treinamentos..
 # Onde identificar possíveis ricos externos?
 
 - Fornecedores  e Parceiros
+O fornecedor da mão de obra, software
 
-- API
+- APIs
+
+
+- Trabalho Remoto
+
+
+- Engenharia Social 
