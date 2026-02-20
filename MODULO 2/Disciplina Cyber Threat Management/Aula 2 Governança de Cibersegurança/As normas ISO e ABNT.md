@@ -42,4 +42,7 @@ Objetivos da ISO 27014/2021:
 -Gestão de Riscos 
 
 Princípio da norma ABNT ISO/IEC 27014:
--Estabelecer 
+-Estabelecer a segurança da Informação
+-Assegurar conformidade 
+-Promover um Ambiente Positivo
+-Analisar criticamente o desempenho em relação aos resultados de negócios
