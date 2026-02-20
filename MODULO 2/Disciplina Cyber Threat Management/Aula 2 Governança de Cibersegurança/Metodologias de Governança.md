@@ -10,6 +10,7 @@
 Quando o assunto é Governança, alguns frameworks que se destacam. Segue a analise com os principais e onde eles atuam em Cibersegurança:
 
 - ITSM
+IT Service Management
 É a ideia de que a TI deve agir como uma prestadora de serviços (ex: Wi-Fi, E-mail, ERP) focada na satisfação do cliente.
 
 - ITIL
@@ -22,12 +23,14 @@ Quando o assunto é Governança, alguns frameworks que se destacam. Segue a anal
 É a "bíblia" do gerenciamento de projetos tradicional. Foca em prazos, custos, escopo e qualidade de forma muito estruturada.
 
 - CMMI 
-
+ Um modelo global que avalia a maturidade dos processos. Ele vai do nível 1 (caótico) ao nível 5 (otimização contínua). Ter uma certificação CMMI é um selo de qualidade internacional.
 
 - MPS-BR
+É o "CMMI brasileiro". Criado pela Softex, ele é baseado em normas internacionais (ISO), mas adaptado para a realidade das empresas do Brasil, sendo mais barato e acessível para pequenas e médias empresas.
 
 
 - SCRUM, 
 É o framework **ágil** mais popular. Em vez de planejar tudo por meses, o trabalho é dividido em ciclos curtos (Sprints) para entregar valor rapidamente.
 
 - SAFe
+É o Scrum para **grandes empresas**. Ele serve para quando você não tem apenas um time ágil, mas centenas deles que precisam trabalhar juntos de forma sincronizada.
