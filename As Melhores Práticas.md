@@ -12,4 +12,7 @@
 - Firewall e controles de acesso 
 
 Usuário
-- 
+- Uso consciente de redes sociais 
+- Utilização adequada dos dispositivos
+- Uso correto de sites e emails
+- Ética e Políticas 
