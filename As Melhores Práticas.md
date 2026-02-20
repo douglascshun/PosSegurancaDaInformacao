@@ -7,4 +7,6 @@
 # Instrutura tecnológica
 
 - Complexidade de Senha e MFA
-- S
+- Sistemas Atualizados 
+- Criptografia
+- Firewall e controles de acesso 
