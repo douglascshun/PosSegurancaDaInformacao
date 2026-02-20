@@ -15,3 +15,10 @@
 - Resiliência
 
 Uma empresa que faça os serviços de segurança com infraestrutura válida gera muita credibilidade em vários setores, o que gera investimento. Em caso de ataques essas empresas terão ima resiliência muito grande.
+
+# Impactos negativos:
+
+-  Desvalorização/descré
+- 
+- 
+- 
