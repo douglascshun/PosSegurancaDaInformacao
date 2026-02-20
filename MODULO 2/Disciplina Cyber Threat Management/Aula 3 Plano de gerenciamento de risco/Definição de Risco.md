@@ -8,4 +8,5 @@ Um risco implica no nível de probabilidade ou chance de um evento de cibersegur
 
 Os riscos de segurança cibernética estão relacionados à perda de confidencialidade, integridade ou disponibilidade de informações, dados ou sistemas de informações e refletem os possíveis impactos adversos nas operações organizacionais (ou seja, missão, funções, imagens ou reputação) e ativos, indivíduos e outras organizações .
 
-Para reduzir o risco é preciso identificar e priorizar as vulnerabilidades de maneira imediata e contínua, para que não se torne uma ameaça e consequentemente um in
+Para reduzir o risco é preciso identificar e priorizar as vulnerabilidades de maneira imediata e contínua, para que não se torne uma ameaça e consequentemente um incidente.
+
