@@ -17,8 +17,6 @@ Um plano de gerenciamento de riscos, ou "plano de mitigação de riscos", é um 
 # Como lidar com um risco 
 
 - Evitar
-
-
-- Mitigar (Reduzir o impacto que esse risco )
-- Transferir
+- Mitigar (Reduzir o impacto que esse risco pode aceitar)
+- Transferir(Transferir os serviços que minha empresa não consegue lidar para empresas especcializadas )
 - Aceita 
