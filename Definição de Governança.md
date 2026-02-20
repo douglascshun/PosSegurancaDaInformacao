@@ -22,4 +22,6 @@ A Governança de TI é um elemento da governança corporativa, com o objetivo de
 Permite que as organizações gerenciem seus riscos de TI com eficácia e garantam que as atividades associadas à tecnologia estejam alinhadas com os objetivos gerais de negócios.
 
 - `Governança de Segurança`:
-A governança de Segurança fornece uma visão es
+A governança de Segurança fornece uma visão estratégica de como uma organização controla sua segurança, incluindo a gestão de risco, a criação de estruturas de responsabilidades e o estabelecimento de quem é responsável pela tomada de decisões.
+
+A governança de 
