@@ -7,6 +7,9 @@ Governança é o conjunto de processos, decisões, políticas, leis, costumes, i
 
 # Governança abrange diversos setores
 
-- Corporativa
-- TI
-- Segurança`
+- `Corporativa`
+- `TI`
+- `Segurança`
+
+- `Governança Corportativa`:
+A Governança Corp
