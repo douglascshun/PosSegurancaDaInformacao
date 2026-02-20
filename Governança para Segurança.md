@@ -3,4 +3,6 @@
 
 # Qual a necessidade de uma empresa implementar ou implantar a governança para a segurança?
 
-A Governança de segurança cibernética é um 
+A Governança de segurança cibernética é uma governança dedicada à segurança de TI e à proteção contra ataques cibernéticos.
+
+O sistema pelo qual uma organização dirige e controla a governança de segurança, especifica a estrutura de d
