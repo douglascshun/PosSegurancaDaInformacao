@@ -9,4 +9,6 @@ As normas internacionais ISO, foram criadas pela Organização Internacional de 
 
 A ISO 27001/2022 Trata de Segurança da Informação, segurança cibernética e proteção à privacidade -Sistemas de gestão da segurança da informação, requisitos.
 
-É o padrão e a refer^
+É o padrão e a referência Internacional para gestão da Segurança da informação.
+
+A norma tem como princípio geral a adoção pela organização de um conjunto de requisitos, processos e controles com o objetivo de mitigarem e gerirem adequadaemtne o r
