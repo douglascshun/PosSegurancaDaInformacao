@@ -3,4 +3,5 @@
 
 # Qual a dimensão de um impacto na cibersegurança?
 
-- Ataques aos meios de comunicação em grande escala como as quedas que o W
+- Ataques aos meios de comunicação em grande escala como as quedas que o WhatsApp já sofreu, dando prejuízo a inúmeros comércios e logistas que usam o aplicativo como ferramenta de venda.
+- Ataques a cidades 
