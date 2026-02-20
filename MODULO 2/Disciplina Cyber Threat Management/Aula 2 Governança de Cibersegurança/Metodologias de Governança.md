@@ -20,7 +20,12 @@ IT Service Management é uma ferramenta capaz de melhorar a qualidade de serviç
 
 
 - `ITIL(Information Technology/Infraestructure Library)`
-É um conjunto bem conhecido de 
+É um conjunto bem conhecido de melhores práticas de TI projetadas para ajudar as empresas a alinhar seus serviços de TI com as necessidades do cliente e do negócio.
+
+-Gerenciamento de
+-
+-
+
 É o **manual mais famoso** do mundo para colocar o ITSM em prática. Ele ensina como gerenciar incidentes (consertar algo que quebrou) e mudanças (instalar algo novo sem derrubar o sistema).
 
 
