@@ -14,3 +14,8 @@ A ISO 27001/2022 Trata de Segurança da Informação, segurança cibernética e 
 A norma tem como princípio geral a adoção pela organização de um conjunto de requisitos, processos e controles com o objetivo de mitigarem e gerirem adequaridade o risco da organização.
 
 ![[ISO.png]]
+
+
+
+# ABNT NBR ISO/IEC 27014/2021
+TRata da Seguranç
