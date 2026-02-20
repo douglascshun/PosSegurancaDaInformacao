@@ -4,3 +4,7 @@
 
 	Parta do princípio qe não se pode proteger tudo
 
+# Instrutura tecnológica
+
+- Complexidade de Senha e MFA
+- S
