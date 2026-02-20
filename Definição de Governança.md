@@ -15,3 +15,6 @@ Governança é o conjunto de processos, decisões, políticas, leis, costumes, i
 A Governança Corporativa envolve essencialmente equilibrar os interesses das diversas partes interessadas de uma empresa, como acionistas, executivos de alta administração, clientes, fornecedores,  financiadores, governo e comunidade.
 
 Identifica quem tem poder, responsabilidade e quem toma decisões. Trata-se de um kit de práticas que permite à gestão e ao conselho lidar com mais eficácia com os desafios da gestão de uma empresa
+
+- `Governança de TI`:
+A Governança de TI é um elemento da goverança corporativa, com o objetivo de melhorar 
