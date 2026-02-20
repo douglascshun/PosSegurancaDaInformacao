@@ -18,7 +18,8 @@ Uma empresa que faça os serviços de segurança com infraestrutura válida gera
 
 # Impactos negativos:
 
--  Desvalorização/descré
-- 
-- 
-- 
+-  Desvalorização/descrédito
+- Comprometimento dos Dados
+- Perdas Financeiras
+- Multas
+
