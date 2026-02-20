@@ -18,3 +18,6 @@ Uma estratégia de gerenciamento de riscos reconhece que as organizações não 
 - Monitorar/revisar
 
 ![[Gerenciamento de Risco.png]]
+
+# ABNT NBR ISO/IEC 27005
+- tEN
