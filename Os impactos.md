@@ -5,4 +5,7 @@
 
 - Ataques aos meios de comunicação em grande escala como as quedas que o WhatsApp já sofreu, dando prejuízo a inúmeros comércios e logistas que usam o aplicativo como ferramenta de venda.
 - Ataques a cidades avançadas tecnologicamente, onde por exemplo a queda de energia em grandes períodos afetam a economia da região
-- Em caso de empresas afetam o planejamento, credibilidade, vasão de dados, p
+- Em caso de empresas afetam o planejamento, credibilidade, vasão de dados, podendo até afetar o valor de ações em caso da perda da credibilidade.
+
+# Impactos Positivos:
+Credibilidad
