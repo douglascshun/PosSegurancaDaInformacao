@@ -24,9 +24,9 @@ Conscientização, treinamentos..
 O fornecedor da mão de obra, software e trabalhos terceirizados precisam ser analisados com cautela pois podem apresentar um risco para a empresa
 
 - APIs
-A utiliza
+A utilização da API de terceiro é comum, mas pode apresentar um risco com vazão de dados sensíveis.
 
 - Trabalho Remoto
-
+A falta de treinamento com boas praticas no acesso a rede da empr
 
 - Engenharia Social 
