@@ -33,3 +33,4 @@ Um plano de gerenciamento de riscos, ou "plano de mitigação de riscos", é um 
 
 - Conscientizar e treinar o time 
 
+- Documentar
