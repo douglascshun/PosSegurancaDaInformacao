@@ -23,4 +23,4 @@ Uma empresa que faça os serviços de segurança com infraestrutura válida gera
 - Perdas Financeiras
 - Multas
 
-Atualmente as empresas são guidas a seguir normas como a LGPD
+Atualmente empresas que fazem gestão de dados, são guidas a seguir normas como a LGPD, o que por si, já orienta no desenvolvimento e tratamento dos dados.
