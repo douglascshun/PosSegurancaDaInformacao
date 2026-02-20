@@ -17,4 +17,6 @@ A Governança Corporativa envolve essencialmente equilibrar os interesses das di
 Identifica quem tem poder, responsabilidade e quem toma decisões. Trata-se de um kit de práticas que permite à gestão e ao conselho lidar com mais eficácia com os desafios da gestão de uma empresa
 
 - `Governança de TI`:
-A Governança de TI é um elemento da goverança corporativa, com o objetivo de melhorar 
+A Governança de TI é um elemento da governança corporativa, com o objetivo de melhorar o gerenciamento geral de TI e obter maior valor do investimento em informação e tecnologia.
+
+Permite que as organizações gerenciem seus riscos de TI com eficácia e garantam que as atividades associadas à tecnologia estejam alinhadas com os objetivo
