@@ -21,10 +21,10 @@ Conscientização, treinamentos..
 # Onde identificar possíveis ricos externos?
 
 - Fornecedores  e Parceiros
-O fornecedor da mão de obra, software
+O fornecedor da mão de obra, software e trabalhos terceirizados precisam ser analisados com cautela pois podem apresentar um risco para a empresa
 
 - APIs
-
+A utiliza
 
 - Trabalho Remoto
 
