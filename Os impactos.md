@@ -23,3 +23,4 @@ Uma empresa que faça os serviços de segurança com infraestrutura válida gera
 - Perdas Financeiras
 - Multas
 
+Atualmente as empresas são guidas a seguir normas como a LGPD
