@@ -10,11 +10,12 @@
 # Impactos Positivos:
 
 - Credibilidade
-
+Uma empresa que faça os serviços de segurança com infraestrutura válida gera muita credibilidade em vários setores, o que gera investimento. Em caso
 
 - Investimento/Inovação
 
 
 - Infraestrutura
+
 
 - Resiliência
