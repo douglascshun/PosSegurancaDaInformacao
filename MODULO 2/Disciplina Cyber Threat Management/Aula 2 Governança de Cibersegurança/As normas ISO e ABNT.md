@@ -27,7 +27,7 @@ A norma tem como princípio geral a adoção pela organização de um conjunto d
 A ISO 27014/2021
 Trata de:
 - Segurança da Informação
-- Segurança Cibernética e prAula 2 Governança de Cibersegurançaoteção da privacidade
+- Segurança Cibernética e proteção da privacidade
 - Governança da Segurança da Informação
 
 
