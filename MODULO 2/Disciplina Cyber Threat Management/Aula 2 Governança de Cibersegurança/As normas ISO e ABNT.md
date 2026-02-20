@@ -30,3 +30,4 @@ Trata de:
 - Segurança Cibernética e proteção da privacidade
 - Governança da Segurança da Informação
 
+Fornece orientações sobre conceitos, objetivos e processos para a governança d segurança da informação pela qual as organizações podem avaliar, direcionar, monitorar e comunicar as atividades relacionadas à segurança da informação dentro da organ 
