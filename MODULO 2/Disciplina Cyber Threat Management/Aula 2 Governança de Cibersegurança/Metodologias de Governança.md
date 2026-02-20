@@ -36,9 +36,9 @@ IT Service Management é uma ferramenta capaz de melhorar a qualidade de serviç
 -Garantir a Otimização de Riscos 
 -Gerenciar Riscos
 -Gerenciar Segurança
+Gerenciar Serviços de Segurança
 
-
-É o **framework de governança**. Enquanto o ITIL foca na operação, o COBIT foca na estratégia, riscos e controles. É o "xerife" que garante que a TI está alinhada às metas da empresa.
+É o framework de governança. Enquanto o ITIL foca na operação, o COBIT foca na estratégia, riscos e controles. É o "xerife" que garante que a TI está alinhada às metas da empresa.
 
 
 
