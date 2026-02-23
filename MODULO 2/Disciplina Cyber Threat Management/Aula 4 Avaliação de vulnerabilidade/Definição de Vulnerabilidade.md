@@ -17,9 +17,10 @@ Sistemas legados necessitam de implementações e atualizações contínuas, pri
 Fator humano, roubo de informações, falta de implementação de boas práticas e políticas aplicadas
 
 - Vulnerabilidades de day-zero
+Vulnerabilidade ainda não descobertas
 
 - Permissões, credenciais fracas
 
 - APIs não seguras 
 
-- Modelo de re
+- Modelo de Responsabilidade Compartilhada
