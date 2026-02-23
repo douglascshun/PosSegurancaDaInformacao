@@ -13,4 +13,5 @@ O SIEM ajuda as organizações a reconhecer possíveis ameaças e vulnerabilidad
 Ele revela anomalias de comportamento do usuário e usa inteligência artificial para automatizar muitos dos processos manuais associados à detecção de ameças e resposta a incidentes e tornou-se um item básico nos centros de operação de segurança (SOCs) modernos.
 
 # Principais recursos 
-- Rela
+- Relatórios e perícias sobre incidente de segurança 
+- Alertas baseados em análises que correspondem a um determinado conjunto de regras, indicando um problema de segurança
