@@ -8,10 +8,10 @@ Para minimizar os riscos de segurança cibernética, um Chief Information Securi
 Negligência na configuração seja por falta de treinamento ou proposital.
 
 - Software desatualizado 
-Mantenha o sistema atualizado para evitar novas vulnerabilida
+Mantenha o sistema atualizado para evitar novas vulnerabilidades 
 
 - Software legado ou não corrigido 
-
+Sistemas legados necessitam de implementações e atualizações contínuas, principalmente sistemas WEB
 
 - Ameaças internas maliciosas
-
+Fator
