@@ -23,6 +23,7 @@ Vulnerabilidade ainda não descobertas
 Autenticação, controles de acessos..
 
 - APIs não seguras 
-Verificar o uso de a
+Verificar o uso de APIs, sendo internas e externas
 
 - Modelo de Responsabilidade Compartilhada
+A existência de um setor para segurança não garante que a empresa está segura, é importante o comprometimento de todos.
