@@ -5,7 +5,13 @@ Para minimizar os riscos de segurança cibernética, um Chief Information Securi
 # Tipos mais comuns de vulnerabilidades:
 
 - Erros de configuração do sistema
+Negligência na configuração seja por falta de treinamento ou proposital.
+
 - Software desatualizado 
+Mantenha o sistema atualizado para evitar novas vulnerabilida
+
 - Software legado ou não corrigido 
+
+
 - Ameaças internas maliciosas
 
