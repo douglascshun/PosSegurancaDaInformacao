@@ -11,3 +11,6 @@ Monitorar as atividade de um ambiente, através de mecanismos automatizados para
 O SIEM ajuda as organizações a reconhecer possíveis ameaças e vulnerabilidades de segurança antes que tenha a chance de interromper as operações de negócios.
 
 Ele revela anomalias de comportamento do usuário e usa inteligência artificial para automatizar muitos dos processos manuais associados à detecção de ameças e resposta a incidentes e tornou-se um item básico nos centros de operação de segurança (SOCs) modernos.
+
+# Principais recursos 
+- Rela
