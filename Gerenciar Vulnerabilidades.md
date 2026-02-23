@@ -6,4 +6,4 @@ O gerenciamento de vulnerabilidades é a prática cíclica que consiste na ident
 - Pontualidade(não postegar)
 - Visibilidade (Toda equipe consiga identificar as Vulnerabilidades)
 - Compartilhe (Toda equipe saiba da vul, e saiba como gerenciar)
-- Menos é mais ()
+- Menos é mais (Garantindo o essencial grande parte das vul j´)
