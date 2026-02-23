@@ -4,3 +4,6 @@ Manter o ambiente seguro e proteger os dados é o propósito principal de uma eq
 
 # O que é SIEM
 SIEM é a combinação de gerenciamento de evento de segurança (SEM  - Security Event Manager) e gerenciamento de informações de segurança (SIM - Security Information Management).
+
+# Qual sua finalidade ?
+Monitorar as atividade de um ambiente, através de mecanismos automatizados para gerar notificações e alertas de possív
