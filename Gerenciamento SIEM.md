@@ -10,3 +10,4 @@ Monitorar as atividade de um ambiente, através de mecanismos automatizados para
 
 O SIEM ajuda as organizações a reconhecer possíveis ameaças e vulnerabilidades de segurança antes que tenha a chance de interromper as operações de negócios.
 
+	Um sistema como esse tem a capacidade de analisar atividades suspeitas como "em deteminado ho"
