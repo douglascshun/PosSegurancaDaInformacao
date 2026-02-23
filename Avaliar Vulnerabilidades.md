@@ -11,3 +11,8 @@ As organizações descobrem milhares de novas vulnerabilidades a cada ano, exigi
 - Verificações de rede sem fio
 - Varredura de aplicativos 
 - Varredura de banco de dados 
+
+# Etapas de um processo de avaliação
+- Preparação
+- Testes de avaliação
+- Classificaçã 
