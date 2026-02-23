@@ -3,4 +3,4 @@
 Manter o ambiente seguro e proteger os dados é o propósito principal de uma equipe de segurança. A detecção precoce de ameaças é a chave para priorizar e mitigar os efeitos de uma possível violação.
 
 # O que é SIEM
-SIEM é a combinação de gerenciamento de evento de segurança (SEM  - Security Event)
+SIEM é a combinação de gerenciamento de evento de segurança (SEM  - Security Event Manager) e gerenciamento de informações de segurança (SIM - Security Information Management).
