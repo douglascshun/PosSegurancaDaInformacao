@@ -14,4 +14,6 @@ Mantenha o sistema atualizado para evitar novas vulnerabilidades
 Sistemas legados necessitam de implementações e atualizações contínuas, principalmente sistemas WEB
 
 - Ameaças internas maliciosas
-Fator
+Fator humano, roubo de informações, falta de implementação de boas práticas e políticas aplicadas
+
+- Vulnerabilidades 
