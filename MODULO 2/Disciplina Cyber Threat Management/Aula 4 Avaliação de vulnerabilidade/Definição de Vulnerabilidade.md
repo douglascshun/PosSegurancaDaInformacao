@@ -20,7 +20,9 @@ Fator humano, roubo de informações, falta de implementação de boas práticas
 Vulnerabilidade ainda não descobertas
 
 - Permissões, credenciais fracas
+Autenticação, controles de acessos..
 
 - APIs não seguras 
+Verificar o uso de a
 
 - Modelo de Responsabilidade Compartilhada
