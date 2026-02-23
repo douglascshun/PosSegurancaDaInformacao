@@ -13,3 +13,5 @@ O gerenciamento de vulnerabilidades é a prática cíclica que consiste na ident
 - Verificar (Como ela se configura?)
 - Mitigar (Diminuir os riscos)
 - Corrigir (Corrigir a situação e buscar que o erro não se repita)
+
+O processo é contínuo e eenvolve a reali
