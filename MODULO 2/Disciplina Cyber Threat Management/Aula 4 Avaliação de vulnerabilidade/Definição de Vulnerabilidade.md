@@ -16,4 +16,10 @@ Sistemas legados necessitam de implementações e atualizações contínuas, pri
 - Ameaças internas maliciosas
 Fator humano, roubo de informações, falta de implementação de boas práticas e políticas aplicadas
 
-- Vulnerabilidades 
+- Vulnerabilidades de day-zero
+
+- Permissões, credenciais fracas
+
+- APIs não seguras 
+
+- Modelo de re
