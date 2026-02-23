@@ -8,4 +8,5 @@ SIEM é a combinação de gerenciamento de evento de segurança (SEM  - Security
 # Qual sua finalidade ?
 Monitorar as atividade de um ambiente, através de mecanismos automatizados para gerar notificações e alertas de possíveis violações e atividades consideradas suspeitas (como análise de logs e eventos).
 
-O SIEM ajuda as organizações a reconhecer possíveis ameaças e vulnerabilidades de segurança antes que tenha a chance de interromper as operações de neg
+O SIEM ajuda as organizações a reconhecer possíveis ameaças e vulnerabilidades de segurança antes que tenha a chance de interromper as operações de negócios.
+
