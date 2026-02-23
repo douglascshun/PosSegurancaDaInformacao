@@ -15,4 +15,6 @@ As organizações descobrem milhares de novas vulnerabilidades a cada ano, exigi
 # Etapas de um processo de avaliação
 - Preparação
 - Testes de avaliação
-- Classificaçã 
+- Classificação / Prioridade 
+- Relatório
+- Avaliação Contínua 
