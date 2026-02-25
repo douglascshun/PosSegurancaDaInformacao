@@ -14,7 +14,8 @@ Um evento de segurança cibernética que foi determinado como tendo impacto na o
 - Sistemas Atualizados
 - Criptografia e Backup
 - Trenamento Pessoal e Tecnológico
-- Reunir a equipe
-- Identificar, avaliar e conter
-- Recuperar e restaurar
-- Corrigir e monitorar 
+- Reunir a Equipe
+- Identificar, Avaliar e Conter
+- Recuperar e Restaurar
+- Corrigir e Monitorar 
+
