@@ -6,4 +6,4 @@
 O ponto chave para um caso como esse é a Resiliência.
 
 # O que caracteriza um incidente ?
-Um evento de segurança cibernética que foi determinado como tendo impacto na organização, levando à
+Um evento de segurança cibernética que foi determinado como tendo impacto na organização, levando à necessidade de resposta e recuperação.
