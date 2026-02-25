@@ -9,7 +9,8 @@ O ponto chave para um caso como esse é a Resiliência.
 Um evento de segurança cibernética que foi determinado como tendo impacto na organização, levando à necessidade de resposta e recuperação.
 
 # Como prevenir um incidente?
+
 - Políticas e Compliance
 - Sistemas Atualizados
 - Criptografia e Backup
-- Trenamento pessoalç 
+- Trenamento pessoal e tecnológico
