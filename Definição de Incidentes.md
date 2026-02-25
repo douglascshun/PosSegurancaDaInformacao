@@ -13,4 +13,8 @@ Um evento de segurança cibernética que foi determinado como tendo impacto na o
 - Políticas e Compliance
 - Sistemas Atualizados
 - Criptografia e Backup
-- Trenamento pessoal e tecnológico
+- Trenamento Pessoal e Tecnológico
+- Reunir a equipe
+- Identificar, avaliar e conter
+- Recuperar e restaurar
+- Corrigir e monitorar 
