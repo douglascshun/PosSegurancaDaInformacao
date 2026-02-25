@@ -1,4 +1,6 @@
 [[Aula 5 Resposta e Plano de Resposta à incidentes]]
 
 # Incidente 
-É um evento que pode indicar que os sistemas ou dados de uma organização foram comp
+É um evento que pode indicar que os sistemas ou dados de uma organização foram comprometidos ou que as medidas implementadas parar protegê-los falharam.
+
+O ponto chave para um caso como esse é a Resiliência. 
