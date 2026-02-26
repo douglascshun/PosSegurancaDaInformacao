@@ -4,4 +4,8 @@ Um incidente cibernético pode relacionar inúmeros fatores e origens distintas,
 
 # Tipos de Incidentes
 
-## Inci
+## Incidentes mais comuns:
+- Ataques de Malware
+- Ataques de Phishing
+- Man-In-The-Middle
+- SQL Injection
