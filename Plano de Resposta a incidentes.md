@@ -2,4 +2,6 @@
 
 	Diferentes tipos de incidentes merece diferentes estratégias de resposta.
 
-Um plano de respost
+Um plano de resposta a incidentes é um documento que indica como a organização deverá agir frente a incidentes de segurança de TI.
+
+Normalmente, o time responsável pela respos
