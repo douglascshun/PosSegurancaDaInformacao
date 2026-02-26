@@ -2,3 +2,6 @@
 
 Um incidente cibernético pode relacionar inúmeros fatores e origens distintas, afetando diferentes áreas em uma organização.
 
+# Tipos de Incidentes
+
+## Inci
