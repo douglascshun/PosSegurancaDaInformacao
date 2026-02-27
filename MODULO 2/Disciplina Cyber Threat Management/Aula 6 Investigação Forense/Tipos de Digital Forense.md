@@ -7,4 +7,9 @@ Os tipos de Digital Forense estão relacionados à área tecnológica onde a inv
 
 ![[Panorama geral Digital Forence.png]]
 
-# Digital Forense Principais 
+# Digital Forense, principais tipos:
+- Computer Forensics
+- Network Forensics
+- Forensic Data Analysis
+- Mobile Device Forensics
+- Malware Forensics
