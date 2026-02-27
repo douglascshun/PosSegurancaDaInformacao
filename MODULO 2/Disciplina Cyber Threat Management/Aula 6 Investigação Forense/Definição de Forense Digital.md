@@ -6,4 +6,4 @@ A forense digital é um ramo da ciência forense que se concentra na investigaç
 
 ![[meme.png]]
 
-Forense digi
+Forense digital é a preservação, identificação, extração 
