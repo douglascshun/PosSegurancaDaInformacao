@@ -8,11 +8,12 @@ Além de orientar as organizações e prevenir, detectar e responder a ameaças 
 
 # Componentes principais:
 
-- Núcleo
+- `Núcleo`
 Conjunto de atividades
 
-- Perfil
+- `Perfil`
 Alinhamento e objetivos organizacionais 
 
-- Camadas de implementação
-Permite verificar o nivel das medidas de segurança
+- `Camadas de implementação`
+Permite verificar o nível das medidas de segurança
+
