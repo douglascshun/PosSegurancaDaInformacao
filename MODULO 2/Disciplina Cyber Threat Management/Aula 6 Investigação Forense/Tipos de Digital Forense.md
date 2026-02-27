@@ -6,3 +6,5 @@ Os tipos de Digital Forense estão relacionados à área tecnológica onde a inv
 # Panorama geral:
 
 ![[Panorama geral Digital Forence.png]]
+
+# Digital Forense Principais 
