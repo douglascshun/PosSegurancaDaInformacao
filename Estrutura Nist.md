@@ -17,3 +17,6 @@ Alinhamento e objetivos organizacionais
 - `Camadas de implementação`
 Permite verificar o nível das medidas de segurança
 
+# Framework NIST
+
+![[Framework NIST.png]]
