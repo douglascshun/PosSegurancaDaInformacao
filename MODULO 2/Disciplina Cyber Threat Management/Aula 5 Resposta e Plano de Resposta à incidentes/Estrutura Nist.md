@@ -20,3 +20,4 @@ Permite verificar o nível das medidas de segurança
 # Framework NIST
 
 ![[Framework NIST.png]]
+
