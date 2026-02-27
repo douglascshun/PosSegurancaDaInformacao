@@ -6,3 +6,5 @@ Nist Cybersecurity Framework é um conjunto de boas práticas que fornece uma es
 
 Além de orientar as organizações e prevenir, detectar e responder a ameaças e ataques, ele foi desenvolvido para aprimorar as comunicações de segurança e gerenciamento de riscos entre os stakeholders.
 
+# Componentes principais:
+
