@@ -19,4 +19,5 @@ Forense digital é a preservação, identificação, extração e documentação
 
 ![[meme 3.png]]
 
-É uma parte
+É uma parte importante do processo de resposta a Incidentes. Investigadores forenses identificam e registram detalhes de um incidente criminal como evidência a ser usada para aplicação da lei.
+
