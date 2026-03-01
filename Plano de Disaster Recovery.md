@@ -15,3 +15,11 @@
 # Podemos categorizar os planos em 5 tipos:
 
 - Virtualizado 
+- Redes
+- Nuvem
+- DRaaS
+- Data center
+
+# Principais etapas de um PRD:
+
+D
