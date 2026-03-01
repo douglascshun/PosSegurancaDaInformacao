@@ -12,4 +12,7 @@ O objetivo dos métodos de DR é permitir que a organização recupere o uso de 
 
 - A maioria das atividades corporativas são totalmente dependentes de informações armazenadas.
 
-- A crescente sofisticação d
+- A crescente sofisticação dos ataques cibernéticos.
+
+- Os desastres podem infligir muitos tipos de danos com níveis variados de gravidade e custos.
+
