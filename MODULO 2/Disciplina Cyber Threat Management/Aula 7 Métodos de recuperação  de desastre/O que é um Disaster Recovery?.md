@@ -19,3 +19,7 @@ O objetivo dos métodos de DR é permitir que a organização recupere o uso de 
 	Antes que uma organização possa determinar suas estratégias de DR, ela deve primeiro analisar os ativos e prioridades existentes.
 
 ![[BalancaPlanoDR.png]]
+
+	Outrosdois fatores importantes a se considerar são?
+	- Objetivo do ponto de recuperação
+	- Objetivo do tempo de recuperação
