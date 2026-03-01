@@ -20,3 +20,4 @@ Ela especifica os requisitos para implementar , manter e melhorar um sistema de 
 
 - Nist 800-34
 	Guia de planejamento de contingência para sistemas.
+Refere-se a medidas provisórias para recuperar os serviços do sistema de informações após uma interrupção.
