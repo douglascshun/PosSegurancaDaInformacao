@@ -16,4 +16,10 @@ Para se recuperar de um desastre, as empresas precisam identificar os tipos de d
 - Pandemias
 
 
-# F
+# Físicos
+- Problemas de Energia
+- Problemas de Estrutura 
+- Temperatura
+- Invasões
+- Terrorismo 
+
