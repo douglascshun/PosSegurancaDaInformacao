@@ -2,4 +2,4 @@
 
 # O que é um PRD (Plano de recuperação de desastres)
 
-É uma abordagem documentada e estruturada que descrece através de etapas como uma organização pode re
+É uma abordagem documentada e estruturada que descreve através de etapas como uma organização pode retomar rapidamente seus serviços após um incidente não planejado.
