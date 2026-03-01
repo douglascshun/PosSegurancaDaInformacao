@@ -6,4 +6,8 @@
 
 	Para determinar quanto um desastre pode custar à sua organização, considere:
 
-- O custo do 
+- O custo do tempo de inatividade do sistema
+- O impacto na produtividade dos funcionários
+- A perda de horas faturáveis
+- As vendas perdidas
+- As penalidades por não cumprir 
