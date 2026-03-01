@@ -19,4 +19,4 @@ Ela especifica os requisitos para implementar , manter e melhorar um sistema de 
 
 
 - Nist 800-34
-	Gu
+	Guia de planejamento de contingência para sistemas.
