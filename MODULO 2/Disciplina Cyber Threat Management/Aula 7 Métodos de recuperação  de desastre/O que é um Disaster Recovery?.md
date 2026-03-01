@@ -20,6 +20,6 @@ O objetivo dos métodos de DR é permitir que a organização recupere o uso de 
 
 ![[BalancaPlanoDR.png]]
 
-	Outrosdois fatores importantes a se considerar são?
+# Outros dois fatores importantes a se considerar são:
 	- Objetivo do ponto de recuperação
 	- Objetivo do tempo de recuperação
