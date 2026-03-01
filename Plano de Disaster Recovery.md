@@ -20,6 +20,11 @@
 - DRaaS
 - Data center
 
+
 # Principais etapas de um PRD:
 
-D
+- Defina equipe e os Objetivos
+- Identifique ameaças e avaliem os riscos
+- Prioridades e Estratégias 
+- Responsabilidades e Comunicação
+- Documentação, Testes e Recuperação
