@@ -23,6 +23,7 @@ Para se recuperar de um desastre, as empresas precisam identificar os tipos de d
 - Invasões
 - Terrorismo 
 
+
 # Tecnológicos:
 - Ransomware
 - Falhas de Hardware
