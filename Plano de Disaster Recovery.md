@@ -10,4 +10,4 @@
 - O impacto na produtividade dos funcionários
 - A perda de horas faturáveis
 - As vendas perdidas
-- As penalidades por não cumprir 
+- As penalidades por não cumprir as obrigações de conformidade regulatória 
