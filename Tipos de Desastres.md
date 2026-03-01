@@ -14,3 +14,6 @@ Para se recuperar de um desastre, as empresas precisam identificar os tipos de d
 - Inundações 
 - Furações e Tornados
 - Pandemias
+
+
+# F
