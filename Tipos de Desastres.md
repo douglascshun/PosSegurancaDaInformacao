@@ -4,6 +4,13 @@ Para se recuperar de um desastre, as empresas precisam identificar os tipos de d
 
 # Principais categorias de desastres:
 
-- Naturais
-- Físicos
-- Tecnológicos
+	 Naturais
+	 Físicos
+	 Tecnológicos
+
+# Naturais:
+- Incêndios
+- Tempestades
+- Inundações 
+- Furações e Tornados
+- Pandemias
