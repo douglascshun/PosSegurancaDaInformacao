@@ -11,3 +11,7 @@
 - A perda de horas faturáveis
 - As vendas perdidas
 - As penalidades por não cumprir as obrigações de conformidade regulatória 
+
+# Podemos categorizar os planos em 5 tipos:
+
+- Virtualizado 
