@@ -28,3 +28,4 @@
 - Prioridades e Estratégias 
 - Responsabilidades e Comunicação
 - Documentação, Testes e Recuperação
+
