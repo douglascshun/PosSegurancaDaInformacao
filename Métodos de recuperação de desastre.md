@@ -16,3 +16,7 @@ Ela especifica os requisitos para implementar , manter e melhorar um sistema de 
 - Objetivo de Tempo de Recuperação
 - Objetivo do ponto de recuperação
 - Objetivo Mínimo de Continuidade de Negócios 
+
+
+- Nist 800-34
+	Gu
