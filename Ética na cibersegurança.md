@@ -6,4 +6,5 @@ A ética profissional são padrões estabelecidos por organizações para o comp
 # Padrões
 - Com clientes, fornecedores, funcionários. 
 - Com horários, prazos e obrigações.
-- Com integridade, educação e comportamento 
+- Com integridade, educação e comportamento.
+
