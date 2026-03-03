@@ -13,4 +13,8 @@ De forma geral, temos os padrões ABNT, NBR, NIST, ISO IEC entre outros que não
 - Implemente as políticas, procedimentos e controles 
 - Revise e teste
 
-# 
+# Quais os desafios de implementar a conformidade ?
+- Cenário de ameaças em constante mudança
+- Evolução da Tecnologia e das ameaças
+- Segurança de Endpoints
+- Atender várias regulamentaç~
