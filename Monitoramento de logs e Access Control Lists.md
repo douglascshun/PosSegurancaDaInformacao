@@ -15,4 +15,9 @@ Parâmetro "- n X" define a quantidade de linhas que você quer ler do arquivo.
 
 - tail -f access.log | grep 192.168.0.1
 
-#
+
+# Monitoramento ACLs
+
+ACLs são utilizadas para obter controle mais refinado das permissões do sistema de arquivos do Linux
+
+Entre os desafios de administrar o Linu
