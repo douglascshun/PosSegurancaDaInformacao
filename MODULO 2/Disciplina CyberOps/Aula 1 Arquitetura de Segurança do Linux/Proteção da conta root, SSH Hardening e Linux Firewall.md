@@ -16,3 +16,9 @@
 - `Desativar autenticações root SSH`: em `/etc/ssh/sshd_config` com parâmetro `PermitRootLogin > no`
 
 - `Utilizar o PAM e limitar serviços`: `/etc/pam.d/pam_listlife.so`
+
+
+# 10 Ações para executar SSH Hardening
+
+1 - Permitir acesso SSH apenas a usuários selecionados
+2 - Desativar o encaminhamento X11
