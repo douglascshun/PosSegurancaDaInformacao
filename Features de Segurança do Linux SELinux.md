@@ -16,4 +16,6 @@ Transições possíveis entre os papéis dependem da identidade.
 - apt install selinux-basics selinux-policy-defalti auditd
 - somedule: habilita módulos
 - semanage: permissões aos usuários
-- /etc/selinux/default
+- /etc/selinux/default (onde fica todas essas regras)
+
+# Módulos SELinux disponíveis são armazenados no 
