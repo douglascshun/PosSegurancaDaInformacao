@@ -6,3 +6,5 @@ Acesso de root pode gerar problemas:
  - `Anexando Arquivos em Emails como root`: Apesar de raros, existem vírus de e-mail que afetam o Linux.
 
 
+Impedindo acesso do usuário root:
+- 
