@@ -30,4 +30,4 @@
 # OpenSSH Configuração padrão
 ![[OpenSSH Configuração padrão.png]]
 
-O firewall base, tilizado em sistemas Unix, programado em C, que permite realizar bloqueis, redirecionamentos e outras operações com os pa
+O firewall base, utilizado em sistemas Unix, programado em C, que permite realizar bloqueis, redirecionamentos e outras operações com os pacotes recebidos, funciona via linha de comando, sendo uma ferramenta prática, direta simples e eficiente para proteger um sistema ou uma rede.
