@@ -13,5 +13,8 @@ O usuário root é o principal/administrador de um sistema linux e é o único c
 - comandos: who
 
 Exemplo
-![[search user.png]]- Nome de Login
-Senha ('x' quando )
+![[search user.png]]
+- Nome de Login
+- Senha ('x' quando usando o arquivo /etc/shadow).
+- Numero de identificação do usuário (UID).
+- Numero do g
