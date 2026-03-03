@@ -17,3 +17,5 @@ O SHELL é o interpretador de linha de comando, ele funciona como uma interface 
 - cat /etc/shells
 
 # Arquitetura/Camadas do SO Linux
+![[Camadas do SO Linux.png]]
+Shell: Interface que acessa o Kernel diretamente.
