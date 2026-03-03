@@ -29,3 +29,5 @@
 
 # OpenSSH Configuração padrão
 ![[OpenSSH Configuração padrão.png]]
+
+O firewall base, tilizado em sistemas Unix, programado em C, que permite realizar bloqueis, redirecionamentos e outras operações com os pa
