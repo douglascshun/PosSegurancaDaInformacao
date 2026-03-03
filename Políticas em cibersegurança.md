@@ -5,3 +5,10 @@ As políticas são um conjunto formal de regras emitidas por uma organização p
 
 # Politicas em cibersegurança
 Uma politica de segurança também é considerada um "documento vivo", o que significa que o documento nunca é concluído, e sim atualizado continuamente.
+
+# Exemplo de políticas:
+- Acesso a internet e redes sociais 
+- Armazenamento de Dados
+- Política de uso aceitável (AUP)
+- Updates
+- Acesso remoto 
