@@ -7,3 +7,6 @@ O Linux Kernel foi criado Linus Torvalds na universidade de Helsink-Finlandia e 
 - EMACS
 - Free Software
 - Filosofia do Projeto
+
+# Terminal Linux:
+![[Terminal Linux.png]]
