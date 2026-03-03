@@ -11,3 +11,6 @@ O contexto é definido pela identidade do usuário que iniciou o processo, o pap
 
 Os diretos realmente dependem do domínio, mas transições entre os domínios são controladas pelos papéis. 
 Transições possíveis entre os papéis dependem da identidade.
+
+# Configurando o SELinux
+- apt install selinux-basics selinux-policy-defalt
