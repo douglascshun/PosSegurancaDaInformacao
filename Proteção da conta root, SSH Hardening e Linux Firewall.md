@@ -12,4 +12,6 @@ Impedindo acesso do usuário root:
 
 - `Desativar acessos root via console (tty)`: um arquivo `/etc/securetty` vazio não permite acesso root.
 
-- `Desativar autenticações root SSH`: em `/etc/ssh/sshd_config` com parâmetro PermitRootLogin > no `
+- `Desativar autenticações root SSH`: em `/etc/ssh/sshd_config` com parâmetro `PermitRootLogin > no`
+
+- Utilizar o PAM e limitar serviços: `/etc/pam.d/pam_listlife.so`
