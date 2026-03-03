@@ -20,4 +20,8 @@ Transições possíveis entre os papéis dependem da identidade.
 
 # Módulos SELinux disponíveis são armazenados no diretório /usr/share/selinux/default/c
 
-- semodule -i module
+- semodule -i module.pp.bz2 > instalar
+- semodule -r module > excluir
+- semodule -l > listagem
+- semodule -e > habilitar
+- semodule -d >desabilitar
