@@ -6,3 +6,5 @@ SELinuz estabelece:
 - Autoriza/proíbe operações
 - Gestão de permissões
 
+# Contexto de segurança/usuários
+O contexto é definido pela indendtidade do usuário 
