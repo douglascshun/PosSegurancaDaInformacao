@@ -32,4 +32,6 @@ Transições possíveis entre os papéis dependem da identidade.
 `O arquivo .te` é o mais importante. Ele define as regras.
 
 
-`O arquivo .fc`
+`O arquivo .fc` define os arquivos de contextos, isto é, os tipos atribuídos aos arquivos relacionados à este módulo.
+
+`O arquivo .if` define a interface do módulo: é um conjunto de "funções públicas"
