@@ -18,3 +18,5 @@ A junção entre Linux e o GNU, que ofereceu outros softwares que chamamos de ap
 # Distribuições Linux:
 - Desktop (Ubuntu, Fedora)
 - Servidores (RHEL, CentOS, Debian)
+- Firewall/Router (Alpine)
+- Segurança (ParrotOS, Kali)
