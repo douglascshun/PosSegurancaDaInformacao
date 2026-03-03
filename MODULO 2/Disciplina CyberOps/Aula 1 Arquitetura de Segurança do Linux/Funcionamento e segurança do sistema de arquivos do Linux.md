@@ -47,5 +47,5 @@ A primeira letra representa o tipo do arquivo, podendo ser:
 
 # Controle de permissões do sistema de arquivos do Linux:
 
-	Flags
--
+Flags
+	chmod +x <arquivo>
