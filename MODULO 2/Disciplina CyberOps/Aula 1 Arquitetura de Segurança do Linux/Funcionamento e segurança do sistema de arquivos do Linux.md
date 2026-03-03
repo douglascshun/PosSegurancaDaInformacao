@@ -38,7 +38,7 @@ Para arquivos e diretórios, há três níveis de permissão:
 
 
 A primeira letra representa o tipo do arquivo, podendo ser:
-	-: Arquivo convencional 
+	-: Arquivo convencional.
 	d: Diretório.
 	 l: Link simbólico.
 	c: Dispositivo especial de caracteres.
