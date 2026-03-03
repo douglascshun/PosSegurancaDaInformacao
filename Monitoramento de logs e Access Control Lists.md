@@ -29,5 +29,10 @@ O sistema de arquivos Linux nos dá três tipos de permissões. Aquis está uma 
 - Group (or owner group)
 - Other (everyone else)
 
-Com essas permissões, podemos conceder três (na verdade, cindo tipos de acesso:
+Com essas permissões, podemos conceder três (na verdade, cinco) tipos de acesso:
+- `R`ead
+- `W`rite
+- e`X`ecute
+
+Segue o panorama dos privi
 ![[Pasted image 20260303194421.png]]
