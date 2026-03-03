@@ -11,3 +11,7 @@ O usuário root é o principal/administrador de um sistema linux e é o único c
 - Grupos do sistema: /etc/group
 - cada usuário e gripo possuem um numero único associado, chamado respectivamente de UID e GID.
 - comandos: who
+
+Exemplo
+![[search user.png]]- Nome de Login
+Senha ('x' quando )
