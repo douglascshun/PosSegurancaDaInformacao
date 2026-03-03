@@ -14,3 +14,5 @@ Serve para monitorar o sucesso de uma determinada operação, como rede e outros
 Parâmetro "- n X" define a quantidade de linhas que você quer ler do arquivo. 
 
 - tail -f access.log | grep 192.168.0.1
+
+#
