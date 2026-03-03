@@ -11,4 +11,6 @@ O SHELL é o interpretador de linha de comando, ele funciona como uma interface 
 -       #      -> super usuário (usuário Root)
 -        :       -> separador do nome da maquina e do diretório atual
 
-	Para descobrir qual shell tem instaldo na di
+	Para descobrir qual shell tem instaldo na distro atualo comando a seguir deve ser usado:
+
+- cat /etc/shells
