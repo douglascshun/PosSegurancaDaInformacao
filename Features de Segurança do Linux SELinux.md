@@ -7,4 +7,4 @@ SELinuz estabelece:
 - Gestão de permissões
 
 # Contexto de segurança/usuários
-O contexto é definido pela indendtidade do usuário 
+O contexto é definido pela identidade do usuário que iniciou o processo, o papel e o domínio que o usuário realiza
