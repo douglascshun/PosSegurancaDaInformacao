@@ -34,4 +34,4 @@ Transições possíveis entre os papéis dependem da identidade.
 
 `O arquivo .fc` define os arquivos de contextos, isto é, os tipos atribuídos aos arquivos relacionados à este módulo.
 
-`O arquivo .if` define a interface do módulo: é um conjunto de "funções públicas"
+`O arquivo .if` define a interface do módulo: é um conjunto de "funções públicas" que outros módulos podem usar para interagir adequadamente com o módulo que você está criando.
