@@ -29,4 +29,8 @@ Exemplo
 
 
 # Exemplo de captura de níveis de permissão
-![[Pasted image 20260303102336.png]]
+![[captura de niveis de permissao.png]]
+
+Para arquivos e diretórios, há três níveis de permissão:
+
+- U
