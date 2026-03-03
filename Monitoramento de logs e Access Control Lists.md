@@ -3,4 +3,8 @@
 Em sistemas UNIX ou GNU/Linux, arquivos de log são compostos de informações em texto puto e são continuamente acrescidos de novas informações.
 
 # Usando o Tail para monitorar logs: 
-O tail é um dos comandos clássicos usados para monitorar alterações em arquivos no sistema, o que inclu
+O tail é um dos comandos clássicos usados para monitorar alterações em arquivos no sistema, o que inclui arquivos de log.
+
+# Alguns exemplos para o aplicativo tail:
+
+- ta
