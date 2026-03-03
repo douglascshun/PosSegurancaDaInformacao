@@ -21,3 +21,8 @@ Exemplo
 - Diretório pessoal para o usuário.
 - Shell inicial do usuário (se vazio, o arquivo padrão /bun/sh será usado).
 
+
+
+
+# Hierarquia do sistema linux no diretório raiz
+![[Hierarquia do sistema linux no diretório raiz.png]]
