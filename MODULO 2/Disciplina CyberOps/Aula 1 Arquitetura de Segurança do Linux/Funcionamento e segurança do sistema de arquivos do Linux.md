@@ -31,6 +31,8 @@ Exemplo
 # Exemplo de captura de níveis de permissão
 ![[captura de niveis de permissao.png]]
 
-Para arquivos e diretórios, há três níveis de permissão:
+	Para arquivos e diretórios, há três níveis de permissão:
+- Usuário dono do arquivo (u).
+- Grupo dono do arquivo (g).
+- Demais usuários - outros (o).
 
-- U
