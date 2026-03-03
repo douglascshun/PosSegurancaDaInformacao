@@ -25,4 +25,3 @@
 3 - Mitigar ataques de força brita automaticamente
 4 - Desativar o login SSH baseado em senha
 5 - Autentificação em dois fatores com SSH
-6 - Permitir ae
