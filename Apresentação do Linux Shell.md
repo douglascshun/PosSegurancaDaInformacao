@@ -4,5 +4,6 @@ O SHELL é o interpretador de linha de comando, ele funciona como uma interface 
 
 # Conhecendo as estruturas de um terminal Linux:
 - Fulano -> nome do usuário logado
--      ~       -> diretório home
-- @ -> separado
+-       ~      -> diretório home
+-      @     -> separador entre usuário e nome da máquina 
+-  deTal   ->
