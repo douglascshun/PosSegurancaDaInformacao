@@ -9,4 +9,8 @@ O Linux Kernel foi criado Linus Torvalds na universidade de Helsink-Finlandia e 
 - Filosofia do Projeto
 
 # Terminal Linux:
-![[Terminal Linux.png]]
+![[terminal Linux.png]]
+
+
+# O que é GNU/Linux?
+A junção entre Linux e o GNU, que ofereceu 
