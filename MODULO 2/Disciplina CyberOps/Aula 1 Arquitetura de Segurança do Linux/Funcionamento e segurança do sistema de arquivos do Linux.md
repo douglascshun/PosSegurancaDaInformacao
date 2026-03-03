@@ -44,3 +44,8 @@ A primeira letra representa o tipo do arquivo, podendo ser:
 	c: Dispositivo especial de caracteres.
 	p: Canal fifo.
 	s: Socket.
+
+# Controle de permissões do sistema de arquivos do Linux:
+
+	Flags
+-
