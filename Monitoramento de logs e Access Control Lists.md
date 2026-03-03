@@ -34,5 +34,5 @@ Com essas permissões, podemos conceder três (na verdade, cinco) tipos de acess
 - `W`rite
 - e`X`ecute
 
-Segue o panorama dos privi
+Segue o panorama dos privilégios: 
 ![[Pasted image 20260303194421.png]]
