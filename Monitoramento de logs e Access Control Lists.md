@@ -8,7 +8,7 @@ O tail é um dos comandos clássicos usados para monitorar alterações em arqui
 # Alguns exemplos para o aplicativo tail:
 
 - tail -f meuarquivo.log | grep -qx "Finished: SUCCESS"
-Serve para monitorar o sucesso de uma determinada operação, como rede 
+Serve para monitorar o sucesso de uma determinada operação, como rede e outros arquivos
 
 - tail arquivo.txt -n 15
 
