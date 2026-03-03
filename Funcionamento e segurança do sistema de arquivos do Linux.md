@@ -20,3 +20,4 @@ Exemplo
 - Numero do grupo do usuário (opcional).
 - Diretório pessoal para o usuário.
 - Shell inicial do usuário (se vazio, o arquivo padrão /bun/sh será usado).
+
