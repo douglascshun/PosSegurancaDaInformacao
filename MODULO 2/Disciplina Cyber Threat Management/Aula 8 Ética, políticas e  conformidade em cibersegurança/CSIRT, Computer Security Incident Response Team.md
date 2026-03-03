@@ -13,4 +13,4 @@ As equipes brasileiras, normalmente, são formadas por instituições bancárias
 - Centro de Coordenação e Análise
 - Gripo de empresas fornecedoras
 
-O Cert.br é um CSIRT Nacional de Último Recurso, mantido pelo NIC.br e presta serviços da área de Gestão de Incidentes de Segurança da Informação para qualqer rede que utili
+O Cert.br é um CSIRT Nacional de Último Recurso, mantido pelo NIC.br e presta serviços da área de Gestão de Incidentes de Segurança da Informação para qualquer rede que utiliza recursos administrados pelo NIC.br
