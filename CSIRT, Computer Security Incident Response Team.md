@@ -5,4 +5,11 @@ São grupos especializados preparados para analisar, identificar e responder a i
 
 Um CSIRT pode exercer tanto funções reativas quanto funções proativas para auxiliar na proteção e segurança dos recursos críticos de uma organização.
 
-As equipes brasileiras, normalmente, são formadas por instituições bancárias, órgãos do governo, universidades, empresas de
+As equipes brasileiras, normalmente, são formadas por instituições bancárias, órgãos do governo, universidades, empresas de tecnologia e pelo Cert.br.
+
+# Tipos de CSIRT
+- Internos 
+- Nacionais 
+- Centro de Coordenação e Análise
+- Gripo de empresas fornecedoras
+
