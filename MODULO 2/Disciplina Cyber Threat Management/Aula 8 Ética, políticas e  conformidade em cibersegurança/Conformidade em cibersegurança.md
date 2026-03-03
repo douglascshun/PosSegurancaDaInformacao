@@ -17,4 +17,5 @@ De forma geral, temos os padrões ABNT, NBR, NIST, ISO IEC entre outros que não
 - Cenário de ameaças em constante mudança
 - Evolução da Tecnologia e das ameaças
 - Segurança de Endpoints
-- Atender várias regulamentaç~
+- Atender várias regulamentações 
+- Lacuna de habilidades
