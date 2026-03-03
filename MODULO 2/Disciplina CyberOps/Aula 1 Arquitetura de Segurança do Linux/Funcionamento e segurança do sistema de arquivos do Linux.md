@@ -26,3 +26,7 @@ Exemplo
 
 # Hierarquia do sistema linux no diretório raiz
 ![[Hierarquia do sistema linux no diretório raiz.png]]
+
+
+# Exemplo de captura de níveis de permissão
+![[Pasted image 20260303102336.png]]
