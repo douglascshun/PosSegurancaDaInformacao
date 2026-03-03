@@ -53,4 +53,6 @@ O chmod é usado para definir permissões a arquivos no sistema uma forma de usa
 
 Numérica (octais)
 	chmod 777 <arquivo>
-O chmod com o uso octal no caso o " 777 " em seguida o arquivo,. dá privilégio total de execu
+O chmod com o uso octal no caso o " 777 " em seguida o arquivo,. dá privilégio total de execução para todos os usuários.
+
+
