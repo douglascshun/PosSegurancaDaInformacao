@@ -26,5 +26,8 @@ Entre os desafios de administrar o Linux no ambiente de negócios moderno, está
 
 O sistema de arquivos Linux nos dá três tipos de permissões. Aquis está uma revisão simplificada:
 - User (or user owner)
-- Group (or ow)
+- Group (or owner group)
+- Other (everyone else)
+
+Com essas permissões, podemos conceder três (na verdade, cindo tipos de acesso:
 ![[Pasted image 20260303194421.png]]
