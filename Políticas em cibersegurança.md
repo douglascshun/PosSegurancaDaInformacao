@@ -12,3 +12,9 @@ Uma politica de segurança também é considerada um "documento vivo", o que sig
 - Política de uso aceitável (AUP)
 - Updates
 - Acesso remoto 
+- LGP
+- Planos de cibersegurança 
+- Politicas de senha
+- Permissões e Controle de acesso
+
+Normalmente, o CISO lidera o desenvolvimento das pol´
