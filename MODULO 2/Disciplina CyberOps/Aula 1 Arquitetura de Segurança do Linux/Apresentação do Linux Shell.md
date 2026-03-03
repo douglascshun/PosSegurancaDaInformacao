@@ -12,13 +12,20 @@ O SHELL é o interpretador de linha de comando, ele funciona como uma interface 
 -       #      -> super usuário (usuário Root)
 -        :       -> separador do nome da maquina e do diretório atual
 
+
 	Para descobrir qual shell tem instaldo na distro atualo comando a seguir deve ser usado:
 
 - cat /etc/shells
+
 
 # Arquitetura/Camadas do SO Linux
 ![[Camadas do SO Linux.png]]
 Shell: Interface que acessa o Kernel diretamente.
 
 
-#
+
+# Principais indicações de Shell
+
+- Zsh
+- Terminator
+- Bash
