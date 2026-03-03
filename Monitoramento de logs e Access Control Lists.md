@@ -11,6 +11,6 @@ O tail é um dos comandos clássicos usados para monitorar alterações em arqui
 Serve para monitorar o sucesso de uma determinada operação, como rede e outros arquivos
 
 - tail arquivo.txt -n 15
-Parâmetro "- n X" define a quantidade de linhas que você quer ler do arquivo 
+Parâmetro "- n X" define a quantidade de linhas que você quer ler do arquivo. 
 
 - tail -f access.log | grep 192.168.0.1
