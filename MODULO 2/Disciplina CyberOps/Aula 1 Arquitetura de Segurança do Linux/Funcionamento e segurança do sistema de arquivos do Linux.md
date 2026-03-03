@@ -32,7 +32,11 @@ Exemplo
 ![[captura de niveis de permissao.png]]
 
 	Para arquivos e diretórios, há três níveis de permissão:
-- Usuário dono do arquivo (u).
-- Grupo dono do arquivo (g).
-- Demais usuários - outros (o).
+	- Usuário dono do arquivo (u).
+	- Grupo dono do arquivo (g).
+	- Demais usuários - outros (o).
 
+
+	A primeira letra representa o tipo do arquivo, podendo ser:
+	-: Arquivo convencional 
+	d: Diretório 
