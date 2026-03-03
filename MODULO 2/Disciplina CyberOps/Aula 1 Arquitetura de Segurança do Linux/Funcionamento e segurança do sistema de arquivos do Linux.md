@@ -40,3 +40,5 @@ Exemplo
 	A primeira letra representa o tipo do arquivo, podendo ser:
 	-: Arquivo convencional 
 	d: Diretório 
+	l: Link simbólico.
+	C: D
