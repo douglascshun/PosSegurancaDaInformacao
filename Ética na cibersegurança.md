@@ -11,3 +11,8 @@ A ética profissional são padrões estabelecidos por organizações para o comp
 # Na cibersegurança 
 	O acesso aos dados e informações!
 
+# Que tipos de informações
+- Financeiras 
+- Pessoais
+- Sensíveis 
+- Confidenciais
