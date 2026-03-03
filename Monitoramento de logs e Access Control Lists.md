@@ -20,4 +20,4 @@ Parâmetro "- n X" define a quantidade de linhas que você quer ler do arquivo.
 
 ACLs são utilizadas para obter controle mais refinado das permissões do sistema de arquivos do Linux
 
-Entre os desafios de administrar o Linu
+Entre os desafios de administrar o Linux no ambiente de negócios moderno, está a expectativa de que podemos e devemos gerenciar quem tem acesso a quais informações.
