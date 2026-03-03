@@ -8,4 +8,5 @@ O SHELL é o interpretador de linha de comando, ele funciona como uma interface 
 -      @     -> separador entre usuário e nome da máquina 
 -  deTal  -> nome da máquina 
 -       $      -> usuário comum
--       #      -> super usuário 
+-       #      -> super usuário (usuário Root)
+-        :       -> separador do nome da maquina e do diretório atual
