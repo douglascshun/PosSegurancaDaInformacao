@@ -29,3 +29,6 @@ Shell: Interface que acessa o Kernel diretamente.
 - Zsh
 - Terminator
 - Bash
+
+# Linguagem de Script:
+Um script shell é um programa de computador projetado para ser executado 
