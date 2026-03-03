@@ -17,4 +17,6 @@ Exemplo
 - Nome de Login
 - Senha ('x' quando usando o arquivo /etc/shadow).
 - Numero de identificação do usuário (UID).
-- Numero do g
+- Numero do grupo do usuário (opcional).
+- Diretório pessoal para o usuário.
+- Shell inicial do usuário (se vazio, o arquivo padrão /bun/sh será usado).
