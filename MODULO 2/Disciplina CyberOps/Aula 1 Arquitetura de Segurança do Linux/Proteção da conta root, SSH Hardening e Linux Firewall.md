@@ -18,7 +18,7 @@
 - `Utilizar o PAM e limitar serviços`: `/etc/pam.d/pam_listlife.so`
 
 
-# 10 Ações para executar SSH Hardening
+# 5 Ações para executar SSH Hardening
 
 1 - Permitir acesso SSH apenas a usuários selecionados
 2 - Desativar o encaminhamento X11
