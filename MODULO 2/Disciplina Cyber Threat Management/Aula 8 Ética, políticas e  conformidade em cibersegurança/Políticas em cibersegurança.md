@@ -19,4 +19,4 @@ Uma politica de segurança também é considerada um "documento vivo", o que sig
 
 Normalmente, o CISO lidera o desenvolvimento das políticas, bem como sua atualização. A participação de executivos de outros departamentos permite criar políticas atualizadas de forma colaborativa.
 
-Uma política de segurança cibern
+Uma política de segurança cibernética é extremamente importante para garantir que a organização esteja seguindo as mesmas diretrizes e regras para manter a saúde cibernética positiva e responder rapidamente em caso de violação de dados.
