@@ -9,5 +9,7 @@ Acesso de root pode gerar problemas:
 Impedindo acesso do usuário root:
 
 - `Alterar a shell root`: editar `/etc/passwd` e mude `/bin/bash` para `/sbin/nologin`
+
 - `Desativar acessos root via console (tty)`: um arquivo `/etc/securetty` vazio não permite acesso root.
-- Desativar autenticações root SSH: /etc/
+
+- `Desativar autenticações root SSH`: em `/etc/ssh/sshd_config` com parâmetro PermitRootLogin > no `
