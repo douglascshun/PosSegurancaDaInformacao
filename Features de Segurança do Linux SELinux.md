@@ -18,4 +18,6 @@ Transições possíveis entre os papéis dependem da identidade.
 - semanage: permissões aos usuários
 - /etc/selinux/default (onde fica todas essas regras)
 
-# Módulos SELinux disponíveis são armazenados no 
+# Módulos SELinux disponíveis são armazenados no diretório /usr/share/selinux/default/c
+
+- semodule -i module
