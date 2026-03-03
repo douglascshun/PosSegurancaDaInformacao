@@ -10,3 +10,5 @@ O SHELL é o interpretador de linha de comando, ele funciona como uma interface 
 -       $      -> usuário comum
 -       #      -> super usuário (usuário Root)
 -        :       -> separador do nome da maquina e do diretório atual
+
+	Para descobrir qual shell tem instaldo na di
