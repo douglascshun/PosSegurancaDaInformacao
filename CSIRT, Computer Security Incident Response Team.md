@@ -3,4 +3,6 @@
 # O que é CSIRT?
 São grupos especializados preparados para analisar, identificar e responder a incidentes de segurança da informação e cibersegurança.
 
-Um CSIRT pode exercer tanto funções reativas quanto funções proativas 
+Um CSIRT pode exercer tanto funções reativas quanto funções proativas para auxiliar na proteção e segurança dos recursos críticos de uma organização.
+
+As equipes brasileiras, normalmente, são formadas por instituições bancárias, órgãos do governo, universidades, empresas de
