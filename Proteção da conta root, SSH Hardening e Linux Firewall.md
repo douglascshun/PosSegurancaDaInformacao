@@ -1,3 +1,4 @@
 [[Aula 1 Arquitetura de Segurança do Linux]]
 
-	'Máquina':
+Acesso de root pode ge
+	
