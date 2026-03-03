@@ -25,3 +25,11 @@ Transições possíveis entre os papéis dependem da identidade.
 - semodule -l > listagem
 - semodule -e > habilitar
 - semodule -d >desabilitar
+
+
+# Principais arquivos
+
+`O arquivo .te` é o mais importante. Ele define as regras.
+
+
+`O arquivo .fc`
