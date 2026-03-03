@@ -13,4 +13,7 @@ Os diretos realmente dependem do domínio, mas transições entre os domínios s
 Transições possíveis entre os papéis dependem da identidade.
 
 # Configurando o SELinux
-- apt install selinux-basics selinux-policy-defalt
+- apt install selinux-basics selinux-policy-defalti auditd
+- somedule: habilita módulos
+- semanage: permissões aos usuários
+- /etc/selinux/default
