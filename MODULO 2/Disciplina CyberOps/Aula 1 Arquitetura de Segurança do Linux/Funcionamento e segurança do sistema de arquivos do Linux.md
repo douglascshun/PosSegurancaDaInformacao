@@ -51,3 +51,5 @@ Flags
 	chmod +x <arquivo>
 O chmod é usado para definir permissões a arquivos no sistema uma forma de usar ele é com o " + x" para permitir que um arquivo seja executado.
 
+Numérica (octais)
+	chmod 777 <arquivo>
