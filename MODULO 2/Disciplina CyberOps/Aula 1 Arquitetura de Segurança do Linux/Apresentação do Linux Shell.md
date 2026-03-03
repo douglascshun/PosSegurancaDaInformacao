@@ -33,4 +33,4 @@ Shell: Interface que acessa o Kernel diretamente.
 # Linguagem de Script:
 Um script shell é um programa de computador projetado para ser executado pelo shell Unix, um interpretador de linha de comando
 
-![[Pasted image 20260303092114.png]]
+![[estrutura linguagem shell.png]]
