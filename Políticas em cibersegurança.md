@@ -17,4 +17,6 @@ Uma politica de segurança também é considerada um "documento vivo", o que sig
 - Politicas de senha
 - Permissões e Controle de acesso
 
-Normalmente, o CISO lidera o desenvolvimento das pol´
+Normalmente, o CISO lidera o desenvolvimento das políticas, bem como sua atualização. A participação de executivos de outros departamentos permite criar políticas atualizadas de forma colaborativa.
+
+Uma política de segurança cibern
