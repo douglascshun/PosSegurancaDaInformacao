@@ -22,6 +22,9 @@ ACLs são utilizadas para obter controle mais refinado das permissões do sistem
 
 Entre os desafios de administrar o Linux no ambiente de negócios moderno, está a expectativa de que podemos e devemos gerenciar quem tem acesso a quais informações.
 
-![[Pasted image 20260303194421.png]]
 
-O sistema de arquivo
+
+O sistema de arquivos Linux nos dá três tipos de permissões. Aquis está uma revisão simplificada:
+- User (or user owner)
+- Group (or ow)
+![[Pasted image 20260303194421.png]]
