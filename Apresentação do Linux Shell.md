@@ -3,6 +3,7 @@
 O SHELL é o interpretador de linha de comando, ele funciona como uma interface entre o usuário e o Kernel.
 
 # Conhecendo as estruturas de um terminal Linux:
+
 - Fulano -> nome do usuário logado
 -       ~      -> diretório home
 -      @     -> separador entre usuário e nome da máquina 
@@ -14,3 +15,5 @@ O SHELL é o interpretador de linha de comando, ele funciona como uma interface 
 	Para descobrir qual shell tem instaldo na distro atualo comando a seguir deve ser usado:
 
 - cat /etc/shells
+
+# Arquitetura/Camadas do SO Linux
