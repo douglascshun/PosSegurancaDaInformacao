@@ -13,4 +13,4 @@ O Linux Kernel foi criado Linus Torvalds na universidade de Helsink-Finlandia e 
 
 
 # O que é GNU/Linux?
-A junção entre Linux e o GNU, que ofereceu outros softwares que chamamos de aplicações, passou a formar a nomenclatura das distribuições GNU/Linux, que geralmente são chamadas apenas de distribuições Linu
+A junção entre Linux e o GNU, que ofereceu outros softwares que chamamos de aplicações, passou a formar a nomenclatura das distribuições GNU/Linux, que geralmente são chamadas apenas de distribuições Linux ou apenas distros.
