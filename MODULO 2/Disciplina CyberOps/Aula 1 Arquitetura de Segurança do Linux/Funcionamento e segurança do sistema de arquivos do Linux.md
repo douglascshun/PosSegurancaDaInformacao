@@ -49,4 +49,5 @@ A primeira letra representa o tipo do arquivo, podendo ser:
 
 Flags
 	chmod +x <arquivo>
-O chmod é usado para definir permissões a arquivos no sistema uma forma de usar ele é com o " + x" 
+O chmod é usado para definir permissões a arquivos no sistema uma forma de usar ele é com o " + x" para permitir que um arquivo seja executado.
+
