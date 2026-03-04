@@ -35,4 +35,4 @@ Com essas permissões, podemos conceder três (na verdade, cinco) tipos de acess
 - e`X`ecute
 
 Segue o panorama dos privilégios: 
-![[Pasted image 20260303194421.png]]
+![[ACLs exemplos.png]]
