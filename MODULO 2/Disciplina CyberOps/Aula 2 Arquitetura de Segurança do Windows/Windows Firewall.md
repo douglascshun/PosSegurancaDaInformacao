@@ -39,4 +39,16 @@ A Interface para adicionar uma nova regra tem esta aparência:
 
 # Windows Defender por padrão bloqueia tudo, ao menos que se configure uma exceção:  
 
-![[excecao para evitar bloqueio.png]]![[Pasted image 20260304160401.png]]
+![[excecao para evitar bloqueio.png]]
+
+
+
+
+
+As configurações de mesclagem de regras permitem ou impedem que os administradores locais criem suas próprias regras de firewall, além das regras obtidas na Política de Grupos
+
+
+
+
+
+![[Pasted image 20260304160401.png]]
