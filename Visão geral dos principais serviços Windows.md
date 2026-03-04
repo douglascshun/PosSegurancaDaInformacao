@@ -12,3 +12,8 @@ Além disso são frequentemente usados para executar o monitoramento de algum si
 Usando o conjunto de teclas `Win + R` para abrir o `executar`, apos isso digitar `sevices.msc` e dar `Enter` para iniciar. 
 
 ![[Pasted image 20260304123622.png]]
+
+
+
+# Tela de Serviços do Windows
+![[Pasted image 20260304123839.png]]
