@@ -54,4 +54,4 @@ As regras devem ser bem documentadas para facilitar a revisão tanto por você q
 
 
 Implementando em projeto básico de política de firewall 
-	Acesse o artigo `Checklist: Implementing a Basic Firewall ` 
+	Acesse o artigo `Checklist: Implementing a Basic Firewall Policy Design` no site da Microsoft Learn. 
