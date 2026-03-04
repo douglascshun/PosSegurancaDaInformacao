@@ -14,3 +14,6 @@ Uma conta de usuário também pode ser usada como uma conta de serviço dedicada
 
 - Atribuir a permissão certa
 	Atribuir a permissão certa e credenciais únicas para cada usuário.
+
+- Configurar GPO
+	Diretiva de Grupo por Usuários e Computador, isso permite a granularidade perfeita 
