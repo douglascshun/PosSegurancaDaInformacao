@@ -44,4 +44,8 @@ A Interface para adicionar uma nova regra tem esta aparência:
 	As configurações de mesclagem de regras permitem ou impedem que os administradores locais criem suas próprias regras de firewall, além das regras obtidas na Política de Grupos
 
 # Customização do perfil: 
-![[Pasted image 20260304160401.png]]
+![[Customizacao de perfil.png]]
+
+Ao criar uma regra de Imput ou Output, você deve especificar detalhes sobre o próprio aplicativo.
+
+O intervalo de portas usado e anopt
