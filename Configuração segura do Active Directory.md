@@ -5,5 +5,7 @@ O Active Directory tem duas formas de entidades de segurança comuns: contas de 
 Uma conta de usuário também pode ser usada como uma conta de serviço dedicada para alguns aplicativos.
 
 # Melhores práticas
-Renomear admin do domínio 
+- Renomear admin do domínio 
 	Use uma nomenclatura completamente diferente dos padrões como AdminContosoAD.
+	
+- Estabelecer boas práticas de senha
