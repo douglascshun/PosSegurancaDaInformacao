@@ -23,3 +23,6 @@ Os serviços do Windows são aplicações que rodam em segundo plano como:
 - Network
 - Windows Defender Firewall
 - Windows Update
+
+
+Segundo a Microsoft (2022), a RPC (Chamada de Procedimento Remoto)
