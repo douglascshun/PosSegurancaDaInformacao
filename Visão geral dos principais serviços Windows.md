@@ -9,6 +9,6 @@ Além disso são frequentemente usados para executar o monitoramento de algum si
 
 # Acessando os serviços do Windows
 
-Usando o conjunto de teclas 'Win + R' para abrir o executar, 
+Usando o conjunto de teclas `Win + R` para abrir o `executar`, apos isso digitar `sevices.msc` e dar `Enter` para iniciar. 
 
 ![[Pasted image 20260304123622.png]]
