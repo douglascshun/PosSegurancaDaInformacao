@@ -18,4 +18,8 @@ Usando o conjunto de teclas `Win + R` para abrir o `executar`, apos isso digitar
 # Tela de Serviços do Windows
 ![[Tela de Serviços do Windows.png]]
 
-Os serviços do Wind
+Os serviços do Windows são aplicações que rodam em segundo plano como:
+- RPC Remonte Procedure Call
+- Network
+- Windows Defender Firewall
+- Windows Update
