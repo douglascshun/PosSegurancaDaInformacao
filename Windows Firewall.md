@@ -23,4 +23,5 @@ Ao abrir o Windows Defender Firewall pela primeira vez, você poderá ver as con
 
 
 # Regras de I/O, selecionando novas regras
-A In
+A Interface para adicionar uma nova regra tem esta aparência:
+![[Pasted image 20260304155841.png]]
