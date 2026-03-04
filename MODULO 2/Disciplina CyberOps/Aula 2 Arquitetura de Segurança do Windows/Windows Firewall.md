@@ -48,4 +48,9 @@ A Interface para adicionar uma nova regra tem esta aparência:
 
 Ao criar uma regra de Imput ou Output, você deve especificar detalhes sobre o próprio aplicativo.
 
-O intervalo de portas usado e anopt
+O intervalo de portas usado e anotações importantes, como a data de criação.
+
+As regras devem ser bem documentadas para facilitar a revisão tanto por você quanto por outros administradores.
+
+
+# Implementa
