@@ -7,5 +7,7 @@ Uma conta de usuário também pode ser usada como uma conta de serviço dedicada
 # Melhores práticas
 - Renomear admin do domínio 
 	Use uma nomenclatura completamente diferente dos padrões como AdminContosoAD.
-	
-- Estabelecer boas práticas de senha
+
+
+- Estabelecer Credenciais dedicadas para TI
+	Separar credenciais padrão do gerenciamento para evitar escalonamento de segurança em caso de ataque externo.
