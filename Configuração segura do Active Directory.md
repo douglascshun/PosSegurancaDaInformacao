@@ -11,3 +11,6 @@ Uma conta de usuário também pode ser usada como uma conta de serviço dedicada
 
 - Estabelecer Credenciais dedicadas para TI
 	Separar credenciais padrão do gerenciamento para evitar escalonamento de segurança em caso de ataque externo.
+
+- Atribuir a permissão certa
+	Atribuir a permissão certa e credenciais únicas para cada usuário.
