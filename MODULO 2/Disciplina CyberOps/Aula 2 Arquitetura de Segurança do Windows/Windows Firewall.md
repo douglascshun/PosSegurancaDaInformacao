@@ -41,14 +41,7 @@ A Interface para adicionar uma nova regra tem esta aparência:
 
 ![[excecao para evitar bloqueio.png]]
 
+	As configurações de mesclagem de regras permitem ou impedem que os administradores locais criem suas próprias regras de firewall, além das regras obtidas na Política de Grupos
 
-
-
-
-As configurações de mesclagem de regras permitem ou impedem que os administradores locais criem suas próprias regras de firewall, além das regras obtidas na Política de Grupos
-
-
-
-
-
+# Customização do perfil: 
 ![[Pasted image 20260304160401.png]]
