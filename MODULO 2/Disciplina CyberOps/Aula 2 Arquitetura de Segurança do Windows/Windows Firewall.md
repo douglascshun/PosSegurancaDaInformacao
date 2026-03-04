@@ -37,4 +37,6 @@ A Interface para adicionar uma nova regra tem esta aparência:
 
 
 
-Windows Defender 
+Windows Defender por padrão bloqueia tudo, ao menos que se configure uma exceção:  
+
+![[Pasted image 20260304160259.png]]
