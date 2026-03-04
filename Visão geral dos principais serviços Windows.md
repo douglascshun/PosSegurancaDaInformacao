@@ -5,4 +5,4 @@ Além disso são frequentemente usados para executar o monitoramento de algum si
 
 	Windows Services
 - Não roda: Windows 95, 98 e ME.
-- Roda: Windows 2000, XP, C
+- Roda: Windows 2000, XP, Vista 7, 8, 10 e 11.
