@@ -18,10 +18,13 @@ Ao abrir o Windows Defender Firewall pela primeira vez, você poderá ver as con
 
 
 # Configuração de I/O padrão:
-![[Pasted image 20260304155657.png]]
+![[Configuracao de I O padrao.png]]
 
 
 
 # Regras de I/O, selecionando novas regras
 A Interface para adicionar uma nova regra tem esta aparência:
-![[Pasted image 20260304155841.png]]
+![[Regras de I O selecionando novas regras.png]]
+
+
+# Caixa de
