@@ -12,8 +12,13 @@ VPN significa "Virtual Private Network" e descreve a oportunidade de estabelecer
 
 
 
-## VPN Com 
+## VPN com UTM
 ![[Pasted image 20260304163648.png]]
 
 - VPN com dispositivos UTM (Unifield Threat Management Appliance)
 - Conexão entre aplicativos (site to site)
+
+
+
+## VPN com Wirelless Controller
+![[Pasted image 20260304164047.png]]
