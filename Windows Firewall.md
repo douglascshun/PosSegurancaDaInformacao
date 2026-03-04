@@ -15,3 +15,7 @@ Ao abrir o Windows Defender Firewall pela primeira vez, você poderá ver as con
 2 - Perfil Privado: projetado para rede menores e melhor usado em redes pessoais, como uma rede inicial.
 
 3 - Perfil Público: projetado com maior segurança em mente para redes públicas, como hotspots Wi-Fi, cafeterias, aeroportos, hotéis ou lojas.
+
+
+# Configuração de I/O padrão:,
+![[Pasted image 20260304155657.png]]
