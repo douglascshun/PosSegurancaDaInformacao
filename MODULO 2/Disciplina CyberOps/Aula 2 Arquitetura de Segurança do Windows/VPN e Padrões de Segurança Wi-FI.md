@@ -4,21 +4,15 @@ VPN significa "Virtual Private Network" e descreve a oportunidade de estabelecer
 
 # Tipos de VPN
 
-## VPN Padrão
-![[VPN.png]]
 
+![[VPN.png]]
+## VPN Padrão
 - Roteadores/concentradores de VPN
 - Volume alto de tráfego de dados.
 
-
-
 ## VPN com UTM
-![[Pasted image 20260304163648.png]]
-
 - VPN com dispositivos UTM (Unifield Threat Management Appliance)
 - Conexão entre aplicativos (site to site)
 
-
-
 ## VPN com Wirelless Controller
-![[Pasted image 20260304164047.png]]
+![[Pasted imag
