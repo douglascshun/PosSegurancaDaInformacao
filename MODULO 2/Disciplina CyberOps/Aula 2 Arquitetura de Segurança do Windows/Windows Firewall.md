@@ -53,4 +53,5 @@ O intervalo de portas usado e anotações importantes, como a data de criação.
 As regras devem ser bem documentadas para facilitar a revisão tanto por você quanto por outros administradores.
 
 
-# Implementa
+Implementando em projeto básico de política de firewall 
+	Acesse o artigo `Checklist: Implementing a Basic Firewall ` 
