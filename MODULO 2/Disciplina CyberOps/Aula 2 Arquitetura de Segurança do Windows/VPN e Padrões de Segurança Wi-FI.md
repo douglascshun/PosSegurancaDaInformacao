@@ -15,4 +15,4 @@ VPN significa "Virtual Private Network" e descreve a oportunidade de estabelecer
 - Conexão entre aplicativos (site to site)
 
 ## VPN com Wirelless Controller
-![[Pasted imag
+- Conexões entre pontos de acesso em fio
