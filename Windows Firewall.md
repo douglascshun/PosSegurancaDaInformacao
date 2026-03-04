@@ -12,4 +12,4 @@ Ao abrir o Windows Defender Firewall pela primeira vez, você poderá ver as con
 
 1 - Perfil de Domínio: usado para redes em que há um sistema de autenticação de conta em um controlador de domínio de Active Directory.
 
-2 - Perfil Privado: 
+2 - Perfil Privado: projetado para me
