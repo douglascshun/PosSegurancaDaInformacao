@@ -27,4 +27,6 @@ A Interface para adicionar uma nova regra tem esta aparência:
 ![[Regras de I O selecionando novas regras.png]]
 
 
-# Caixa de
+# Caixa de diálogo para permitir o acesso à um determinado aplicativo
+
+![[Pasted image 20260304160049.png]]
