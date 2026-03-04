@@ -22,11 +22,19 @@ Ao abrir o Windows Defender Firewall pela primeira vez, você poderá ver as con
 
 
 
+
+
 # Regras de I/O, selecionando novas regras
 A Interface para adicionar uma nova regra tem esta aparência:
 ![[Regras de I O selecionando novas regras.png]]
 
 
-# Caixa de diálogo para permitir o acesso à um determinado aplicativo
 
-![[Pasted image 20260304160049.png]]
+
+# Caixa de diálogo para permitir o acesso à um determinado aplicativo:
+
+![[permitir o acesso a um determinado aplicativo.png]]
+
+
+
+Windows Defender 
