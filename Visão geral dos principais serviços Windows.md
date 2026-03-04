@@ -27,4 +27,4 @@ Os serviços do Windows são aplicações que rodam em segundo plano como:
 
 Segundo a Microsoft (2022), a RPC (Chamada de Procedimento Remoto) da Microsoft define uma tecnologia avançada para criar programas de cliente?servidor distribuídos.
 
-As bibliotecas e stubs de tempo de execução do RPC gerenciam a maioria dos processos
+As bibliotecas e stubs de tempo de execução do RPC gerenciam a maioria dos processos relacionados a protocolos de rede e comunicação. Isso permite que você se concentre nos detalhes do aplicativo em vez dos detalhes da rede 
