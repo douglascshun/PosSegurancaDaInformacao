@@ -34,4 +34,5 @@ Não podemos pensar somente em um  computador pois podemos nos referir a sistema
 Com relação as aplicações podem ter um Aplication Gateways ou Web Application Firewall (WAF) além de controle de acesso e monitoramento de uso.
 
 `Dados`
-Muitos dos controles acima já ajudaram a proteger de certa dorma os dados, mas aind
+Muitos dos controles acima já ajudaram a proteger de certa forma os dados, mas ainda sim, temos que periodicamente, aplicar a verificação de acesso, auditoria, criptografia e classificação.
+Atenção especial aos d
