@@ -14,12 +14,15 @@ Se uma linha de defesa for comprometida, camadas adicionais de defesa ficam a po
 
 
 
-segurança física `
+`Segurança física `
 Proteção de entrada dos prédios comerciais, guardas, muros, câmeras de segurança, controle de acesso e restrição de acesso ao data center do prédio, sistema de supressão de fogo. 
 
+`Identidade de acesso`
  Gerenciamento eficiente do Active Directory e do Azure Active Directory, que adota principio de menor privilegio e fornece recursos de identificação de usuário multi-fator.
 
+`Perímetro`
 O principal sistema de proteção no perímetro é o firewall, um sistema de segurança de rede que monitora e controla o tráfego de entrada e saída com base em regras de segurança predeterminadas.
+
 
 Podemos fazer uso das zonas desmilitarizadas  (DMZ) ou controlar o acesso com Virtual Private Network (VPN), proteção de comunicações com criptografia do transporte. Uso de Intrusion Detection Systems (IDS) ou Intrusion Preventivo Systems (IPS).
 
