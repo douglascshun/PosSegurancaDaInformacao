@@ -28,4 +28,6 @@ Ele oferece monitoramento de aplicativos, de servidores e de rede, análise de e
 
 # Ferramentas de monitoramento de rede 
 
-O monitoramento de rede Dude é um novo aplicativo da MikroTik que pode melhorar drasticamente a maneira como geren
+O monitoramento de rede Dude é um novo aplicativo da MikroTik que pode melhorar drasticamente a maneira como gerencia seu ambiente de rede
+
+Ele irá verificar automaticamente todos os dispositivos dentro de subredes especificas, desenhar e fazer um mapa de suas redes, monitorar serviços de seus dispositivos e alertá-lo caso algum se
