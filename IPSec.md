@@ -33,4 +33,4 @@ Uma política IPsec é um conjunto de regras que determinam qual tipo de tráfeg
 - Credenciais do usuário: NTLM, Kerberos, certificados.
 - Certificados de integridade da NAP (proteção de Acesso à rede).
 - Credenciais anônima, usada para autenticação opcional.
-- Combinação de credenciais. Por exemplo uma combinação de credenciais Kerberos de computador e
+- Combinação de credenciais. Por exemplo uma combinação de credenciais Kerberos de computador e usuário.
