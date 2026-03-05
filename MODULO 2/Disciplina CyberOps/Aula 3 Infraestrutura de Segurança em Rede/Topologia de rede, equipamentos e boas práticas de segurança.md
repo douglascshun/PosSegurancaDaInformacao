@@ -85,4 +85,8 @@ Já este tipo de topologia de rede é feito por meio de uma ligação ponto a po
 
 - Particionamento adequado dos discos rígidos dos servidores e workstations
 
-- Desativação de serviços des
+- Desativação de serviços desnecessários
+
+- Definição de senhas seguras
+
+- Atualização periódica
