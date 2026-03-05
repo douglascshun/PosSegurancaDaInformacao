@@ -45,3 +45,5 @@ Ele permite que o usuário exiba TCP/IP e outros pacotes sendo transmitidos ou r
 
 exemplo de saida:
 ![[Tcpdump.png]]
+
+
