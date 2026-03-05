@@ -18,5 +18,9 @@ A continuação da politica requer a implementação de uma prática gerenciamen
 - Alteração/Atualização de softwares
 
 # Adote as seguinte diretrizes: 
+
 - Mude as senhas dos dispositivos de rede rotineiramente 
-- Níveis atuais de
+
+- Níveis atuais de revisão de softwares, equipamentos de rede e dos ambientes de servidor estejam em conformidade com os requisitos de configuração de segurança
+
+- Restrinja o acess
