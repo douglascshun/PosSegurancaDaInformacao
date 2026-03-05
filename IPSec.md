@@ -21,5 +21,7 @@ O IPsec é um padrão aberto como parte do pacote IPv4 e utiliza os seguintes pr
 ![[Pasted image 20260305084639.png]]
 # Internet Security Association and Key Management Protocol (ISAKMP)
 
-- Modelos de 
+- Modelos de operações 
+- Os Protocolos IPsec AH e ESP podem ser implementados em um modo de transporte host a host, bem como em um modeo de encapsulamento de rede.
 
+![[Pasted image 20260305084858.png]]
