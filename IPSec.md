@@ -28,3 +28,4 @@ O IPsec é um padrão aberto como parte do pacote IPv4 e utiliza os seguintes pr
 
 Uma política IPsec é um conjunto de regras que determinam qual tipo de tráfego IP precisa ser protegido usado IPsec e como proteger esse tráfego. Apenas uma política IPsec pode estar ativa em um computador ao mesmo tempo.
 
+O Protocolo de Internet Autenticado (AuthIP) é um novo protocolo de troca de chaves q
