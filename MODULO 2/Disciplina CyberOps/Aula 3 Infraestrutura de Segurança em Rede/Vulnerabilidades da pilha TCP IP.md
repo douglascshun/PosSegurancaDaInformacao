@@ -10,4 +10,4 @@ O TCP usa um handshake de três vias para estabelecer uma conexão confiável. A
 
 ## IP Address spoofing
 
-A falsificação de IP, ou falsificação de enderelço IP, refere-se 
+A falsificação de IP, ou falsificação de endereço IP, refere-se à criação de pacotes de Protocolo de Internet (IP) com um endereço de orig
