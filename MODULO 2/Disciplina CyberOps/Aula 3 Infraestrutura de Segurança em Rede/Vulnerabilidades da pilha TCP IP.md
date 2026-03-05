@@ -22,5 +22,13 @@ A falsificação de ARP refere-se a um invasor com acesso à LAN fingindo ser o 
 ![[ARP Spoofing.png]]
 
 # Port scanning
+
 É uma aplicativo projetado para sondar um servidor ou host em busca de portas abertas.
-Esse aplicativo pode ser usado por administradores para verificar as políticas de segurança de suas redes e por invasores para identificar ser
+Esse aplicativo pode ser usado por administradores para verificar as políticas de segurança de suas redes e por invasores para identificar serviços de rede em execução em um host e explorar vulnerabilidades.
+
+![[Nmap.png]]
+
+
+
+# ICMP attacks
+Um ataque de DDoS de inundação do protocolo de mensagem de controle da internet (ICMP)
