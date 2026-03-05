@@ -14,4 +14,4 @@ NAP é uma tecnologia da Microsoft para controlar o acesso à rede de um computa
 ![[Pasted image 20260305083001.png]]
 
 # Componentes no lado do cliente:
-`Cliente` 
+`Cliente` são os computadores ou notebooks que possuem os componentes do NAP instalados e configurados. Devem enviar o seu estado de integridade para o servidor.
