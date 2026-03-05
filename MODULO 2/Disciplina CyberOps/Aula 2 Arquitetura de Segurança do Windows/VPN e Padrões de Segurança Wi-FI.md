@@ -21,4 +21,6 @@ VPN significa "Virtual Private Network" e descreve a oportunidade de estabelecer
 	IPSec VPN ou Internet Protocol Security VPN é uma das tecnologias mais populares disponíveis para estabelecer VPN na internet. Ele estabelece isso usando tecnologias como tunelamento, criptografia e autenticação.
 
 # VPN SSL/TLS
-	Uma VPN SSL usa tencologia Secure Sockets Protocol (SSL) para criar uma rede privafa virtual entre vários sites 
+	Uma VPN SSL usa tencologia Secure Sockets Protocol (SSL) para criar uma rede privafa virtual entre vários sites, e sires ára cliente usando criptografia e autenticação na rede.
+
+VPN de có
