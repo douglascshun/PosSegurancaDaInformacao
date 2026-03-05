@@ -28,4 +28,4 @@ Podemos fazer uso das zonas desmilitarizadas  (DMZ) ou controlar o acesso com Vi
 
 `Computer/host`
 Refere-se a atividades, aplicativos ou cargas de trabalho que requerem mais recursos de processamento.
-Não podemos pensar somente em um  computador pois podemos nos referir a sistemas na cloud. Como esse "layer" é muito vasto, p
+Não podemos pensar somente em um  computador pois podemos nos referir a sistemas na cloud. Como esse "layer" é muito vasto, podemos imaginar um host mesmo onde temos Patch Management, antivírus, politicas e controle de acesso
