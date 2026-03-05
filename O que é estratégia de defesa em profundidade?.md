@@ -49,3 +49,7 @@ Por exemplo, configurar redes sem fio separadas para usuários internos e extern
 
 `Análise comportamental`
 Pode ajudar a detectar padrões de tráfego anormais e ataques à medida que ocorrem. Ela faz isso comparando o comportamento do usuário, com uma linha de base de comportamento normal que foi observada no passado.
+
+
+# Repre
+![[Pasted image 20260305153755.png]]
