@@ -8,4 +8,6 @@ Topologia de rede é o conjunto usado para indicar a forma como uma rede de comp
 
 `Multicast`:  As informações partem de um único transmissor para múltiplos destinatários já predeterminados.
 
-`Unicast`: A informação é enviada do tr
+`Unicast`: A informação é enviada do transmissor para o receptor, ou seja, em uma única direção.
+
+`Peer to Peer`: Os aparelhos receptores e transmissores são conectados entre si.
