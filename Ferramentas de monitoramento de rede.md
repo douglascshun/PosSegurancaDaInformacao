@@ -16,4 +16,9 @@ Ele usa plug-ins inteligentes para coletar dados de diferentes tipos de hardware
 
 É um software gratuito de fgestão de ativos de TI que oferece monitoramento de rede e ferramentas de suporte técnico.
 
-A ferramenta de monitoramento de rede permite rastrear a infraestrutura crítica de TI, como servidores, dispositivos IP e comutadores, enquanto a de suporte técnico inclui recursos para gestão de chamados, relatórios, automação de regras de chamados e integração com diretórios ativos
+A ferramenta de monitoramento de rede permite rastrear a infraestrutura crítica de TI, como servidores, dispositivos IP e comutadores, enquanto a de suporte técnico inclui recursos para gestão de chamados, relatórios, automação de regras de chamados e integração com diretórios ativos.
+
+
+# Splank Enterprise
+
+É uma ferramenta de monitoramento de infraestrutura de TI que ajuda a coletar e analisar dados de diferentes dispositivos.
