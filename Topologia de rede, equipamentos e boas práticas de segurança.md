@@ -11,3 +11,8 @@ Topologia de rede é o conjunto usado para indicar a forma como uma rede de comp
 `Unicast`: A informação é enviada do transmissor para o receptor, ou seja, em uma única direção.
 
 `Peer to Peer`: Os aparelhos receptores e transmissores são conectados entre si.
+
+
+# Topologia Estrela 
+
+Pode utilizar cabeamento 10BASE-T (par trançado ou UTP) e um con
