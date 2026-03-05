@@ -49,5 +49,11 @@ Assim como acontece com os ramos das árvores, esse tipo de topologia de rede in
 ![[Topologia em arvore.png]]
 
 
-![[Pasted image 20260305094252.png]]
+![[topologia em arvore six.png]]
 
+
+
+
+
+# Topologia em muralha ou mesh:
+Já este tipo de topologia de rede é feito por meio de uma ligação ponto a ponto entre cada par de computa
