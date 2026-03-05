@@ -36,4 +36,9 @@ Ele irá verificar automaticamente todos os dispositivos dentro de sub-redes esp
 # Nagios Core 
 
 Anteriormente conhecido como Nagios, é um aplicativo de software de computador gratuito e de código aberto que monitora sistemas, redes e infraestrutura.
-O Nagios oferece serviços de monitoramento e alerta para servidores, Switch, aplicativos e serviços
+O Nagios oferece serviços de monitoramento e alerta para servidores, Switch, aplicativos e serviços.
+
+# Tcpdump
+
+É um programa de computador analisador de pacotes de rede de dados que pe executado sob uma interface de linha de comando.
+Ele permite que o usupario exiba TCP/IP e outros pacotes
