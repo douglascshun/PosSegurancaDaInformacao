@@ -7,3 +7,5 @@ Topologia de rede é o conjunto usado para indicar a forma como uma rede de comp
 `Broadcast`: Transmissão de informações para todas as possibilidades de destinos a rede.
 
 `Multicast`:  As informações partem de um único transmissor para múltiplos destinatários já predeterminados.
+
+`Unicast`: A informação é enviada do tr
