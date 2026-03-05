@@ -42,13 +42,12 @@ Esse tipo de topologia de rede consiste em ligações ponto a ponto (peer to pee
 
 
 
-# Topologia em árvore:
+# Topologia em árvore/hierárquica :
 
 Assim como acontece com os ramos das árvores, esse tipo de topologia de rede interliga os computadores em um nó central que também conta com ramificações.
 
 ![[Topologia em arvore.png]]
 
 
-
-
+![[Pasted image 20260305094252.png]]
 
