@@ -11,7 +11,7 @@ NAP é uma tecnologia da Microsoft para controlar o acesso à rede de um computa
 
 # NAP Arquitetura de Funcionamento:
 
-![[Pasted image 20260305083001.png]]
+![[NAP ARquitetura.png]]
 
 # Componentes no lado do cliente:
 `Cliente` são os computadores ou notebooks que possuem os componentes do NAP instalados e configurados. Devem enviar o seu estado de integridade para o servidor.
@@ -19,3 +19,5 @@ NAP é uma tecnologia da Microsoft para controlar o acesso à rede de um computa
 `Agente de integridade do sistema`, Também conhecido como SHA, é o componente responsável por verificar o estado de integridade do sistema.
 
 `Agente NAP` processas as declarações de integridade do cliente e as envia para o servidor de administração do NAP.
+
+![[NAP Lado Cliente.png]]
