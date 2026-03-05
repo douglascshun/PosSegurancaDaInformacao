@@ -7,10 +7,12 @@ Internet Protocol Security é um conjunto seguro de protocolos de rede que auten
 O IPsec é um padrão aberto como parte do pacote IPv4 e utiliza os seguintes protocolos para executar várias funções: 
 
 # Authentication Headers (AH)
+- O cabeçalho de autenticação (AH é um membro do conjunto de protocolos )
 
 
+# Encapsulating Security Payloads (ESP)
 
-- Encapsulating Security Payloads (ESP)
-- Internet Security Association and Key Management Protocol (ISAKMP)
+
+# Internet Security Association and Key Management Protocol (ISAKMP)
 
 
