@@ -26,3 +26,6 @@ A continuação da politica requer a implementação de uma prática gerenciamen
 # Resposta a um incidente:
 
 A resposta pode ser dividida em três partes:
+- Violações de segurança
+- Restauração
+- Revisão
