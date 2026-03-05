@@ -14,6 +14,7 @@ Topologia de rede é o conjunto usado para indicar a forma como uma rede de comp
 
 
 
+
 # Topologia Estrela 
 
 Pode utilizar cabeamento 10BASE-T (par trançado ou UTP) e um concentrador de dados, cada item da rede dessa configuração é conectado ao HUB ou Switch, lembrando então o desenho de uma estrela 
@@ -22,6 +23,9 @@ Pode utilizar cabeamento 10BASE-T (par trançado ou UTP) e um concentrador de da
 
 
 
+
 # Topologia em barramento:
 
-É um tipo de topologia de rede
+É um tipo de topologia de rede física em que um cabo coaxial é utilizado para conectar os computadores em série, permitindo então o tráfego de informações na rede.
+
+![[Pasted image 20260305093653.png]]
