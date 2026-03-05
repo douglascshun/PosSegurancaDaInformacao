@@ -45,4 +45,6 @@ Como o próprio nome sugere, reque várias formas de autenticação para verific
 
 `Segmentação de rede`
 Ajuda a limitar a exposição de sistemas e dados internos a fornecedores, contratados e outros usuários externos.
-Por exemplo, configurar redes sem fio separadas para usuários internos e externos permite que as organizações protejam melhor as informações confidenc
+Por exemplo, configurar redes sem fio separadas para usuários internos e externos permite que as organizações protejam melhor as informações confidenciais de partes não autorizadas.
+
+`Análise comporta`
