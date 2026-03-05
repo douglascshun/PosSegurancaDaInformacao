@@ -4,17 +4,17 @@ VPN significa "Virtual Private Network" e descreve a oportunidade de estabelecer
 
 # Tipos de VPN
 
-
-![[MODULO 2/Disciplina CyberOps/Aula 2 Arquitetura de Segurança do Windows/Aula 2 Arquitetura de Segurança do Windows Imagens/VPN.png]]
 ## VPN Padrão
 - Roteadores/concentradores de VPN
 - Volume alto de tráfego de dados.
+
+![[MODULO 2/Disciplina CyberOps/Aula 2 Arquitetura de Segurança do Windows/Aula 2 Arquitetura de Segurança do Windows Imagens/VPN.png]]
 
 ## VPN com UTM
 - VPN com dispositivos UTM (Unifield Threat Management Appliance)
 - Conexão entre aplicativos (site to site)
 
-
+![[VPN.png]]
 
 ## VPN com Wirelless Controller
 - Conexões entre pontos de acesso em fio
