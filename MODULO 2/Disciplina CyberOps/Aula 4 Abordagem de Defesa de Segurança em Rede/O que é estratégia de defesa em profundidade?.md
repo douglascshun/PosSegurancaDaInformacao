@@ -54,4 +54,4 @@ Pode ajudar a detectar padrões de tráfego anormais e ataques à medida que oco
 # Representação visual de defesa em profundidade:
 ![[defesa em profundidade.png]]
 
-"Defesa em Profundidade" (DiD) é uma estratégi
+"Defesa em Profundidade" (DiD) é uma estratégia de segurança cibernética que usa vários produtos e práticas de segurança para proteger a rede, as propriedades da web e os recursos de uma organização.
