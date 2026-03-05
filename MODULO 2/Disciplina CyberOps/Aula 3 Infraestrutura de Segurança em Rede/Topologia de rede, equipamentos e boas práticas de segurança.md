@@ -80,3 +80,9 @@ Já este tipo de topologia de rede é feito por meio de uma ligação ponto a po
 - Comutador (Switch)
 - Roteador 
 - Modem
+
+# Boas práticas de segurança
+
+- Particionamento adequado dos discos rígidos dos servidores e workstations
+
+- Desativação de serviços des
