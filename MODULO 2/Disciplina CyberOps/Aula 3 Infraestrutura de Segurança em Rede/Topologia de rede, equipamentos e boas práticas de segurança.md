@@ -35,4 +35,6 @@ Pode utilizar cabeamento 10BASE-T (par trançado ou UTP) e um concentrador de da
 
 # Topologia em anel
 
-Esse tipo de topologia de rede consiste em ligações ponto a ponto (peer to peer), 
+Esse tipo de topologia de rede consiste em ligações ponto a ponto (peer to peer), ou seja são pares de dispositivos que, em seu conjunto, formam um ciclo fechado, como um formato de anel.
+
+![[Pasted image 20260305093859.png]]
