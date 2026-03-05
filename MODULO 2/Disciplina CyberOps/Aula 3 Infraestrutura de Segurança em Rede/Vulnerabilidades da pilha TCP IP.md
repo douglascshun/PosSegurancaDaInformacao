@@ -21,4 +21,6 @@ A falsificação de IP, ou falsificação de endereço IP, refere-se à criaçã
 A falsificação de ARP refere-se a um invasor com acesso à LAN fingindo ser o Host B. O invasor envia mensagens ao Host A com objetivo de engana-lo para que ele salve o endereço do invasor, com isso o Host A acabará por enviar dados destinados ao Host B para o invasor.
 ![[ARP Spoofing.png]]
 
-P`
+# Port scanning
+É uma aplicativo projetado para sondar um servidor ou host em busca de portas abertas.
+Esse aplicativo pode ser usado por administradores para verificar as políticas de segurança de suas redes e por invasores para identificar ser
