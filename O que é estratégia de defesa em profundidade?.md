@@ -36,3 +36,6 @@ Com relação as aplicações podem ter um Aplication Gateways ou Web Applicatio
 `Dados`
 Muitos dos controles acima já ajudaram a proteger de certa forma os dados, mas ainda sim, temos que periodicamente, aplicar a verificação de acesso, auditoria, criptografia e classificação.
 Atenção especial aos dados que são de backups e dos dados em descanso (Data -At-Rest).
+
+`Acesso com o menor privilégio`
+É o princípio de conceder aos usuários permissão para acessar apenas os sistemas e recursos de que precisam pa
