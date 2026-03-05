@@ -12,6 +12,9 @@ Se uma linha de defesa for comprometida, camadas adicionais de defesa ficam a po
 
 - Os `controles técnicos` são métodos de proteção em camadas que protegem sistemas de rede. A proteção de hardwares, softwares e redes fazem parte dos controle técnicos específicos de uma empresa.
 
+
+
+segurança física `
 Proteção de entrada dos prédios comerciais, guardas, muros, câmeras de segurança, controle de acesso e restrição de acesso ao data center do prédio, sistema de supressão de fogo. 
 
  Gerenciamento eficiente do Active Directory e do Azure Active Directory, que adota principio de menor privilegio e fornece recursos de identificação de usuário multi-fator.
