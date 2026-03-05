@@ -29,3 +29,10 @@ Pode utilizar cabeamento 10BASE-T (par trançado ou UTP) e um concentrador de da
 É um tipo de topologia de rede física em que um cabo coaxial é utilizado para conectar os computadores em série, permitindo então o tráfego de informações na rede.
 
 ![[Pasted image 20260305093653.png]]
+
+
+
+
+# Topologia em anel
+
+Esse tipo de topologia de rede consiste em ligações ponto a ponto (peer to peer), 
