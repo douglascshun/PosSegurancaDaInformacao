@@ -1,3 +1,5 @@
 [[Aula 4 Abordagem de Defesa de Segurança em Rede]]
 
-De acordo co CISCO (2005), a política 
+De acordo co CISCO (2005), a política começa com a avaliação de risco de rede com a formação de uma equipe de resposta.
+
+A continuação da politica requer a implementação de uma prática gerenciamento de alteração de segurança e monitoramento de rede em busca de violações de segurança.
