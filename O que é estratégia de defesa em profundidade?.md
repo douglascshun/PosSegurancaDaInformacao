@@ -44,4 +44,5 @@ Atenção especial aos dados que são de backups e dos dados em descanso (Data -
 Como o próprio nome sugere, reque várias formas de autenticação para verificar a identidade de um usuário ou dispositivo antes de permitir o acesso a uma rede ou aplicativo.
 
 `Segmentação de rede`
-Ajuda a limitar a exposição de sistemas e dados internos a forn
+Ajuda a limitar a exposição de sistemas e dados internos a fornecedores, contratados e outros usuários externos.
+Por exemplo, configurar redes sem fio separadas para usuários internos e externos permite que as organizações protejam melhor as informações confidenc
