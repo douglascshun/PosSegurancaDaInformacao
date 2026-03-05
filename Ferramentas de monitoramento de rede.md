@@ -14,4 +14,6 @@ Ele usa plug-ins inteligentes para coletar dados de diferentes tipos de hardware
 
 # Spiceworks
 
-É um 
+É um software gratuito de fgestão de ativos de TI que oferece monitoramento de rede e ferramentas de suporte técnico.
+
+A ferramenta de monitorramento de rede permite rastrear a infraestrutura crítica
