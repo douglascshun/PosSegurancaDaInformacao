@@ -69,6 +69,12 @@ Já este tipo de topologia de rede é feito por meio de uma ligação ponto a po
 - Workstations
 - Notebooks
 
-	`Elementos de cablagem:
+	`Elementos de cablagem:`
 - Par trançado
 - Fibra óptica 
+
+	`Elementos de transmissão:`
+- Placa de rede
+- Repetidor
+- Concentrador (HUB)
+- 
