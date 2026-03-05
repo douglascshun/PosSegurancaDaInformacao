@@ -12,7 +12,7 @@ O IPsec é um padrão aberto como parte do pacote IPv4 e utiliza os seguintes pr
 
 - Usage of IPsec Authentication Header format in Tunnel and Transport modes.
 
-![[Pasted image 20260305084527.png]]
+![[Authentication Headers.png]]
 
 # Encapsulating Security Payloads (ESP):
 
