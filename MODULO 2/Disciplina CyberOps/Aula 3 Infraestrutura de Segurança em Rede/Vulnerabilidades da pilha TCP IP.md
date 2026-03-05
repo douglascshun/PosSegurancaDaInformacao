@@ -45,4 +45,6 @@ Uma ataque de previsão de sequência TCP é uma tentativa de prever o número d
 
 # Man-In-the-Middle Attacks
 
-É um ataque cibernético em que o invasor retransmite secretamente e possivelmente altera as comunicações entre duas partes que acreditam estar se comunicando diretamente uma com a outra, pois o invaso
+É um ataque cibernético em que o invasor retransmite secretamente e possivelmente altera as comunicações entre duas partes que acreditam estar se comunicando diretamente uma com a outra, pois o invasor se inseriu entre as duas partes como no exemplo a seguir:
+
+![[Man-In-the-Middle Attacks.png]]
