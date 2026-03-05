@@ -52,4 +52,4 @@ Uma ataque de previsão de sequência TCP é uma tentativa de prever o número d
 
 # DDOS attacks
 
-Mesma coisa que um DoS mas com várias maquinas infe 
+Mesma coisa que um DoS mas com várias maquinas infectadas o que chamamos de Bots, essas maquina inundam um servidor com requisições simultâneas, travando fechando e as vezes até reiniciando o servidor  
