@@ -35,4 +35,4 @@ Com relação as aplicações podem ter um Aplication Gateways ou Web Applicatio
 
 `Dados`
 Muitos dos controles acima já ajudaram a proteger de certa forma os dados, mas ainda sim, temos que periodicamente, aplicar a verificação de acesso, auditoria, criptografia e classificação.
-Atenção especial aos d
+Atenção especial aos dados que são de backups e dos dados em descanso (Data -At-Rest).
