@@ -20,7 +20,9 @@ A continuação da politica requer a implementação de uma prática gerenciamen
 # Adote as seguinte diretrizes: 
 
 - Mude as senhas dos dispositivos de rede rotineiramente 
-
 - Níveis atuais de revisão de softwares, equipamentos de rede e dos ambientes de servidor estejam em conformidade com os requisitos de configuração de segurança
+- Restrinja o acesso aos dispositivos de rede a uma lista aprovada de pessoas
 
-- Restrinja o acess
+# Resposta a um incidente:
+
+A resposta pode ser dividida em três partes:
