@@ -7,4 +7,6 @@ Antes de falarmos sobre as principais vulnerabilidades de segurança, vamos a de
 
 `Riscos às aplicações`: ActiveX Java, Scripting, Browser, Buffer overflows, Cookies, SMTP open relays, Instant messaging, P2P, Input validadetion, Cross-site Scripting (XSS).
 
-`Riscos ao Hardware`: BIOS, USB devices, Cell phones, Removable storage
+`Riscos ao Hardware`: BIOS, USB devices, Cell phones, Removable storage, Network attached storage.
+
+`Riscos aos protocolos`: TCP/IP hijackin, Null sessions, Soofing, 
