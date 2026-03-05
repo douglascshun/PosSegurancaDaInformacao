@@ -55,5 +55,7 @@ Assim como acontece com os ramos das árvores, esse tipo de topologia de rede in
 
 
 
-# Topologia em muralha ou mesh:
-Já este tipo de topologia de rede é feito por meio de uma ligação ponto a ponto entre cada par de computa
+# Topologia em malha ou mesh:
+Já este tipo de topologia de rede é feito por meio de uma ligação ponto a ponto entre cada par de computadores da rede.
+
+![[muralha ou mesh.png]]
