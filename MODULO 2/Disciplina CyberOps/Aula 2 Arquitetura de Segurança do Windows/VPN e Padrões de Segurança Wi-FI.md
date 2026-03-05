@@ -23,4 +23,4 @@ VPN significa "Virtual Private Network" e descreve a oportunidade de estabelecer
 # VPN SSL/TLS
 	Uma VPN SSL usa tencologia Secure Sockets Protocol (SSL) para criar uma rede privafa virtual entre vários sites, e sires ára cliente usando criptografia e autenticação na rede.
 
-VPN de có
+VPN de código aberto: além de muitos produtos comerciais disponíveis para VPN, também existem alternativas gratuitas de código aberto para estabelecer uma VPN entre dois locais, como OpenVPN e Open SSL.
