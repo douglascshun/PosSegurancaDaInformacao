@@ -48,4 +48,4 @@ Ajuda a limitar a exposição de sistemas e dados internos a fornecedores, contr
 Por exemplo, configurar redes sem fio separadas para usuários internos e externos permite que as organizações protejam melhor as informações confidenciais de partes não autorizadas.
 
 `Análise comportamental`
-Pode ajudar a detectar padrões de tráfego anormais e ataques à medida que ocorrem. Ela faz isso comparando o comportamento do usuário como uma linha de base de comportameno normal que foi observada no passado 
+Pode ajudar a detectar padrões de tráfego anormais e ataques à medida que ocorrem. Ela faz isso comparando o comportamento do usuário, com uma linha de base de comportamento normal que foi observada no passado.
