@@ -8,6 +8,8 @@ Se uma linha de defesa for comprometida, camadas adicionais de defesa ficam a po
 
 - Os `controles físicos` são as medidas de segurança que protegem sistemas de TI contra danos físicos. Exemplos de controles físicos incluem guardas de segurança e tranca nas portas.
 
+	Proteção de entrada dos prédios comerciais, guardas, muros, câmeras de segurança, controle de acesso e restição de acessos ao datac
+
 - Os `controles administrativos` se referem a políticas e procedimentos implementados por uma organização para seus funcionários.
 
 - Os `controles técnicos` são métodos de proteção em camadas que protegem sistemas de rede. A proteção de hardwares, softwares e redes fazem parte dos controle técnicos específicos de uma empresa.
