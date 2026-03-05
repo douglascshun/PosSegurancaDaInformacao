@@ -5,4 +5,4 @@ Antes de falarmos sobre as principais vulnerabilidades de segurança, vamos a de
 
 `Ameaças como`: Privilefe escalation, Virus, Worm, Trojan, Spyware, Spam, Adware, Rootkits, Botnets, Logic Bomb
 
-`Riscos às apl`
+`Riscos às aplicações`: ActiveX Java, Scripting, Browser, Buffer overflows, Cookies, SMTP open relays, Instant messaging, P2P, Input validadetion, Cross-site Scrip
