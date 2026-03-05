@@ -18,4 +18,6 @@ Se uma linha de defesa for comprometida, camadas adicionais de defesa ficam a po
 
 - Os `controles técnicos` são métodos de proteção em camadas que protegem sistemas de rede. A proteção de hardwares, softwares e redes fazem parte dos controle técnicos específicos de uma empresa.
 
-	O principal sistema de proteção no perímetro é o firewall, um sistema de segurança de rede que monitora e controla o tráfego de entrada e sa´
+	O principal sistema de proteção no perímetro é o firewall, um sistema de segurança de rede que monitora e controla o tráfego de entrada e saída com base em regras de segurança predeterminadas.
+
+	Podemos fazer uso das zonas demitarializadas 
