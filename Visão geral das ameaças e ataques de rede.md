@@ -9,4 +9,4 @@ Antes de falarmos sobre as principais vulnerabilidades de segurança, vamos a de
 
 `Riscos ao Hardware`: BIOS, USB devices, Cell phones, Removable storage, Network attached storage.
 
-`Riscos aos protocolos`: TCP/IP hijackin, Null sessions, Soofing, 
+`Riscos aos protocolos`: TCP/IP hijackin, Null sessions, Soofing, Man-in-themiddle, replay, DOS, DDOS, Domain Name Kiting,DNS poisoning, ARP poisoning.
