@@ -50,4 +50,6 @@ Uma ataque de previsão de sequência TCP é uma tentativa de prever o número d
 ![[Man-In-the-Middle Attacks.png]]
 
 
-# DoS
+# DDOS attacks
+
+Mesma coisa que um DoS mas com várias maquinas infe 
