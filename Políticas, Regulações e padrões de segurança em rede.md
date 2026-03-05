@@ -16,3 +16,7 @@ A continuação da politica requer a implementação de uma prática gerenciamen
 - Qualquer alteração nas listas de controle de acesso (ACL)
 - Qualquer alteração na configuração do SNMP
 - Alteração/Atualização de softwares
+
+# Adote as seguinte diretrizes: 
+- Mude as senhas dos dispositivos de rede rotineiramente 
+- Níveis atuais de
