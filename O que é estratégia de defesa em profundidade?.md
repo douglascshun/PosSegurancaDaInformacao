@@ -47,4 +47,5 @@ Como o próprio nome sugere, reque várias formas de autenticação para verific
 Ajuda a limitar a exposição de sistemas e dados internos a fornecedores, contratados e outros usuários externos.
 Por exemplo, configurar redes sem fio separadas para usuários internos e externos permite que as organizações protejam melhor as informações confidenciais de partes não autorizadas.
 
-`Análise comporta`
+`Análise comportamental`
+Pode ajudar a detectar padrões de tráfego anormais e ataques à medida que ocorrem. Ela faz isso comparando o comportamento do usuário como uma linha de base de comportameno normal que foi observada no passado 
