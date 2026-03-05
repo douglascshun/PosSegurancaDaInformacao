@@ -9,3 +9,4 @@ A continuação da politica requer a implementação de uma prática gerenciamen
 - Criar declarações de política de uso 
 - Realizar uma análise de risco
 - Estabelecer uma estrutura de equipe de segurança
+
