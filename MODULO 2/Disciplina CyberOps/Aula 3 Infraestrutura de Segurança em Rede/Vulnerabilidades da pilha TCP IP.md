@@ -37,4 +37,4 @@ Um ataque de DDoS de inundação do protocolo de mensagem de controle da interne
 
 # Packet reassembly and sequence prediction
 
-Uma ataque de previsãp de sequência TCP ´
+Uma ataque de previsãp de sequência TCP é uma tentativa de prever o número de sequência usado para identificar os pacotes em uma conexão TCP, que pode ser usado para falsificar pacotes
