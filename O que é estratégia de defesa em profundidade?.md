@@ -6,4 +6,6 @@ Se uma linha de defesa for comprometida, camadas adicionais de defesa ficam a po
 
 	Esses três controles formam a arquitetura de uma estratégia de Defesa em Profundidade
 
-Os controles físicos são as medidas de segurança que protegem sistemas de TI contra danos físicos. Exemplos de controles físicos incluem guardas de segurança e tranca nas portas.
+- Os `controles físicos` são as medidas de segurança que protegem sistemas de TI contra danos físicos. Exemplos de controles físicos incluem guardas de segurança e tranca nas portas.
+
+- Os `controles administrativos` s
