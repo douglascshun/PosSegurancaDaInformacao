@@ -7,3 +7,11 @@ NAP é uma tecnologia da Microsoft para controlar o acesso à rede de um computa
 - Conexões de rede autenticadas pelo padrão 802.1x do IEEE
 - Conexões VPN ou Terminal Service
 - Dynamix Host Configuration Protocol (DHCP)
+
+
+# NAP Arquitetura de Funcionamento:
+
+![[Pasted image 20260305083001.png]]
+
+# Componentes no lado do cliente:
+`Cliente` 
