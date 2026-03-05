@@ -77,4 +77,6 @@ Já este tipo de topologia de rede é feito por meio de uma ligação ponto a po
 - Placa de rede
 - Repetidor
 - Concentrador (HUB)
-- 
+- Comutador (Switch)
+- Roteador 
+- Modem
