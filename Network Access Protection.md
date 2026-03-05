@@ -4,4 +4,6 @@ NAP é uma tecnologia da Microsoft para controlar o acesso à rede de um computa
 
 #### O NAP possui suporte para múltiplos métodos de imposição (tecnologia utilizada para o acesso em uma rede), dentre eles, temos:
 - Internet Protocol Security (IPSec)
-- Conexões de rede autenticadas pelo padrão 802.1x do 
+- Conexões de rede autenticadas pelo padrão 802.1x do IEEE
+- Conexões VPN ou Terminal Service
+- Dynamix Host Configuration Protocol (DHCP)
