@@ -8,16 +8,15 @@ Se uma linha de defesa for comprometida, camadas adicionais de defesa ficam a po
 
 - Os `controles físicos` são as medidas de segurança que protegem sistemas de TI contra danos físicos. Exemplos de controles físicos incluem guardas de segurança e tranca nas portas.
 
-	Proteção de entrada dos prédios comerciais, guardas, muros, câmeras de segurança, controle de acesso e restrição de acesso ao data center do prédio, sistema de supressão de fogo. 
-
-
 - Os `controles administrativos` se referem a políticas e procedimentos implementados por uma organização para seus funcionários.
-
-	 Gerenciamento eficiente do Active Directory e do Azure Active Directory, que adota principio de menor privilegio e fornece recursos de identificação de usuário multi-fator.
-
 
 - Os `controles técnicos` são métodos de proteção em camadas que protegem sistemas de rede. A proteção de hardwares, softwares e redes fazem parte dos controle técnicos específicos de uma empresa.
 
-	O principal sistema de proteção no perímetro é o firewall, um sistema de segurança de rede que monitora e controla o tráfego de entrada e saída com base em regras de segurança predeterminadas.
+Proteção de entrada dos prédios comerciais, guardas, muros, câmeras de segurança, controle de acesso e restrição de acesso ao data center do prédio, sistema de supressão de fogo. 
 
-	Podemos fazer uso das zonas desmilitarizadas  (DMZ) ou controlar o acesso com Virtual Private Network (VPN), proteção de comunicações com criptografia do transporte. Uso de Intrusion Detection Systems (IDS) ou Intrusion Prevention Systems (IPS).
+ Gerenciamento eficiente do Active Directory e do Azure Active Directory, que adota principio de menor privilegio e fornece recursos de identificação de usuário multi-fator.
+
+O principal sistema de proteção no perímetro é o firewall, um sistema de segurança de rede que monitora e controla o tráfego de entrada e saída com base em regras de segurança predeterminadas.
+
+Podemos fazer uso das zonas desmilitarizadas  (DMZ) ou controlar o acesso com Virtual Private Network (VPN), proteção de comunicações com criptografia do transporte. Uso de Intrusion Detection Systems (IDS) ou Intrusion Preventivo Systems (IPS).
+
