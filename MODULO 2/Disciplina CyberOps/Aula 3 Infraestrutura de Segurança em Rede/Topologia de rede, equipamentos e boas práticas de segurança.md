@@ -64,9 +64,11 @@ Já este tipo de topologia de rede é feito por meio de uma ligação ponto a po
 
 # Equipamentos de rede:
 
-	Módulos processadores
+	Módulos processadores:
 - Servidores
 - Workstations
 - Notebooks
 
-	Elementos de cab
+	`Elementos de cablagem:
+- Par trançado
+- Fibra óptica 
