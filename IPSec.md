@@ -14,9 +14,9 @@ O IPsec é um padrão aberto como parte do pacote IPv4 e utiliza os seguintes pr
 
 ![[Pasted image 20260305084527.png]]
 
-# Encapsulating Security Payloads (ESP)
-
-
+# Encapsulating Security Payloads (ESP):
+- Usage os IPsec Encapsulating Security Payload (ESP) 
+![[Pasted image 20260305084639.png]]
 # Internet Security Association and Key Management Protocol (ISAKMP)
 
 
