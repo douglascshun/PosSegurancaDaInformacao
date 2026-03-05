@@ -17,4 +17,4 @@ A falsificação de IP, ou falsificação de endereço IP, refere-se à criaçã
 
 
 # ARP Spoofing
-A failsificação de ARP refere-se a um invasor com acesso à LAN fingindo ser o Host B. O invasor envia mensagens ao Host A com objetivo de engana-lo para que ele salve o endereço do invasor, com is
+A failsificação de ARP refere-se a um invasor com acesso à LAN fingindo ser o Host B. O invasor envia mensagens ao Host A com objetivo de engana-lo para que ele salve o endereço do invasor, com isso o Host A acabará por enviar dados destinados ao Host B para o invasor.
