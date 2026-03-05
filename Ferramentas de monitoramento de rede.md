@@ -24,3 +24,8 @@ A ferramenta de monitoramento de rede permite rastrear a infraestrutura crítica
 É uma ferramenta de monitoramento de infraestrutura de TI que ajuda a coletar e analisar dados de diferentes dispositivos.
 
 Ele oferece monitoramento de aplicativos, de servidores e de rede, análise de eventos, monitoramento de contêineres e de virtualização.
+
+
+# Ferramentas de monitoramento de rede 
+
+O monitoramento de rede Dude é um novo aplicativo da MikroTik que pode melhorar drasticamente a maneira como geren
