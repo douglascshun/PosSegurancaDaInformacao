@@ -41,4 +41,4 @@ O Nagios oferece serviços de monitoramento e alerta para servidores, Switch, ap
 # Tcpdump
 
 É um programa de computador analisador de pacotes de rede de dados que pe executado sob uma interface de linha de comando.
-Ele permite que o usupario exiba TCP/IP e outros pacotes
+Ele permite que o usuário exiba TCP/IP e outros pacotes sendo transmitidos ou recebidos por uma rede à qual o computador está conectado.
