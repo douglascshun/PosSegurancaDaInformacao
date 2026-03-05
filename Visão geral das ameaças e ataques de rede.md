@@ -1,3 +1,3 @@
 [[Aula 3 Infraestrutura de Segurança em Rede]]
 
-Antes de flarmos sobre as principais culnerabilidades de segurança, vamos a definição de vulnerabilidade:  de acordo com a SIO 27000
+Antes de falarmos sobre as principais vulnerabilidades de segurança, vamos a definição de vulnerabilidade:  de acordo com a ISO 27000
