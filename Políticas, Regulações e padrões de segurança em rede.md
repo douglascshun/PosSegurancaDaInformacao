@@ -12,4 +12,8 @@ A continuação da politica requer a implementação de uma prática gerenciamen
 
 # A equipe de segurança sempre deve tomar parte em:
 
-- Qual 
+- Qualquer alteração na configuração do firewall
+
+- Qualquer alteração nas listas de controle de acesso (ACL)
+
+- Qualquer alteração
