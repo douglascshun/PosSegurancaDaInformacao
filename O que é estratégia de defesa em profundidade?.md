@@ -20,4 +20,4 @@ Se uma linha de defesa for comprometida, camadas adicionais de defesa ficam a po
 
 	O principal sistema de proteção no perímetro é o firewall, um sistema de segurança de rede que monitora e controla o tráfego de entrada e saída com base em regras de segurança predeterminadas.
 
-	Podemos fazer uso das zonas demitarializadas 
+	Podemos fazer uso das zonas desmilitarizadas  (DMZ) ou controlar o acesso com Virtual Private Network (VPB, proteção de comunicações com criptografia do transporte. Uso de )
