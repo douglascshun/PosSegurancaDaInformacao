@@ -41,4 +41,7 @@ Atenção especial aos dados que são de backups e dos dados em descanso (Data -
 É o princípio de conceder aos usuários permissão para acessar apenas os sistemas e recursos de que precisam para sua função. Isso ajuda a minimizar o risco para o resto da rede se as credenciais de um usuário forem comprometidas e um usuário não autorizado tentar realizar um ataque ou acessar dados sensíveis.
 
 `Autenticação multifator (MFA)`
-Como o próprio nome sugere, reque várias formas de autenticação para verificar a identidade de um usuário ou dispositivo 
+Como o próprio nome sugere, reque várias formas de autenticação para verificar a identidade de um usuário ou dispositivo antes de permitir o acesso a uma rede ou aplicativo.
+
+`Segmentação de rede`
+Ajuda a limitar a exposição de sistemas e dados internos a forn
