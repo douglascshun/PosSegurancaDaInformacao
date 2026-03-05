@@ -6,4 +6,6 @@ A continuação da politica requer a implementação de uma prática gerenciamen
 
 	O itens que devem ser observados antes de implementar uma política de segurança
 
-- 
+- Criar declarações de política de uso 
+- Realizar uma análise de risco
+- Estabelecer uma estrutura de equipe de segurança
