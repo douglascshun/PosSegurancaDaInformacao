@@ -18,13 +18,13 @@ O IPsec é um padrão aberto como parte do pacote IPv4 e utiliza os seguintes pr
 
 - Usage os IPsec Encapsulating Security Payload (ESP) in Tunnel and Transport modes.
 
-![[Pasted image 20260305084639.png]]
+![[Encapsulating Security Payloads.png]]
 # Internet Security Association and Key Management Protocol (ISAKMP)
 
 - Modelos de operações 
 - Os Protocolos IPsec AH e ESP podem ser implementados em um modo de transporte host a host, bem como em um modeo de encapsulamento de rede.
 
-![[Pasted image 20260305084858.png]]
+![[Modelos de operacoes.png]]
 
 Uma política IPsec é um conjunto de regras que determinam qual tipo de tráfego IP precisa ser protegido usado IPsec e como proteger esse tráfego. Apenas uma política IPsec pode estar ativa em um computador ao mesmo tempo.
 
