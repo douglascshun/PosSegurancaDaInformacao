@@ -32,3 +32,5 @@ Esse aplicativo pode ser usado por administradores para verificar as políticas 
 
 # ICMP attacks
 Um ataque de DDoS de inundação do protocolo de mensagem de controle da internet (ICMP) é um atauqe comum de negação de serviço (DoS) no qual um invasor tente sobrecarregar um dispositivo de destino com solicitações de eco ICMP (ping)
+
+![[DoS por ping.png]]
