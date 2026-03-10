@@ -5,4 +5,4 @@ Controle de acesso é uma referência Á prática de permitir o acesso a uma pro
 	Na segurança da informação:
 	- Autenticação 
 	- Autorização 
-	- Auditoria (A)
+	- Auditoria (accounting)
