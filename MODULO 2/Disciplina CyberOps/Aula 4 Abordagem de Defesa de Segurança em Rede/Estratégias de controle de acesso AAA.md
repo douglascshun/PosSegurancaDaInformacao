@@ -33,3 +33,4 @@ A Autorização define quais direitos e permissões tem o usuário do sistema. A
 A auditoria (Accounting) é uma referência à coleta da informação relacionada à utilização pelos usuários, dos recursos de um sistema. Esta informação pode ser utilizada para gerenciamento, planejamento, cobrança etc..
 ![[Ex de Auditoria.png]]
 
+#
