@@ -30,4 +30,4 @@ Autentificação: Biometria, smartcard, fator duplo, PIN, Token, RFID
 
 # Autorização
 A Autorização define quais direitos e permissões tem o usuário do sistema. Após o usuário ser autenticado o processo de autorização determina o que ele pode fazer no sistema.
-A auditoria (Accounting)
+A auditoria (Accounting) é uma referência à coleta da informação relacionada à utilização pelos usuários, dos recursos de um sistema. Esta informação pode ser utilizada pa
