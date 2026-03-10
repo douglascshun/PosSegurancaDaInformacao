@@ -99,9 +99,9 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
     <summary>🔸 Disciplina CyberOps</summary>
         <ul>
       <li><details><summary>Aula 1: Arquitetura de Segurança do Linux</summary><ul><li> - </li></ul></details></li>
-      <li><details><summary>Aula 2: Aula 2 Arquitetura de Segurança do Windows</summary><ul><li> - </li></ul></details></li>
-      <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
-      <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 2: Arquitetura de Segurança do Windows</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 3: Infraestrutura de Segurança em Rede</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 4: Abordagem de Defesa de Segurança em Rede</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
