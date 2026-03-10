@@ -29,4 +29,5 @@ Autentificação: Biometria, smartcard, fator duplo, PIN, Token, RFID
 ![[Controle de Acesso RFID PINs e outros.png]] 
 
 # Autorização
-A Autorização define quais direitos e permissões tem o usuário do sistema. Após o usuário ser autenticado o processo de autentic
+A Autorização define quais direitos e permissões tem o usuário do sistema. Após o usuário ser autenticado o processo de autorização determina o que ele pode fazer no sistema.
+A auditoria (Accounting)
