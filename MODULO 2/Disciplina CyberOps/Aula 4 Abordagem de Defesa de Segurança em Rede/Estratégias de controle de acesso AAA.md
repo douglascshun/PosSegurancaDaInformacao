@@ -18,4 +18,4 @@ Autentificação: Biometria, smartcard, fator duplo, PIN, Token, RFID
 
 
 # Biometrico
-![[Pasted image 20260310112045.png]]
+![[Controle de Acessos biometricos.png]]
