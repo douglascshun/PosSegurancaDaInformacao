@@ -27,3 +27,6 @@ Autentificação: Biometria, smartcard, fator duplo, PIN, Token, RFID
 
 # Controle de Acesso RFID, PINs, e outros..
 ![[Controle de Acesso RFID PINs e outros.png]] 
+
+# Autorização
+A Autorização define quais direitos e permissões tem o usuário do sistema. Após o usuário ser autenticado o processo de autentic
