@@ -82,16 +82,16 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
   <blockquote>
     
   <details>
-    <summary>🔸 Disciplina Cyber Threat Management</summary>
+    <summary>🔹 Disciplina Cyber Threat Management</summary>
         <ul>
       <li><details><summary>Aula 1: Introdução à Cyber Threat Management</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2: Governança de Cibersegurança</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 3: Plano de gerenciamento de risco</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 4: Avaliação de vulnerabilidade</summary><ul><li> - </li></ul></details></li>
-      <li><details><summary>Aula 5:</summary><ul><li> - </li></ul></details></li>
-      <li><details><summary>Aula 6:</summary><ul><li> - </li></ul></details></li>
-      <li><details><summary>Aula 7:</summary><ul><li> - </li></ul></details></li>
-      <li><details><summary>Aula 8:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 5: Resposta e Plano de Resposta à incidentes</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 6: Investigação Forense</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 7: Métodos de recuperação de desastre</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 8: Ética, políticas e conformidade em cibersegurança</summary><ul><li> - </li></ul></details></li>
     </ul>
   </details>
 
