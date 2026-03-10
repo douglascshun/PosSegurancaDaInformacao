@@ -84,7 +84,7 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
   <details>
     <summary>🔸 Disciplina Cyber Threat Management</summary>
         <ul>
-      <li><details><summary>Aula 1:</summary><ul><li> - </li></ul></details></li>
+      <li><details><summary>Aula 1: Introdução à Cyber Threat Management</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 2:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 3:</summary><ul><li> - </li></ul></details></li>
       <li><details><summary>Aula 4:</summary><ul><li> - </li></ul></details></li>
