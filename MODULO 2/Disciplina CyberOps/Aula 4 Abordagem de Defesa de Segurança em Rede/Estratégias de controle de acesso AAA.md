@@ -25,5 +25,5 @@ Autentificação: Biometria, smartcard, fator duplo, PIN, Token, RFID
 ![[Controle de Acesso por Token.png]]
 
 
-Controle de Acesso RFID pin
-![[Pasted image 20260310112422.png]] 
+# Controle de Acesso RFID, PINs, e outros..
+![[Controle de Acesso RFID PINs e outros.png]] 
