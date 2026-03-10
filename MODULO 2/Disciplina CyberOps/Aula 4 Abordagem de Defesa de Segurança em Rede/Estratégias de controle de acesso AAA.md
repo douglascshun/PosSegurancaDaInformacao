@@ -16,4 +16,6 @@ Autentificação: Biometria, smartcard, fator duplo, PIN, Token, RFID
 
 # Exemplos de controles de Acesso:
 
+
+# Biometrico
 ![[Pasted image 20260310112045.png]]
