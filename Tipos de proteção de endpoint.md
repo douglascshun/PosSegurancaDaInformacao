@@ -68,4 +68,7 @@ Criptografa toda memória do dispositivo, impedindo o acesso aos dados sem o con
 Restringe o uso de potas USB e criptografa todos os dados armazenados em mídia removível. 
 
 - VPN de acesso remoto:
-- Oferece conectividade segura e criptografada para redes e recursos corporativos.
+Oferece conectividade segura e criptografada para redes e recursos corporativos.
+
+- Extração de ameaças:
+Usa a funcionalidade de Content Disarm and Reconstruction (CDR) para re
