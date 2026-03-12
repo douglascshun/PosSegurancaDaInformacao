@@ -21,3 +21,7 @@ Um algoritmo baseado em data encryption standard (DES ou padrão de criptografia
 Algoritmo RC2 - Simétrico
 
 Um sistema que utiliza o protocolo S/MIME
+
+	Tem uma chave de tamanho variável. Ela pode ter entre 8 e 1.1240 bitis.
+	
+	Assim, as chances de alguém conseguir decifrar um 
