@@ -10,4 +10,6 @@ A segurança de endpoint é a prática de implementar controles e soluções que
 - Dispositivos de Internet das Coisas (IoT)
 - Sistemas de Tecnologia Operacional (OT)
 
-Enpoint Detection and Response ()
+Endpoint Detection and Response (EDR):
+
+Soluções de EDR são projetadas para oferecer uma visão abrangente das 
