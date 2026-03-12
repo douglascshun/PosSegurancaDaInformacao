@@ -14,4 +14,4 @@ Processos reais nas organizações, nota-se que a maioria deles inclui operaçõ
 O monitoramento funcional é realizado com o uso de robôs para executar operações co script em um sistema. Inclusive, esse tipo de monitoramento é excelente para relatórios de gerenciamento sobre a qualidade de serviço.
 
 - Monitoramento técnico:
-O monitoramento técnico se preocupa com a inte
+O monitoramento técnico se preocupa com a integridade de equipamentos ou softwares individuais e tenta descobrir o que está errado e como consertar.
