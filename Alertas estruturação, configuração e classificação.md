@@ -12,4 +12,7 @@ Cada alerta de segurança do Defender ara Identidade inclui uma história de ale
 
 ![[Pasted image 20260312193832.png]]
 
-# Classi
+# Classificação de alerta de segurança:
+
+- TP (Verdadeiro Positivo / True Positive )
+Uma ação mal-in
