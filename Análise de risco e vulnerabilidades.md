@@ -33,4 +33,8 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 
 # Tratamento de Risco
 
-1. Priorizar os ativos da infraestrutura de TI qu 
+1. Priorizar os ativos da infraestrutura de TI que estão sob maior ameaça de ataque
+
+2. Conhecer as ameaças para utilizar ferramentas que são mais eficazes para a correão dos problemas
+ 
+3.
