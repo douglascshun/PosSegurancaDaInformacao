@@ -32,4 +32,4 @@ O monitoramento técnico se preocupa com a integridade de equipamentos ou softwa
 - É possível instrumentar os servidores especificamente para rastrear e monitorar erros de aplicativos, alguns erros são esperados, contudo, o gestor deve se preocupar se esse número começar a aumentar.
 
 	`Monitoramento de logs:`
-- É interessante
+- É interessante monitorar arquivos de log, afinal, servidores geram todos os tipos de logs de aplicativos.
