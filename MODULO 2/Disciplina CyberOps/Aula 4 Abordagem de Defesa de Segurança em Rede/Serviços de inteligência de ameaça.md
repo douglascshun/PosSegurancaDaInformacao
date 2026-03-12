@@ -42,6 +42,8 @@ Um sistema que utiliza o protocolo S/MIME
 
 A criptografia assimétrica existem duas chaves, uma pública onde qualquer individuo pode criptografar (chave pública), e a outra chave apenas o receptor possui para decriptar a mensagem (chave privada)
 
+![[MODULO 2/Disciplina CyberOps/Aula 4 Abordagem de Defesa de Segurança em Rede/Aula 4 Abordagem de Defesa de Segurança em Rede Imagens/Criptografia AssimEtrica.png]]
+
 Percebe-se que esse processo se torna ais seguro e eficaz, resolvendo assim o problema de ter uma mesma chave para as duas pontas da comunicação criptografada.
 # Algoritmo RSA - Assimétrico
 
