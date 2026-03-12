@@ -23,4 +23,7 @@ Os dados são analisados ou heurística de desenvolvidos para atender os dados, 
 Os padrões minerados são avaliados quanto à sua relevância e validade por especialistas e/ou profissionais no domínio da aplicação.
 
 - Aplicação:
-Os perfis construídos são aplicados, por exemplo, a categorias de pessoas, para te
+Os perfis construídos são aplicados, por exemplo, a categorias de pessoas, para testar e ajustar os algoritmos.
+
+- Decisão:
+A instituição decide quais ações ou políticas aplicar a grupos ou indivíduos cujo dados c
