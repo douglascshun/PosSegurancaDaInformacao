@@ -21,4 +21,8 @@ Uma ação mal-intencionada detectada pelo Defender para Identidade.
 Uma ação detectada pelo Defender para Identidade que é real, mas não mal-intencionada, como um teste de penetração ou atividade conhecida gerada por uma aplicativo aprovado.
 
 - FP (False Positive)
-Alarme falso, o que significa que a 
+Alarme falso, o que significa que a atividade não ocorreu.
+
+# Categorias de alertas de segurança
+
+- Alertas de reconhec
