@@ -3,4 +3,7 @@ Os alertas são classificados por gravidade, codificados por cor para facilitar 
 # Estrutura de alerta de segurança - Windows
 
 	gerenciar alerta - Altere o status, a atribuição e a classificação do alerta. você tambpem pode adicionar um comentario nessa sessão.
-	
+
+	Exportar - Baixar um relatório detalhado do Excel para análise 
+
+	Vincular alerta a outro incidente - Vincular um alerta a um novo incidente existente 
