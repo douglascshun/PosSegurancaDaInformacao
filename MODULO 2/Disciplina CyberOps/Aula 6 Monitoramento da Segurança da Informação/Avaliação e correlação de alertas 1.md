@@ -20,4 +20,5 @@ Usando as informações coletadas para cada etapa de um ataque, o Defender para 
 
 # Análise de segurança
 
-Inovações em tecnologias de big data e aprendizado de máquina são usadas para aproveitar os eventos de avaliaçãoem toda a malha de nuvem, detectando ameaças que seriam impossiveis de identificar usando abordagens manuais e prevendo a evolução de ataues
+Inovações em tecnologias de big data e aprendizado de máquina são usadas para aproveitar os eventos de avaliação em toda a malha de nuvem, detectando ameaças que seriam impossíveis de identificar usando abordagens manuais e prevendo a evolução de ataques.
+
