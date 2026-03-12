@@ -4,3 +4,5 @@ Cada dispositivo e aplicativo em sua rede gera logs, que podem conter dados cruc
 
 Por exemplo, os logs de eventos podem registrar alterações de configuração, movimentação de arquivos e diretórios, alterações de contas privilegiadas, etc...
 
+	O Processo de gerenciamento de análise de logs consiste basicamente em:
+-Co
