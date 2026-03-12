@@ -34,3 +34,8 @@ As soluções ATP aplicam tecnologias de segurança avançadas com base em intel
 # Extended Detection and Response (XDR):
 
 As soluções XDR melhoram a visibilidade do endpoint e a prevenção de ameaças unificando a segurança do endpoint em toda a empresa.
+
+
+# Unified Endpoint Management (UEM):
+
+As Soluções UEM destinam-se a atender o rápido cresciemtno de dispositivos remotos conectados a redes corporativas
