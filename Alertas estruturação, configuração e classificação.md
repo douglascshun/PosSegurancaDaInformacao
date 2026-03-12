@@ -17,4 +17,5 @@ Cada alerta de segurança do Defender ara Identidade inclui uma história de ale
 - TP (Verdadeiro Positivo / True Positive)
 Uma ação mal-intencionada detectada pelo Defender para Identidade.
 
-- Positivo Verdadeiro Benigno ( )
+- B-TP (Positivo Verdadeiro Benigno -Benign True Positive)
+Uma ação detectada p
