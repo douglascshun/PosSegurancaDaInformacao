@@ -52,4 +52,5 @@ Identifica e bloqueia o tráfego de comando e controle de botnet para máquinas 
 - Anti-malware:
 Identifica e corrige infecções de malware usando uma combinação de assinaturas e detecção de anomalias.
 
-- Anti-ran
+- Anti-ransomware:
+Detecta ransomware por meio de análise comportamental e detecção de operações conhecidas, como modificações nos valores do registro.
