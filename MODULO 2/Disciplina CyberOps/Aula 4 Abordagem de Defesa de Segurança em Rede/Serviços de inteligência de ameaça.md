@@ -55,6 +55,6 @@ Com 300 computadores e 7 meses de trabalho, foi possível quebrar uma chave RSA 
 
 # Outros algoritmos para criptografia assimétrica 
 
-- ElGamal: opera com logaritmos discrtos
+- ElGamal: opera com logaritmos discretos
 
-- Curva elípticas
+- Curva elípticas: Curvas elípticas sobre corpos infinitos
