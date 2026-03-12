@@ -73,4 +73,5 @@ Oferece conectividade segura e criptografada para redes e recursos corporativos.
 - Extração de ameaças:
 Usa a funcionalidade de Content Disarm and Reconstruction (CDR) para retirar conteúdo malicioso de documentos e oferecer aos usuários acesso a documentos higienizados.
 
-- Filtragem de URL
+- Filtragem de URL:
+Permite que a organização bloqueie a navegação em sites maliciosos ou não compatíveis com as políticas corporativas.
