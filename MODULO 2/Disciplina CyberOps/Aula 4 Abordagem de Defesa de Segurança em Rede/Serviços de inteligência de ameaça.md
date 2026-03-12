@@ -11,6 +11,13 @@ O ciframento simétrico de uma mensagem (processo em que m conteúdo é criptogr
 								    = Criptografia simétrica 
 		uma chave de segurança
 
+# Criptografia simétrica 
+
+Basicamente esta criptografia transforma um texto claro em texto cifrado, utilizando uma chave secreta e um algoritmo de criptografia.
+
+Utilizando a mesma chave e um algoritmo de criptografia, é possível reverter o texto cifrado para o texto claro.
+
+![[Criptografia simétrica.png]]
 
 # Algoritmo DES - Simétrico
 
@@ -26,15 +33,12 @@ Um sistema que utiliza o protocolo S/MIME
 	
 	Assim, as chances de alguém conseguir decifrar um conteúdo criptografado por meio de algortimos de força bruta diminuí consideravelmente.
 
-# Criptografia simétrica 
-
-Basicamente esta criptografia transforma um texto claro em texto cifrado, utilizando uma chave secreta e um algoritmo de criptografia.
-
-Utilizando a mesma chave e um algoritmo de criptografia, é possível reverter o texto cifrado para o texto claro.
-
-![[Criptografia simétrica.png]]
 
 
+
+
+
+# Criptogr
 # Algoritmo RSA - Assimétrico
 
 Um dos principais algoritmos que utiliza esse tipo de técnica é o RSA. 
@@ -58,3 +62,4 @@ Com 300 computadores e 7 meses de trabalho, foi possível quebrar uma chave RSA 
 - ElGamal: opera com logaritmos discretos
 
 - Curva elípticas: Curvas elípticas sobre corpos infinitos
+
