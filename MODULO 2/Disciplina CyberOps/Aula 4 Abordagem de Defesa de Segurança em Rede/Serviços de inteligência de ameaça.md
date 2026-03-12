@@ -28,4 +28,4 @@ Um sistema que utiliza o protocolo S/MIME
 
 # Criptografia simétrica e assimétrica
 
-Basicamente es
+Basicamente esta criptografia transfor
