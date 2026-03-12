@@ -8,4 +8,4 @@
 - Estabelecer implementar, operar e monitorar
 - Usando dados para analisar criticamente, manter e melhorar a segurança da informação
 
-A norma ISO 27001 ado ta o modelo PDCA (Plan-Do_c)
+A norma ISO 27001 ado ta o modelo PDCA (Plan-Do_Check-Act) para descrever a estrutura de um SGSI.
