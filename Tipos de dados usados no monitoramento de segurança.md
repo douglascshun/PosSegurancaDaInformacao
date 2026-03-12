@@ -1,3 +1,5 @@
 [[CyberOps]]
 
-Segundo Gaidargi (2019), muitas pessoas se interessem por vários tipos de monitoramento a dim de obter 
+Segundo Gaidargi (2019), muitas pessoas se interessem por vários tipos de monitoramento a fim de obter vantagens competitivas. O universo de softwares de monitoramento de servidores engloba muita coisa, afinal, servidores lidam com muitas coisas.
+
+	T
