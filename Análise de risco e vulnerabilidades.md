@@ -17,7 +17,12 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 
 # Avaliação de risco /= de avaliação de vulnerabilidades 
 
-- Avaliação de risco:
+- Avaliação de risco (do tipo STRIDE):
  Em um primeiro momento, é preciso identificar todos ativos que compõem a infraestrutura de TI, como servidores, softwares, dispositivos móveis, estações de trabalho, etc..
 
-- Avaliação de vulnerabilidades 
+-S (Spoofing of identity)
+-T
+-R
+-I
+-D
+-E
