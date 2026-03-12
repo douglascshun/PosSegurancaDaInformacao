@@ -1,4 +1,4 @@
-[[CyberOps]]
+[[Aula 4 Abordagem de Defesa de Segurança em Rede]]
 
 Controle de acesso é uma referência Á prática de permitir o acesso a uma propriedade, prédio, ou sala apenas para pessoas autorizadas.
 
