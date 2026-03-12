@@ -40,3 +40,5 @@ A instituição decide quais ações ou políticas aplicar a grupos ou indivídu
 # Aplicações 
 
 No setor financeiro, as instituições usam tecnologias de criação de perfis para prevenção de fraudes e pontuação de crédito.
+
+No contexto do emprego, os perfis podem ser úteis para rastre
