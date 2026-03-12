@@ -43,4 +43,4 @@ No setor financeiro, as instituições usam tecnologias de criação de perfis p
 
 No contexto do emprego, os perfis podem ser úteis para rastrear os funcionários, monitorando seu comportamento online, para a detecção de fraude por eles e para implantação de recursos humanos, reunindo e classificando suas habilidades.
 
-O perfil do consumidor é uma forma de análise do cliente, em que os dados do cliente são usados para tomar decisões sobre promoção de produtos, preços de produtos e publicidade personlizada
+O perfil do consumidor é uma forma de análise do cliente, em que os dados do cliente são usados para tomar decisões sobre promoção de produtos, preços de produtos e publicidade personalizada. 
