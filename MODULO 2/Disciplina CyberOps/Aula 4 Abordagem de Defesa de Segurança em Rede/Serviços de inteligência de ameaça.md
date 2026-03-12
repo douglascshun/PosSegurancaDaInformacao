@@ -43,8 +43,12 @@ Um dos principais algoritmos que utiliza esse tipo de técnica é o RSA.
 	
 	Caso o número seja bem escolhido, o tempo necessário para a quebra de uma chave pode se tornar consideravelmente grande.
 
+
+
+# Instituto Nacional de pesquisa da Holanda
+
 Em 1999, o Instituto Nacional de pesquisa da Holanda promoveu um trabalho com cientistas de 6 países.
 
 Com 300 computadores e 7 meses de trabalho, foi possível quebrar uma chave RSA com 512 bits.
 
-![[Pasted image 20260312114054.png]]
+![[Instituto Nacional de pesquisa da Holanda.png]]
