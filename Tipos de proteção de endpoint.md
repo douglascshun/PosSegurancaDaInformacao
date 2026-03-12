@@ -15,4 +15,7 @@ A segurança de endpoint é a prática de implementar controles e soluções que
 
 Soluções de EDR são projetadas para oferecer uma visão abrangente das ameaças de segurança ao endpoint.
 
-# Endpoint ProtectionPlataform
+
+# Endpoint Protection Platform (EPP):
+
+As soluções EPP são projetadas para atuar como uma primeira linha de defesa para os endpoints de uma organiza
