@@ -16,4 +16,4 @@ Por exemplo, os logs de eventos podem registrar alterações de configuração, 
 
 # Algumas ferramentas para analise de logs:
 
-- Event Viewer 
+- Event Viewer é um componente dos sistema operacional Windows da Microsoft que permite aos administradores e usuários visualizar os logs de eventos em uma ma 
