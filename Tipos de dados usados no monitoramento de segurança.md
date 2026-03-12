@@ -25,4 +25,6 @@ O monitoramento técnico se preocupa com a integridade de equipamentos ou softwa
 	`Monitoramento de desempenho do site:
 - Usa biblioteca JavaScript pode não aparecer, tornando a pagina semi-funcional 
 
-	Monitoramento de recursos:
+	`Monitoramento de recursos:
+- Monitora todos os tipos de aspectos de desempenho das operações do servidor.
+
