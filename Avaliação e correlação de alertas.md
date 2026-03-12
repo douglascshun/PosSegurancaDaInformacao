@@ -6,5 +6,6 @@ A correlação analisa diferentes sinais em todos os recursos e combina conhecim
 
 Usando as informações coletadas para cada etapa de um ataque, o Defender para Nuvem também pode eliminar uma atividade que parece uma das etapas de um ataque mas, na verdade não é.
 
-	Como o Defender para Nuvem detecta ameaças?
+# Como o Defender para Nuvem detecta ameaças?
+
 ![[Pasted image 20260312204615.png]]
