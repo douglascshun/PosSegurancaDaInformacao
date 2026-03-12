@@ -17,3 +17,7 @@ Usando as informações coletadas para cada etapa de um ataque, o Defender para 
 - Monitoramento de Inteligência contra ameaças
 - Compartilhamento de sinal 
 - Ajuste de detecção
+
+# Análise de segurança
+
+Inovações em tecnologias de big data e aprendizado de máquina são usadas para aproveitar os eventos de avaliaçãoem todas
