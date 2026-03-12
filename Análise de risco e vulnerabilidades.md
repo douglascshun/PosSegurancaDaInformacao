@@ -36,5 +36,5 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 1. Priorizar os ativos da infraestrutura de TI que estão sob maior ameaça de ataque
 
 2. Conhecer as ameaças para utilizar ferramentas que são mais eficazes para a correão dos problemas
- 
-3.
+
+3. Realizar testes de invasão, que são capazes de identificar qualquer falha que possa não ter sido encontrada durante as outras etapas do processo
