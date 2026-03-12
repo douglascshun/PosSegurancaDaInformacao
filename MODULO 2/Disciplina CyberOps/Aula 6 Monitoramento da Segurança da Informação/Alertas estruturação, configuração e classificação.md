@@ -10,7 +10,7 @@ Os alertas são classificados por gravidade, codificados por cor para facilitar 
 
 Cada alerta de segurança do Defender ara Identidade inclui uma história de alerta.
 
-![[Pasted image 20260312193832.png]]
+![[Alertas no Defender.png]]
 
 # Classificação de alerta de segurança:
 
