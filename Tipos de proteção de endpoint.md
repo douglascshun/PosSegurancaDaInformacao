@@ -64,5 +64,5 @@ Inspeciona o tráfego de rede que entra e sai do endpoint e aplica políticas de
 - Criptografia de disco completo:
 Criptografa toda memória do dispositivo, impedindo o acesso aos dados sem o conhecimento das credenciais do usuário.
 
-- Proteção de mídia removpivel:
-- 
+- Proteção de mídia removível:
+Restringe o uso de potas USB e criptografa todos os dados armazenados em mídia removível. 
