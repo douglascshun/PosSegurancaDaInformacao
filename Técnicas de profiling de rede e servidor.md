@@ -21,3 +21,6 @@ Os dados são analisados ou heurística de desenvolvidos para atender os dados, 
 
 - Interpretação:
 Os padrões minerados são avaliados quanto à sua relevância e validade por especialistas e/ou profissionais no domínio da aplicação.
+
+- Aplicação:
+Os perfis construídos são aplicados, por exemplo, a categorias de pessoas, para te
