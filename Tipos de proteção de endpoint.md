@@ -71,4 +71,6 @@ Restringe o uso de potas USB e criptografa todos os dados armazenados em mídia 
 Oferece conectividade segura e criptografada para redes e recursos corporativos.
 
 - Extração de ameaças:
-Usa a funcionalidade de Content Disarm and Reconstruction (CDR) para re
+Usa a funcionalidade de Content Disarm and Reconstruction (CDR) para retirar conteúdo malicioso de documentos e oferecer aos usuários acesso a documentos higienizados.
+
+- Filtragem de URL
