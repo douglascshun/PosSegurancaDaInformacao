@@ -12,4 +12,8 @@ Usando as informações coletadas para cada etapa de um ataque, o Defender para 
 
 # Iniciativas da Microsoft e boas práticas
 
-- Especialistas de Seguran
+- Especialistas de Segurança
+- Pesquisa de Segurança
+- Monitoramento de Inteligência contra ameaças
+- Compartilhamento de sinal 
+- Ajuste de detecção
