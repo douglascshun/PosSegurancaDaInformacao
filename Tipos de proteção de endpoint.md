@@ -47,4 +47,6 @@ As Soluções UEM destinam-se a atender o rápido crescimento de dispositivos re
 # Componentes de segurança de endpoint
 
 - Anti-bot
-Identifica e bloqueia o tráfego de c
+Identifica e bloqueia o tráfego de comando e controle de botnet para máquinas infectadas e oferece visibilidade do malware.
+
+- Anti-malware
