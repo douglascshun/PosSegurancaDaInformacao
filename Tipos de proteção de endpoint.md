@@ -42,3 +42,9 @@ As Soluções UEM destinam-se a atender o rápido crescimento de dispositivos re
 
 
 
+--- 
+
+# Componentes de segurança de endpoint
+
+- Anti-bot
+Identifica e bloqueia o tráfego de c
