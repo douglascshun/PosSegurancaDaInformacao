@@ -7,6 +7,6 @@ Os algoritmos de criptografia são indispensáveis para quem procura impedir o a
 
 O ciframento simétrico de uma mensagem (processo em que m conteúdo é criptografado) é baseado em 2 componentes:
 
-Um algoritmo
-						        = C
-uma chave de segurança
+		Um algoritmo
+								    = Criptografia simétrica 
+		uma chave de segurança
