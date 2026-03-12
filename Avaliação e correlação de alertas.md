@@ -1,3 +1,5 @@
 [[Aula 6 Monitoramento da Segurança da Informação]]
 
-O Defeder para Nuvem atribui uma gravidade aos alertas para ajudar a priorizar como você deve tratar cada alerta. A gravidade é baseada na confiança do Defender para a nuvem em relação ao seguinte:
+O Defeder para Nuvem atribui uma gravidade aos alertas para ajudar a priorizar como você deve tratar cada alerta. 
+
+A correlação analisa diferentes sinais em todos os recursos e o=
