@@ -11,3 +11,4 @@ Na ciência da informação, o perfil refere-se ao processo de construção de p
 O processo de criação de perfil começa com uma especificação do domínio do problema aplicável e a identificação dos objetivos de análise.
 
 - Coleta dos Dados:
+O conjunto de dados destino ou banco de dados para analise é formado pela seeçãp dos dados relevantes à liu=
