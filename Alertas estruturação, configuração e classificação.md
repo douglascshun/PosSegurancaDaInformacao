@@ -25,4 +25,8 @@ Alarme falso, o que significa que a atividade não ocorreu.
 
 # Categorias de alertas de segurança
 
-- Alertas de reconhec
+- Alertas de reconhecimento 
+- Alerta de credencial comprometida
+- Alerta de movimento lateral 
+- Alertas de predominância de domínio 
+- Alertas de exfiltração
