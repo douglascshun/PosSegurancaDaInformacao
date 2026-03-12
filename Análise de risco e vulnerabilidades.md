@@ -4,4 +4,5 @@ A analise de vulnerabilidades pode ser definida como o processo de avaliação e
 
 Ou seja, são brechas na segurança que podem facilitar o ataque de cibercriminosos.
 
-asad
+	 A análise de vulnerabilidades possui um papel essencial para reduzir os impactos de falhas na segurança da infomração. O objetivo é trazer benefícios como:
+	 
