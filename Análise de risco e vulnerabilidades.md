@@ -12,4 +12,5 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 - Otimizar investimentos em infraestrutura
 - Aumentar a conformidade com a LGPD
 - Possibilitar o alinhamento às normas de compliance
-- Acompanhar a evoluçãp da seguranç
+- Acompanhar a evolução da segurança da informação
+- Melhorar o desempenho e funcionalidade de redes sistemas, servidores e programas
