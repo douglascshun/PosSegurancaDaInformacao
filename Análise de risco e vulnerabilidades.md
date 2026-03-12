@@ -20,9 +20,9 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 - Avaliação de risco (do tipo STRIDE):
  Em um primeiro momento, é preciso identificar todos ativos que compõem a infraestrutura de TI, como servidores, softwares, dispositivos móveis, estações de trabalho, etc..
 
--S (Spoofing of identity)
--T
--R
--I
--D
--E
+- S (Spoofing of identity): Roubo de identidade ou falsificação
+- T (Tampering with data): Violação ou adulteração de dados
+- R (Repudiation of tr)
+-  I
+- D
+- E
