@@ -20,6 +20,9 @@ Soluções de EDR são projetadas para oferecer uma visão abrangente das ameaç
 
 As soluções EPP são projetadas para atuar como uma primeira linha de defesa para os endpoints de uma organização.
 
+
 # Mobile Threat Defense (MTD):
 
-As soluções MTD fornecem recursos de segurança de endpoint
+As soluções MTD fornecem recursos de segurança de endpoint direcionados a dispositivos móveis e às ameaças exclusivas que eles enfrentam.
+
+# Advanced Threat Protection (APT)
