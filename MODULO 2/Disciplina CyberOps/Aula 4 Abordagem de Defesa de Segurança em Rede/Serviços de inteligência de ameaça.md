@@ -41,4 +41,6 @@ Um dos principais algoritmos que utiliza esse tipo de técnica é o RSA.
 
 	Ele é baseado na multiplicação de números primos de grande escala para geração de uma chave pública.
 	
-	Caso o número seja bem escolhido, o tempo necessário para a quebra de uma chave pode se 
+	Caso o número seja bem escolhido, o tempo necessário para a quebra de uma chave pode se tornar consideravelmente grande.
+
+Em 1999, o Ins
