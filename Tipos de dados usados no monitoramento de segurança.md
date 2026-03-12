@@ -22,5 +22,7 @@ O monitoramento técnico se preocupa com a integridade de equipamentos ou softwa
 	 Tempo de atividade / Monitoramento de disponibilidade:
 - Analisa periodicamente o servidor para ver se ele está ligado
 
-	Monitoramento de desempenho do site:
-- Usa biblioteca JavaScript pode não aparecer, tor
+	`Monitoramento de desempenho do site:
+- Usa biblioteca JavaScript pode não aparecer, tornando a pagina semi-funcional 
+
+	Monitoramento de recursos:
