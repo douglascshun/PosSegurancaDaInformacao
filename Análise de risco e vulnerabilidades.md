@@ -14,3 +14,7 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 - Possibilitar o alinhamento às normas de compliance
 - Acompanhar a evolução da segurança da informação
 - Melhorar o desempenho e funcionalidade de redes sistemas, servidores e programas
+
+# Avaliação de risco /= de avaliação de vulnerabilidades 
+
+- Avaliaç
