@@ -29,3 +29,6 @@ As soluções MTD fornecem recursos de segurança de endpoint direcionados a dis
 # Advanced Threat Protection (ATP):
 
 As soluções ATP aplicam tecnologias de segurança avançadas com base em inteligia artificial (IA) e aprendizado de maquina (ML) para identificar e prevenir ameaças sofisticadas de segurança de endpoint.
+
+
+# Extended Detection and Response (XDR):
