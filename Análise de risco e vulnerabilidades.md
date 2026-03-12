@@ -10,3 +10,6 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 - Garantir maio proteção aos ativos empresariais
 - Aumentar a disponibilidade do negócio 
 - Otimizar investimentos em infraestrutura
+- Aumentar a conformidade com a LGPD
+- Possibilitar o alinhamento às normas de compliance
+- Acompanhar a evoluçãp da seguranç
