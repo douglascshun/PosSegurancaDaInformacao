@@ -29,4 +29,5 @@ Os perfis construídos são aplicados, por exemplo, a categorias de pessoas, par
 A instituição decide quais ações ou políticas aplicar a grupos ou indivíduos cujo dados correspondam a um perfil relevante.
 
 # Técnicas de criação de perfil:
-''
+
+`Aprendizagem supervisionada e não supervisionada`: 
