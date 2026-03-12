@@ -30,4 +30,6 @@ A instituição decide quais ações ou políticas aplicar a grupos ou indivídu
 
 # Técnicas de criação de perfil:
 
-`Aprendizagem supervisionada e não supervisionada`: 
+`Aprendizagem supervisionada e não supervisionada`: Os perfis podem ser classificados de acordo com a forma como foram gerados.
+
+`Perfis individuais e de grupo`: Os perfis também devem ser classificados de acordo como 
