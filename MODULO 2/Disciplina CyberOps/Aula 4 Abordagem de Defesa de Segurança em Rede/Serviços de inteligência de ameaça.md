@@ -29,4 +29,6 @@ Um sistema que utiliza o protocolo S/MIME
 # Criptografia simétrica e assimétrica
 
 Basicamente esta criptografia transforma um texto claro em texto cifrado, utilizando uma chave secreta e um algoritmo de criptografia.
-Utilizando a mesma chave e um algoritmo de criptografia, é possível 
+Utilizando a mesma chave e um algoritmo de criptografia, é possível reverter o texto cifrado para o texto claro.
+
+![[Pasted image 20260312113511.png]]
