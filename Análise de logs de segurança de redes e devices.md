@@ -20,4 +20,4 @@ Por exemplo, os logs de eventos podem registrar alterações de configuração, 
 É um componente dos sistema operacional Windows da Microsoft que permite aos administradores e usuários visualizar os logs de eventos em uma máquina local ou remota. 
 ![[Pasted image 20260312192504.png]]
 
-- Syslog 
+- Syslog é o sistema de registro de eventos em sistemas Linux, seu objetivo é armazenar mensagens de eventos ocorridos no sistema, permitindo ao administrador localizar possíveis falhas ou tentativas de invasão no sistema.
