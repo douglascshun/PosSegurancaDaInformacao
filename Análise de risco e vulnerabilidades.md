@@ -25,4 +25,4 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 - R (Repudiation of transaction):   Repúdio de transação
 -  I (Information disclosure):           Divulgação não autorizada de informações
 - D (Denial of Service):                      Ataques de negação de serviço 
-- E (Elevation of privilege): Elevação de privolégio
+- E (Elevation of privilege):              Elevação de privilégio
