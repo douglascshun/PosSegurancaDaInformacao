@@ -7,3 +7,5 @@ Os alertas são classificados por gravidade, codificados por cor para facilitar 
 	Exportar - Baixar um relatório detalhado do Excel para análise 
 
 	Vincular alerta a outro incidente - Vincular um alerta a um novo incidente existente 
+
+Cada alerta de segurança do Defender ara Identidade inclui uma história de alerta.
