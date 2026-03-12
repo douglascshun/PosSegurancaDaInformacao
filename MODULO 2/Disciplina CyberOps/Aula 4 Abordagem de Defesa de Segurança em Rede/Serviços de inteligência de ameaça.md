@@ -52,3 +52,9 @@ Em 1999, o Instituto Nacional de pesquisa da Holanda promoveu um trabalho com ci
 Com 300 computadores e 7 meses de trabalho, foi possível quebrar uma chave RSA com 512 bits.
 
 ![[Instituto Nacional de pesquisa da Holanda.png]]
+
+# Outros algoritmos para criptografia assimétrica 
+
+- ElGamal: opera com logaritmos discrtos
+
+- Curva elípticas
