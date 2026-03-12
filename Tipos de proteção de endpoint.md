@@ -56,4 +56,7 @@ Identifica e corrige infecções de malware usando uma combinação de assinatur
 Detecta ransomware por meio de análise comportamental e detecção de operações conhecidas, como modificações nos valores do registro.
 
 - Gerenciamento de conformidade
-Impõe políticas de conformidade coportiva, como garantir que as ferramentas de segurança estejam operacionais e restringir o software que pode ser executado 
+Impõe políticas de conformidade corporativa, como garantir que as ferramentas de segurança estejam operacionais e restringir o software que pode ser executado no sistema.
+
+- Firewall:
+Insoeciona o tráfego de rede qu entra e sai do endpoint e aplica políticas de segurança específicas do aplicativo 
