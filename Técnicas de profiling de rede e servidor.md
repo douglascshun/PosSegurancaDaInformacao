@@ -34,4 +34,5 @@ A instituição decide quais ações ou políticas aplicar a grupos ou indivídu
 
 `Perfis individuais e de grupo`: Os perfis também devem ser classificados de acordo como tipo de assinto a que se referem.
 
-`Perfis distributivos e não distributivo`: os perfis de grupo também podem ser divididos em termos d
+`Perfis distributivos e não distributivo`: os perfis de grupo também podem ser divididos em termos de seu caráter distributivo.
+
