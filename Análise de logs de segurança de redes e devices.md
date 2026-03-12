@@ -12,3 +12,6 @@ Por exemplo, os logs de eventos podem registrar alterações de configuração, 
 	- Armazenar
 	
 
+![[Tratamento dos logs.png]]
+
+# A
