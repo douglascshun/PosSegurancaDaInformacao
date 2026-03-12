@@ -18,4 +18,4 @@ Cada alerta de segurança do Defender ara Identidade inclui uma história de ale
 Uma ação mal-intencionada detectada pelo Defender para Identidade.
 
 - B-TP (Positivo Verdadeiro Benigno -Benign True Positive)
-Uma ação detectada p
+Uma ação detectada pelo Defender para Identidade que é real, mas não mal-intencionada, como um teste de penetração ou atividade conhecida gerada por uma aplicativo aprovado.
