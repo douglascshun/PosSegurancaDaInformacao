@@ -25,4 +25,7 @@ As soluções EPP são projetadas para atuar como uma primeira linha de defesa p
 
 As soluções MTD fornecem recursos de segurança de endpoint direcionados a dispositivos móveis e às ameaças exclusivas que eles enfrentam.
 
-# Advanced Threat Protection (APT)
+
+# Advanced Threat Protection (ATP):
+
+As soluções ATP aplicam tecnologias de segurança avançadas com base em inteligia artifical 
