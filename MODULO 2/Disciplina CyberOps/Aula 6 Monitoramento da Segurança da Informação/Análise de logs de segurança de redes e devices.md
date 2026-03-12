@@ -31,3 +31,7 @@ Localizado no sistema de arquivos do Linux
 - Azure:
 Arquitetura de Log com a plataforma Azure.
 ![[logs no azure.png]]
+
+- AWS
+View de logs com a plataforma AWS
+![[Pasted image 20260312193116.png]]
