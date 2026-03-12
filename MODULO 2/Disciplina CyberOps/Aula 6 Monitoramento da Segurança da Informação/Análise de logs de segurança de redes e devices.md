@@ -1,4 +1,4 @@
-[[CyberOps]]
+[[Aula 6 Monitoramento da Segurança da Informação]]
 
 Cada dispositivo e aplicativo em sua rede gera logs, que podem conter dados cruciais de integridade e segurança da sua organização.
 

@@ -1,3 +1,4 @@
+[[Aula 6 Monitoramento da Segurança da Informação]]
 Os alertas são classificados por gravidade, codificados por cor para facilitar a filtragem visual e organizados por fase de ameaça.
 
 # Estrutura de alerta de segurança - Windows
