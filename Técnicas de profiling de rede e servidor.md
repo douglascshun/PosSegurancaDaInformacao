@@ -32,4 +32,6 @@ A instituição decide quais ações ou políticas aplicar a grupos ou indivídu
 
 `Aprendizagem supervisionada e não supervisionada`: Os perfis podem ser classificados de acordo com a forma como foram gerados.
 
-`Perfis individuais e de grupo`: Os perfis também devem ser classificados de acordo como 
+`Perfis individuais e de grupo`: Os perfis também devem ser classificados de acordo como tipo de assinto a que se referem.
+
+`Perfis distributivos e não distributivo`: os perfis de grupo também podem ser divididos em termos d
