@@ -17,4 +17,7 @@ O monitoramento funcional é realizado com o uso de robôs para executar operaç
 O monitoramento técnico se preocupa com a integridade de equipamentos ou softwares individuais e tenta descobrir o que está errado e como consertar.
 
 
-# Tipos de software 
+# Tipos de softwares / dados de monitoramento
+
+	Tempo de atividade / Monitoramento de disponibilidade:
+	Analisa periodicamente 
