@@ -20,9 +20,14 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 - Avaliação de risco (do tipo STRIDE):
  Em um primeiro momento, é preciso identificar todos ativos que compõem a infraestrutura de TI, como servidores, softwares, dispositivos móveis, estações de trabalho, etc..
 
+
+
+	Avaliação de vuknerabilidaes do tipo STRIDE
 - S (Spoofing of identity):                 Roubo de identidade ou falsificação
 - T (Tampering with data):               Violação ou adulteração de dados
 - R (Repudiation of transaction):   Repúdio de transação
 -  I (Information disclosure):           Divulgação não autorizada de informações
 - D (Denial of Service):                      Ataques de negação de serviço 
 - E (Elevation of privilege):              Elevação de privilégio
+
+
