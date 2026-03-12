@@ -10,3 +10,6 @@ O ciframento simétrico de uma mensagem (processo em que m conteúdo é criptogr
 		Um algoritmo
 								    = Criptografia simétrica 
 		uma chave de segurança
+
+
+# Algoritmo DES - S
