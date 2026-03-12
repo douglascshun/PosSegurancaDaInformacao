@@ -18,4 +18,8 @@ Soluções de EDR são projetadas para oferecer uma visão abrangente das ameaç
 
 # Endpoint Protection Platform (EPP):
 
-As soluções EPP são projetadas para atuar como uma primeira linha de defesa para os endpoints de uma organiza
+As soluções EPP são projetadas para atuar como uma primeira linha de defesa para os endpoints de uma organização.
+
+# Mobile Threat Defense (MTD):
+
+As soluções MTD fornecem recursos de segurança de endpoint
