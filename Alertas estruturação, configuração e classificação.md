@@ -1,0 +1,1 @@
+Os alertas são classificados por gravidade, codificados por cor para facilitar a filtragem visual e o
