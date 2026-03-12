@@ -11,4 +11,7 @@ Segundo Gaidargi (2019), muitas pessoas se interessem por vários tipos de monit
 Processos reais nas organizações, nota-se que a maioria deles inclui operações realizadas por seres humanos, e não por maquinas.
 
 - Monitoramento funcional:
-O monitoramento funcional é realizado com o uso de robôs para executar operações co script em um sistema. Inclusive, esse tipo de monitoramento é excelente para relatórios de gerenciamento sobre a qualid 
+O monitoramento funcional é realizado com o uso de robôs para executar operações co script em um sistema. Inclusive, esse tipo de monitoramento é excelente para relatórios de gerenciamento sobre a qualidade de serviço.
+
+- Monitoramento técnico:
+O monitoramento técnico se preocupa com a inte
