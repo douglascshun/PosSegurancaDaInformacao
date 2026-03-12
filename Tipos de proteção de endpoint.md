@@ -4,4 +4,8 @@ A segurança de endpoint é a prática de implementar controles e soluções que
 
 # Tipos de dispositivos de endpoints:
 
-- Hardware de rede (roteadores, switches)
+- Hardware de rede (roteadores, switches, etc..)
+- Infraestrutura de novem
+- Dispositivos móveis
+- Dispositivos de Internet das Coisas (IoT)
+- Sistemas de Técnologia Operacional (OT)
