@@ -12,4 +12,6 @@ O ciframento simétrico de uma mensagem (processo em que m conteúdo é criptogr
 		uma chave de segurança
 
 
-# Algoritmo DES - S
+# Algoritmo DES - Simétrico
+
+Um algoritmo baseado em data encryption standard (DES ou padrão de criptografia de dados em tradução livre)
