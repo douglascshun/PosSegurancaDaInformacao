@@ -14,4 +14,6 @@ Por exemplo, os logs de eventos podem registrar alterações de configuração, 
 
 ![[Tratamento dos logs.png]]
 
-# A
+# Algumas ferramentas para analise de logs:
+
+- Event Viewer 
