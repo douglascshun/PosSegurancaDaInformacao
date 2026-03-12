@@ -6,4 +6,6 @@
 - Estratégias, planos, politicas
 - Medidas, controles e diversos instrumentos 
 - Estabelecer implementar, operar e monitorar
-- Usando dados para anlisar criticame
+- Usando dados para analisar criticamente, manter e melhorar a segurança da informação
+
+A norma ISO 27001 ado ta o modelo PDCA (Plan-Do_c)
