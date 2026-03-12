@@ -59,4 +59,7 @@ Detecta ransomware por meio de análise comportamental e detecção de operaçõ
 Impõe políticas de conformidade corporativa, como garantir que as ferramentas de segurança estejam operacionais e restringir o software que pode ser executado no sistema.
 
 - Firewall:
-Insoeciona o tráfego de rede qu entra e sai do endpoint e aplica políticas de segurança específicas do aplicativo 
+Inspeciona o tráfego de rede que entra e sai do endpoint e aplica políticas de segurança específicas do aplicativo.
+
+- Criptografia de disco completo:
+Criptografa 
