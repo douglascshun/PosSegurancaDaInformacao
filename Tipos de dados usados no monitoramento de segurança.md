@@ -19,5 +19,8 @@ O monitoramento técnico se preocupa com a integridade de equipamentos ou softwa
 
 # Tipos de softwares / dados de monitoramento
 
-	Tempo de atividade / Monitoramento de disponibilidade:
-	Analisa periodicamente 
+	 Tempo de atividade / Monitoramento de disponibilidade:
+- Analisa periodicamente o servidor para ver se ele está ligado
+
+	Monitoramento de desempenho do site:
+- Usa biblioteca JavaScript pode não aparecer, tor
