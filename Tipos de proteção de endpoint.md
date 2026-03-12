@@ -49,4 +49,7 @@ As Soluções UEM destinam-se a atender o rápido crescimento de dispositivos re
 - Anti-bot
 Identifica e bloqueia o tráfego de comando e controle de botnet para máquinas infectadas e oferece visibilidade do malware.
 
-- Anti-malware
+- Anti-malware:
+Identifica e corrige infecções de malware usando uma combinação de assinaturas e detecção de anomalias.
+
+- Anti-ran
