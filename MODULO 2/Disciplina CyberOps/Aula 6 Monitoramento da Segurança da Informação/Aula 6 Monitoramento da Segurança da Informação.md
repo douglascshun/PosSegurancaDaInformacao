@@ -1,3 +1,4 @@
+[[CyberOps]]
 **Introdução**
 
 O módulo em questão foi dividido em cinco temas que abordam desde a natureza dos dados usados em monitoramento de segurança, passando por análise e alertas de logs, finalizando com o entendimento de como funciona um network security monitoring. Vale destacar que no tópico sobre alertas foram apresentados conceitos e práticas muito significativos no tocante a estruturação, configuração e classificação de alertas. Assim, todo conhecimento oferecido neste módulo tem aplicabilidade em muitas ações de cyberops e segurança da informação.
