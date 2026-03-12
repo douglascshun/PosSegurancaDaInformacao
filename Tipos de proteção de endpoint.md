@@ -8,4 +8,5 @@ A segurança de endpoint é a prática de implementar controles e soluções que
 - Infraestrutura de novem
 - Dispositivos móveis
 - Dispositivos de Internet das Coisas (IoT)
-- Sistemas de Técnologia Operacional (OT)
+- Sistemas de Tecnologia Operacional (OT)
+
