@@ -41,4 +41,4 @@ A instituição decide quais ações ou políticas aplicar a grupos ou indivídu
 
 No setor financeiro, as instituições usam tecnologias de criação de perfis para prevenção de fraudes e pontuação de crédito.
 
-No contexto do emprego, os perfis podem ser úteis para rastre
+No contexto do emprego, os perfis podem ser úteis para rastrear os funcionários, monitorando seu comportamento online, para a detecção de fraude por eles e para implantação de recursos humanos, reunindo e classificando suas habilidades.
