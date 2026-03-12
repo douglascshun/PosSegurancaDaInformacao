@@ -17,4 +17,6 @@ O conjunto de dados destino ou banco de dados para analise é formado pela sele�
 Os dados são pré-processados para remover o ruido e reduzir a complexidade pela eliminação de atributos.
 
 - Mineração de dados:
-Os 
+Os dados são analisados ou heurística de desenvolvidos para atender os dados, modelos e objetivos.
+
+- I
