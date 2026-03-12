@@ -43,4 +43,6 @@ Um dos principais algoritmos que utiliza esse tipo de técnica é o RSA.
 	
 	Caso o número seja bem escolhido, o tempo necessário para a quebra de uma chave pode se tornar consideravelmente grande.
 
-Em 1999, o Ins
+Em 1999, o Instituto Nacional da Holanda promoveu um trabalho com cientistas de 6 países.
+
+Com 300 computadores e 7 meses de trabalho, foi possível quebrar uma chave
