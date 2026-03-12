@@ -7,3 +7,5 @@ Segundo Gaidargi (2019), muitas pessoas se interessem por vários tipos de monit
 	- Monitoramento funcional 
 	- Monitoramento de processos de negócios
 
+- Monitoramento de processos de negócios:
+Processos reais nas organizações, nota-se que a maioria
