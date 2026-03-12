@@ -39,4 +39,6 @@ Utilizando a mesma chave e um algoritmo de criptografia, é possível reverter o
 
 Um dos principais algoritmos que utiliza esse tipo de técnica é o RSA. 
 
-	Ele é baseado na multiplicação de números primos de 
+	Ele é baseado na multiplicação de números primos de grande escala para geração de uma chave pública.
+	
+	Caso o número seja bem escolhido, o tempo necessário para a quebra de uma chave pode se 
