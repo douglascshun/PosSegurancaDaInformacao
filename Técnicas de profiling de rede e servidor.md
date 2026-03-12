@@ -12,3 +12,6 @@ O processo de criação de perfil começa com uma especificação do domínio do
 
 - Coleta dos Dados:
 O conjunto de dados destino ou banco de dados para analise é formado pela seleção dos dados relevantes à luz do conhecimento de domínio existentes e compreensão dos dados.
+
+- Preparação de dados:
+Os dados são pré-processados para remover o ruido e reduzir a complexidade pela elim
