@@ -8,4 +8,8 @@ Usando as informações coletadas para cada etapa de um ataque, o Defender para 
 
 # Como o Defender para Nuvem detecta ameaças?
 
-![[Pasted image 20260312204615.png]]
+![[Defender na Nuvem.png]]
+
+# Iniciativas da Microsoft e boas práticas
+
+- Especialistas de Seguran
