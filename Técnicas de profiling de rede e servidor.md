@@ -28,6 +28,7 @@ Os perfis construídos são aplicados, por exemplo, a categorias de pessoas, par
 - Decisão:
 A instituição decide quais ações ou políticas aplicar a grupos ou indivíduos cujo dados correspondam a um perfil relevante.
 
+
 # Técnicas de criação de perfil:
 
 `Aprendizagem supervisionada e não supervisionada`: Os perfis podem ser classificados de acordo com a forma como foram gerados.
@@ -36,3 +37,6 @@ A instituição decide quais ações ou políticas aplicar a grupos ou indivídu
 
 `Perfis distributivos e não distributivo`: os perfis de grupo também podem ser divididos em termos de seu caráter distributivo.
 
+# Aplicações 
+
+No setor financeiro, as instituições usam tecnologias de criação de perfis para prevenção de fraudes e pontuação de crédito.
