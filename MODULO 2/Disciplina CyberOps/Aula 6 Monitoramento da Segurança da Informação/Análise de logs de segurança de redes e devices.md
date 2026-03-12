@@ -34,4 +34,4 @@ Arquitetura de Log com a plataforma Azure.
 
 - AWS
 View de logs com a plataforma AWS
-![[Pasted image 20260312193116.png]]
+![[logs AWS.png]]
