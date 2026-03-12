@@ -40,7 +40,7 @@ Um sistema que utiliza o protocolo S/MIME
 
 # Criptografia Assimétrica 
 
-A criptografia assimétrica existem duas chaves, uma pública onde qualquer individuo pode criptografar 
+A criptografia assimétrica existem duas chaves, uma pública onde qualquer individuo pode criptografar (chave pública), e a outra chave 
 # Algoritmo RSA - Assimétrico
 
 Um dos principais algoritmos que utiliza esse tipo de técnica é o RSA. 
