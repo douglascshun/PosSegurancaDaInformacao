@@ -17,3 +17,7 @@ O ciframento simétrico de uma mensagem (processo em que m conteúdo é criptogr
 Um algoritmo baseado em data encryption standard (DES ou padrão de criptografia de dados em tradução livre)
 
 	Tem 56 bits, o que permite a criação de 72 quadrilhões de chaves diferentes.
+
+Algoritmo RC2 - Simétrico
+
+Um sistema que utiliza o protocolo S/MIME
