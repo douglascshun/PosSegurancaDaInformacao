@@ -38,4 +38,7 @@ As soluções XDR melhoram a visibilidade do endpoint e a prevenção de ameaça
 
 # Unified Endpoint Management (UEM):
 
-As Soluções UEM destinam-se a atender o rápido cresciemtno de dispositivos remotos conectados a redes corporativas
+As Soluções UEM destinam-se a atender o rápido crescimento de dispositivos remotos conectados a redes corporativas.
+
+
+
