@@ -18,7 +18,7 @@ Um algoritmo baseado em data encryption standard (DES ou padrão de criptografia
 
 	Tem 56 bits, o que permite a criação de 72 quadrilhões de chaves diferentes.
 
-Algoritmo RC2 - Simétrico
+# Algoritmo RC2 - Simétrico
 
 Um sistema que utiliza o protocolo S/MIME
 
@@ -26,9 +26,13 @@ Um sistema que utiliza o protocolo S/MIME
 	
 	Assim, as chances de alguém conseguir decifrar um conteúdo criptografado por meio de algortimos de força bruta diminuí consideravelmente.
 
-# Criptografia simétrica e assimétrica
+# Criptografia simétrica 
 
 Basicamente esta criptografia transforma um texto claro em texto cifrado, utilizando uma chave secreta e um algoritmo de criptografia.
+
 Utilizando a mesma chave e um algoritmo de criptografia, é possível reverter o texto cifrado para o texto claro.
 
-![[Pasted image 20260312113511.png]]
+![[Criptografia simétrica.png]]
+
+
+# Alg
