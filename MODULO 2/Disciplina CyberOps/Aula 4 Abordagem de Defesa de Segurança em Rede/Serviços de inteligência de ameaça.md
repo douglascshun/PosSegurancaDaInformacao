@@ -35,4 +35,8 @@ Utilizando a mesma chave e um algoritmo de criptografia, é possível reverter o
 ![[Criptografia simétrica.png]]
 
 
-# Alg
+# Algoritmo RSA - Assimétrico
+
+Um dos principais algoritmos que utiliza esse tipo de técnica é o RSA. 
+
+	Ele é baseado na multiplicação de números primos de 
