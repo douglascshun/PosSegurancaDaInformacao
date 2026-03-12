@@ -62,4 +62,7 @@ Impõe políticas de conformidade corporativa, como garantir que as ferramentas 
 Inspeciona o tráfego de rede que entra e sai do endpoint e aplica políticas de segurança específicas do aplicativo.
 
 - Criptografia de disco completo:
-Criptografa 
+Criptografa toda memória do dispositivo, impedindo o acesso aos dados sem o conhecimento das credenciais do usuário.
+
+- Proteção de mídia removpivel:
+- 
