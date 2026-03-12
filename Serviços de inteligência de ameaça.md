@@ -4,3 +4,5 @@ Os algoritmos de criptografia são indispensáveis para quem procura impedir o a
 	Essa verificação pode ser por
 	- Chave Simétrica
 	- Chavebe Assimétrica
+
+O ciframento simétrico de uma mensagem (processo em que m conteudo é criptogafado) é baseado em 2 componentes
