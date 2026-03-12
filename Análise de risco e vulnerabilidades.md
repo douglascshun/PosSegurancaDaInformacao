@@ -24,5 +24,5 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 - T (Tampering with data):               Violação ou adulteração de dados
 - R (Repudiation of transaction):   Repúdio de transação
 -  I (Information disclosure):           Divulgação não autorizada de informações
-- D 
+- D (Denial of Service): 
 - E
