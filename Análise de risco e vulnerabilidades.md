@@ -17,4 +17,5 @@ Ou seja, são brechas na segurança que podem facilitar o ataque de cibercrimino
 
 # Avaliação de risco /= de avaliação de vulnerabilidades 
 
-- Avaliaç
+- Avaliação de risco:
+- Em um primeiro momento, é preciso identificar todos ativos que compõem a infraestrutura de TI, como servidores, softwares, dispositivos móveis, estações de trabalho, etc..
