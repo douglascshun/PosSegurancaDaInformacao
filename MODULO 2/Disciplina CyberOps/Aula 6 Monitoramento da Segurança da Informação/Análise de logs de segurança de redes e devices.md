@@ -25,4 +25,7 @@ Por exemplo, os logs de eventos podem registrar alterações de configuração, 
 ![[Syslog.png]]
 
 - Varlog:
-Localizado no sistema de arquivos 
+Localizado no sistema de arquivos do Linux
+![[Varlog.png]]
+
+- Arquitetura de Log com a plataforma Azure
