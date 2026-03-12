@@ -19,4 +19,5 @@ Os dados são pré-processados para remover o ruido e reduzir a complexidade pel
 - Mineração de dados:
 Os dados são analisados ou heurística de desenvolvidos para atender os dados, modelos e objetivos.
 
-- I
+- Interpretação:
+Os padrões minerados são avaliados quanto à sua relevância e validade por especialistas e/ou profissionais no domínio da aplicação.
