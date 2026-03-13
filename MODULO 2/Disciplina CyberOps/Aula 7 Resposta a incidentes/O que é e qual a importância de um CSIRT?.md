@@ -56,7 +56,13 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 # Atuação CERT Europa:
 ![[CERT Europa.png]]
 
+
 # CERT Brasil:
 ![[CERT Brasil.png]]
 
-As Funções que os membros de um 
+
+
+	As Funções que os membros de um CSIRT podem assumir incluem:
+
+- Gerente ou líder do time
+- Gerentes assistentes, su
