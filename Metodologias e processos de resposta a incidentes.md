@@ -10,6 +10,8 @@ Segundo a Microsoft (2022), " a primeira etapa é ter um plano de resposta a inc
 
 	Investigação de doença = Resposta de incidente
 
- Extremamente importante (não pode ser desligado para trabalhar nele).
 
-Complexo (normalmente )
+
+Extremamente importante (não pode ser desligado para trabalhar nele).
+
+Complexo (normalmente além da compreensão de qualquer pessoa).
