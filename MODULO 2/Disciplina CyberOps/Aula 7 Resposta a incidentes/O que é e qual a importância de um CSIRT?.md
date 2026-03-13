@@ -74,7 +74,9 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 - Encarregados de acompanhamento de tecnologia
 
 
-	Pode-se em alguns casos, inclui
+
+	Pode-se em alguns casos, incluir também:
+
 - Pessoal de apoio
 - Redatores técnicos
 - Administradores de redes ou sistemas, pessoal de infraestrutura do CSIRT
