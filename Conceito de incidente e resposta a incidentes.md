@@ -39,4 +39,4 @@ São dados essenciais a serem incluídos em uma notificação:
 - Logs completos
 - Dados completos do incidente ou qualquer outra informação que tenha sido utilizada para identificar a atividade.
 
-"A recomendação para aqueles que recebem e-mails de phishing/scam é que os enviem, com conteúdo e cabeçalho completos, para o e-mail <cert@cert.br>"
+"A recomendação para aqueles que recebem e-mails de phishing/scam é que os enviem, com conteúdo e cabeçalho completos, para o e-mail <cert@cert.br>. Deste modo podemos contatar o site que está hospedado o cavalo de tróia, verificar se este já é detectado pelos softwares antivítus e tomar as ações necessárias"
