@@ -10,4 +10,7 @@ Segundo a Microsoft (2022), " a primeira etapa é ter um plano de resposta a inc
 
 	Durante um incidente, você deve agir estes saldos críticos:
 
-- Velocidade: e
+- Velocidade:
+Equilibrar a necessidade de agir rapidamente para satisfazer os stakeholders com o risco de decisões rápidas.
+
+- Compartilhamento de
