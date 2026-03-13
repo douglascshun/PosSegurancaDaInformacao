@@ -5,3 +5,4 @@ Segundo Carklin (2022), "O monitoramento de segurança de rede  (NSM) é um proc
 - Comunicação cliente-servidor
 - Carga útil de rede 
 - Sessões de tráfego criptografado 
+- Detectar padrões nos fluxos de tráfego 
