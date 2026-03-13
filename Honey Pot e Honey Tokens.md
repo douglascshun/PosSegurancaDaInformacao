@@ -4,4 +4,4 @@ Um Honeypot é um recurso computacional de segurança dedicado a ser sondado, at
 
 	Tipos de Honeypot:
 	- Baixa interatividade 
-	- Al
+	- Alta interatividade 
