@@ -11,4 +11,4 @@ Em um honeypot de baixa interatividade são instaladas ferramentas para emular s
 Desta forma, o sistema operacional real deste tipo de honeypot deve ser instalado e configurado de modo seguro, para minimizar o risco de comprometimento.
 
 - Honeypot de alta interatividade:
-Nos honeypots de alta interatividade os atacantes interagem com sistemas operacionais, a
+Nos honeypots de alta interatividade os atacantes interagem com sistemas operacionais, aplicações e serviços reais.
