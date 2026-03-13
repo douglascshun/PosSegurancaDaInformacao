@@ -32,7 +32,11 @@ Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualqu
 - O CERT.br possa correlacionar dados relativos a vários incidentes, identificar ataques coordenados, novos tipos de ataques, etc...
 
 
+# Como notificar um incidente?
+
 São dados essenciais a serem incluídos em uma notificação:
 - Data, horário e timezone dos logs ou da ocorrência da atividade sendo notificada.
 - Logs completos
 - Dados completos do incidente ou qualquer outra informação que tenha sido utilizada para identificar a atividade.
+
+"A recomendação pa"
