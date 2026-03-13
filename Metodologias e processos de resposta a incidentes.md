@@ -18,4 +18,6 @@ Equilibrar a necessidade de agir rapidamente para satisfazer os stakeholders com
 Informe os investigadores, stakeholders e clientes com base nos conselhos do departamento jurídico para limitar a responsabilidade e evitar a definição de expectativas irreais. 
 
 
-	Sugestões 
+	Sugestão de Práticas recomendadas de resposta no nível técnico
+
+Tentar identificar o escopo da operação de ataque: a maioria dos adversários usa vários mecanismos de persist
