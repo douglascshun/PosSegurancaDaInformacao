@@ -16,3 +16,7 @@ Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualqu
 - Uso ou acesso não autorizado a um sistema
 - Modificações em um sistema, sem o conhecimento, instruções ou consentimento prévio do dono do sistema
 - Desrespeito à política de segurança ou à política de uso aceitável de uma empresa ou provedor de acesso
+
+# Para quem devo notificar um incidente de segurança?
+
+	De modo geral, a lista de pessoas / en
