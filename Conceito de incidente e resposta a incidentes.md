@@ -28,4 +28,5 @@ Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualqu
 
 Manter o CERT.br nas cópias das notificações de incidentes de segurança é importante para permitir que:
 - As estatísticas geradas reflitam os incidentes ocorridos na internet brasileira.
-- O CERT.br escreve documentos direcionados para as necessidades dos usuários da internet no Brasil
+- O CERT.br escreve documentos direcionados para as necessidades dos usuários da internet no Brasil.
+- O CERT.br possa correlacionar dados relativos a vários incidentes, identificar ataques coordenados, novos tipos de ataques, etc...
