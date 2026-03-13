@@ -20,3 +20,4 @@ Um CSIRT, é uma organização responsável por receber, analisar e responder as
 
 - Os CSIRTs podem trabalhar em conjunto com outras áreas da organização de maneira proativa.
 
+- Eles podem focar sua atençao em segurança e prover treinamentos para a comunidade sobre a necessidade da preocupação com segurança. Os CSIRTs também podem usar usa experiência para auxilidar na redução de futuras a
