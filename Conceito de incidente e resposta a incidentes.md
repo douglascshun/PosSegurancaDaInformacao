@@ -19,4 +19,6 @@ Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualqu
 
 # Para quem devo notificar um incidente de segurança?
 
-	De modo geral, a lista de pessoas / en
+	De modo geral, a lista de pessoas / entidades a serem notificadas inclui:
+
+ 1. Os responsáveis pela rede que originou o incidente, incluindo o grupo de segurança e abusos, se existir uma para quela re
