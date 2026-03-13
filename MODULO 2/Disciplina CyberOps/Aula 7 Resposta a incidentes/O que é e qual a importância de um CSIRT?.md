@@ -65,4 +65,7 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 	As Funções que os membros de um CSIRT podem assumir incluem:
 
 - Gerente ou líder do time
-- Gerentes assistentes, su
+- Gerentes assistentes, supervisores ou líderes de grupos
+- Pessoal para triagem de incidentes e atendentes de "Hotline" e "Help Desk"
+- Encarregados de tratamento de incidentes
+- 
