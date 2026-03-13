@@ -30,4 +30,6 @@ Um CSIRT, é uma organização responsável por receber, analisar e responder as
 
 # Papel dos CSIRTs
 
-A red
+A redução do impacto é consequência da:
+- Agilidade de resposta 
+- Redução no número de vítimas
