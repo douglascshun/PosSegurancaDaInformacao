@@ -41,4 +41,6 @@ O sucesso depende da confiabilidade:
 
 O CSIRT não é um investigador
 - A decisão de levar um caso à justiça deve ser da vítima
-- 
+- Em uma organização, leia-se: alta administração e setor jurídico
+
+A pessoa que responde ao incidente 
