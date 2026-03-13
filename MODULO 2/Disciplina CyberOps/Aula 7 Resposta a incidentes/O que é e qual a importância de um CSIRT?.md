@@ -72,4 +72,7 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 - Especialistas em plataformas operacionais 
 - Instrutores
 - Encarregados de acompanhamento de tecnologia
-
+- Pessoal de apoio
+- Redatores técnicos
+- Administradores de redes ou sistemas, pessoal de infraestrutura do CSIRT
+- Programadores ou desenvolvedores (para desenvolver ferramentas )
