@@ -46,4 +46,7 @@ O CSIRT não é um investigador
 A pessoa que responde um incidente é a primeira a entrar em contato com as evidências de um possível crime 
 - Seguir as políticas 
 - Preservar as evidências 
-- Responder incidentes - Retornar o ambiente ao
+- Responder incidentes - Retornar o ambiente ao estado de produção
+
+
+Atuação USA
