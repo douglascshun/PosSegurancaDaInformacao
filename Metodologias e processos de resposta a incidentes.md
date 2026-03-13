@@ -5,4 +5,4 @@ Segundo a Microsoft (2022), " a primeira etapa é ter um plano de resposta a inc
 - Manter a calma 
 - Manter as evidências 
 - Envolver o departamento jurídico
-- Tomar cuidado ao compartilhar informaçõ
+- Tomar cuidado ao compartilhar informações sobre o incidente publicamente
