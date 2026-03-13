@@ -8,4 +8,8 @@ Segundo a Microsoft (2022), " a primeira etapa é ter um plano de resposta a inc
 - Tomar cuidado ao compartilhar informações sobre o incidente publicamente
 
 
-Investigaçã
+	Investigação de doença = Resposta de incidente
+
+ Extremamente importante (não pode ser desligado para trabalhar nele).
+
+Complexo (normalmente )
