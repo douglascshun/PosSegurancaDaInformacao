@@ -68,4 +68,8 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 - Gerentes assistentes, supervisores ou líderes de grupos
 - Pessoal para triagem de incidentes e atendentes de "Hotline" e "Help Desk"
 - Encarregados de tratamento de incidentes
-- 
+- Pessoal de análise de artefatos
+- Especialistas em plataformas operacionais 
+- Instrutores
+- Encarregados de acompanhamento de tecnologia
+
