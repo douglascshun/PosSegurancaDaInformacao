@@ -37,4 +37,8 @@ A redução do impacto é consequência da:
 O sucesso depende da confiabilidade:
 - Nunca divulgar dados sensíveis nem expor vítimas
 - Auxiliar a proteção da infraestrutura e das informações
-- Prevenir incidentes e consienti
+- Prevenir incidentes e conscientizar sobre problemas 
+
+O CSIRT não é um investigador
+- A decisão de levar um caso à justiça deve ser da vítima
+- 
