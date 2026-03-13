@@ -1,0 +1,1 @@
+Segundo Carklin (2022), "O monitoramento de segurança de rede  (NSM) é um processo autor"
