@@ -20,4 +20,6 @@ Informe os investigadores, stakeholders e clientes com base nos conselhos do dep
 
 	Sugestão de Práticas recomendadas de resposta no nível técnico
 
-Tentar identificar o escopo da operação de ataque: a maioria dos adversários usa vários mecanismos de persist
+Tentar identificar o escopo da operação de ataque: a maioria dos adversários usa vários mecanismos de persistência.
+
+Se possível, identifique o objetivo do ataque: invasores persistentes frequentemente retomarão para seu objetivo (dados/sistemas) em um ataque futuro. 
