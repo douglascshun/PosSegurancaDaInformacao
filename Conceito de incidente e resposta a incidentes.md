@@ -21,4 +21,6 @@ Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualqu
 
 	De modo geral, a lista de pessoas / entidades a serem notificadas inclui:
 
- 1. Os responsáveis pela rede que originou o incidente, incluindo o grupo de segurança e abusos, se existir uma para quela re
+ 1. Os responsáveis pela rede que originou o incidente, incluindo o grupo de segurança e abusos, se existir uma para quela rede.
+
+2. O grupo de segurança e abusos da rede em que você está conectado (seja um provedor, empresa, universidade ou outro tipo de instituição )
