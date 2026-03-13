@@ -8,3 +8,7 @@ O CERT.br (Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança 
 # O que é um incidente de segurança?
 
 Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualquer evento adverso, confirmado ou sob suspeita, relacionado à segurança de sistemas de computação ou de redes de computadores."
+
+	São exemplo de um incidente de segurança:
+
+- Tentativas d
