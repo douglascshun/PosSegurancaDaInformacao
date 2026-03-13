@@ -14,5 +14,9 @@ Um CSIRT, é uma organização responsável por receber, analisar e responder as
 
 	Qual a necessidade de um CSIRT em ma organização?
 
-Quando  um incidente de segurança ocorre, torna-se crítico para a organização ter uma maneira eficaz de responder a este incidente.
-Pode estar fisicamente presente e apto a conduzir uma reposta rápida para conter o incidente de segurança e para recuperar-se dele.
+- Quando  um incidente de segurança ocorre, torna-se crítico para a organização ter uma maneira eficaz de responder a este incidente.
+
+- Pode estar fisicamente presente e apto a conduzir uma reposta rápida para conter o incidente de segurança e para recuperar-se dele.
+
+- Os CSIRTs podem trabalhar em conjunto com outras áreas da organização de maneira proativa.
+
