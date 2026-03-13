@@ -14,4 +14,4 @@ Desta forma, o sistema operacional real deste tipo de honeypot deve ser instalad
 Nos honeypots de alta interatividade os atacantes interagem com sistemas operacionais, aplicações e serviços reais.
 
 
-Honeypot n
+Honeynet nada mais é do que um tipo de Honeypot. Especificamente, é um honeypot de alta interatividade, projetado para pesquisa e obte 
