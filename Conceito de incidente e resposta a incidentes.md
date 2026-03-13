@@ -33,4 +33,6 @@ Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualqu
 
 
 São dados essenciais a serem incluídos em uma notificação:
-- Data, horário e timezone dos logs ou da ocorrência da atividade sendo notificada
+- Data, horário e timezone dos logs ou da ocorrência da atividade sendo notificada.
+- Logs completos
+- Dados completos do incidente ou qualquer outra informação que tenha sido utilizada para identificar a atividade.
