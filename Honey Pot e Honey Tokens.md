@@ -16,4 +16,4 @@ Nos honeypots de alta interatividade os atacantes interagem com sistemas operaci
 # Tipos de Honeypot:
 
 - `Honeynet` :
-nada mais é do que um tipo de Honeypot. Especificamente, é um honeypot de alta interatividade, projetado para pesquisa e obtenção de informações dos invasores. é conhecido também como "honeypot de pesquisa". 
+nada mais é do que um tipo de Honeypot. Especificamente, é um honeypot de alta interatividade, projetado para pesquisa e obtenção de informações dos invasores, é conhecido também como "honeypot de pesquisa", ele consite emm uma rede projetada especificamente para ser comprometida e que contém mecanismos de controle para prevenir que seja utilizada como base de ataques contra outras rede 
