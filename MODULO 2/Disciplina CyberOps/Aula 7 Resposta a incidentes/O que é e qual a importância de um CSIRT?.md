@@ -53,4 +53,7 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 ![[US CERT.png]]
 
 
-# Atuação CERT
+# Atuação CERT Europa:
+![[CERT Europa.png]]
+
+#C 
