@@ -24,4 +24,6 @@ Um CSIRT, é uma organização responsável por receber, analisar e responder as
 
 
 
-	Um C
+	`Um CSIRT provê serviços de suporte para prevenção, tratamento e reposta a incidentes de segurança em computadores
+
+![[Pasted image 20260313200711.png]]
