@@ -13,4 +13,5 @@ Segundo a Microsoft (2022), " a primeira etapa é ter um plano de resposta a inc
 - Velocidade:
 Equilibrar a necessidade de agir rapidamente para satisfazer os stakeholders com o risco de decisões rápidas.
 
-- Compartilhamento de
+- Compartilhamento de informações:
+Informe os investigadores, stakeholders e clientes com base nos conselhos do departamento jurídico para limitar a responsabilidade e evitar a defini 
