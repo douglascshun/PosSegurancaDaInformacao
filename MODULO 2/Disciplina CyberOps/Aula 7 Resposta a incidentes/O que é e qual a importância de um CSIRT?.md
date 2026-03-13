@@ -33,3 +33,8 @@ Um CSIRT, é uma organização responsável por receber, analisar e responder as
 A redução do impacto é consequência da:
 - Agilidade de resposta 
 - Redução no número de vítimas
+
+O sucesso depende da confiabilidade:
+- Nunca divulgar dados sensíveis nem expor vítimas
+- Auxiliar a proteção da infraestrutura e das informações
+- Prevenir incidentes e consienti
