@@ -25,4 +25,5 @@ Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualqu
 
 2. O grupo de segurança e abusos da rede em que você está conectado (seja um provedor, empresa, universidade ou outro tipo de instituição).
 
-Manter o CERT.br nas cópias das notificações de incidentes de segurança é importante para permitir que as estátisticas geradas 
+
+Manter o CERT.br nas cópias das notificações de incidentes de segurança é importante para permitir que as estatísticas geradas reflitam os incidentes ocorridos na internet brasileira.
