@@ -49,4 +49,8 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 - Responder incidentes - Retornar o ambiente ao estado de produção
 
 
-Atuação USA
+# Atuação CERT USA:
+![[US CERT.png]]
+
+
+# Atuação CERT
