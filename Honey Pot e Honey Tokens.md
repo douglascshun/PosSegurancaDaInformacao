@@ -12,3 +12,6 @@ Desta forma, o sistema operacional real deste tipo de honeypot deve ser instalad
 
 - Honeypot de alta interatividade:
 Nos honeypots de alta interatividade os atacantes interagem com sistemas operacionais, aplicações e serviços reais.
+
+
+Honeypot n
