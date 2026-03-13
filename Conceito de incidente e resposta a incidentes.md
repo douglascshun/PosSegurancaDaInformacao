@@ -11,4 +11,7 @@ Segundo o CERT (2022), "um incidente de segurança pode ser definido como qualqu
 
 	São exemplo de um incidente de segurança:
 
-- Tentativas d
+- Tentativas de ganhar acesso não autorizado a sistemas ou dados
+- Ataques de negação de serviço
+- Uso ou acesso não autorizado a um sistema
+- Modificações em um sistema, sem o conhecimento, instruções ou consetimento
