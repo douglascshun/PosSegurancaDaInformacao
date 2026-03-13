@@ -8,10 +8,12 @@ Segundo a Microsoft (2022), " a primeira etapa é ter um plano de resposta a inc
 - Tomar cuidado ao compartilhar informações sobre o incidente publicamente
 
 
+
 	Durante um incidente, você deve agir estes saldos críticos:
 
 - Velocidade:
 Equilibrar a necessidade de agir rapidamente para satisfazer os stakeholders com o risco de decisões rápidas.
 
 - Compartilhamento de informações:
-Informe os investigadores, stakeholders e clientes com base nos conselhos do departamento jurídico para limitar a responsabilidade e evitar a defini 
+Informe os investigadores, stakeholders e clientes com base nos conselhos do departamento jurídico para limitar a responsabilidade e evitar a definição de expectativas irreais. 
+
