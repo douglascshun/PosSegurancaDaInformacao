@@ -75,4 +75,8 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 - Pessoal de apoio
 - Redatores técnicos
 - Administradores de redes ou sistemas, pessoal de infraestrutura do CSIRT
-- Programadores ou desenvolvedores (para desenvolver ferramentas )
+- Programadores ou desenvolvedores (para desenvolver ferramentas para o CSIRT)
+- Desenvolvedores web
+- Assessoria de imprensa ou contatos na mídia 
+- Advogados ou contatos com escritórios de advocacia
+- 
