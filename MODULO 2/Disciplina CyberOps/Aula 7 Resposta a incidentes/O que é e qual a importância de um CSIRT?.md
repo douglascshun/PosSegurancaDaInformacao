@@ -56,4 +56,7 @@ A pessoa que responde um incidente é a primeira a entrar em contato com as evid
 # Atuação CERT Europa:
 ![[CERT Europa.png]]
 
-#C 
+# CERT Brasil:
+![[CERT Brasil.png]]
+
+As Funções que os membros de um 
