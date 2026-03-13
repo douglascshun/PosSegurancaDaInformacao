@@ -43,4 +43,7 @@ O CSIRT não é um investigador
 - A decisão de levar um caso à justiça deve ser da vítima
 - Em uma organização, leia-se: alta administração e setor jurídico
 
-A pessoa que responde ao incidente 
+A pessoa que responde um incidente é a primeira a entrar em contato com as evidências de um possível crime 
+- Seguir as políticas 
+- Preservar as evidências 
+- Responder incidentes - Retornar o ambiente ao
