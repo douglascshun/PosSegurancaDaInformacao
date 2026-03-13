@@ -8,10 +8,6 @@ Segundo a Microsoft (2022), " a primeira etapa é ter um plano de resposta a inc
 - Tomar cuidado ao compartilhar informações sobre o incidente publicamente
 
 
-	Investigação de doença = Resposta de incidente
+	Durante um incidente, você deve agir estes saldos críticos:
 
-
-
-Extremamente importante (não pode ser desligado para trabalhar nele).
-
-Complexo (normalmente além da compreensão de qualquer pessoa).
+- Velocidade: e
