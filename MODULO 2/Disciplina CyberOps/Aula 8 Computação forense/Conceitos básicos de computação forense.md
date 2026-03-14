@@ -19,5 +19,12 @@ A computação forense (também conhecida como ciência forense computacional) �
 Os examinadores forenses de computador têm os recursos necessários para extrair dados significativos dos dispositivos que estão examinando.
 
 
-# Ciclo de investigação Forense:
+	Ciclo de investigação Forense:
+
 ![[Ciclo de Investigação Foresnse.png]]
+
+
+	Coleta de dados:
+
+- Volatilidade
+Dados que podem ser perdidos devem 
