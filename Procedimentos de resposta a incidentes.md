@@ -15,4 +15,5 @@ O conteúdo da notificação precisa ser claro, em formato simples e deve inclui
 - Utilizar criptografia na mensagem se houver necessidade de encaminhar informações sigilosas/evidências (ex: arquivo com dados pessoais com números de contas, de cartões de crédito e senhas, obtidos por site de fraude).
 - Logs completos que evidenciam a atividade maliciosa (ex: logs de redes, de sistemas, de servidor web, mensagens de e-mail, etc...).
 - Informações de data, horário e time zone dos logs ou da ocorrência da atividade sendo notificada.
-- Qualquer outra 
+- Qualquer outra informação que tenha sido utilizada para identificar a atividade maliciosa.
+
