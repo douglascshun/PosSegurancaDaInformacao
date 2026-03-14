@@ -39,3 +39,7 @@ Nada mais é do que um tipo de Honeypot. Especificamente, é um honeypot de alta
 	Uma honeynet virtual baseia-se na ideia de ter todos os componentes de uma honeynet implementados em um número reduzido de dispositivos físicos
 
 Os softwares de virtualização permitem executar diversos sistemas operacionais com aplicações e serviços instalados, ao mesmo tempo. 
+
+# Aplicabilidades para Honeypots e Honey Tokens 
+
+-  Detectar ataques internos 
