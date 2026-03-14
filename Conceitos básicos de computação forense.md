@@ -9,8 +9,7 @@ A computação forense (também conhecida como ciência forense computacional) �
 - Recuperar
 - Analisar e apresentar fatos e opiniões sobre a informação digital 
 
-# Quadros 
-
-- Computação Forense:
+	 Computação Forense:
 É usada para condenar pessoas que cometeram crimes físicos e digitais.
 
+	Laboratório de computação forense:
