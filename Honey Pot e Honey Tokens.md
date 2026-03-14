@@ -48,4 +48,5 @@ Os softwares de virtualização permitem executar diversos sistemas operacionais
 - Manter atacantes afastados de sistemas importantes
 - Coletar assinaturas de ataques 
 - Detectar máquinas comprometidas
-- Coletar códigos maliciosos 
+- Coletar códigos maliciosos (Malware)
+- Detectar máquinas com configurações negligenciadas 
