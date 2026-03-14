@@ -20,4 +20,5 @@ Nada mais é do que um tipo de Honeypot. Especificamente, é um honeypot de alta
 
 # Honeynet virtual x Honeynet Real
 
-- Em uma honeynet real 
+	 Em uma honeynet real os dispositivos que a compõe, incluindo os honeypots, mecanismos de contenção, de alerta e de coleta de informações, são físicos.
+- Div
