@@ -15,3 +15,5 @@ Os NOCs são frequentemente dispostos com várias fileiras de mesas, todas volta
 Do ponto de vista de segurança, o NOC funciona como a primeira linha de defesa que permite que a organização monitore a segurança da rede e reconheça e resolva quaisquer ataques ou interrupções na rede.
 
 ![[Linha de frente.png]]
+
+# Vantagens de implantar a sala 
