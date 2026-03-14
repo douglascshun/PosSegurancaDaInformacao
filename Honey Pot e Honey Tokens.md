@@ -21,4 +21,5 @@ Nada mais é do que um tipo de Honeypot. Especificamente, é um honeypot de alta
 # Honeynet virtual x Honeynet Real
 
 	 Em uma honeynet real os dispositivos que a compõe, incluindo os honeypots, mecanismos de contenção, de alerta e de coleta de informações, são físicos.
-- Div
+- Diversos computadores, um para cada honeypot. Cada honeypot com um sistema operacional, aplicações e serviços reais instalados
+- Um computador com um firewall instalado, atuando como mecanismo de contenção e de coleta 
