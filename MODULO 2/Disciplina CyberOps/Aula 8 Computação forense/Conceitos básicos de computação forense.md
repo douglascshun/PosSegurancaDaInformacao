@@ -20,3 +20,4 @@ Os examinadores forenses de computador têm os recursos necessários para extrai
 
 
 # Ciclo de investigação Forense:
+![[Ciclo de Investigação Foresnse.png]]
