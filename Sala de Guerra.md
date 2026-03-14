@@ -26,4 +26,6 @@ Do ponto de vista de segurança, o NOC funciona como a primeira linha de defesa 
 - Funcionamento 24/7
 - Planejamento 
 
-# Terceirizado:
+# Terceirizado
+Outras empresas, agências governamentais ou uniceidades podem não querer alocar os enormes recuros necessários para contratar e gerenciar uma equipe interna.
+Terceirizar um NOC onde o tra
