@@ -11,3 +11,6 @@ A computação forense (também conhecida como ciência forense computacional) �
 
 # Quadros 
 
+- Computação Forense:
+É usada para condenar pessoas que cometeram crimes físicos e digitais.
+
