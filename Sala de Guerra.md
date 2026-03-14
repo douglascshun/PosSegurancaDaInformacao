@@ -16,4 +16,12 @@ Do ponto de vista de segurança, o NOC funciona como a primeira linha de defesa 
 
 ![[Linha de frente.png]]
 
-# Vantagens de implantar a sala 
+# Vantagens de implantar a sala de guerra (NOC)
+
+- Monitoramento ativo da rede 
+- Visibilidade 
+- Resposta a problemas 
+- Análise de cenários
+- Resposta aos ataques 
+- Funcionamento 24/7
+- Planejamento 
