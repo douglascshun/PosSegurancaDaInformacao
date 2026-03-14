@@ -17,3 +17,6 @@ A computação forense (também conhecida como ciência forense computacional) �
 	Laboratório de computação forense:
 É uma zona segura e protegida onde os dados eletrônicos podem ser gerenciados, preservados e acessados em um ambiente controlado. lá há um risco muito reduzido de dano ou modificação de prova
 Os examinadores forenses de computador têm os recursos necessários para extrair dados significativos dos dispositivos que estão examinando.
+
+
+# Ciclo de investigação Forense:
