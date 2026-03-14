@@ -46,3 +46,5 @@ Filtrar e extrair informações relevantes
 - Dump de memória volátil
 - Recuperação e análise de dados persistentes
 - National Software Reference Library
+
+Atente-se também na interpretação dos dados coletados, Identificação dos envolvidos, estab 
