@@ -25,3 +25,5 @@ Do ponto de vista de segurança, o NOC funciona como a primeira linha de defesa 
 - Resposta aos ataques 
 - Funcionamento 24/7
 - Planejamento 
+
+# Terceirizado:
