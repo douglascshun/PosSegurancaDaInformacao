@@ -5,4 +5,6 @@ Tudo começou na segunda Guerra Mundial com o primeiro ministro inglês, Winston
 
 	Benefícios de uma sala de Guerra (NOC)
 
-O objetivo é superar uma situação difícil ou, se usada de forma mais estratégica, planejar ações de alto impacto e com objetivos ambiciosos que se quer atingir 
+O objetivo é superar uma situação difícil ou, se usada de forma mais estratégica, planejar ações de alto impacto e com objetivos ambiciosos que se quer atingir rapidamente.
+
+# NOCs
