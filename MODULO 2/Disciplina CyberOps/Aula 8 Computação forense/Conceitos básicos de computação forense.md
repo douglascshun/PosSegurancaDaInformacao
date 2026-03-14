@@ -35,7 +35,7 @@ Deve-se priorizar as coletas de menos esforço
 - Valor Estimado 
 Estimar valor relativo para cada provável fonte de dados
 
-A tente-se também em, preservar a Integridade, gerar provas de que os dados estão íntegros (HASH), Importante para admissibilidade das evidências
+**A tente-se também em, preservar a Integridade, gerar provas de que os dados estão íntegros (HASH), Importante para admissibilidade das evidências**
 
 
 	Exame de dados:
@@ -44,3 +44,5 @@ Filtrar e extrair informações relevantes
 
 - Uso de recursos e ferramentas específicas
 - Dump de memória volátil
+- Recuperação e análise de dados persistentes
+- National Software Reference Library
