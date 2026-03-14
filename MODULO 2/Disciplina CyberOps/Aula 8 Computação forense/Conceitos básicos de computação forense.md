@@ -48,3 +48,11 @@ Filtrar e extrair informações relevantes
 - National Software Reference Library
 
 Atente-se também na interpretação dos dados coletados, Identificação dos envolvidos, estabelecimento de ordem cronológica, levantamento de eventos e locais e o cruzamento de informações que levem a provas concretas ou evidências. 
+
+
+	Interpretação dos resultados
+
+- Elaboração de um laudo pericial 
+- Conclusão imparcial, clara e concisa
+- Exposição dos métodos utilizados 
+- 
