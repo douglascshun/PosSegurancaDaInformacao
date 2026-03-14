@@ -7,4 +7,6 @@ Existem diferentes formas para se notificar incidentes, embora algumas sejam mai
 	- Formulário web
 	- Telefone
 
-O conteúdo da notificação precisa ser claro, em f
+O conteúdo da notificação precisa ser claro, em formato simples e deve incluir as informações necessárias para a rápida e correta identificação do problema e da ação requerida.
+
+- Utilizar formato texto. Formatos como .pdf, .doc .thml
