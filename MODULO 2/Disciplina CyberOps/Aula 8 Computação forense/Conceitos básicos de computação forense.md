@@ -40,4 +40,7 @@ A tente-se também em, preservar a Integridade, gerar provas de que os dados est
 
 	Exame de dados:
 
-Filtrar
+Filtrar e extrair informações relevantes
+
+- Uso de recursos e ferramentas específicas
+- Dump de memória volátil
