@@ -11,5 +11,6 @@ O conteúdo da notificação precisa ser claro, em formato simples e deve inclui
 
 - Utilizar formato texto. Formatos como .PDF, .DOC, .HTML, .XLS, .ZIP, .PNG, .JPG, .GIF, entre outros, dificultam a leitura direta e também o processamento automatizado dos dados.
 - Incluir uma linha em branco entre os parágrafos para facilitar a leitura.
-- Evitar linhas longas. Recomenda-se entre 70 e 80 caracteres por linha
-- Utilizar criptografia na mensagem se houver necessidade de encaminhar informações sigilosas/evidências (ex: arquivo com dados pessoais com números de contas, de cartões de crédito e senhas, obtidios por site de fraude)
+- Evitar linhas longas. Recomenda-se entre 70 e 80 caracteres por linha.
+- Utilizar criptografia na mensagem se houver necessidade de encaminhar informações sigilosas/evidências (ex: arquivo com dados pessoais com números de contas, de cartões de crédito e senhas, obtidos por site de fraude).
+- Logs completos que evidenciam a atividade maliciosa (ex: logs de redes, de sistemas, de servidor web)
