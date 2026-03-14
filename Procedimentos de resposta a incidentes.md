@@ -16,4 +16,5 @@ O conteúdo da notificação precisa ser claro, em formato simples e deve inclui
 - Logs completos que evidenciam a atividade maliciosa (ex: logs de redes, de sistemas, de servidor web, mensagens de e-mail, etc...).
 - Informações de data, horário e time zone dos logs ou da ocorrência da atividade sendo notificada.
 - Qualquer outra informação que tenha sido utilizada para identificar a atividade maliciosa.
-- Sanitizar dados sigilosos ou que não sejam essenciaisà identificação do incidente tais como dados pessoais (PII)
+- Sanitizar dados sigilosos ou que não sejam essenciais identificação do incidente tais como dados pessoais (PII), IP's/redes e nomes de máquinas dp destino/alvo
+- Evitar mensagem de caráter jurídico, acu
