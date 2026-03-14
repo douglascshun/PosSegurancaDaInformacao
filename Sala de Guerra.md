@@ -12,4 +12,5 @@ O objetivo é superar uma situação difícil ou, se usada de forma mais estrat�
 ![[NOC.png]]
 Os NOCs são frequentemente dispostos com várias fileiras de mesas, todas voltadas para uma parede de vídeo, que normalmente mostra detalhes de alarmes altamente significativos, incidentes em andamento e desempenho geral da rede.
 
-Do ponto de vista de segurança, o NOC funciona como a primeria linha de defesa que permite que a organização
+Do ponto de vista de segurança, o NOC funciona como a primeiria linha de defesa que permite que a organização monitore a segurança da rede e reconheça e resolva quaisquer ataques ou interrupções na rede.
+
