@@ -55,4 +55,5 @@ Tabela comparativa que pode auxiliar na decisão sobre que tipo de honeypots dev
 ![[Comparativo de Honeypots.png]]
 
 
+Exemplo prático:
 https://honeytarg.cert.br/honeypots/stats/flows/current/
