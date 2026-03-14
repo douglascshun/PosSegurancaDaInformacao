@@ -24,3 +24,5 @@ Nada mais é do que um tipo de Honeypot. Especificamente, é um honeypot de alta
 - Diversos computadores, um para cada honeypot. Cada honeypot com um sistema operacional, aplicações e serviços reais instalados
 - Um computador com um firewall instalado, atuando como mecanismo de contenção e de coleta de dados.
 - Um computador com um IDS instalado, atuando como mecanismo de geração de alertas e de coleta de dados 
+- Um computador atuando como repositório dos dados coletados 
+- Hubs/Switches e roteadores (se necessári) 
