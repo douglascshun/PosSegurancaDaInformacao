@@ -11,4 +11,5 @@ O conteúdo da notificação precisa ser claro, em formato simples e deve inclui
 
 - Utilizar formato texto. Formatos como .PDF, .DOC, .HTML, .XLS, .ZIP, .PNG, .JPG, .GIF, entre outros, dificultam a leitura direta e também o processamento automatizado dos dados.
 - Incluir uma linha em branco entre os parágrafos para facilitar a leitura.
-
+- Evitar linhas longas. Recomenda-se entre 70 e 80 caracteres por linha
+- Utilizar criptografia na mensagem se houver necessidade de encaminhar informações sigilosas
