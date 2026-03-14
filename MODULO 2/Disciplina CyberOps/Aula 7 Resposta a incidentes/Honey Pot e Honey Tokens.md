@@ -53,3 +53,6 @@ Os softwares de virtualização permitem executar diversos sistemas operacionais
 
 Tabela comparativa que pode auxiliar na decisão sobre que tipo de honeypots devem ser implementados em uma intrusão
 ![[Comparativo de Honeypots.png]]
+
+
+https://honeytarg.cert.br/honeypots/stats/flows/current/
