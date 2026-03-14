@@ -25,4 +25,6 @@ Nada mais é do que um tipo de Honeypot. Especificamente, é um honeypot de alta
 - Um computador com um firewall instalado, atuando como mecanismo de contenção e de coleta de dados.
 - Um computador com um IDS instalado, atuando como mecanismo de geração de alertas e de coleta de dados 
 - Um computador atuando como repositório dos dados coletados 
-- Hubs/Switches e roteadores (se necessári) 
+- Hubs/Switches e roteadores (se necessário) para fornecer a infraestrutura de rede da honeynet.
+
+	Um IDS (Intrusion Detection System) é uma ferramenta de segurança que monitora redes ou sistemas em tempo real, alertando administradores sobre atividades maliciosas ou violações de política==. Diferente do IPS (que bloqueia), o IDS atua passivamente, detectando e relatando ameaças, sendo essencial para identificar ataques e analisar logs de segurança.
