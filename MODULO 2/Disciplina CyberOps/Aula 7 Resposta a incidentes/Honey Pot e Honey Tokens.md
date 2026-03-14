@@ -51,4 +51,5 @@ Os softwares de virtualização permitem executar diversos sistemas operacionais
 - Coletar códigos maliciosos (Malware)
 - Detectar máquinas com configurações negligenciadas 
 
-Tabela comparativa que pode auxiliar na decisão sobre 
+Tabela comparativa que pode auxiliar na decisão sobre que tipo de honeypots devem ser implementados em uma intrusão
+![[Comparativo de Honeypots.png]]
