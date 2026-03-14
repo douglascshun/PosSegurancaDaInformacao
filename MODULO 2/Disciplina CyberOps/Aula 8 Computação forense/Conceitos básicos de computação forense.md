@@ -27,4 +27,10 @@ Os examinadores forenses de computador têm os recursos necessários para extrai
 	Coleta de dados:
 
 - Volatilidade
-Dados que podem ser perdidos devem 
+Dados que podem ser perdidos devem ser priorizados
+
+- Esforço
+Deve-se priorizar as coletas de menos esforço
+
+- Valor Estimado 
+Estimar valor relativo para cada provável fonte de dados
