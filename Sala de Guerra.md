@@ -10,4 +10,4 @@ O objetivo é superar uma situação difícil ou, se usada de forma mais estrat�
 # NOCs
 
 ![[NOC.png]]
-Os NOCs s
+Os NOCs são frequentemente dispostos com várias fileiras de mesas, todas voltadas para uma parede de vídeo, que normalmente mostra detalhes de alarmes altamente significativos, incidentes em andamento e desempenho geral da rede.
