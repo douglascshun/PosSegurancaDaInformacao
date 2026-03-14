@@ -43,3 +43,9 @@ Os softwares de virtualização permitem executar diversos sistemas operacionais
 # Aplicabilidades para Honeypots e Honey Tokens 
 
 -  Detectar ataques internos 
+- Identificar varreduras e ataques automatizados
+- Identificar padrões 
+- Manter atacantes afastados de sistemas importantes
+- Coletar assinaturas de ataques 
+- Detectar máquinas comprometidas
+- Coletar códigos maliciosos 
