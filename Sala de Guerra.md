@@ -8,3 +8,6 @@ Tudo começou na segunda Guerra Mundial com o primeiro ministro inglês, Winston
 O objetivo é superar uma situação difícil ou, se usada de forma mais estratégica, planejar ações de alto impacto e com objetivos ambiciosos que se quer atingir rapidamente.
 
 # NOCs
+
+![[NOC.png]]
+Os NOCs s
