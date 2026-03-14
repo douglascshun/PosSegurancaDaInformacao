@@ -47,4 +47,4 @@ Filtrar e extrair informações relevantes
 - Recuperação e análise de dados persistentes
 - National Software Reference Library
 
-Atente-se também na interpretação dos dados coletados, Identificação dos envolvidos, estab 
+Atente-se também na interpretação dos dados coletados, Identificação dos envolvidos, estabelecimento de ordem cronológica, levantamento de eventos e locais e o cruzamento de informações que levem a provas concretas ou evidências. 
