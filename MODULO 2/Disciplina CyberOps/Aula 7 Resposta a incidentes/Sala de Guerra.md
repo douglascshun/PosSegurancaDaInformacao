@@ -31,4 +31,4 @@ Outras empresas, agências governamentais ou universidades podem não querer alo
 Terceirizar um NOC onde o trabalho é gerenciado por profissionais qualificados e um fornecedor confiável, pode ser mais econômico e menos trabalhoso para essas organizações.
 
 # Inteligência 
-USar IA dessa maneira é chamado de observabilidade de rede. Ela transfere muitas atividades de tomada de decisão de baixo nível como solução de problemas ou planejamento de capacidade dos engenheiros para ferramenta de observabilidade da rede onde são resolvidas.
+Usar IA dessa maneira é chamado de observabilidade de rede. Ela transfere muitas atividades de tomada de decisão de baixo nível como solução de problemas ou planejamento de capacidade dos engenheiros para ferramenta de observabilidade da rede onde são resolvidas.

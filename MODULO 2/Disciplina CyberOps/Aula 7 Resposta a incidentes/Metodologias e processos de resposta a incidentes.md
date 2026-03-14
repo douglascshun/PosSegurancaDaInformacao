@@ -1,3 +1,6 @@
+
+[[Aula 7 Resposta a incidentes]]
+
 Segundo a Microsoft (2022), " a primeira etapa é ter um plano de resposta a incidentes em vigor que abrange processos internos e externos para responder a incidentes de segurança cibernética."
 
 
