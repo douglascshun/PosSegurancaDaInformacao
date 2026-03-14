@@ -1,2 +1,8 @@
-[[Aula  7]]
+[[Aula 7 Resposta a incidentes]]
+
+Existem diferentes formas para se notificar incidentes, embora algumas sejam mais recomendadas que outras em determinadas situações.
+
+	São elas:
+	- E-mails
+	- Formulár
 
