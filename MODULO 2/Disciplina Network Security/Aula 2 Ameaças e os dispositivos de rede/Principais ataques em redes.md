@@ -49,4 +49,4 @@ Acessos dentro de sistemas previamente instalados para que atacantes consigam re
 são computadores ou equipamentos zombie o atacante tem controle do equipamento, dando liberdade para ele fazer ataques como DDoS
 
 - Port Scanning
-O Port Scanning (Escanear Portas) é o criminoso testando todas as janelas e portas de uma casa para ver qual está destrancada.  uma técnica de reconhecimento usada para descobrir quais portas de comunicação estão "abertas" em um servidor ou dispositivo e, consequentemente, quais serviços estão rodando ali.
+O Port Scanning (Escanear Portas) é o criminoso testando todas as janelas e portas de uma casa para ver qual está destrancada, ou seja uma técnica de reconhecimento usada para descobrir quais portas de comunicação estão "abertas" em um servidor ou dispositivo e, consequentemente, quais serviços estão rodando ali.
