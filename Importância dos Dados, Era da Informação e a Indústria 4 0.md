@@ -10,4 +10,7 @@ exemplo do uso da informação:
 ![[Uso da informacao.png]]
 
 Segue o cenário para o exemplo a cima
-Data, seria como senti uma gota de agua pingar
+
+- Data, seria como sentir uma gota de água pingar em ti na rua
+
+- Informação, se encaixa num grupo de dados, dada a situação que senti a gota de agua pongar 
