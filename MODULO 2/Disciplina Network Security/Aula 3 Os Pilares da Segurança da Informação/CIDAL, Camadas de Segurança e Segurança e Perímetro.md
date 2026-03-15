@@ -21,6 +21,7 @@
 
 # Análise de cenário contemporâneo corporativo
 
+	Algumas empresas dizem que não existe mais perimetro pode conta de:
 - Home Office
 - Redes Sociais
 - Filiais
