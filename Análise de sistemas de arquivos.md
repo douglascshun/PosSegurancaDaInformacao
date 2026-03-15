@@ -10,4 +10,6 @@ São dados que podem podem permanecer na máquina durante longos períodos de te
 
 	MACtimes são informações cronológicas e atributos de tempo de um arquivo
 
-mtime (Mo)
+mtime (Modification time): Mostra a última data e hora em que o arquivo foi modificado.
+
+atime (Access time): mostra a última data e hora em que um di
