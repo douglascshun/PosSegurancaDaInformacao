@@ -12,3 +12,7 @@ Internacional:
 	- Julian Assange - WikiLeaks
 	- GPDR
 
+
+Nacional:
+	- LGPD
+	- cR
