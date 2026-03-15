@@ -12,9 +12,9 @@ Distribui os pontos de rede com foco em fragmentação de rede, diferente do HUB
 Ele Modula e Demodula o sinal vindo da rede externa (normalmente provedor de internet) seja fibra, rádio e outros meios
 
 - NIC
-Network Interface Card ()
+Network Interface Card (Placas de Rede) são equipamentos em servidores, notebooks e computadores em geral que conecta o equipa a rede
 
 - Access Point
-
+Ponteo de acesso, roteador de interne
 
 - Roteadores
