@@ -8,11 +8,7 @@
 
 - **Confidencialidade:** Garante que a informação seja acessada apenas por pessoas autorizadas.
 - **Integridade:** Assegura que os dados sejam precisos e não alterados de forma indevida ou não autorizada.
-- **Disponibilidade:**
-    
-    Garante que os dados e sistemas estejam acessíveis quando necessários pelos usuários autorizados.
-    
-
+- **Disponibilidade:** Garante que os dados e sistemas estejam acessíveis quando necessários pelos usuários autorizados.
 - **Autenticidade (ou Irretratabilidade/Não Repúdio):** Confirma a identidade do emissor da informação, garantindo que ela provém de fonte confiável.
 - **Legalidade:** Garante que todo o tratamento de dados e sistemas atenda às legislações vigentes, como LGPD, e normas contratuais. 
 
