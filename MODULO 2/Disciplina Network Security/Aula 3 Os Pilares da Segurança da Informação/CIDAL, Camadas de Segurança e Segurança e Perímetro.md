@@ -2,4 +2,8 @@
 
 # Cidal
 
-- C
+- Confidencialidade
+- Integridade
+- Disponibilidade
+- Autenticidade
+- Legalidade
