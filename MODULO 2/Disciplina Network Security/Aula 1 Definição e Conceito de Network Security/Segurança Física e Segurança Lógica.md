@@ -6,4 +6,4 @@ Já a `Segurança Lógica` é todo tipo de controle para proteger sistemas, prog
 
 	A integração dos dois controles, sendo eles físicos e lógicos, aumenta a resposta a incidente, tratamento de riscos e pode mitigar problemas, economizando tempo e dinheiro.
 
-Existe também o controle de pessoas, que visa mitigar por meio de treinamentos, capacitações informativos, certificações e testes
+Existe também o controle de pessoas, que visa mitigar por meio de treinamentos, capacitações informativos, certificações e testes constantes.
