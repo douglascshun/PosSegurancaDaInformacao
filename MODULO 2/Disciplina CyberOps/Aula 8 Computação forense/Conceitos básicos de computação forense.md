@@ -61,4 +61,10 @@ Atente-se também na interpretação dos dados coletados, Identificação dos en
 
 - Procedimento para análise forense 
 - Criar registros para cada evidência
-- Criar assi
+- Criar assinatura das evidências
+- MD5
+- SHA1
+- SHA256
+- Evitar comprometimento de evidências
+- Criar relatório detalhado da investigação
+- Comandos executados
