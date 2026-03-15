@@ -15,3 +15,14 @@
 	Quanto mais `Layers` de `Segurança`, maior a `proteção`.
 
 
+# Segurança de Perímetro
+
+![[Seguranca de Perimetro.png]]
+
+# Análise de cenário contemporâneo coporativo
+
+- Home Office
+- Redes Sociais
+- Filiais
+- Nômades Digitais
+- 
