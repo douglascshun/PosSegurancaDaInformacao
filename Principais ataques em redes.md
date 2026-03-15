@@ -40,7 +40,7 @@ Monitora a atividades de senhas, sites, cookies ele usa outras técnicas nele co
 Técnicas para verificar as vulnerabilidades na rede, portas, protocolos, sistemas, versões para que o atacante tenha o levantamento das informações e encontre um caminho para invadir 
 
 - Spoofing
-
+É o ato de falsificar dados para se passar por outra pessoa, dispositivo ou serviço. É a "falsidade ideológica" do mundo digital. O objetivo geralmente é ganhar a confiança da vítima ou de um sistema para roubar dados, espalhar malware ou contornar controles de acesso.
 
 - Backdoors
 Acessos dentro de sistemas previamente instalados para que atacantes consigam remotamente interagir com a maquina 
