@@ -3,6 +3,7 @@
 - Controles de segurança. mecanismos, físicos o lógicos
 - É qualquer tipo de artefato que colabore com o controle da Segurança da Informação
 	- Firewalls
+Barreiras 
 	- Antivírus
 	- SIEM
 	- DLP
