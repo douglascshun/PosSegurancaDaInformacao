@@ -12,4 +12,9 @@ A fim de fixar melhor o contraste entre ameaça e vulnerabilidade, podemos relac
 Essa historia trás bem o contraste de ameaça e vulnerabilidade, onde uma vez banhado o guerreiro se tornou uma ameaça, mas por erro em suas costas havia uma vulnerabilidade
 
 
-# Exemplos de A
+# Exemplos de Ameaças em Segurança da Informação
+
+- Malwares Ransomwares Spywares
+- Ataques DDoS
+- Brute Force
+- Vazamento de Dados
