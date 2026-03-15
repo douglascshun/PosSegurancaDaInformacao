@@ -60,3 +60,6 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	- Qual a data, horário e destino da conexão?
 	- Qual nome do processo de rede e seu ID?
 	- Qual o host cliente?
+
+		`Arquivos dos registros de auditoria (logs)
+	- Quais as conexões de, e para
