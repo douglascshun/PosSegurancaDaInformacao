@@ -4,4 +4,4 @@
 
 - Os dados tem um papel crítico na economia digital
 - As Big Techs centralizam o business em informação
-- Centralização de dados, datalakes e falta de priv
+- Centralização de dados, datalakes e falta de privacidade
