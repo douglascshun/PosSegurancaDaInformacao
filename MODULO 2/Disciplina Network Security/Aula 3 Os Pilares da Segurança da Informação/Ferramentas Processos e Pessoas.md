@@ -2,6 +2,8 @@
 
 O ``Tripé de Sistemas de Informação (SI)``, frequentemente chamado de tríade PPT, é formado por ``Pessoas``, ``Processos`` e ``Tecnologia (ou Ferramentas)``. 
 
+![[TripePPT.png]]
+
 Esses três elementos são interdependentes e essenciais para o funcionamento, eficiência e sustentação de qualquer sistema de informação ou negócio. 
 
 Aqui está o que cada pilar representa:
@@ -16,3 +18,4 @@ Se um desses pilares falhar ou não estiver alinhado, o sistema de informação 
 1. `Tecnologia sem Pessoas/Processos:` Ferramentas caras que ninguém sabe usar ou que não se encaixam na rotina.
 2. `Pessoas sem Processos/Tecnologia:` Equipe talentosa, mas desorganizada e lenta.
 3. `Processos sem Pessoas/Tecnologia:` Regras no papel que não são seguidas ou operacionalizadas.
+
