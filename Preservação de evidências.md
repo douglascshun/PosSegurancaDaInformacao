@@ -13,4 +13,6 @@ Um registro deve conter pelo menos os seguintes itens:
 - Nome da pessoa que coletou a evidência
 - Descrição detalhada da evidência
 - Nome e assinatura das pessoas envolvidas
-- Identifi
+- Identificação do caso e identificação de evidencia (tags)
+- Assinatura MD5/SHA1 das evidências, se possível 
+- Informa
