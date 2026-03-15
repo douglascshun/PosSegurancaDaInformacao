@@ -76,4 +76,8 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	- Existem cerca de 100.000 arquivos numa máquina UNIX representando 10 mb de dados M/A/C/times
 	- Se disponível, é um conjunto de evidências que deve ser seriamente considerado 
 
-	`Network
+	`Network Sniffing
+	- É difícil de detectar 
+	- Pode capturar todo o tráfego de rede 
+	- Exelente para aompanhar o atauqe em andamento ou o retorno do atacante 
+	- Útil para controle de
