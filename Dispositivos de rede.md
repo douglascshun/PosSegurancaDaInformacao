@@ -18,3 +18,4 @@ Network Interface Card (Placas de Rede) são equipamentos em servidores, noteboo
 Ponte de acesso, local na rede onde as pessoas conectam os dispositivos  
 
 - Roteadores
+Faz o controle do tráfego, antigamente era um equipamento separado, atualmente é uma funcionalidade que vem dentro da maiorias dos dispositivos de rede como 
