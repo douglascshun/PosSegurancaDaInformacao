@@ -15,4 +15,4 @@ Conjunto de Dados = Informação
 Conjunto de Regras = Política
 Segurança da informação é uma `Política` de como usar a `informação`
 
-A Segurança da informação `precisa proteger os dados e informações` que são previamente definidos como estra
+A Segurança da informação `precisa proteger os dados e informações` que são previamente definidos como estratégicos para uma empresa contra o roubo, acesso indevido, alteração, indisponibilidade e destruição, para isso utiliza-se de controles, políticas e procedimentos de segurança.
