@@ -27,4 +27,7 @@ Um registro deve conter pelo menos os seguintes itens:
 	Discos, file systems, partições
 	Floppies, fitas e outros meios magnéticos
 	CD-ROMs, cópias impressas, etc...
-	
+
+		Ordem de pertubação do sistema computacional quando se executa um binario 
+
+	E
