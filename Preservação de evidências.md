@@ -21,4 +21,8 @@ Um registro deve conter pelo menos os seguintes itens:
 	
 	Registros de memória periférica, cache, etc...
 	Memoria do Kernel e física
-	Estado da rede, rotas, inter
+	Estado da rede, rotas, interfaces, etc..
+	Registros de memória periférica, cace, etc...
+	Processos em execução
+	Discos, filesystems, partições
+	
