@@ -7,17 +7,13 @@
 - Defacement
 - Adware
 - Keylogger Screenlogger
-- 
--
--
--
--
--
--
--
--
--
--
--
--
--
+- DNS poisoning
+- RootKit
+- Brute Force
+- Spyware
+- Phishing
+- Sniffing
+- Spoofing
+- Backdoors
+- Bot Net
+- Port Scanning
