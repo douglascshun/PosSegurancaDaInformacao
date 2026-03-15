@@ -7,4 +7,4 @@ Uma `vulnerabilidade` são fraquezas com potencial de serem exploradas por amea�
 
 # O mito de Siegfried
 ![[O mito de Siegfried.png]]
-A fim de fixar melhor o contraste entre ameaça e vulnerabilidade, podemos relacionar o mito de Siegfried da mitologia Nórdica. Siegfried era um guerreiro Nórdico muito conhecido que se comprometeu 
+A fim de fixar melhor o contraste entre ameaça e vulnerabilidade, podemos relacionar o mito de Siegfried da mitologia Nórdica. Siegfried era um guerreiro Nórdico muito conhecido que se comprometeu  a matar um dragão muito temido da região, completando esse feito, ele se ban
