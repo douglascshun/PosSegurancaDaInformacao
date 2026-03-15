@@ -6,7 +6,7 @@
 - As Big Techs centralizam o business em informação
 - Centralização de dados, datalakes e falta de privacidade
 
-exemplo do uso da informação:
+# Exemplo do uso da informação:
 ![[Uso da informacao.png]]
 
 Segue o cenário para o exemplo a cima
@@ -19,4 +19,4 @@ Segue o cenário para o exemplo a cima
 
 - Insight/ideia, se eu sei que vai chover e eu posso me molhar, preciso fazer alguma coisa para resolver isso
 
-- Wisdom/sabedoria, o que eu faço com todas as informações, esse momento vem como uma previsão do que precisa ser feito com base nos dados coletados, no caso levar um guardachuva 
+- Wisdom/sabedoria, o que eu faço com todas as informações, esse momento vem como uma previsão do que precisa ser feito com base nos dados coletados, no caso levar um guarda-chuva, pegar um Uber..
