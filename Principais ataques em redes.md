@@ -25,7 +25,7 @@ Ambos acompanham a atividade e movimentação, na tela e registro do que é digi
 Altera (envenena) os endereços de Domain Name Server
 
 - RootKit
-É
+É aplicado antes do Sistema Operacional, as vezes na camada de boot, ele pode estar também no WiFi, na bios, dentro de Firmwares
 
 - Brute Force
 
