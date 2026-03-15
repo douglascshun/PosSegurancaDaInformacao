@@ -11,6 +11,7 @@
 # Camadas de Segurança
 
 ![[Camadas de Segurança.png]]
-Quanto mais `Layers` de `Segurança`, maior a `proteção`.
+
+	Quanto mais `Layers` de `Segurança`, maior a `proteção`.
 
 
