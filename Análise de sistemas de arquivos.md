@@ -23,3 +23,8 @@ ctime (Creation time): mostra a data e a hora que o arquivo foi criado
 A simples abertura de um diretório ou arquivo mudará o seu atime, assim como algumas ferramentas de gerenciamento de arquivos com interface gráfica.
 
 Outro problema dos MACtimes é que eles exibem apenas quando uma ação foi feita, e não quem a fez
+
+
+	Copiar arquivos
+
+Não se
