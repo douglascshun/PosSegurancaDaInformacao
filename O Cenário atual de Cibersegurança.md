@@ -15,4 +15,7 @@ Internacional:
 
 Nacional:
 	- LGPD
-	- cR
+	- Crescimento exponencial do cibercrime
+	- Espionagem e Sabotagem Industrial 
+	- Trabalho remoto 
+
