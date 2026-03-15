@@ -7,3 +7,6 @@ Uma rede consiste em dois ou mais dispositivos, sejam computadores, celulares ou
 	- Feixes de Luz
 	- Infra vermelho
 
+# Tópicos importantes na arquitetura de redes
+
+- Redes TCP/IP e WI-FI
