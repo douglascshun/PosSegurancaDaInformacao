@@ -34,10 +34,10 @@ Utiliza as credenciais/senhas mais utilizadas e em casos específicos listas per
 Monitora a atividades de senhas, sites, cookies ele usa outras técnicas nele como keyloggers, screenloggers entre outras para gera um relatório completo 
 
 - Phishing
-É uma tentativa de fazer o usuário entrar em um local malicioso para fornecer informações, como as campanhas de phishing por e-mail
+É uma tentativa de fazer o usuário entrar em um local malicioso para fornecer informações e/ou fornecer acessos, como as campanhas de phishing por e-mail
 
 - Sniffing
-
+Tpecnicas para verificar as vulnerabilidades na rede, 
 
 - Spoofing
 
