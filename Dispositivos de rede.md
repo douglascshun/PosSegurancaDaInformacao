@@ -15,6 +15,6 @@ Ele Modula e Demodula o sinal vindo da rede externa (normalmente provedor de int
 Network Interface Card (Placas de Rede) são equipamentos em servidores, notebooks e computadores em geral que conecta o equipa a rede
 
 - Access Point
-Ponteo de acesso, roteador de interne
+Ponte de acesso, local na rede onde as pessoas conectam os dispositivos  
 
 - Roteadores
