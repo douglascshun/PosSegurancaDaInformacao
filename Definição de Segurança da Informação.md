@@ -11,3 +11,6 @@ Conjunto de dados, que tem muita importância para uma pessoa ou empresa
 	-Mecanismos
 	-Conduta/Cultura/Mindset
 
+Conjunto de Dados = Informação
+Conjunto de Regras = Política
+Segurança da informaç~
