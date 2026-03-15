@@ -43,7 +43,7 @@ Técnicas para verificar as vulnerabilidades na rede, portas, protocolos, sistem
 
 
 - Backdoors
-Acessos dent
+Acessos dentro de sistemas previamente instalados para que atacantes consigam remotamente interagir com a maquina 
 
 - Bot Net
 
