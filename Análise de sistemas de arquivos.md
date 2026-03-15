@@ -12,4 +12,8 @@ São dados que podem podem permanecer na máquina durante longos períodos de te
 
 mtime (Modification time): Mostra a última data e hora em que o arquivo foi modificado.
 
-atime (Access time): mostra a última data e hora em que um di
+atime (Access time): mostra a última data e hora em que um diretório ou arquivo foi acessado/lido.
+
+ctime (Creation time): mostra a data e a hora que o arquivo foi criado
+
+	MA
