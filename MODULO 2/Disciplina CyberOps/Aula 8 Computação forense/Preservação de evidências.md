@@ -67,4 +67,8 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	- Quais as sequências sucessivas de conexão de um site (exemplo, finger seguido de telnet)?
 	- Quais as conexões ocorridas num intervalo de tempo?
 
-	`Horários de acesso (ou modificação) de arquivos ou diretórios ()
+	`Horários de acesso (ou modificação) de arquivos ou diretórios (M/A/C/times)
+	- mtime = modification time
+	- ctime = access time
+	- ctime = status change time 
+	- dtime = delet
