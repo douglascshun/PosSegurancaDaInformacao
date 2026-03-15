@@ -46,6 +46,7 @@ Técnicas para verificar as vulnerabilidades na rede, portas, protocolos, sistem
 Acessos dentro de sistemas previamente instalados para que atacantes consigam remotamente interagir com a maquina 
 
 - Bot Net
-são computadores ou equipamentos zombie o atacante tem controle do equipamento, dando liberdade para ele fazer ataques como DD
+são computadores ou equipamentos zombie o atacante tem controle do equipamento, dando liberdade para ele fazer ataques como DDoS
 
 - Port Scanning
+O Port Scanning (Escanear Portas) é o criminoso testando todas as janelas e portas de uma casa para ver qual está destrancada.  uma técnica de reconhecimento usada para descobrir quais portas de comunicação estão "abertas" em um servidor ou dispositivo e, consequentemente, quais serviços estão rodando ali.
