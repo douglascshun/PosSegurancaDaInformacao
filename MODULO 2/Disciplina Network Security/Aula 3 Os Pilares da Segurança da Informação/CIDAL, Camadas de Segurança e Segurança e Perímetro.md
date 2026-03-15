@@ -7,3 +7,7 @@
 - Disponibilidade
 - Autenticidade
 - Legalidade
+
+# Camadas de Segurança
+
+![[Camadas de Segurança.png]]
