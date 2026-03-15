@@ -16,10 +16,10 @@ Código malicioso, ele faz alterações em registros (categoria que cria várias
 É como uma pichação onde os hackers invadem uma página e modificam algo para que o público veja 
 
 - Adware
-invasão de progandas que induzem a fazer algo ou impor informações 
+invasão de propagandas que induzem a fazer algo ou impor informações falsas.
 
 - Keylogger Screenlogger
-
+Ambos acompanham a atividade e movimentação, na tela e registro do que é digitado no teclado 
 
 - DNS poisoning
 
