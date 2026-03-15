@@ -55,4 +55,4 @@ Atente-se também na interpretação dos dados coletados, Identificação dos en
 - Elaboração de um laudo pericial 
 - Conclusão imparcial, clara e concisa
 - Exposição dos métodos utilizados 
-- DEve 
+- Deve ser de fácil interpretação por uma pessoa leiga
