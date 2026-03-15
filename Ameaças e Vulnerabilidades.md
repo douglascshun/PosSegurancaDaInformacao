@@ -4,3 +4,6 @@ Uma `ameaça` em SI é qualquer evento ou aspecto negativo que comprometa ou cau
 
 Uma `vulnerabilidade` são fraquezas com potencial de serem exploradas por ameaças.
 
+
+# O mito de Siegfried
+![[Pasted image 20260315130808.png]]
