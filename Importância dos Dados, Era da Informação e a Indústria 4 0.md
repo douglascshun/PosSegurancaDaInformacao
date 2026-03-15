@@ -13,4 +13,8 @@ Segue o cenário para o exemplo a cima
 
 - Data, seria como sentir uma gota de água pingar em ti na rua
 
-- Informação, se encaixa num grupo de dados, dada a situação que senti a gota de agua pongar 
+- Informação, se encaixa num grupo de dados, dada a situação que senti a gota de água pongar, parece que vai chover 
+
+- Knowledge/conhecimento, eu sei que vai chover com base no que observei até agora
+
+- 
