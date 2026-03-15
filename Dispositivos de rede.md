@@ -2,6 +2,12 @@
 
 São equipamentos de hardware que dão suporte a comunicação e segurança dos componentes participantes de uma rede.
 - Firewall
-- Switchs
+Cria redes com regras e politicas
+
+- Switches
+Distribui os pontos de rede com fogo
+
 - Modem
-- NI
+- NIC
+- Access Point
+- Roteadores
