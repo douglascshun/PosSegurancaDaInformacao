@@ -38,4 +38,7 @@ Um registro deve conter pelo menos os seguintes itens:
 	Controladoras
 	Hardware
 
-Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, em ordem de importância, os seguintes proced
+Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, em ordem de importância, os seguintes procedimentos e técnicas, bem como algumas questões associadas a eles:
+- Reconstrução do histórico dos usuários e suas operações
+- Reconstrução do histórico dos processos executados, ou em execução
+- Reconstrução da situação das conexões
