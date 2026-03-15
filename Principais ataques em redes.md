@@ -13,7 +13,7 @@ Código malicioso, ele faz alterações em registros (categoria que cria várias
 
 
 - Defacement
-
+É como uma pichação onde os hackers invadem uma página e modificam algo para que o p´
 
 - Adware
 
