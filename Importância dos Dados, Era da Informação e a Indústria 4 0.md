@@ -23,4 +23,6 @@ Segue o cenário para o exemplo a cima
 
 # Evolução da indústria
 
-![[Pasted image 20260314235820.png]]
+![[Evolucao da industria.png]]
+
+Neste cenário `93% das empresas` brasileiras reconhecem a 
