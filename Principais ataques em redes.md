@@ -10,7 +10,7 @@ Um ataque distribuído focado em derrubar paginas, serviços, plataformas (servi
 Código malicioso, ele faz alterações em registros (categoria que cria várias brechas para explorar o computador)
 
 - Pharming
-
+Pharming é uma técnica que redireciona o tráfego de um site legítimo para uma página falsa, mesmo que o usuário digite o endereço correto no navegador. O objetivo é roubar informações sensíveis, como dados de login e credenciais bancárias.
 
 - Defacement
 É como uma pichação onde os hackers invadem uma página e modificam algo para que o público veja 
