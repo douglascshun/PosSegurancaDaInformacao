@@ -79,5 +79,7 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	`Network Sniffing
 	- É difícil de detectar 
 	- Pode capturar todo o tráfego de rede 
-	- Exelente para aompanhar o atauqe em andamento ou o retorno do atacante 
-	- Útil para controle de
+	- Excelente para acompanhar o ataque em andamento ou o retorno do atacante 
+	- Útil para controle de danos, e inútil para recuperação de dados
+	- Exige alta capacidade de armazenamento 
+	- Dados encriptados são um problema e impossibilitam a 
