@@ -43,4 +43,9 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 - Reconstrução do histórico dos processos executados, ou em execução
 - Reconstrução da situação das conexões de rede e roteamento 
 - Arquivos dos registros de auditoria (logs)
-- Horários de acesso (ou modificação) de ar
+- Horários de acesso (ou modificação) de arquivos ou diretórios
+- Network Sniffing (se possível)
+
+
+	Reconstrução do histórico dos usuários e suas operações
+	- Quais 
