@@ -17,12 +17,14 @@ Um registro deve conter pelo menos os seguintes itens:
 - Assinatura MD5/SHA1 das evidências, se possível 
 - Informações técnicas pertinentes
 
-	Ordem de coleta de evidências:
+
+		Ordem de coleta de evidências:
 	
 	Registros de memória periférica, cache, etc...
 	Memoria do Kernel e física
 	Estado da rede, rotas, interfaces, etc..
-	Registros de memória periférica, cace, etc...
 	Processos em execução
-	Discos, filesystems, partições
+	Discos, file systems, partições
+	Floppies, fitas e outros meios magnéticos
+	CD-ROMs, cópias impressas, etc...
 	
