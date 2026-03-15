@@ -27,4 +27,4 @@ Outro problema dos MACtimes é que eles exibem apenas quando uma ação foi feit
 
 	Copiar arquivos
 
-Não se
+Não se deve fazer uma simples cópia do disco. O melhor procedimetno pe criar uma imagem do disco (copia bit a bit), o que inclui arquivos excluídos e impede a modificação do atmi
