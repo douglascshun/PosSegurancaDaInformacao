@@ -82,4 +82,5 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	- Excelente para acompanhar o ataque em andamento ou o retorno do atacante 
 	- Útil para controle de danos, e inútil para recuperação de dados
 	- Exige alta capacidade de armazenamento 
-	- Dados encriptados são um problema e impossibilitam a 
+	- Dados encriptados são um problema e impossibilitam a aplicação desta técnica
+	- Pode violar a privacidade de outros usuários. É fortemente dependente da política de organização e das leis vigentes
