@@ -13,9 +13,16 @@ Internacional:
 	- GPDR
 
 
+
 Nacional:
 	- LGPD
 	- Crescimento exponencial do cibercrime
 	- Espionagem e Sabotagem Industrial 
 	- Trabalho remoto 
+
+	Casos:
+	- Engenharia Social 
+	- Malwares latinos específicos 
+	- Ransomware
+	- Falta de profissional qualificado.
 
