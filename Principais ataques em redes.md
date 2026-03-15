@@ -22,10 +22,10 @@ invasão de propagandas que induzem a fazer algo ou impor informações falsas.
 Ambos acompanham a atividade e movimentação, na tela e registro do que é digitado no teclado 
 
 - DNS poisoning
-
+Altera (envenena) os endereços de Domain Name Server
 
 - RootKit
-
+É
 
 - Brute Force
 
