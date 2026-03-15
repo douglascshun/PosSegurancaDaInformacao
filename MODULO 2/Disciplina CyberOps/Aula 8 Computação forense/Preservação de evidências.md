@@ -73,4 +73,7 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	- ctime = status change time 
 	- dtime = deletion time (presente em alguns linux)
 	- Estes tempos são associados a qualquer arquivo ou diretório no UNIX, no windows NT e em outros filesystems. Trazem uma quantidade significativa de informações.
-	- Existem cerca de 100.000 arquivos numa máquina UNIX representando 10 mb de dados M/A/c
+	- Existem cerca de 100.000 arquivos numa máquina UNIX representando 10 mb de dados M/A/C/times
+	- Se disponível, é um conjunto de evidências que deve ser seriamente considerado 
+
+	`Network
