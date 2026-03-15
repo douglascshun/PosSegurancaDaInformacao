@@ -2,4 +2,4 @@
 
 A `Segurança Física` é uma forma de controlar e proteger equipamentos e dados contra acessos não autorizados e danos.
 
-Já a `Segurança Lógica` é todo 
+Já a `Segurança Lógica` é todo tipo de controle para proteger sistemas, programas e informações contra o acesso não autorizado, a destruição, a alteração o
