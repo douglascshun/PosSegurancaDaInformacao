@@ -28,7 +28,7 @@ Altera (envenena) os endereços de Domain Name Server
 É aplicado antes do Sistema Operacional, as vezes na camada de boot, ele pode estar também no WiFi, na bios, dentro de Firmwares
 
 - Brute Force
-
+Utiliza as senhas mais utilizadas e em casos específicos listas personalizadas de senhas para
 
 - Spyware
 
