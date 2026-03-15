@@ -18,3 +18,8 @@ Essa historia trás bem o contraste de ameaça e vulnerabilidade, onde uma vez b
 - Ataques DDoS
 - Brute Force
 - Vazamento de Dados
+
+# Segurança por obscuridade
+
+	Atenção
+
