@@ -37,3 +37,5 @@ Um registro deve conter pelo menos os seguintes itens:
 	Kernel 
 	Controladoras
 	Hardware
+
+Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, em ordem de importância, os seguintes proced
