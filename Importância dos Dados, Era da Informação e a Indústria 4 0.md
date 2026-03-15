@@ -20,3 +20,7 @@ Segue o cenário para o exemplo a cima
 - Insight/ideia, se eu sei que vai chover e eu posso me molhar, preciso fazer alguma coisa para resolver isso
 
 - Wisdom/sabedoria, o que eu faço com todas as informações, esse momento vem como uma previsão do que precisa ser feito com base nos dados coletados, no caso levar um guarda-chuva, pegar um Uber..
+
+# Evolução da indústria
+
+![[Pasted image 20260314235820.png]]
