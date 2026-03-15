@@ -16,4 +16,4 @@
 - **Autenticidade (ou Irretratabilidade/Não Repúdio):** Confirma a identidade do emissor da informação, garantindo que ela provém de fonte confiável.
 - **Legalidade:** Garante que todo o tratamento de dados e sistemas atenda às legislações vigentes, como LGPD, e normas contratuais. 
 
-Essa estrutura vai além do tripé clássico "CID" (Confidencialidade, Integridade e Disponibilidade), oferecendo uma análise de "necessidade e suficiência" mais completa para a segurança da informação, transformando-a em investimento estratégico, conforme descrito no blog da Colaborae e em uma análise da Sauer(https://sauer.com.br/AnaliseCIDAL.pdf).
+Essa estrutura vai além do tripé clássico "CID" (Confidencialidade, Integridade e Disponibilidade), oferecendo uma análise de "necessidade e suficiência" mais completa para a segurança da informação, transformando-a em investimento estratégico.
