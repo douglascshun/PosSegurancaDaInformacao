@@ -14,5 +14,5 @@ Aqui está o que cada pilar representa:
 Se um desses pilares falhar ou não estiver alinhado, o sistema de informação se torna ineficiente. Por exemplo:
 
 1. `Tecnologia sem Pessoas/Processos:` Ferramentas caras que ninguém sabe usar ou que não se encaixam na rotina.
-2. **Pessoas sem Processos/Tecnologia:** Equipe talentosa, mas desorganizada e lenta.
-3. **Processos sem Pessoas/Tecnologia:** Regras no papel que não são seguidas ou operacionalizadas.
+2. `Pessoas sem Processos/Tecnologia:` Equipe talentosa, mas desorganizada e lenta.
+3. `Processos sem Pessoas/Tecnologia:` Regras no papel que não são seguidas ou operacionalizadas.
