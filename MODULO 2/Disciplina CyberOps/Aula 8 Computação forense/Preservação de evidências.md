@@ -48,4 +48,6 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 
 
 	Reconstrução do histórico dos usuários e suas operações
-	- Quais 
+	- Quais usuários acessaram o sistema numa determinada hora?
+	- Qual foi o padrão de uso de uma conta em particular?
+	- Qual o Username, terminal e hora de inic
