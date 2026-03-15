@@ -72,3 +72,4 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	- ctime = access time
 	- ctime = status change time 
 	- dtime = deletion time (presente em alguns linux)
+	- Estes tempos são associados
