@@ -6,4 +6,8 @@
 Este registro deve conter informações sobre quem teve acesso ás evidências ou ás copias utilizadas.
 Durante um processo judicial, este registro vai garantir que as provas não foram comprometidas. Cada evidência coletada deve ter um registro de custódia associada a ela.
 
-Um registro deve conter pelo menos 
+Um registro deve conter pelo menos os seguintes itens:
+- Data e hora de coleta da evidência
+- De quem a evidência foi apreendida
+- Informações sobre o hardware, como fabricante, modelo, numero de serie ...
+- Nome da pessoa qe coletou a evid
