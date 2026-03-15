@@ -64,3 +64,4 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 		`Arquivos dos registros de auditoria (logs)
 	- Quais as conexões de, e para, um site específico?
 	- Quais as conexões para um serviço específico (exemplo telnet ou ftpd)?
+	- Quais as sequências sucessivas de conexão de um site (exemplo, finger seguido de telnet)?
