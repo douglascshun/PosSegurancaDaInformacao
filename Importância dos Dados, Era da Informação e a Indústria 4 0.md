@@ -27,3 +27,4 @@ Segue o cenário para o exemplo a cima
 
 Neste cenário `93% das empresas` brasileiras reconhecem a `importância dos dados`, de acordo com uma pesquisa realizada pelo Grupo Toccato.
 	Ótimo cenário de cibersegurança!
+
