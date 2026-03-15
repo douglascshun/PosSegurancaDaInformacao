@@ -20,4 +20,6 @@ ctime (Creation time): mostra a data e a hora que o arquivo foi criado
 
 ![[MACtime.png]]
 
-A simples abertura de um diretório ou arquivo mudará o seu atime, assim como algumas ferramentas de gerenciamento de arquv
+A simples abertura de um diretório ou arquivo mudará o seu atime, assim como algumas ferramentas de gerenciamento de arquivos com interface gráfica.
+
+Outro p
