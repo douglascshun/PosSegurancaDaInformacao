@@ -17,4 +17,6 @@ Segue o cenário para o exemplo a cima
 
 - Knowledge/conhecimento, eu sei que vai chover com base no que observei até agora
 
+- Insight/ideia, se eu sei que vai chover e eu posso me molhar, preciso fazer alguma coisa para resolver isso
+
 - 
