@@ -29,5 +29,11 @@ Um registro deve conter pelo menos os seguintes itens:
 	CD-ROMs, cópias impressas, etc...
 
 		Ordem de pertubação do sistema computacional quando se executa um binario 
-
-	E
+	
+	Shell e variáveis de ambiente 
+	Comando ou programa 
+	Bibliotecas dinâmicas
+	Device drivers
+	Kernel 
+	Controladoras
+	Hardware
