@@ -13,3 +13,5 @@ Uma rede consiste em dois ou mais dispositivos, sejam computadores, celulares ou
 - As sete camadas do modelo OSI
 - NIC -Modem - Switch - Roteador - AP
 - Topologia - Barramento - Pacotes
+
+Uma `rede` de computadores e suas conexẽs
