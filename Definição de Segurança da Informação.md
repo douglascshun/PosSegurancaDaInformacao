@@ -13,4 +13,6 @@ Conjunto de dados, que tem muita importância para uma pessoa ou empresa
 
 Conjunto de Dados = Informação
 Conjunto de Regras = Política
-Segurança da informaç~
+Segurança da informação é uma `Política` de como usar a `informação`
+
+A Segurança da informação `precisa proteger os dados e informações` que são previamente definidos como estra
