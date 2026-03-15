@@ -19,10 +19,13 @@
 
 ![[Seguranca de Perimetro.png]]
 
-# Análise de cenário contemporâneo coporativo
+# Análise de cenário contemporâneo corporativo
 
 - Home Office
 - Redes Sociais
 - Filiais
 - Nômades Digitais
-- 
+- Integrações / API
+- Cloud Computing
+- BYOUD
+- Shadow IT
