@@ -57,4 +57,6 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	- Quais os comando executados por um processo específico?
 
 		`Reconstrução da situação das conexões de rede e roteamento
-	- Qual
+	- Qual a data, horário e destino da conexão?
+	- Qual nome do processo de rede e seu ID?
+	- Qual o host cliente?
