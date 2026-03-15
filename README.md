@@ -286,7 +286,7 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
 
 ## Scripts e Ferramentas
 * [ Automação de postagem das anotações no Linkedin](./automacao_linkedin.py)
-* [ Sobre o MBA](./MBA%20em%20Segurança%20da%20Informação.md)
+* [ Sobre o MBA](MBA%20em%20Segurança%20da%20Informação.md)
 * [ LICENSE](./LICENSE)
 
 ---

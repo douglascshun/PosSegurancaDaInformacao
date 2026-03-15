@@ -16,4 +16,8 @@ atime (Access time): mostra a última data e hora em que um diretório ou arquiv
 
 ctime (Creation time): mostra a data e a hora que o arquivo foi criado
 
-	MA
+	MACtimes podem ser coletados bastante tempo depois de um incidente, porém são muito efêmeros.
+
+![[MACtime.png]]
+
+A simples abertura de um diretório ou arquivo mudará o seu atime, assim como algumas ferramentas de gerenciamento de arquv
