@@ -6,3 +6,7 @@ Internacional:
 	- Espionagem Sabotagem Industrial
 	- Terrorismo
 
+	Casos:
+	- Snowden x NSA
+	- Cambride Ana
+
