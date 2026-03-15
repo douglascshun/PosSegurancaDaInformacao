@@ -9,5 +9,5 @@
 exemplo do uso da informação:
 ![[Uso da informacao.png]]
 
-segue 
-Data, seria como 
+Segue o cenário para o exemplo a cima
+Data, seria como senti uma gota de agua pingar
