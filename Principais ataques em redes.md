@@ -1,7 +1,7 @@
 [[Aula 2 Ameaças e os dispositivos de rede]]
 
 - Ransomware
-Ele é um virus/malware que podem cheg
+Ele se espalha, verifica pastas docmentos downloads, normalmente com script que criptografa essas pastas importantes, a maioria das vezes cobram para res
 
 - DDoS
 - Malwares
