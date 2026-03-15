@@ -8,5 +8,7 @@ Internacional:
 
 	Casos:
 	- Snowden x NSA
-	- Cambride Ana
+	- Cambride Analytica
+	- Julian Assange - WikiLeaks
+	- GPDR
 
