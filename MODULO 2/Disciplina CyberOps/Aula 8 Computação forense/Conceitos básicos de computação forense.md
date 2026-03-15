@@ -56,3 +56,9 @@ Atente-se também na interpretação dos dados coletados, Identificação dos en
 - Conclusão imparcial, clara e concisa
 - Exposição dos métodos utilizados 
 - Deve ser de fácil interpretação por uma pessoa leiga
+
+	`Análise Forense:
+
+- Procedimento para análise forense 
+- Criar registros para cada evidência
+- Criar assi
