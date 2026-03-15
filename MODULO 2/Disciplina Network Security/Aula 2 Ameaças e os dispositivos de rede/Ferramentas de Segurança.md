@@ -3,3 +3,11 @@
 Ferramentas de segurança são recursos ou artefatos utilizados para promover camadas adicionais de segurança nas empresas.
 
 - Firewall
+
+- Switches
+
+- Políticas de SI
+
+- Antivirus 
+
+- 
