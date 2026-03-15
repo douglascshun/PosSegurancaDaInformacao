@@ -1,6 +1,8 @@
 [[Aula 2 Ameaças e os dispositivos de rede]]
 
 - Ransomware
+Ele é um virus/malware que podem cheg
+
 - DDoS
 - Malwares
 - Pharming
