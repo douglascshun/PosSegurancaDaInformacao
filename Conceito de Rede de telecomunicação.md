@@ -10,3 +10,6 @@ Uma rede consiste em dois ou mais dispositivos, sejam computadores, celulares ou
 # Tópicos importantes na arquitetura de redes
 
 - Redes TCP/IP e WI-FI
+- As sete camadas do modelo OSI
+- NIC -Modem - Switch - Roteador - AP
+- Topologia - Barramento - Pacotes
