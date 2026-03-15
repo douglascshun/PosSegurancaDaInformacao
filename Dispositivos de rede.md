@@ -9,8 +9,12 @@ Cria redes com regras e politicas
 Distribui os pontos de rede com foco em fragmentação de rede, diferente do HUB ele sabe qual é o IP e MAC dos dispositivos, o que impede lentidão e colisão dos dispositivos
 
 - Modem
-dem o sinal vindo da rede externa (normalmente provedor de internet )
+Ele Modula e Demodula o sinal vindo da rede externa (normalmente provedor de internet) seja fibra, rádio e outros meios
 
 - NIC
+Network Interface Card ()
+
 - Access Point
+
+
 - Roteadores
