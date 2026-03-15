@@ -3,6 +3,7 @@
 Ferramentas de segurança são recursos ou artefatos utilizados para promover camadas adicionais de segurança nas empresas.
 
 Exemplo de alguns desses recursos:
+
 - Firewall
 - Switches
 - Políticas de SI
