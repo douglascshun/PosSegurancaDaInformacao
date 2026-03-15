@@ -72,4 +72,4 @@ Entre os métodos a serem aplicados na correlação de eventos, pode-se citar, e
 	- ctime = access time
 	- ctime = status change time 
 	- dtime = deletion time (presente em alguns linux)
-	- Estes tempos são associados
+	- Estes tempos são associados a qualquer arquivo ou diretório no UNIX, no windows NT e em outros filesystems. Trazem uma quantidae significatica de informações
