@@ -37,13 +37,13 @@ Monitora a atividades de senhas, sites, cookies ele usa outras técnicas nele co
 É uma tentativa de fazer o usuário entrar em um local malicioso para fornecer informações e/ou fornecer acessos, como as campanhas de phishing por e-mail
 
 - Sniffing
-Tpecnicas para verificar as vulnerabilidades na rede, 
+Técnicas para verificar as vulnerabilidades na rede, portas, protocolos, sistemas, versões para que o atacante tenha o levantamento das informações e encontre um caminho para invadir 
 
 - Spoofing
 
 
 - Backdoors
-
+Acessos dent
 
 - Bot Net
 
