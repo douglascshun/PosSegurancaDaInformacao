@@ -10,4 +10,7 @@ Um registro deve conter pelo menos os seguintes itens:
 - Data e hora de coleta da evidência
 - De quem a evidência foi apreendida
 - Informações sobre o hardware, como fabricante, modelo, numero de serie ...
-- Nome da pessoa qe coletou a evid
+- Nome da pessoa que coletou a evidência
+- Descrição detalhada da evidência
+- Nome e assinatura das pessoas envolvidas
+- Identifi
