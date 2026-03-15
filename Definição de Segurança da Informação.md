@@ -8,6 +8,6 @@ Conjunto de dados, que tem muita importância para uma pessoa ou empresa
 
 	Pilares:
 	-Política
-	Mecanismos
-	Conduta/Cultura/Mindset
+	-Mecanismos
+	-Conduta/Cultura/Mindset
 
