@@ -31,7 +31,7 @@ Altera (envenena) os endereços de Domain Name Server
 Utiliza as credenciais/senhas mais utilizadas e em casos específicos listas personalizadas para tentar quebrar o acesso a locais 
 
 - Spyware
-Monitora a ativadade de senhas, sites, coockies 
+Monitora a atividades de senhas, sites, cookies ele usa outras técnicas nele como keyloggers, screenlogers entre outras para gera um relatório completo 
 
 - Phishing
 
