@@ -67,4 +67,6 @@ Atente-se também na interpretação dos dados coletados, Identificação dos en
 - SHA256
 - Evitar comprometimento de evidências
 - Criar relatório detalhado da investigação
-- Comandos executados
+- Comandos executados 
+- Pessoas entrevistadas
+- Evidências coletadas
