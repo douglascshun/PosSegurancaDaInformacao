@@ -12,3 +12,4 @@ Software focado na detecção de atividades suspeitas em maquinas
 Software de monitoramento de sistemas
 
 	- DLP
+Um conjunto de estratégias e ferramentas de cibersegurança que monitora, detecta e bloqueia o vazamento de dados sensíveis, garantindo que informações confidenciais não saiam da rede corporativa ou sejam acessadas indevidamente
