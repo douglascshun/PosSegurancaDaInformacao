@@ -9,4 +9,4 @@
 	Programa de Apoio Acadêmico
 	Cursos Livres - Rede
 
-Se em algum momento sugir o 
+Se em algum momento surgir o questionamento de fazer curso técnico, graduação, pós-graduação ou certificação - A resposta é simples, faça todos!
