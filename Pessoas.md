@@ -7,4 +7,6 @@
 	-CompTIA Security+
 	EXIN ISFS ISO 27001
 	Programa de Apoio Acadêmico
-	Cursos L
+	Cursos Livres - Rede
+
+Se em algum momento sugir o 
