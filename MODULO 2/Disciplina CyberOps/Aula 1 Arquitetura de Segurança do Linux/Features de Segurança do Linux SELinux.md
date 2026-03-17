@@ -1,0 +1,37 @@
+[[Aula 1 Arquitetura de Segurança do Linux]]
+
+De acordo com o Debian HandbookSELinix, Security Enhanced Linux é um sistema de controle de acesso obrigatório construído sobre a interface LSM (Linux Security Modules) do Linux. Na prática, o kernel consulta o SELinux antes de cada chamada do sistema para saber se o processo esta autorizado a fazer a operação dada.
+
+SELinuz estabelece:
+- Autoriza/proíbe operações
+- Gestão de permissões
+
+# Contexto de segurança/usuários
+O contexto é definido pela identidade do usuário que iniciou o processo, o papel e o domínio que o usuário realizará naquele momento.
+
+Os diretos realmente dependem do domínio, mas transições entre os domínios são controladas pelos papéis. 
+Transições possíveis entre os papéis dependem da identidade.
+
+# Configurando o SELinux
+- apt install selinux-basics selinux-policy-defalti auditd
+- somedule: habilita módulos
+- semanage: permissões aos usuários
+- /etc/selinux/default (onde fica todas essas regras)
+
+# Módulos SELinux disponíveis são armazenados no diretório /usr/share/selinux/default/c
+
+- semodule -i module.pp.bz2 > instalar
+- semodule -r module > excluir
+- semodule -l > listagem
+- semodule -e > habilitar
+- semodule -d >desabilitar
+
+
+# Principais arquivos
+
+`O arquivo .te` é o mais importante. Ele define as regras.
+
+
+`O arquivo .fc` define os arquivos de contextos, isto é, os tipos atribuídos aos arquivos relacionados à este módulo.
+
+`O arquivo .if` define a interface do módulo: é um conjunto de "funções públicas" que outros módulos podem usar para interagir adequadamente com o módulo que você está criando.
