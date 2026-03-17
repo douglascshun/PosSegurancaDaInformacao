@@ -1,1 +1,0 @@
-[[Aula 6 Monitoramento da Segurança da Informação]]
