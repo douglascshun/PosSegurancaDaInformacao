@@ -1,0 +1,10 @@
+[[Aula 4 Segurança Endpoint Windows]]
+
+
+Microsoft Defender Application Guard fornece isolamento do Hyper-V em windows 10 e windows 11, para proteger os usuários de conteúdo potencialmente prejudiciais na Web.
+
+A extensão ajuda Application Guard proteger os usuários que executam outros navegadores da web.
+
+O Microsoft Defener Application Guard Extension defende dispositivos em sua organização contra ataques avançados, redirecionando sites não confiáveis para uma versão isolada do Microsoft Edge.
+
+Se um site não confiável for mal -intencionado, ele permanecerá dentro do contêiner seguro do Application Guard, mantendo o dispositivo protegido.
