@@ -14,5 +14,5 @@ alguns exemplos são:
 - Ar Condicionado 
 - Alarme
 
-# Exemplo de datacenter:
-]]
+# Exemplo de data center com as medidas comentadas:
+![[Exemplo de datacenter.png]]
