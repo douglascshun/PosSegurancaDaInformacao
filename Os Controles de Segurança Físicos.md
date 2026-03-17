@@ -7,11 +7,10 @@ Podendo ser automático ou semi-automático
 alguns exemplos são:
 
 - Biometria + Crachá
-
 - CFTV
-
 - Nobreaks
-
 - Proteção Racks e Canaletas
+- Sistemas contra Incêndio FM-200
+- Ar Condicionado 
+- Alarme
 
-- Sistemas contra Incêndio FM-2
