@@ -6,7 +6,7 @@
 	- Estas empresas e setores não podem ter seus serviços ou produtos interrompidos.
 
 # Infraestruturas Críticas atuais no Brasil
-![[Pasted image 20260320150614.png]]
+![[Infraestruturas Críticas atuais no Brasil.png]]
 
 - Telecomunicações
 - Energia Elétrica e Nuclear
