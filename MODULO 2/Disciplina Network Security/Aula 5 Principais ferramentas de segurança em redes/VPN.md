@@ -11,3 +11,5 @@
 - Transitar dados em sigilo
 - Acessar conteúdo de trava de GeoIP
 - Conectar duas redes com criptografia
+
+A VPN pode estar embarcada no Firewall, no AV ou em um software exclusivo, pode ser VPN PPTP, VPN Site a Site e VPN L2TP.
