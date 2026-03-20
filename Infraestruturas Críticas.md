@@ -18,4 +18,9 @@
 
 # Casos reais de infraestruturas críticas 
 
-- Casos ponutia
+- Casos pontuais de falta de energia, internet e água
+- Crise de combustível 
+- Pandemia 
+- Chernobyl 1986
+- DeepWater Horizon 2010
+	- Ca
