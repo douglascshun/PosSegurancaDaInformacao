@@ -21,4 +21,6 @@
 # Controle de Segurança ACL
 - Proteger acessos indevidos, dispositivos e redes e sub-redes
 - Monitoramento de tráfego com armazenamento de logs
-- Gestão do tráfego 
+- Gestão do tráfego interno da rede
+- Criar agrupamentos NAT ou Roteamento 
+- Controles de acesso ao TelNet e SSH
