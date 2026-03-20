@@ -23,4 +23,7 @@
 - Pandemia 
 - Chernobyl 1986
 - DeepWater Horizon 2010
-	- Ca
+
+	Análise de interdependência de sites:
+	Usina Nuclear > Energia > Água
+	Data Center > Energia > Telecom
