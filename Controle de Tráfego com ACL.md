@@ -18,4 +18,7 @@
 
 ![[Controle de acesso CISCO.png]]
 
-Controle de Segurançla
+# Controle de Segurança ACL
+- Proteger acessos indevidos, dispositivos e redes e sub-redes
+- Monitoramento de tráfego com armazenamento de logs
+- Gestão do tráfego 
