@@ -9,4 +9,9 @@
 
 # Ex: Analisar e bloquear todos os passageiros que chegarem do país de destino: Mordor/TM
 
-	#access-list 1400 deny host 10.0
+![[Pasted image 20260320145626.png]]
+
+	#access-list 1400 deny host 10.0.0.1
+
+
+# Cin
