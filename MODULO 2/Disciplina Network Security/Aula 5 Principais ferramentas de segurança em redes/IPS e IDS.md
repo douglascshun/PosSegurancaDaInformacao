@@ -15,4 +15,5 @@ Através do seu gerenciador de análise, que já tem regras e políticas preesta
 
 A principal diferença entre eles é que p IDS é um sistema de monitoramento, enquanto o IPS é um sistema de controle de intrusão
 
-Com base nas análises do IDS o IPS realiza ações de bloqueio e restrições de trafego
+Com base nas análises do IDS o IPS realiza ações de bloqueio e restrições de trafego de rede antes que o ataque ocorra.
+
