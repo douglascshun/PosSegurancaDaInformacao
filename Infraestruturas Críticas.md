@@ -27,3 +27,11 @@
 	Análise de interdependência de sites:
 	Usina Nuclear > Energia > Água
 	Data Center > Energia > Telecom
+
+
+# Caso Stuxnet e a guerra cibernética
+
+- Ambiente militar, controlado e isolado 
+- Infraestrutura específica limitada
+- Sem conexão com internet 
+- SUCCESS!
