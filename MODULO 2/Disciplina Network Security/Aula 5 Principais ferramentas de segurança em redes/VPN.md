@@ -7,4 +7,7 @@
 # Exemplo de VPN
 ![[Exemplo de VPN.png]]
 
-N
+- Não ser identificado
+- Transitar dados em sigilo
+- Acessar conteúdo de trava de GeoIP
+- Conectar duas redes com criptografia
