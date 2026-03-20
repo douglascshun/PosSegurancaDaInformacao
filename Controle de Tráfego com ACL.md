@@ -7,4 +7,6 @@
 	- Controle do tráfego por protocolo
 	- Controle do tráfego por interface
 
-# Ex: 
+# Ex: Analisar e bloquear todos os passageiros que chegarem do país de destino: Mordor/TM
+
+	#access-list 1400 deny host 10.0
