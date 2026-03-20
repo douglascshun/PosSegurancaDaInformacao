@@ -24,4 +24,11 @@ a administração deste dispositivo requer conhecimentos sólidos em redes, mais
 - Controle de Pactes TCP/UDP
 - NAT
 - VLAN / DMZ
-- Proteções cont
+- Proteções contra Malwares e Spam 
+- Inspeção de protocolos HTTP/HTTPS e SMTP
+- VPN/IPSec
+- Proxy / Cache
+- IPS / IDS SNORD
+
+# Exemplo de configuração em Firewall:
+![[Config Firewall.png]]
