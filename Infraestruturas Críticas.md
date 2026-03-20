@@ -10,5 +10,8 @@
 
 - Telecomunicações
 - Energia Elétrica e Nuclear
-- Oléo e Gás
-- Econ^
+- Óleo e Gás
+- Econômico - Bancos
+- Água e Saneamento 
+- Abastecimento e Alimentação
+- Barragens 
