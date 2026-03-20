@@ -32,3 +32,12 @@ a administração deste dispositivo requer conhecimentos sólidos em redes, mais
 
 # Exemplo de configuração em Firewall:
 ![[Config Firewall.png]]
+
+
+# Considerações importantes sobre Firewall
+
+É a principal solução de proteção de rede; Deve ser precedida de uma política de SI; Não deve ser a única solução.
+
+`NGFW` (Next Generation Firewall), Faz a inspeção a nível de porta Protocolo e aplicação. Inclui IDS?IPS e anti-malware.
+
+`WAF` (Web Application Firewall) Security Group/VPC na AWS Azure Firewall
