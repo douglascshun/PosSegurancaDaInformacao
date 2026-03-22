@@ -6,3 +6,5 @@
 # Modelo TCP/IP
 ![[MODULO 2/Disciplina Network Security/Aula 6 Pentests e o Modelo OSI/Aula 6 Pentest e o Modelo OSI Imagens/Modelo TCP IP.png]]
 
+	É de extrema importância entender as duas pilhas a OSI e a TCP/IP e conhecer seus protocolos para solucionar problemas de conexão e encontrar e mmitigar vulnerabilidades.
+	
