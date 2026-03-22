@@ -25,3 +25,7 @@ Antivírus é um programa/software instalado em desktops, notebooks, servidores,
 # Análise Heurística
 A análise de Heurística(Arte de inventar, de fazer descobertas; ciência que tem por objeto a descoberta dos fatos) é a engine de nova geração, é uma metodologia nova e proativa de detectar ameaças pelo seu comportamento (behavor), conjunto de processos e serviços é uma camada á ,ais na segurança. muitas vezes é utilizado IA /machine Learning (telemetria) para comparações e aprendizado de novas ameaças.
 
+# Heurística
+
+![[Pasted image 20260322014240.png]]
+
