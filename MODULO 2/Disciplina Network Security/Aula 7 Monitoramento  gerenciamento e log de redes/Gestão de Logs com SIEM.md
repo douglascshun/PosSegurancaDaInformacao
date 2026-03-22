@@ -26,4 +26,6 @@
 - Mais uma camada de segurança ativa dentro da organização
 - Ferramenta em compliance com muitas normas como ISO 7001 -  PCI - DSS, GDPR, HIPAA e SOX é muito bem visto por auditores. 
 - 888//Torna o monitoramento proativo
-- Segurança para gerenciamento de IoT7
+- Segurança para gerenciamento de IoT através de APIs
+- Vigilância sobre acessos indevidos, mitigando e prevenindo ameaças internas
+- É o coração dos centros de operação como NOC e SOC
