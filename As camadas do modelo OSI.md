@@ -1,0 +1,1 @@
+É uma padronização dos portocolos de rede para garantir a comunicação de diversos sistemas em rede, é 
