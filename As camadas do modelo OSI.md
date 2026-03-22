@@ -1,1 +1,1 @@
-É uma padronização dos portocolos de rede para garantir a comunicação de diversos sistemas em rede, é uma referência da ISO. Foi dividado didaticamente em 7 camadas abstratas e emp
+É uma padronização dos portocolos de rede para garantir a comunicação de diversos sistemas em rede, é uma referência da ISO. Foi dividado didaticamente em 7 camadas abstratas e empilhadas e denrto de cada camada, um protocolo foi atribuído.
