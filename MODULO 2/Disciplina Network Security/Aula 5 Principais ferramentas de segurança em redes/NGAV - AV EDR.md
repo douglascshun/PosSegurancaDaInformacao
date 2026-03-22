@@ -23,4 +23,4 @@ Antivírus é um programa/software instalado em desktops, notebooks, servidores,
 ![[Bitdefender.png]]
 
 # Análise Heurística
-A análise de Heu
+A análise de Heurística(Arte de inventar, de fazer descobertas; ciência que tem por objeto a desoberta dos fatos)
