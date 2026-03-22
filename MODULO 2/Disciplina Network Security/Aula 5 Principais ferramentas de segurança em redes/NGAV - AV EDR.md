@@ -18,3 +18,6 @@ Antivírus é um programa/software instalado em desktops, notebooks, servidores,
 - Assinaturas atualizadas em hora e a importância da internet
 - Consumo de recursos de hardware pela engine do antivírus e a análise do custo benefício.
 - Senha para a desinstalação e usuário admin.
+
+# Exemplo de um antivírus na cloud:
+![[Bitdefender.png]]
