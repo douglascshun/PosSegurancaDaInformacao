@@ -1,7 +1,7 @@
 [[Aula 1 Monitoramento de redes]]
 # Zabbix
 
-![[Zabbix.png]]
+![[MODULO 1/Disciplina Network Defense/Aula 1 Monitoramento de redes/Aula 1 Monitoramento de redes Imagens/Zabbix.png]]
 Ferramenta (Open Source)que monitora, servidores, sites, redes, dispositivos usa ISCMP, SSH, entre outros protocolos, tem Agent, possuí a opção de alertas por sms, whatsapp, email, é programado por php e usa mySQL.
 
 # Nagio

@@ -16,3 +16,17 @@ A rede de dados de uma empresa é de suma importância para o funcionamento de v
 - Controle de performance de sistemas 
 - Previsibilidade e proatividade 
 - Celeridade e facilidade na resolução de problemas
+
+
+# Principais ferramentas de monitoramento de rede 
+
+- Grafana 
+- Zabbix
+- Prometheus
+- Site24x7
+- PRTG Network Monitor 
+
+
+# Visão Dashboard Zabbix
+
+![[MODULO 2/Disciplina Network Security/Aula 7 Monitoramento  gerenciamento e log de redes/Aula 7 Monitoramento  gerenciamento e log de redes Imagens/Zabbix.png]]
