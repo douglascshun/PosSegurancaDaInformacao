@@ -2,3 +2,4 @@
 	É importante compreender este modelo para solucionar a fonte de um problema de conexão de dispositivo em rede.
 
 ![[Pasted image 20260322150803.png]]
+# Modelo TCP/IP
