@@ -21,4 +21,7 @@
 ![[Visão de alertas SIEM.png]]
 
 # Porque gerenciar Logs e Eventos de rede:
-- 
+- Não é possível monitorar e agir preventivamente em todas as ferramentas de segurança de uma empresa manualmente 
+- Consolida os dados e mostra pontos de atenção críticos
+- Mais uma camada de segurança ativa dentro da organização
+- Ferramenta em compliance com muitas normas como ISO 7001 -  PCI - DSS, GDPR, HIPAA e SOX é muito bem visto por auditores. 
