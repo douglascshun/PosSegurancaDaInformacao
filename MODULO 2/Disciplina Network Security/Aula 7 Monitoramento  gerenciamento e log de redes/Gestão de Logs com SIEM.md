@@ -40,6 +40,16 @@
 - Ao escolher o fabricante, se atentar para a Interligência da análise e resultado do insight
 - Aplique o PDCA no SIEM
 
-#### Licenciamento (existes os do):
+#### Licenciamento (existes os dois tipos):
 - Armazenamento quantidade de gigabytes por dia
 - Velocidade dos eventos de dados processados por dia
+
+## Principais ferramentas de SIEM
+- Splunk
+- Suricata
+- Octopus
+- FortiSiem
+- Wazuh
+
+# Maior SIEM desenvolvido:
+![[PRISM.png]]Esse SIEM fazia correlacionamento com os dados, como VOIP, fotos, locais que você salva, contas, a quem é associado e mais N recursos
