@@ -5,4 +5,14 @@ O monitoramento de redes e sistemas através de protocolos como SNMP traz uma vi
 	Pode-se monitorar a disponibilidade ou performance de um sistema ou rede.
 
 # Porque monitorar ativos de rede e suas vantagens:
- 
+
+
+### The Network
+A rede de dados de uma empresa é de suma importância para o funcionamento de vários serviços e para comunicação e troca de informações.
+
+### Benefits
+- Aumento da produtividade e disponibilidade
+- Otimização de recursos
+- Controle de performance de sistemas 
+- Previsibilidade e proatividade 
+- Celeridade e facilidade na resolução de problemas
