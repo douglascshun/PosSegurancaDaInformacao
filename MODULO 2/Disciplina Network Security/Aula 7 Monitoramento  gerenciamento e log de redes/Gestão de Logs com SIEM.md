@@ -5,4 +5,12 @@
 - Ele realiza análises, insights e diagnostica um incidente baseado em logs e eventos de diversos appliances como servidores. 
 	A inteligencia de análise e correlação do SIEM é muito similar ao BI
 
-É um centralizador de todos os eventos com uma visão nificada, o que permite uma análise em real time, visando contramed
+É um centralizador de todos os eventos com uma visão nificada, o que permite uma análise em real time, visando contra medidas de defesa.
+
+- Agregação
+- Normalização
+- Análise
+- Informação com inteligência
+
+# Visão SIEM
+![[Visao SIEM.png]]
