@@ -21,3 +21,6 @@ Antivírus é um programa/software instalado em desktops, notebooks, servidores,
 
 # Exemplo de um antivírus na cloud:
 ![[Bitdefender.png]]
+
+# Análise Heurística
+A análise de Heu
