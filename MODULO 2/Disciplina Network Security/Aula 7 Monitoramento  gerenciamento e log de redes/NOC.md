@@ -9,3 +9,13 @@ Dualidade entre - Redução de Custos Operacionais de TI e Aumento da Maturidade
 BOC - Centro de Operações de Negócios - Controla gestão dos ativos de TI em um nível mais gerencial, focando no negócio
 
 GSOC- Centro de Operações de Segurança Globais 
+
+
+# Principais ferramentas utilizadas em NOC / SOC
+
+- SIEM
+- DLP
+- Antívirus
+- Firewall / IPS e IDS
+- Scanners de vulnerabilidades e riscos 
+- Backup / NAS / DR
