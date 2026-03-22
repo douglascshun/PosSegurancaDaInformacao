@@ -47,4 +47,4 @@ Gratuito:
 Anúncios, baixa frequência de atualizações, recursos mínimos, falta de suporte, mas é melhor que nenhum AV.
 
 Pago:
-Console de Gerenciamento, últimos recursos e atualizações, mais módulos omo cofre de senha, antiSpam, VPN e anti-
+Console de Gerenciamento, últimos recursos e atualizações, mais módulos omo cofre de senha, antiSpam, VPN e anti-ransomware. Apenas as versões pagas são cloud native, ou seja, apenas pagando você terá acesso a um antivírus e suporte especializado por chat ou telefone
