@@ -32,4 +32,4 @@ A análise de Heurística(Arte de inventar, de fazer descobertas; ciência que t
 ![[heuristica.png]]
 
 - NGAV - Nest Generation Antivírus - Versão Top de linha das principais fabricantes
-- EDR / XDR - Endpoint Detection Response - Con
+- EDR / XDR - Endpoint Detection Response - Conjunto de módulos e IA que transforma o antigo AV em uma console de defesa unificada, repleta de ferramentas e recursos. É uma Suíte de aplicativos de Segurança
