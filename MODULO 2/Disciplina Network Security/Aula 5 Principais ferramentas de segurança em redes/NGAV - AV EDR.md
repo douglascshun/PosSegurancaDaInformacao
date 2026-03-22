@@ -40,4 +40,8 @@ A análise de Heurística(Arte de inventar, de fazer descobertas; ciência que t
 - Módulos, serviços e recursos: Análise por comportamento - Antimalware (proteção especifica contra ransomware) - Cofre de Senhas - Anti-Spam - Firewall Pessoal - VPN - Atualização Automática de Software e SO - Modulo Internet/Navegação - Limpeza e TuneUP - Dashboard Reports - Policy - IAM - DLP SandBox - Console de Gerenciamento - Suporte.
 
 - Desenvolvimento seguro, segurança por padrão, pois AV atua a nível de aplicação. Exemplo: SQL Injection.
-#
+
+# Pago ou gratuito?
+
+Gratuito:
+Anúncios, baixa frequência de atualizações, recursos mímos, falta de suporte, mas é melh
