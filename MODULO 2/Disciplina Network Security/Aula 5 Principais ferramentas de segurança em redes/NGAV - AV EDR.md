@@ -27,5 +27,8 @@ A análise de Heurística(Arte de inventar, de fazer descobertas; ciência que t
 
 # Heurística
 
+
+
 ![[Pasted image 20260322014240.png]]
 
+![[heuristica.png]]
