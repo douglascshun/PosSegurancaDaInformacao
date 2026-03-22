@@ -44,4 +44,7 @@ A análise de Heurística(Arte de inventar, de fazer descobertas; ciência que t
 # Pago ou gratuito?
 
 Gratuito:
-Anúncios, baixa frequência de atualizações, recursos mímos, falta de suporte, mas é melh
+Anúncios, baixa frequência de atualizações, recursos mínimos, falta de suporte, mas é melhor que nenhum AV.
+
+Pago:
+Console de Gerenciamento, últimos recursos e atualizações, mais módulos omo cofre de senha, antiSpam, VPN e anti-
