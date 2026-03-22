@@ -1,4 +1,4 @@
-[[modulo 2]]
+[[M]]
 
 # Testes de Segurança
 
