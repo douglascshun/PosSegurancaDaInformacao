@@ -34,4 +34,5 @@ A análise de Heurística(Arte de inventar, de fazer descobertas; ciência que t
 - NGAV - Nest Generation Antivírus - Versão Top de linha das principais fabricantes
 - EDR / XDR - Endpoint Detection Response - Conjunto de módulos e IA que transforma o antigo AV em uma console de defesa unificada, repleta de ferramentas e recursos. É uma Suíte de aplicativos de Segurança
 - Maior capacidade de detecção e menor falso positivo 
-- Módulos, serviços e recursos: Análise por comportamento - Antimalware (proteção especifica contra ransomware) - Cofre de Senhas - Anti-Spam - Firewall Pessoal - VPN - Atualização Automática de Software e SO - Modulo Internet/Navegação - Limpeza e T
+- Módulos, serviços e recursos: Análise por comportamento - Antimalware (proteção especifica contra ransomware) - Cofre de Senhas - Anti-Spam - Firewall Pessoal - VPN - Atualização Automática de Software e SO - Modulo Internet/Navegação - Limpeza e TuneUP - Dashboard Reports - Policy - IAM - DLP SandBox - Console de Gerenciamento - Suporte.
+- Desenvolvimetno seguro, 
