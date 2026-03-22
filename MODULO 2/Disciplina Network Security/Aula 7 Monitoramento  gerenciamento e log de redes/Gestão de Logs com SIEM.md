@@ -25,4 +25,5 @@
 - Consolida os dados e mostra pontos de atenção críticos
 - Mais uma camada de segurança ativa dentro da organização
 - Ferramenta em compliance com muitas normas como ISO 7001 -  PCI - DSS, GDPR, HIPAA e SOX é muito bem visto por auditores. 
-- Torna o monit
+- 888//Torna o monitoramento proativo
+- Segurança para gerenciamento de IoT7
