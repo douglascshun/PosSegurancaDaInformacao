@@ -15,4 +15,6 @@ Antivírus é um programa/software instalado em desktops, notebooks, servidores,
 # Considerações sobre AV
 
 - Quarentena / Exceções / Exclusões / Falso Positivo / Capacidade de Detecção
-- Assinaturas atualizadas em hora e a import^
+- Assinaturas atualizadas em hora e a importância da internet
+- Consumo de recursos de hardware pela engine do antivírus e a análise do custo benefício.
+- Senha para a desinsta e usuário admin
