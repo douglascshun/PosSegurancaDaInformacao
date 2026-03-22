@@ -30,3 +30,6 @@ A análise de Heurística(Arte de inventar, de fazer descobertas; ciência que t
 ![[Logica da heuristica.png]]
 
 ![[heuristica.png]]
+
+- NGAV - Nest Generation Antivírus - Versão Top de linha das principais fabricantes
+- EDR / XDR - Endpoint Detection Response - Con
