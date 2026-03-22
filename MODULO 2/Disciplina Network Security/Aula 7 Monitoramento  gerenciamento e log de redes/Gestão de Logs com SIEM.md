@@ -29,3 +29,17 @@
 - Segurança para gerenciamento de IoT através de APIs
 - Vigilância sobre acessos indevidos, mitigando e prevenindo ameaças internas
 - É o coração dos centros de operação como NOC e SOC
+
+# Considerações sobre SIEM
+
+#### Implementação:
+- Suporte especializado necessário
+- Profissional treinado e dedicado para monitorar a ferramenta
+- Custo elevado da ferramenta - ROI
+- Terceirização e SIEM Software as a Service -SaaS
+- Ao escolher o fabricante, se atentar para a Interligência da análise e resultado do insight
+- Aplique o PDCA no SIEM
+
+#### Licenciamento (existes os do):
+- Armazenamento quantidade de gigabytes por dia
+- Velocidade dos eventos de dados processados por dia
