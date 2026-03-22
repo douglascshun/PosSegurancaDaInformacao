@@ -14,3 +14,11 @@
 
 # Visão SIEM
 ![[Visao SIEM.png]]
+
+
+	Ele apresenta através de dashboads e visões de alertas do que está acontecendo na visão de segurança e de rede.
+
+![[Visão de alertas SIEM.png]]
+
+# Porque gerenciar Logs e Eventos de rede:
+- 
