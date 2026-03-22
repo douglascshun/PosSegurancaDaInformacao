@@ -7,7 +7,7 @@ A partir do momento em que as redes de computadores começaram a evoluir, passan
 
 Como o modelo de referência OSI já não atendia de forma eficiente ás redes de computadores, foi então desenvolvido um novo modelo de comunicação, o qual foi denominado de modelo de referência TCP/IP, e sua estrutura pode ser observada a seguir: 
 
-![[Modelo TCP IP.png]]
+![[MODULO 1/Disciplina Networking Essentials/Aula 4 Modelos de rede/Aula 4 Modelos de rede Imagens/Modelo TCP IP.png]]
 
 ## COMPARATIVO DOS MODELOS OSI E TCP/IP
 

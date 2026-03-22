@@ -19,7 +19,7 @@ Permite a comunicação em rede de sistemas com software distintos!
 
 O modelo OSI não deve ser considerado como um protocolo, mas como um arquétipo utilizado com a finalidade de assimilar e delinear uma arquitetura de rede flexível que funcione de forma conjunta. 
 
-![[Modelo OSI.png]]
+![[MODULO 1/Disciplina Networking Essentials/Aula 4 Modelos de rede/Aula 4 Modelos de rede Imagens/Modelo OSI.png]]
 
 
 Para desenvolver o modelo, os projetistas verificaram o processamento da transmissão de dados em seus elementos mais fundamentais. Assim, as camadas definem grupos de funções específicas que prestam serviços uns aos outros. dessa forma, o modelo OSI constitui uma arquitetura mais flexível e abrangente.
