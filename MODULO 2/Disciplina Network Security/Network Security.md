@@ -1,2 +1,27 @@
-[[Módulo 2]]
-A disciplina de Network Security é fundamental no cenário atual, onde as redes de dados se tornaram essenciais para as operações de qualquer corporação. O compartilhamento de dados e tráfego exigem medidas robustas de segurança para garantir a integridade, confidencialidade e disponibilidade das informações. Para isso, é crucial implementar camadas de segurança, controles rigorosos e monitoramento constante em toda a infraestrutura de rede. A Network Security se concentra na proteção da camada de rede, atuando como alicerce para a Cyber Security, que abrange um escopo mais amplo, incluindo aplicações e sistemas. Em um contexto ainda mais abrangente, a Segurança da Informação engloba tanto o mundo digital quanto o físico, protegendo dados em todos os níveis. Compreender os diferentes níveis de segurança é crucial para implementar uma estratégia abrangente e eficaz. A disciplina de Network Security se concentra na base dessa estrutura, fornecendo as ferramentas e o conhecimento para proteger a camada fundamental da comunicação digital. Ao longo do curso, serão abordados os principais tipos de ataques que visam as redes, desde os mais básicos até as ameaças mais sofisticadas. Os alunos aprenderão a identificar, analisar e responder a esses ataques, utilizando as melhores práticas e ferramentas de segurança disponíveis. A identificação e análise de riscos, a implementação de firewalls e sistemas de detecção e prevenção de intrusões, a configuração segura de dispositivos de rede e a criptografia de dados são apenas alguns dos tópicos que serão abordados. O objetivo é capacitar os alunos a construir e gerenciar redes seguras, capazes de resistir e se recuperar de ataques, garantindo a continuidade das operações. Além dos aspectos técnicos, a disciplina também abordará a importância da conscientização dos usuários, políticas de segurança robustas e a importância da atualização constante dos sistemas. Afinal, a segurança de uma rede depende não apenas da tecnologia, mas também do comportamento humano e de processos bem definidos. O professor Tiago Tolentino, com vasta experiência em segurança da informação e infraestrutura de redes, guiará os alunos por este universo complexo e desafiador. Sua expertise em diversos setores, como fintechs, mineradoras e agronegócio, proporcionará uma visão abrangente e prática dos desafios e soluções em Network Security. Através de uma abordagem prática e dinâmica, os alunos desenvolverão habilidades essenciais para se tornarem profissionais de segurança da informação altamente qualificados. A disciplina fornecerá as ferramentas necessárias para construir carreiras sólidas em um mercado que demanda, cada vez mais, especialistas em segurança de redes. Ao final do curso, os alunos serão capazes de identificar e analisar vulnerabilidades, implementar medidas de segurança eficazes, responder a incidentes de forma rápida e eficiente e garantir a proteção dos dados e sistemas sob sua responsabilidade. A jornada no mundo da Network Security começa aqui, preparando os alunos para os desafios e oportunidades de um mercado em constante evolução.
+[[]]
+
+# Testes de Segurança
+
+São testes realizados em softwares, sistemas ou redes de empresas para mensurar sua capacidade de proteção, seu nível de exposição a vulnerabilidades conhecidas
+	Deve ser realizado por profissionais extremamente técnicos e competentes.
+
+## Por quais razões se deve fazer ?
+
+- Perda e exfiltração de dados sigilosos
+- Impedir invasão por Crackers
+- Ação de vingança por funcionários
+- Defacement página institucional
+- Concorrência e Espionagem Industrial
+- Ataque ao CIDAL
+	Os testes verificam se os requisitos de segurança estão sendo atendidos conforme:
+		- ISO 27001
+		- Mitre
+		- LGPD
+		- NIST
+
+# Exemplos de testes de segurança
+
+- RedTeam / BleTeam / PurpleTeam
+- Teste de Vulnerabilidade e Risco
+- Avaliação de Maturidade da Empresa
+- Pentest
