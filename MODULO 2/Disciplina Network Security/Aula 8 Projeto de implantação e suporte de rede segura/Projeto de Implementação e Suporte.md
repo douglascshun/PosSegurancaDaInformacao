@@ -32,4 +32,12 @@ Realizar um planejamento das etapas de realização de um projeto de redes de co
 
 - Tecnologias
 - Fabricantes
-- Def9inição
+- Definição do ISP WAN -SLA e Redundância
+- Cabeamento Estruturado, Wi-Fi e Fibra Ótica
+- Condição física do ambiente: AC/UPS/TN/DR
+- Definição de DC, Sala ou Rack de Rede
+
+### Testes, otimizações e documentações 
+- Testes e comissionamento 
+- Ajustes e otimização
+- Monitoramento - Zabbix /
