@@ -13,3 +13,4 @@ Você ou sua empresa precisa de infraestrutura computacional, mas o investimento
 	A computação em nuvem é um mecanismo de levar a contratação ou a obtenção de serviços da capacidade ou infraestrutura de computação a um nível organizacional ou individual, na extensão exigida e pagando apenas pelos serviços consumidos.
 
 Quem nasceu na Nuvem, nunca vai saber o que pe usar um disquete e seus vastos 1.44 MBs!
+	Esse modelo ainda apresenta conveniência e a confiabilidade, visto que, antes, para poder transportar um arquivo, por exemplo, era necessário um pendrive, um HD externo ou até mesmo gravá-lo em um CD, e hoje existem aplicativos em nuvem que permitem salva
