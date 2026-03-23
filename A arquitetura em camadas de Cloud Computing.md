@@ -43,4 +43,6 @@ Onde temos o serviço de PaaS (Platform as a Service), com foco principal nos de
 	Ela consiste no sistemas operacionais e aplicação de plataforma que permite serviços como storage, banco de dados e outros recursos comuns ao desenvolvimento com interfaces de gerenciamento inteligentes.
 	Ecemplo: OpenShift da RedHat.
 
-`Camada de 
+`Camada de Infraestrutura`:
+Onde estão os serviços de IaaS (Infrastructure as a Service), mais próximo do hardware puro.
+	É também chamada de camada de virtualização, pois possibilita a criação e controle dos pools de recursos de computação e de armazenamento. Ela possui todas caracteristicas
