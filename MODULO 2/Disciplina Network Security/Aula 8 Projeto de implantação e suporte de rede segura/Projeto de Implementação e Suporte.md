@@ -40,4 +40,7 @@ Realizar um planejamento das etapas de realização de um projeto de redes de co
 ### Testes, otimizações e documentações 
 - Testes e comissionamento 
 - Ajustes e otimização
-- Monitoramento - Zabbix /
+- Monitoramento - Zabbix / PRTG Network
+- Validação dos requisitos e do escopo
+- Documentação, identificação e registro
+- Entrega e conclusão
