@@ -7,4 +7,4 @@
 
 # Normas e frameworks
 
-- 
+![[Normas e frameworks.png]]
