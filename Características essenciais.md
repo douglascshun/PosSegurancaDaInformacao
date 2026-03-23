@@ -20,7 +20,8 @@ Mas o usuário deve sempre buscar promover o uso correto e eficiente!
 4. Rápida elasticidade (rapid elasticy):
 	Os recursos podem ser provisionados elasticamente e liberados, em alguns casos de modo automático, para escalar rapidamente para expansão e redução, conforme a demanda.
 
-
+5. Serviço medido (measured service):
+	Os serviços em nuvem controlam e otimizam automaticamente o uso de recursos, aproveitando um recurso de medição em algum nível de abstração apropiado ao uso de serviço. O uso de recursos pode ser monitorado, controlado e relatado, fornecendo transparência ao provedor e ao consumidor do serviço utilizado
 
 *A grande ideia da computação em nuvem é fornecer boa vantagem econômica para os usuários!* 
 
