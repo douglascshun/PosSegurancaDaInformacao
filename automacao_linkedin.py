@@ -71,7 +71,7 @@ if my_urn:
             response = client.models.generate_content(
                 model="gemini-3-flash-preview", 
                 contents=(
-                    f"Atue como um Especialista em Marketing de Conteúdo e Segurança da Informação, principalmente Red Team. "
+                    f"Reescreva para eu publicar no LinkedIn, reescreva como um hacker avançado em Red Team escreveria, também tire essa mecânica padrão de emojis e a todo momento quebras de linhas o que entrega muito que foi gerado por ia:  "
                     f"Converta o conteúdo abaixo em um post para LinkedIn.\n\n"
                     f"CONTEÚDO BASE: {conteudo}\n\n"
                     "REGRAS CRÍTICAS:\n"
