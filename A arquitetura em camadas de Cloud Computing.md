@@ -18,3 +18,17 @@ Com foco em segurança e disponibilidade dos recursos. Imagine uma empresa de en
 
 Cada camada da nuvem representa um nível de serviços.
 	A arquitetura em nuvem é normalmente dividida em quatro camadas (Hardware, Infraestrutura, Plataforma e Aplicação), onde uma camada fornece serviços, sob demanda, ara a camada imediatamente acima.
+
+# Arquitetura baseada em camadas da computação em nuvem
+
+- Aplicação
+SaaS - Software a Service
+
+- Infraestrutura
+IaaS - Infraestructure as a Service
+
+- Plataforma
+PaaS - Platform as a Service
+
+- Hardware
+
