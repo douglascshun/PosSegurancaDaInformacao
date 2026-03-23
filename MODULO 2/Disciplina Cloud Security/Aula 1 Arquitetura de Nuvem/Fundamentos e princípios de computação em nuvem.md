@@ -1,3 +1,4 @@
 [[Aula 1 Arquitetura de Nuvem]]
 
-Será que ainda prec
+Será que ainda precisa dizer que vivemos na era digital? E que agora os nossos dados e negócios vivem na Nuvem?
+	A computação em nuvem é uma inovação no setor de tecnologia da informação (TI) , representando a solução 
