@@ -39,4 +39,8 @@ PaaS - Platform as a Service
 	Ela armazena as aplicações e fornece serviços específicos, como Multimídia, Web Service. Além disso, ela permite abstrair o acesso às aplicações através da Internet e de forma remota, eliminando assim a necessidade de instalação da aplicação localmente por parte de cada usuário. Como exemplo é possível citar o GSuite da Google.
 
 `Camada de plataforma`:
-Onde o
+Onde temos o serviço de PaaS (Platform as a Service), com foco principal nos desenvolvedores de aplicações.
+	Ela consiste no sistemas operacionais e aplicação de plataforma que permite serviços como storage, banco de dados e outros recursos comuns ao desenvolvimento com interfaces de gerenciamento inteligentes.
+	Ecemplo: OpenShift da RedHat.
+
+`Camada de 
