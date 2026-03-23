@@ -5,4 +5,5 @@ Cada camada uma aplicação, portanto a implementação depende do conhecimento 
 
 1. Nuvem publica:
 Acesso mais comum, via navegador web e usa cobrança conforme o uso.
-	Isso reduz custos de operação de TI e custos de concessão de infraestruturas. Apesar da possibilidade de redução de custos de infraestrutura, este modelo esbarra em questões de segurança de dados (acesso e armazenamento)
+	Isso reduz custos de operação de TI e custos de concessão de infraestruturas. Apesar da possibilidade de redução de custos de infraestrutura, este modelo esbarra em questões de segurança de dados (acesso e armazenamento), de rede e de privacidade. 
+	Exemplos conhecidos deste tipo de modelo são a  AWS (Amazon Web Services) e IBM Cloud.
