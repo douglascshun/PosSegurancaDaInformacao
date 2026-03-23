@@ -13,3 +13,5 @@ Fornecimento de computadores servidores, armazenamento de dados, Firewall, recur
 
 - Platform as a Service (PaaS):
 Plataforma com qual desenvolvedores podem implementar suas aplicações, como linguagens de programação, hardware (servidores, discos), sistemas operacional, ferramentas de desenvolvimento etc..
+
+
