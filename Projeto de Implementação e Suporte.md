@@ -4,4 +4,8 @@
 Realizar um planejamento das etapas de realização de um projeto de redes de comunicação de uma empresa. Entender os requisitos, dimensionar e garantir disponibilidade, escalabilidade e segurança.
 	Importante elaborar uma abordagem top-down e um projeto lógico e físico.
 
-# Etapas de
+# Etapas do Projeto 
+- Necessidades e objetivos do cliente
+- Projeto lógico da rede
+- Projeto físico da rede
+- Testes, otimização e documentações 
