@@ -13,3 +13,6 @@ Mas o usuário deve sempre buscar promover o uso correto e eficiente!
 
 2. Amplo acesso à rede (broad network access):
 	Os recursos estão disponíveis na rede e acessados por mecanismos-padrão que promovem o uso por plataformas heterogêneas de thin ou tick client ( exemplo: smartphones, tablets, notebooks, desktops). Os usuários têm acesso à nuvem e aos seus recursos de qualquer lugar por meio de um dispositivo conectado à internet.
+
+# A grande ideia da computação em nuvem é fornecer boa vantagem econômica para os usuários!
+
