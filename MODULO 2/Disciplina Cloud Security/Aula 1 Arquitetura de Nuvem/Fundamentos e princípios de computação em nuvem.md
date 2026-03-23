@@ -16,4 +16,4 @@ Quem nasceu na Nuvem, nunca vai saber o que pe usar um disquete e seus vastos 1.
 	Esse modelo ainda apresenta conveniência e a confiabilidade, visto que, antes, para poder transportar um arquivo, por exemplo, era necessário um pendrive, um HD externo ou até mesmo gravá-lo em um CD, e hoje existem aplicativos em nuvem que permitem salvar os arquivos desejados e acessa-los de qualquer local com acesso à internet.
 
 Vamos deixar de ligar nossos aparelhos para loggar nossos aparelhos...
-	A computação em nuvem está muito presente no dia a 
+	A computação em nuvem está muito presente no dia a dia, mesmo que as pessoas geralmente não saibam disso: e-mails, Netflix, rede sociais e aplicativos do Google são algns exemplos de serviços
