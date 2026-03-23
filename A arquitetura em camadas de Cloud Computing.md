@@ -9,4 +9,5 @@ Acesso mais comum, via navegador web e usa cobrança conforme o uso.
 	Exemplos conhecidos deste tipo de modelo são a  AWS (Amazon Web Services) e IBM Cloud.
 
  2. Nuvem Privada:
-Com foco e
+Com foco em segurança e disponibilidade dos recursos. Imagine uma empresa de entregas com suas próprias ruas e avenidas...
+	A organização possui os
