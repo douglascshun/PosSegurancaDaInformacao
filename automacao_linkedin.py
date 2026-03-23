@@ -69,17 +69,16 @@ if my_urn:
             response = client.models.generate_content(
                 model="gemini-3-flash-preview", 
                 contents=(
-    f"Atue como um Especialista em Marketing de Conteúdo e LinkedIn Creator, e Segurança da Informação "
-    f"Seu objetivo é transformar o conteúdo técnico abaixo em um post de alto impacto para o LinkedIn. "
-    f"\n\nCONTEÚDO BASE: {conteudo} \n\n"
-    "DIRETRIZES DE FORMATAÇÃO:"
-    "\n1. HOOK: Comece com uma frase de impacto (gancho) que gere curiosidade ou ataque uma dor comum."
-    "\n2. CORPO: Use bullet points para facilitar a leitura (escaneabilidade)."
-    "\n3. TOM: Profissional, porém leve e autêntico (evite termos corporativos excessivamente genéricos)."
-    "\n4. CTA: Termine com uma pergunta para incentivar comentários."
-    "\n5. EMOJIS: Use moderadamente para pontuar os tópicos."
-    "\n6. HASHTAGS: Adicione 3 hashtags relevantes ao final."
-    "\n\nRestrição: O texto deve ter no máximo 1300 caracteres."
+                    f"Atue como um Especialista em Marketing de Conteúdo e Segurança da Informação, principalmetne red team. "
+                    f"Converta o conteúdo abaixo em um post para LinkedIn.\n\n"
+                    f"CONTEÚDO BASE: {conteudo}\n\n"
+                    "REGRAS CRÍTICAS:\n"
+                    "1. RESPONDA APENAS COM O TEXTO FINAL DO POST.\n"
+                    "2. NÃO inclua introduções como 'Aqui está o post', 'Claro', ou 'Espero que ajude'.\n"
+                    "3. NÃO inclua aspas no início ou no fim.\n"
+                    "4. Use o HOOK, Bullet Points, Tom profissional e leve, CTA e 3 Hashtags.\n"
+                    "5. Máximo 1300 caracteres."
+                    "6. Não use emojis"
     )
 )
             
