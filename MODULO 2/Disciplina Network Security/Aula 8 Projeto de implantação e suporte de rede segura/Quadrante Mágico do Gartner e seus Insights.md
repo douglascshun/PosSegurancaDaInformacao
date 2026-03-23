@@ -7,4 +7,15 @@ O Gartner é uma empresa privada de consultoria e pesquisa que desenvolve relat�
 ![[Quadrante magico do Gartner.png]]
 
 `Challengers`:
-Futuros líderes do 
+Futuros líderes do mercado.
+
+`Niche Players`:
+Atendem bem pequenos nichos, são limitados por região e recursos ou caixa empresarial.
+
+`Leadres`:
+Grande compressão das necessidades do mercado e apresentam um modelo comercial atrativo e sustentável.
+
+`Visionaries`:
+O caso Cyclance e sua fusão coma BlackBerry.
+
+Ga
