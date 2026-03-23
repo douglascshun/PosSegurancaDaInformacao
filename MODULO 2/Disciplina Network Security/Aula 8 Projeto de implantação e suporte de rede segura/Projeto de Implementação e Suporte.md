@@ -18,4 +18,18 @@ Realizar um planejamento das etapas de realização de um projeto de redes de co
 - Dados, Voz e escolha das tecnologias
 - Custos e orçamento 
 
-# Projeto 
+# Projeto lógico da rede 
+- Etapa extremamente técnica
+- Definir protocolos, topologia e tecnologia
+- Roteamento 
+- Análise de Segurança
+- Visibilidade e concepção do projeto
+- Lucid Chart / Cisco Packet Tracer
+
+![[Definicao da Topologia.png]]
+
+# Projeto físico da rede 
+
+- Tecnologias
+- Fabricantes
+- Def9inição
