@@ -18,4 +18,7 @@ Grande compressão das necessidades do mercado e apresentam um modelo comercial 
 `Visionaries`:
 O caso Cyclance e sua fusão coma BlackBerry.
 
-Ga
+Gartner para tp,ada de decisões e análise de novas tecnologias para estudo e implantação
+
+	Atenção: O Gartner não analisa ferramentas tecnicamente.
+
