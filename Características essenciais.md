@@ -16,5 +16,11 @@ Mas o usuário deve sempre buscar promover o uso correto e eficiente!
 
 3. Agrupamento de recursos (resource pooling):
 	Os recursos de computação do provedor são agrupados para atender a vários consumidores usando um modelo de vários inquilinos, com diferentes recursos físicos e virtuais dinamicamente atribuídos e reatribuídos de acordo com a demanda do consumidor.
-* A grande ideia da computação em nuvem é fornecer boa vantagem econômica para os usuários!
+
+4. Rápida elasticidade (rapid elasticy):
+	Os recursos podem ser provisionados elasticamente e liberados, em alguns casos de modo automático, para escalar rapidamente para expansão e redução, conforme a demanda.
+
+
+
+*A grande ideia da computação em nuvem é fornecer boa vantagem econômica para os usuários!* 
 
