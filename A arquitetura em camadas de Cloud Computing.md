@@ -32,3 +32,7 @@ PaaS - Platform as a Service
 
 - Hardware
 
+# A arquitetura em camadas de Cloud Computing
+
+Camada de aplicação: é a camada responsável pela entrefa fo serviço da SaaS (Software as a Service). Portanto, onde estão a maioria das aplicações web para o usuário final.
+		Ela armazena as aplicações e fornece serviços específicos, como Multimídia, Web Ser
