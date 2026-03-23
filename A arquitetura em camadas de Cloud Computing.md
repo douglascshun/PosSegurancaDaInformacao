@@ -13,4 +13,5 @@ Com foco em segurança e disponibilidade dos recursos. Imagine uma empresa de en
 	A organização possui os recursos relacionados à infraestrutura, cabendo apenas definir o acesso e esses recursos e às aplicações lá obrigadas através da rede interna. Isto significa que a própria organização detentora do data center é a responsável pela administração dos recursos físicos.
 
 3.  Nuvem Híbrida:
-É a implementação das melhores características da Nuvem Pública e da Nuvem Privada  
+É a implementação das melhores características da Nuvem Pública e da Nuvem Privada.
+	Ela consiste em ligar um recurso em Nuvem Privada a um ou mais recursos em Nuvem Pública. A vantagem é o fato de a organização poder armazenar dados críticos e de relevância ao negócio em nuvem privada e, ao memso tempo, te
