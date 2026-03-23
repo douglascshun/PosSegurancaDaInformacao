@@ -34,5 +34,9 @@ PaaS - Platform as a Service
 
 # A arquitetura em camadas de Cloud Computing
 
-Camada de aplicação: é a camada responsável pela entrefa fo serviço da SaaS (Software as a Service). Portanto, onde estão a maioria das aplicações web para o usuário final.
-		Ela armazena as aplicações e fornece serviços específicos, como Multimídia, Web Ser
+`Camada de aplicação`:
+É a camada responsável pela entrega do serviço da SaaS (Software as a Service). Portanto, onde estão a maioria das aplicações web para o usuário final.
+	Ela armazena as aplicações e fornece serviços específicos, como Multimídia, Web Service. Além disso, ela permite abstrair o acesso às aplicações através da Internet e de forma remota, eliminando assim a necessidade de instalação da aplicação localmente por parte de cada usuário. Como exemplo é possível citar o GSuite da Google.
+
+`Camada de plataforma`:
+Onde o
