@@ -45,4 +45,4 @@ Onde temos o serviço de PaaS (Platform as a Service), com foco principal nos de
 
 `Camada de Infraestrutura`:
 Onde estão os serviços de IaaS (Infrastructure as a Service), mais próximo do hardware puro.
-	É também chamada de camada de virtualização, pois possibilita a criação e controle dos pools de recursos de computação e de armazenamento. Ela possui todas caracteristicas
+	É também chamada de camada de virtualização, pois possibilita a criação e controle dos pools de recursos de computação e de armazenamento. Ela possui todas características necessárias para interagir com o hardware abaixo dela através do uso de tecnologias de virtualização como VMware e KVM.
