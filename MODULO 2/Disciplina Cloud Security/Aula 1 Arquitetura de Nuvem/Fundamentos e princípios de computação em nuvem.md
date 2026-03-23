@@ -6,4 +6,5 @@ Será que ainda precisa dizer que vivemos na era digital? E que agora os nossos 
 É possível aditar um vídeo em um "netbook? Claro que sim!
 	A computação em nuvem (Cloud computing) refere-se ao fornecimento de serviços de computação via internet, com o intuito de oferecer inovações mais rápidas, recursos flexíveis e economias de escala, os quais incluem servidores, armazenamento , banco de dados, rede de software, geralmente pagando-se apenas pelo uso.
 
-Vamos pensar nisso: como a Nuv
+Vamos pensar nisso: como a Nuvem mudou TI? Mudaram as prioridades, as estratégias, o foco de investimento...
+	A computação em nuvem, com a virtualização, teoricamente permite obter o melhor dos mundos: otimização do uso dos recursos e
