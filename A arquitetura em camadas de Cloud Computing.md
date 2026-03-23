@@ -14,4 +14,4 @@ Com foco em segurança e disponibilidade dos recursos. Imagine uma empresa de en
 
 3.  Nuvem Híbrida:
 É a implementação das melhores características da Nuvem Pública e da Nuvem Privada.
-	Ela consiste em ligar um recurso em Nuvem Privada a um ou mais recursos em Nuvem Pública. A vantagem é o fato de a organização poder armazenar dados críticos e de relevância ao negócio em nuvem privada e, ao memso tempo, te
+	Ela consiste em ligar um recurso em Nuvem Privada a um ou mais recursos em Nuvem Pública. A vantagem é o fato de a organização poder armazenar dados críticos e de relevância ao negócio em nuvem privada e, ao mesmo tempo, ter a flexibilidade de aumentar ou diminuir o poder computacional através das nuvens públicas.
