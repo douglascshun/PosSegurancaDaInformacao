@@ -14,4 +14,4 @@ Dado o ativo mais importante
 
 	Segurança da Informação não é só TI!
 
-	Firewall -PSI = Problema!
+	Firewall - PSI = Problema!
