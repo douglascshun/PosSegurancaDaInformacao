@@ -9,4 +9,7 @@ Muitos serviços, muitas necessidades diferentes, muitas formas de se implementa
 Plataforma de aplicação com interface para o usuário, como redes sociais, por exemplo.
 
 - Infraestructure as a service (IaaS):
-Fornecimento de computadores servidores, armazenamento de dados, F
+Fornecimento de computadores servidores, armazenamento de dados, Firewall, recursos de internet, entre outros.
+
+- Platform as a Service (PaaS):
+Plataforma com qual desenvolvedores podem implementar suas aplicações, como linguagens de programação, hardware (servidores, discos), sistemas operacional, ferramentas de desenvolvimento etc..
