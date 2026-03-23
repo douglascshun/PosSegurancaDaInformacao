@@ -10,4 +10,5 @@ Vamos pensar nisso: como a Nuvem mudou TI? Mudaram as prioridades, as estratégi
 	A computação em nuvem, com a virtualização, teoricamente permite obter o melhor dos mundos: otimização do uso dos recursos e flexibilidade para o usuário.
 
 Você ou sua empresa precisa de infraestrutura computacional, mas o investimento não é o suficiente e logo o que compra vai ficar ultrapassado...
-	A computação em nuvem é um mecanismo de levar a contratação ou a obtenção de serviços da capacidade ou infr
+	A computação em nuvem é um mecanismo de levar a contratação ou a obtenção de serviços da capacidade ou infraestrutura de computação a um nível organizacional ou individual, na extensão exigida e pagando apenas pelos serviços consumidos.
+
