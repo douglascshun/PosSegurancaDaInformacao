@@ -10,4 +10,5 @@ Acesso mais comum, via navegador web e usa cobrança conforme o uso.
 
  2. Nuvem Privada:
 Com foco em segurança e disponibilidade dos recursos. Imagine uma empresa de entregas com suas próprias ruas e avenidas...
-	A organização possui os recursos relacionados à infraestrutura, cabendo apenas definir o acesso e esses recursos e às aplicações lá obrigadas através da rede interna. IU
+	A organização possui os recursos relacionados à infraestrutura, cabendo apenas definir o acesso e esses recursos e às aplicações lá obrigadas através da rede interna. Isto significa que a própria organização detentora do data center é a responsável pela administração dos recursos físicos.
+
