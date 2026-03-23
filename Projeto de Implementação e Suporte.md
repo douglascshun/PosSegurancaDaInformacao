@@ -9,3 +9,13 @@ Realizar um planejamento das etapas de realização de um projeto de redes de co
 - Projeto lógico da rede
 - Projeto físico da rede
 - Testes, otimização e documentações 
+- Levantamento dos requisitos e objetivos
+- Reuniões, Atas, Registros, entrevistas
+- Visita de viabilidade técnica
+- Throughput, Fast/gigabit Ethernet /100 /1000
+- Contradições, dificuldades, ambiente legado
+- Segurança, compliance QoS e SLA
+- Dados, Voz e escolha das tecnologias
+- Custos e orçamento 
+
+# Projeto 
