@@ -14,5 +14,7 @@ Mas o usuário deve sempre buscar promover o uso correto e eficiente!
 2. Amplo acesso à rede (broad network access):
 	Os recursos estão disponíveis na rede e acessados por mecanismos-padrão que promovem o uso por plataformas heterogêneas de thin ou tick client ( exemplo: smartphones, tablets, notebooks, desktops). Os usuários têm acesso à nuvem e aos seus recursos de qualquer lugar por meio de um dispositivo conectado à internet.
 
-# A grande ideia da computação em nuvem é fornecer boa vantagem econômica para os usuários!
+3. Agrupamento de recursos (resource pooling):
+	Os recursos de computação do provedor são agrupados para atender a vários consumidores usando um modelo de vários inquilinos, com diferentes recursos físicos e virtuais dinamicamente atribuídos e reatribuídos de acordo com a demanda do consumidor.
+* A grande ideia da computação em nuvem é fornecer boa vantagem econômica para os usuários!
 
