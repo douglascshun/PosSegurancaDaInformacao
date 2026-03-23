@@ -9,4 +9,5 @@ Será que ainda precisa dizer que vivemos na era digital? E que agora os nossos 
 Vamos pensar nisso: como a Nuvem mudou TI? Mudaram as prioridades, as estratégias, o foco de investimento...
 	A computação em nuvem, com a virtualização, teoricamente permite obter o melhor dos mundos: otimização do uso dos recursos e flexibilidade para o usuário.
 
-Você ou sua empresa prec
+Você ou sua empresa precisa de infraestrutura computacional, mas o investimento não é o suficiente e logo o que compra vai ficar ultrapassado...
+	A computação em nuvem é um mecanismo de levar a contratação ou a obtenção de serviços da capacidade ou infr
