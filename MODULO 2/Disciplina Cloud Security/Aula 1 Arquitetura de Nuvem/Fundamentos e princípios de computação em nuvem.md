@@ -12,3 +12,4 @@ Vamos pensar nisso: como a Nuvem mudou TI? Mudaram as prioridades, as estratégi
 Você ou sua empresa precisa de infraestrutura computacional, mas o investimento não é o suficiente e logo o que compra vai ficar ultrapassado...
 	A computação em nuvem é um mecanismo de levar a contratação ou a obtenção de serviços da capacidade ou infraestrutura de computação a um nível organizacional ou individual, na extensão exigida e pagando apenas pelos serviços consumidos.
 
+Quem nasceu na Nuvem, nunca vai saber o que pe usar um disquete e seus vastos 1.44 MBs!
