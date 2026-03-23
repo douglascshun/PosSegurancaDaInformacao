@@ -107,6 +107,60 @@ if my_urn:
                         if len(partes) > 1:
                             post_final = partes[1].strip()
 
+# ... (partes anteriores do código permanecem iguais)
+
+# --- Fluxo Principal ---
+my_urn = get_my_urn()
+if my_urn:
+    arquivo, idx = carregar_proximo_arquivo()
+    if arquivo:
+        print(f"📖 Lendo arquivo: {arquivo}")
+        with open(arquivo, "r", encoding="utf-8") as f:
+            conteudo = f.read()
+        
+        try:
+            # 3. SOLICITAÇÃO AO GEMINI
+            response = client.models.generate_content(
+                model="gemini-3-flash-preview", 
+                contents=(
+                    f"Atue como um Especialista em Marketing de Conteúdo e Segurança da Informação, principalmente Red Team. "
+                    f"Converta o conteúdo abaixo em um post para LinkedIn.\n\n"
+                    f"CONTEÚDO BASE: {conteudo}\n\n"
+                    "REGRAS CRÍTICAS:\n"
+                    "1. RESPONDA APENAS COM O TEXTO FINAL DO POST.\n"
+                    "2. NÃO inclua introduções como 'Aqui está o post' ou 'Claro'.\n"
+                    "3. NÃO inclua aspas no início ou no fim.\n"
+                    "4. Use HOOK, Bullet Points, Tom profissional/direto, CTA e 3 Hashtags.\n"
+                    "5. Máximo 1300 caracteres.\n"
+                    "6. NÃO USE EMOJIS." 
+                )
+            )
+            
+            if response and response.text:
+                # --- PROCESSO DE LIMPEZA ---
+                post_final = response.text.strip()
+
+                # Remove negrito extra que o MD às vezes coloca no post inteiro
+                if post_final.startswith("**") and post_final.endswith("**"):
+                    post_final = post_final[2:-2]
+                
+                # Remove aspas extras
+                if post_final.startswith('"') and post_final.endswith('"'):
+                    post_final = post_final[1:-1]
+                
+                # Remove blocos de código markdown
+                if post_final.startswith("```"):
+                    linhas = post_final.split("\n")
+                    post_final = "\n".join(linhas[1:-1]) if len(linhas) > 2 else post_final
+
+                # Remove frases de introdução (Case Insensitive)
+                intros_indesejadas = ["Aqui está", "Com certeza", "Segue a proposta", "Claro, aqui", "Com certeza!", "Aqui vai"]
+                for intro in intros_indesejadas:
+                    if post_final.lower().startswith(intro.lower()):
+                        partes = post_final.split("\n", 1)
+                        if len(partes) > 1:
+                            post_final = partes[1].strip()
+
                 # --- ENVIO PARA LINKEDIN ---
                 res_post = postar_no_linkedin(my_urn, post_final)
                 
@@ -115,8 +169,12 @@ if my_urn:
                     with open("post_index.txt", "w") as f: f.write(str(idx + 1))
                 else:
                     print(f"❌ Erro LinkedIn ({res_post.status_code}): {res_post.text}")
+            else:
+                print("❌ Gemini retornou uma resposta vazia.")
 
         except Exception as e:
-            print(f"❌ Erro Gemini: {e}")
-        else:
-            print("❌ Não foi possível obter a URN do LinkedIn. Verifique o TOKEN.")
+            print(f"❌ Erro no processamento: {e}")
+    else:
+        print("📁 Nenhum arquivo .md encontrado para postar.")
+else:
+    print("❌ Não foi possível obter a URN do LinkedIn. Verifique o TOKEN.")
