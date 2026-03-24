@@ -22,4 +22,10 @@ Em grande parte, a infraestrutura que serve os data centers oferece diversas red
 A infraestrutura de data centers conta com diversas tecnologias de armazenamento, como SAN e NAS
 	SAN (Storage Area Network) são redes privadas que conectam diversos dispositivos de armazenamento a servidores, permitindo flexibilidade, biodisponibilidade e escalabilidade. Redes de armazenamento podem utilizar discos rígidos (HD), unidades de armazenamento sólido (SSD), armazenamento em fitas, servidores de banco de dados...
 
-Para um armazenamento mais dinâmico, o NAS faz com que os discos rigidos e SSD's se 
+Para um armazenamento mais dinâmico, o NAS faz com que os discos rígidos e SSD's se tornem acessíveis pela rede.
+
+O NAS (Network Attached Storage) é um dispositivo de rede para armazenamento de dados, com um sistema próprio que possibilita a interoperabilidade de acesso ,ou seja, pode ser acessado a partir de qualquer sistema operacional.
+
+Tais equipamentos devem utilizar tecnologias que permitam a proteção dos dados.
+
+Rai
