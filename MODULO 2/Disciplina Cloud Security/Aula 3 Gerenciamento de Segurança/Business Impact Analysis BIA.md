@@ -27,4 +27,4 @@ Ainda na preparação do BIA, faz-se necessário classificar as categorias do im
 ![[Preparacao BIA.png]]
 
 Com as informações levantadas a empresa pode começar a desenhar sua estratégia de continuidade.
-	Com esses dados organizados em um questionário, é possível então elaborar um relatório, no qual todas as áreas-chave da organização
+	Com esses dados organizados em um questionário, é possível então elaborar um relatório, no qual todas as áreas-chave da organização serão capazes de prever as ações requeridas para um plano de continuidade efetivo e completo.
