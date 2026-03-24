@@ -23,4 +23,7 @@ Realizar uma análise de Ambiente de TI:
 	Criando uma matriz de risco a fim de localizar os riscos mais críticos, tanto para o ambiente físico como para o ambiente lógico. Essa avaliação de riscos já aponta para as possíveis causas de uma falha de operação da TI, oferecendo à gestão do negócio argumentos para a tomada de decisão sobre investimento, na busca da continuidade das operações.
 
 Realizar a analise de impacto no negócio 
-	Está etapa é uma das mais importantes, pois ela fornece o pleno entendimento de quan
+	Está etapa é uma das mais importantes, pois ela fornece o pleno entendimento de quanto a solução de continuidade pode afetar a operação de negócio e, principalmente, dimensiona quanto custa uma "parada de operação" no decorrer do tempo.
+
+Definir as Estratégias de Continuidade
+	Define como a organização vai tratar a continuidade dos negócios, tomando como base as informações anteriores (quais os recuros de TI, seus riscos e o impac)
