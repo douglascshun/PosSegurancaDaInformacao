@@ -19,4 +19,7 @@ o PCN precisa de boas informações para ser funcional, efetivo, alcançar seus 
 Fazer uma varredura no TI e analisar a criticidade de cada componente é essencial neste processo.
 	Consiste em conhecer as operações de negócio da organização, os serviços e componentes de TI e como tudo isso se relaciona. Esta etapa também pode ser entendida como o mapeamento do ambiente de TI, pois o foco é entender o negócio, mas principalmente de que forma a TI se relaciona com ele.
 
-Realizar uma 
+Realizar uma análise de Ambiente de TI:
+	Criando uma matriz de risco a fim de localizar os riscos mais críticos, tanto para o ambiente físico como para o ambiente lógico. Essa avaliação de riscos já aponta para as possíveis causas de uma falha de operação da TI, oferecendo à gestão do negócio argumentos para a tomada de decisão sobre investimento, na busca da continuidade das operações.
+
+Realçizar a an
