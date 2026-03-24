@@ -10,4 +10,4 @@ Aumento da velocidade e da qualidade da conexão (5G e novas bandas de transmiss
 	Se, há alguns anos, a decisão de se usar serviços de um provedor de nuvem podia ser adiada em virtude da falta de confiabilidade na conexão, atualmente, essa questão não assume mais um caráter preponderante
 
 Com o maior uso da Nuvem, tecnologias vão se destacar, como a de desenvolvimento de sistemas, a Serverless
-	Trata-se de um modelo de computação 
+	Trata-se de um modelo de computação no qual o provedor dos serviços de nuvem fornece e gerencia os servidores. Nesse caso, o cliente confia ao provedor não apenas seus dados, mas suas aplicações e configurações gerais, livrando-se, assim dos custos de aquisição e manutenção do hardware, além de não investir em licenças de software
