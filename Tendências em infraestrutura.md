@@ -8,3 +8,5 @@ Popularização da computação em nuvem:
 
 Aumento da velocidade e da qualidade da conexão (5G e novas bandas de transmissão de dados):
 	Se, há alguns anos, a decisão de se usar serviços de um provedor de nuvem podia ser adiada em virtude da falta de confiabilidade na conexão, atualmente, essa questão não assume mais um caráter preponderante
+
+Com o maior uso da Nuvem, tecnologias vão se destar
