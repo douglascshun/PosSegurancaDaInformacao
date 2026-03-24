@@ -1,4 +1,7 @@
 [[Aula 4 Risco na Nuvem]]
 
 Em geral o risco não é ruim, e sim representa a chance, probabilidade de algo, seja lá o que for acontecer.
-	Identificação de riscos é o processo de busca, reconhecimento e descrição de riscos, tendo como base o contexto estabelecido e apoiado na comunicação e consulta com as partes interessadas, internas e externas (ISO 27001)
+	Identificação de riscos é o processo de busca, reconhecimento e descrição de riscos, tendo como base o contexto estabelecido e apoiado na comunicação e consulta com as partes interessadas, internas e externas (ISO 27001).
+
+Para não sofrer com problemas quaisquer, comece identificando quais são previsíveis, mas faça este trabalho com todo os riscos que puder identificar.
+	Desta forma, comece a trabalhar com a identificação dos riscos com o estilo "top-sown" saindo do m
