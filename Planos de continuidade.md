@@ -5,3 +5,7 @@ Será que todo empreendimento deveria ter seu plano de continuidade? O que a loj
 
 Mas é preciso pensar no que fazer quando o desastre acontece e como impedir que tais situações provoquem o encerramento definitivo das atividades.
 	Várias organizações dizem ter um plano de contingência e estar preparadas em caso de desastres, mas será que elas pensam na continuidade? Há muitas diferenças entre os dois pontos. A contingência pode ser entendida como um plano B ou um backup, a capacidade de manter o processamento das informações mesmo em um cenário de desastre.
+
+Quem tem plano de contingência faz muito mais do que um simples backup diário, mas isso já é um começo!
+	Detalhes que precisam ser compreendidos:
+	Mas quanto tempo seria preciso para ter todos os dados restabelecidos? Quanto tem
