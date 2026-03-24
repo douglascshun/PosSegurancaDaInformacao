@@ -23,3 +23,4 @@ Realizar uma análise de Ambiente de TI:
 	Criando uma matriz de risco a fim de localizar os riscos mais críticos, tanto para o ambiente físico como para o ambiente lógico. Essa avaliação de riscos já aponta para as possíveis causas de uma falha de operação da TI, oferecendo à gestão do negócio argumentos para a tomada de decisão sobre investimento, na busca da continuidade das operações.
 
 Realizar a analise de impacto no negócio 
+	Está etapa é uma das mais importantes, pois ela fornece o pleno entendimento de quan
