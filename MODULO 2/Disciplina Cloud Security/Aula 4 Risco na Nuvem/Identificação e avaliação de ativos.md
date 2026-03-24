@@ -23,4 +23,7 @@ A empresa deve buscar pessoal capacitado para o importante processo de identific
 
 ![[Etapas para documentar os riscos.png]]
 
-Não devemos nos esquecer que esse
+Não devemos nos esquecer que esse também é um trabalho multidisciplinar!
+	A partir da coleta de opiniões em relação ao ativo objeto de estudo, de especialistas do órgão em computação e segurança da informação e de colaboradores da Diretoria de Defesa Comercial (DECOM) responsáveis pelo SDD são identificadas possíveis ameaças, controle, vulnerabilidades e impactos.
+
+Etapa 
