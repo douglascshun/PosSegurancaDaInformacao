@@ -17,4 +17,7 @@ Teste Funcional:
 Teste Completo:
 	Realocam-se todas as atividades do site original para o site alternativo (de forma anunciada ou não). Participam todos os empregados, fornecedores, observadores, auditores e o moderador.
 
-Nada como um bom teste para 
+Nada como um bom teste para ajustar os parâmetros e estratégias do PCN.
+	Uma vez que exercícios e testes são extremamente importantes e podem influenciar as operações diárias de uma organização, as decisões sobre método, escopo, objetivos e tempo devem ser tomadas ela alta administração.
+
+Nestes processos é preciso alocar um funcionrio com as competências ne
