@@ -12,4 +12,5 @@ Os objetivos do BIA são:
 	- Estimar os impactos intangíveis (operacionais) para cada unidade de negócio, assumindo os piores tipos de cenários.
 	- Identificar os processos e as unidades de negócio e estimar o tempo de recuperação das informações necessárias para cada unidade de negócio.
 
-Todo e qualquer processo operacional vai passar pela avaliaçã
+Todo e qualquer processo operacional vai passar pela avaliação de sua criticidade operacional vai passar pela avaliação de sua criticidade dentro do BIA:
+	Deve também identificar os RTOs (recovery time objectives, ou objetivos para o tempo necessário de recuperação), RPOs (recovery point objectives, ou objetivos para o ponto de recuperação, que ide
