@@ -13,4 +13,11 @@ Segundo Veras (2009), estima-se que boa parte das empresas note-americanas de gr
 Por exemplo, em 2011 a Alphabet Inc., empresa que controla o Google, investiu quase 1 bilhão de dólares para a expansão de sua rede global de data centers.
 
 Em grande parte, a infraestrutura que serve os data centers oferece diversas redundâncias...
-	- Redundância para links de conexão com o ba
+	- Redundância para links de conexão com o backbone da internet
+	- O sistema de controle de ar-condicionado 
+	- A segurança física de acesso aos componentes armazenados
+	- O combate a incêndios, a recuperação dos dados
+	- O sistema de energia redundante 
+
+A infraestrutura de data centers conta com diversas tecnologias de armazenamento, como SAN e NAS
+	SAN (Storage Area Network) são redes privadas que conectam diversos dispositivos de armazenamento a dive
