@@ -19,4 +19,8 @@ A empresa deve buscar pessoal capacitado para o importante processo de identific
 
 - O registro dos riscos identificados em sistemas, planilha ou matriz de avaliação de riscos, descrevendo os componentes de cada risco separadamente com, pelo menos, suas causas, o evento e as consequências.
 
-# 
+# Documentação para a etapa de identificação dos riscos:
+
+![[Etapas para documentar os riscos.png]]
+
+Não devemos nos esquecer que esse
