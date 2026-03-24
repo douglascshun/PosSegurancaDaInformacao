@@ -15,4 +15,5 @@ Com o maior uso da Nuvem, tecnologias vão se destacar, como a de desenvolviment
 Serverless Computing realmente não tem servidor?
 	O servidor, na verdade, está presente no processo, mas está localizado em um provedor de serviços, o qual é responsável por gerenciar e provisionar sua capacidade conforme a carga de trabalho. A principal função desempenhada por uma plataforma sem servidor é simular um sistema de processamento de eventos.
 
-O serverless funciona com eventos sendo encaminhados via HTTP e se agrupam em
+O serverless funciona com eventos sendo encaminhados via HTTP e se agrupam em uma fila
+	Na sequência, disponibiliza a resposta ao usuário e interrompe o processo quando não houver mais eventos. Essa plataforma apresenta variações e será implementada com base em dimensões, como custo, escalabilidade e tolerância a falhas,. Portanto, o cliente deve estar atento a essas características quando adquirir o serviço.
