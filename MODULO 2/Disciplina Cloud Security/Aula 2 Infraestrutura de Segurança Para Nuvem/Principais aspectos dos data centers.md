@@ -8,4 +8,9 @@ Ambientes que concentram tecnologia, avanços, inovações e abrigam:
 
 Mesmo com a atratividade da nuvem, existem empresas que usam como estratégia a implementação de data centers próprios. 
 
-Segundo Veras (2009), estima-se que boa parte das empresas note-americanas de gr
+Segundo Veras (2009), estima-se que boa parte das empresas note-americanas de grande e médio porte tenham seus próprios data centers.
+
+Por exemplo, em 2011 a Alphabet Inc., empresa que controla o Google, investiu quase 1 bilhão de dólares para a expansão de sua rede global de data centers.
+
+Em grande parte, a infraestrutura que serve os data centers oferece diversas redundâncias...
+	- Redundância para links de conexão com o ba
