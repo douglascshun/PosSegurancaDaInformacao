@@ -16,4 +16,9 @@ Todo e qualquer processo operacional vai passar pela avaliação de sua criticid
 	Deve também identificar os RTOs (recovery time objectives, ou objetivos para o tempo necessário de recuperação), RPOs (recovery point objectives, ou objetivos para o ponto de recuperação, que indicam a recuperação no momento subsequente ao qual se deu a interrupção), os processos-chave do negócio e os riscos de estes processos não estarem disponíveis.
 
 A criação do BIA deve ser feita em cada unidade de negócio, pois diferentes filiais, lojas, agências, vão apresentar diferenças que podem comprometer o processo de recuperação em caso de desastres.
-	Diante da situação de analisar os impactos no ambiente de comp
+	Diante da situação de analisar os impactos no ambiente de computação em nuvem, ou na infraestrutura de TI, é necessário determinar scores, ou níveis, para decidir as possíveis faixas de perdas em caso de solução de continuidade.
+
+# Efeito dos impactos (Intangível)
+
+![[efeito dos impactos.png]]
+Ainda 
