@@ -8,4 +8,4 @@ Como a empresa se recupera destes problemas ?
 
 Seria a queda de energia um problema fácil de ser superado? 
 	Art. X
-		Normalmente, quano se trata de queda de energia, a retomada dos serviços acontece em fração de segundos, pois existe a segunda rede de energia e mais dois geradores prontos para assumir, evitando assim que os serviços fiquem fra de operação. Também considera-se um grupo de baterias para um nobreak (equipamento com baterias para evitar os picos ou quedas de energua), 
+		Normalmente, quano se trata de queda de energia, a retomada dos serviços acontece em fração de segundos, pois existe a segunda rede de energia e mais dois geradores prontos para assumir, evitando assim que os serviços fiquem fra de operação. Também considera-se um grupo de baterias para um nobreak (equipamento com baterias para evitar os picos ou quedas de energia), capaz de manter todos os recursos 
