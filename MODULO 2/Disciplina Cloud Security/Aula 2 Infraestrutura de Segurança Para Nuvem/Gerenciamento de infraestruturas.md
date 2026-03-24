@@ -19,4 +19,4 @@ Com a IaC, até meso a recuperação de desastres sofre aprimoramentos!
 	Além disso, elas desejam que o tempo e reserva de talento da equipe de TI não sejam empregados apenas em tarefas rotineiras e repetitivas. A aplicação dessa abordagem gera, ainda, a expectativa de que as equipes estejam aptas a recuperarem rapidamente a estrutura no caso de ocorrência de falha ou desastre.
 
 A resposta a um desastre precisa ser rápida e precisa, por isso a IaC ganha desastre quanto atua neste cenário. 
-	Uma das formas de se minimizar a ocorrênca desses fenômenos relacionados com a infraestrutura é por meio do uso de gerramentas de automação de procedimentos, incluindo a criação de novos 
+	Uma das formas de se minimizar a ocorrência desses fenômenos relacionados com a infraestrutura é por meio do uso de ferramentas de automação de procedimentos, incluindo a criação de novos servidores ou a alteração específica de uma configuração.
