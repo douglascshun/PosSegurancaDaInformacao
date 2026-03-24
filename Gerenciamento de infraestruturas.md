@@ -13,4 +13,7 @@ O IaC favorece o gerenciamento da infra de Hardware
 	Pois permite promover mudanças e melhorias mais rapidamente, ajudando, assim, as organizações (sejam elas privadas ou voltadas à prestação de serviços) a atenderem às suas necessidades em constante mudança. Mas, afinal, tratar a infraestrutura como um código satisfaz essa necessidade?
 
 Com a IaC a gestão passa a lidar com o Hardware como se fosse apenas Software:
-	Isso permite que as pessoas apliquem ferramentas de desenvolvimento de software, como sistemas de controle de versão (VCS), bibliotecas de teste automatizadas e orquestração de implantação para gerenciar a infraestrut
+	Isso permite que as pessoas apliquem ferramentas de desenvolvimento de software, como sistemas de controle de versão (VCS), bibliotecas de teste automatizadas e orquestração de implantação para gerenciar a infraestrutura. 
+
+Com a IaC, até meso a recuperação de desastres sofre aprimoramentos!
+	Além disso, elas desejam que o tempo e reserva de talento da equipe de TI não sejam empregados apenas em tarefas rotineiras e repetitivas. A aplicação dessa abordagem gera, ainda, a expectativa de que as equi
