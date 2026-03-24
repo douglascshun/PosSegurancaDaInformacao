@@ -15,4 +15,8 @@ A empresa deve buscar pessoal capacitado para o importante processo de identific
 
 - Os participantes do processo de identificação
 
-- A abordagem ou método utilizado para identificação dos riscos e as fontes de informação consult
+- A abordagem ou método utilizado para identificação dos riscos e as fontes de informação consultadas 
+
+- O registro dos riscos identificados em sistemas, planilha ou matriz de avaliação de riscos, descrevendo os componentes de cada risco separadamente com, pelo menos, suas causas, o evento e as consequências.
+
+# 
