@@ -8,4 +8,4 @@ Mas é preciso pensar no que fazer quando o desastre acontece e como impedir que
 
 Quem tem plano de contingência faz muito mais do que um simples backup diário, mas isso já é um começo!
 	Detalhes que precisam ser compreendidos:
-	Mas quanto tempo seria preciso para ter todos os dados restabelecidos? Quanto tem
+	Mas quanto tempo seria preciso para ter todos os dados restabelecidos? Quanto tempo seria preciso para todos os sistemas acessarem novamente as informações? E, o mais                                                                        
