@@ -8,3 +8,11 @@ Para não sofrer com problemas quaisquer, comece identificando quais são previs
 
 A empresa deve buscar pessoal capacitado para o importante processo de identificação do risco e buscar utilizar as melhores tecnologias e sistemas para sua correta catalogação.
 	Envolver a equipe diretamente responsável pela execução do processo, do projeto ou da atividade que está tendo os riscos identificados, também ajuda a criar a responsabilidade em relação ao processo de gestão de riscos e o comprometimento em relação ao tratamento dos riscos.
+
+# A documentação dessa etapa de identificação dos riscos geralmente inclui pelo menos:
+
+- O escopo do processo, projeto ou atividade coberto pela identificação
+
+- Os participantes do processo de identificação
+
+- A abordagem ou método utilizado para identificação dos riscos e as fontes de informação consult
