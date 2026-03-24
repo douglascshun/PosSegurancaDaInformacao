@@ -8,4 +8,4 @@ Como a empresa se recupera destes problemas ?
 
 Seria a queda de energia um problema fácil de ser superado? 
 	Art. X
-		Normalmente, quano se trata de queda de energia, a retomada dos serviços acontece em fração de segundos,
+		Normalmente, quano se trata de queda de energia, a retomada dos serviços acontece em fração de segundos, pois existe a segunda rede de energia e mais dois geradores prontos para assumir 
