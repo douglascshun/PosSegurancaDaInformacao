@@ -12,4 +12,9 @@ Plano passo a passo:
 	Verifica-se o plano por meio da interação entre a equipe. Devem estar presentes os participantes principais do plano e o moderador, cuja interação é testada em uma reunião conjunta.
 
 Teste Funcional:
-Testam-se todos os planos inter-relacionados para atividades selecionadas (incluindo procedimentos de fornecedores) com recursos reais, em um exercício controlado (anunciado). Participam todos os empregados, fornecedores, o moderador e observadores.
+	Testam-se todos os planos inter-relacionados para atividades selecionadas (incluindo procedimentos de fornecedores) com recursos reais, em um exercício controlado (anunciado). Participam todos os empregados, fornecedores, o moderador e observadores.
+
+Teste Completo:
+	Realocam-se todas as atividades do site original para o site alternativo (de forma anunciada ou não). Participam todos os empregados, fornecedores, observadores, auditores e o moderador.
+
+Nada como um bom teste para 
