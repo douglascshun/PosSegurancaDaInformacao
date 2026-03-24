@@ -7,4 +7,9 @@ BIA (Análise de Impacto no Negócio)
 
 ![[Quadro exemplo de impactos no negócio.png]]
 
-Os objetivos do BIA são
+Os objetivos do BIA são:
+	- Estimar o impacto financeiro para cada unidade de negócio, assumindo o pior cenário.
+	- Estimar os impactos intangíveis (operacionais) para cada unidade de negócio, assumindo os piores tipos de cenários.
+	- Identificar os processos e as unidades de negócio e estimar o tempo de recuperação das informações necessárias para cada unidade de negócio.
+
+Todo e qualquer processo operacional vai passar pela avaliaçã
