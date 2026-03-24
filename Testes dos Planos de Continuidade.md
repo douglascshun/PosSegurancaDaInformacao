@@ -6,4 +6,10 @@ Não dá para criar planos e esperar que funcionem sem ao menos promover algum t
 # Etapas do Teste do PCN:
 
 Seminário de orientação:
-	Basicamente, é parecido com um treinamento no qual os detalhes dos planos são explicados para todos os participantes. Participam todos os empregados e fornecedores necessários com o auxilio de um mode
+	Basicamente, é parecido com um treinamento no qual os detalhes dos planos são explicados para todos os participantes. Participam todos os empregados e fornecedores necessários com o auxilio de um moderador.
+
+Plano passo a passo:
+	Verifica-se o plano por meio da interação entre a equipe. Devem estar presentes os participantes principais do plano e o moderador, cuja interação é testada em uma reunião conjunta.
+
+Teste Funcional:
+Testam-se todos os planos int
