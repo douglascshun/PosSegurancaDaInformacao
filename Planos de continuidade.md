@@ -8,4 +8,7 @@ Mas é preciso pensar no que fazer quando o desastre acontece e como impedir que
 
 Quem tem plano de contingência faz muito mais do que um simples backup diário, mas isso já é um começo!
 	Detalhes que precisam ser compreendidos:
-	Mas quanto tempo seria preciso para ter todos os dados restabelecidos? Quanto tempo seria preciso para todos os sistemas acessarem novamente as informações? E, o mais importante, quanto tempo a organização vai poder esperar para voltar a operar nos nos níveis anteriores de excelência? E
+	Mas quanto tempo seria preciso para ter todos os dados restabelecidos? Quanto tempo seria preciso para todos os sistemas acessarem novamente as informações? E, o mais importante, quanto tempo a organização vai poder esperar para voltar a operar nos nos níveis anteriores de excelência? E ai está p principal ponto a se observar: quanto meno o tempo de recuperação da informação, mais efetivo e confiável é o PCN oferecido.
+
+Detalhe que dá dor de cabeça:
+o PCN precisa de boas informações para ser funcional, efetivo, alcançar seus o
