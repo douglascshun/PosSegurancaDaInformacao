@@ -11,4 +11,7 @@ Quem tem plano de contingência faz muito mais do que um simples backup diário,
 	Mas quanto tempo seria preciso para ter todos os dados restabelecidos? Quanto tempo seria preciso para todos os sistemas acessarem novamente as informações? E, o mais importante, quanto tempo a organização vai poder esperar para voltar a operar nos nos níveis anteriores de excelência? E ai está p principal ponto a se observar: quanto meno o tempo de recuperação da informação, mais efetivo e confiável é o PCN oferecido.
 
 Detalhe que dá dor de cabeça:
-o PCN precisa de boas informações para ser funcional, efetivo, alcançar seus o
+o PCN precisa de boas informações para ser funcional, efetivo, alcançar seus objetivos.
+	Para que seja possível descrever os procedimentos estratégicos e operacionais que envolvem o PCN, é necessário desenvolver vários outros planos a saber: plano de gerenciamento de crise, plano de emergência, plano de contingência e plano de retorno. 
+
+Para tal 
