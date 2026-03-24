@@ -20,4 +20,9 @@ Provedores oferecem Alta Disponibilidade, mas como podem fazer isso? É aqui que
 
 A duplicação de centros de processamento de dados (CPD) em locais geograficamente distantes.
 
-Espelhamento ou replicação dos dados entre os difere
+Espelhamento ou replicação dos dados entre os diferentes CPDs.
+
+Sistemas de armazenamento seguros contra incidentes e altos níveis de segurança lógica e física de dados nos CPDs
+
+Se recuperar, digitalmente, de um desastre natural sempre envolve algum nível de perda.
+	Essa perda de dados transacionais é facilmente recuperável através dos logs gerados pelo sistema de bancos de dados.Em razão dessa característica, é possivel considrar a replic
