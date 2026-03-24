@@ -21,4 +21,10 @@ A criação do BIA deve ser feita em cada unidade de negócio, pois diferentes f
 # Efeito dos impactos (Intangível)
 
 ![[efeito dos impactos.png]]
-Ainda 
+
+Ainda na preparação do BIA, faz-se necessário classificar as categorias do impacto e suas respectivas definições para demonstrar quais são as categorias apresentadas no relatório, como a seguir:
+
+![[Preparacao BIA.png]]
+
+Com as informações levantadas a empresa pode começar a desenhar sua estratégia de continuidade.
+	Com esses dados organizados em um questionário, é possível então elaborar um relatório, no qual todas as áreas-chave da organização
