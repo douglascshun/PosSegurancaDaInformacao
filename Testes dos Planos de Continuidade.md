@@ -20,4 +20,5 @@ Teste Completo:
 Nada como um bom teste para ajustar os parâmetros e estratégias do PCN.
 	Uma vez que exercícios e testes são extremamente importantes e podem influenciar as operações diárias de uma organização, as decisões sobre método, escopo, objetivos e tempo devem ser tomadas ela alta administração.
 
-Nestes processos é preciso alocar um funcionrio com as competências ne
+Nestes processos é preciso alocar um funcionário com as competências necessárias para dar eficiência e qualidade ao processo de testes e acompanhamento do PPCN!
+	O coordenador de continuidade de negócios é responsável por preparar o plano de exercícios e testes no qual, entre outras coisas, ele define todos os objetivos para o teste, por exemplo: apresentar se as atividades serão recu
