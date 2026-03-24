@@ -14,4 +14,10 @@ Queremos nossos recursos e dados sempre disponíveis!
 ![[Os niveis de disponibilidade.png]]
 
 Provedores oferecem Alta Disponibilidade, mas como podem fazer isso? É aqui que entram as redundâncias?
-	Para garantir a alta disponibilidade é necessário que o sistema não apresente um ponto único de falhas, isto é, deve existir 
+	Para garantir a alta disponibilidade é necessário que o sistema não apresente um ponto único de falhas, isto é, deve existir software, dados e equipamentos redundantes o suficiente para permitir uma transição (failover) transparente de sistemas quando necessário.
+
+# Como requisitos para alta disponibilidade temos:
+
+A duplicação de centros de processamento de dados (CPD) em locais geograficamente distantes.
+
+Espelhamento ou replicação dos dados entre os difere
