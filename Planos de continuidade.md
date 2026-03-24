@@ -22,4 +22,4 @@ Fazer uma varredura no TI e analisar a criticidade de cada componente é essenci
 Realizar uma análise de Ambiente de TI:
 	Criando uma matriz de risco a fim de localizar os riscos mais críticos, tanto para o ambiente físico como para o ambiente lógico. Essa avaliação de riscos já aponta para as possíveis causas de uma falha de operação da TI, oferecendo à gestão do negócio argumentos para a tomada de decisão sobre investimento, na busca da continuidade das operações.
 
-Realçizar a an
+Realizar a analise de impacto no negócio 
