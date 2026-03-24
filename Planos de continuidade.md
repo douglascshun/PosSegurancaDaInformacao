@@ -14,4 +14,9 @@ Detalhe que dá dor de cabeça:
 o PCN precisa de boas informações para ser funcional, efetivo, alcançar seus objetivos.
 	Para que seja possível descrever os procedimentos estratégicos e operacionais que envolvem o PCN, é necessário desenvolver vários outros planos a saber: plano de gerenciamento de crise, plano de emergência, plano de contingência e plano de retorno. 
 
-Para tal 
+# Para tal é necessário fazer as seguintes etapas:
+
+Fazer uma varredura no TI e analisar a criticidade de cada componente é essencial neste processo.
+	Consiste em conhecer as operações de negócio da organização, os serviços e componentes de TI e como tudo isso se relaciona. Esta etapa também pode ser entendida como o mapeamento do ambiente de TI, pois o foco é entender o negócio, mas principalmente de que forma a TI se relaciona com ele.
+
+Realizar uma 
