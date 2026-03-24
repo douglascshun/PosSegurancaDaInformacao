@@ -1,4 +1,4 @@
-[[Cloud Security]]
+[[Aula 2 Infraestrutura de Segurança Para Nuvem]]
 
 O armazenamento é um dos maiores triunfos da Nuvem!
 	Nas duas últimas décadas, especialmente depois que a internet se tornou mais comercial, as informações têm aumentado em quantidade e em valor. Não bastante, isso percebe-se que usuários e instituições têm investido grandes volumes de recursos financeiros para tornar essas informações acessíveis de forma rápida e dinâmica, isto é, disponíveis no momento em que se deseja e no dispositivo escolhido.
@@ -25,4 +25,4 @@ Espelhamento ou replicação dos dados entre os diferentes CPDs.
 Sistemas de armazenamento seguros contra incidentes e altos níveis de segurança lógica e física de dados nos CPDs
 
 Se recuperar, digitalmente, de um desastre natural sempre envolve algum nível de perda.
-	Essa perda de dados transacionais é facilmente recuperável através dos logs gerados pelo sistema de bancos de dados.Em razão dessa característica, é possivel considrar a replic
+	Essa perda de dados transacionais é facilmente recuperável através dos logs gerados pelo sistema de bancos de dados.Em razão dessa característica, é possível considerar a replicação assíncrona de dados em ambientes adequados para a recuperação de desastres.
