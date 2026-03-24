@@ -28,4 +28,5 @@ O NAS (Network Attached Storage) é um dispositivo de rede para armazenamento de
 
 Tais equipamentos devem utilizar tecnologias que permitam a proteção dos dados.
 
-Rai
+RAID é a tecnologia de redundância para Data Cnters
+	Ele utiliza recursos de componentes do hardware controlados via software para promover redundância de informações gravadas
