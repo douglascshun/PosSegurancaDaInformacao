@@ -29,4 +29,5 @@ Definir as Estratégias de Continuidade
 	Define como a organização vai tratar a continuidade dos negócios, tomando como base as informações anteriores (quais os recursos de TI, seus riscos e o impacto que existe para o negócio). Além de a organização se preocupar com soluções de contingência, é importante pensar na continuidade.
 
 Elaborar os documentos do Plano de Continuidade de negócio
-	Definir e documentar o conhecimento técnico específico para que a TI possa restabelecer, o quanto antes, a operação do negócio (contingência) e, posteriormente, restaurar o ambiente
+	Definir e documentar o conhecimento técnico específico para que a TI possa restabelecer, o quanto antes, a operação do negócio (contingência) e, posteriormente, restaurar o ambiente normal de produção (retorno).
+	(ISO 27001)
