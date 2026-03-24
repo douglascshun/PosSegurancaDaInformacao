@@ -6,4 +6,5 @@ Em geral o risco não é ruim, e sim representa a chance, probabilidade de algo,
 Para não sofrer com problemas quaisquer, comece identificando quais são previsíveis, mas faça este trabalho com todo os riscos que puder identificar.
 	Desta forma, comece a trabalhar com a identificação dos riscos com o estilo "top-sown" saindo do mais geral e terminando no mais específico ao seu negócio, ao departamento, a função.
 
-A empresa deve buscar pessoal capacitado para o importante processo de identificação do risco e buscar utilizar as melhores tecnologias e sistemas para sua c
+A empresa deve buscar pessoal capacitado para o importante processo de identificação do risco e buscar utilizar as melhores tecnologias e sistemas para sua correta catalogação.
+	Envolver a equipe diretamente responsável pela execução do processo, do projeto ou da atividade que está tendo os riscos identificados, também ajuda a criar a responsabilidade em relação ao processo de gestão de riscos e o comprometimento em relação ao tratamento dos riscos.
