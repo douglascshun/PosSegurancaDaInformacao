@@ -13,4 +13,6 @@ Com o maior uso da Nuvem, tecnologias vão se destacar, como a de desenvolviment
 	Trata-se de um modelo de computação no qual o provedor dos serviços de nuvem fornece e gerencia os servidores. Nesse caso, o cliente confia ao provedor não apenas seus dados, mas suas aplicações e configurações gerais, livrando-se, assim dos custos de aquisição e manutenção do hardware, além de não investir em licenças de software
 
 Serverless Computing realmente não tem servidor?
-	O servidor, na verdade, está presente no processo, mas está localizado 
+	O servidor, na verdade, está presente no processo, mas está localizado em um provedor de serviços, o qual é responsável por gerenciar e provisionar sua capacidade conforme a carga de trabalho. A principal função desempenhada por uma plataforma sem servidor é simular um sistema de processamento de eventos.
+
+O serverless funciona com eventos sendo encaminhados via HTTP e se agrupam em
