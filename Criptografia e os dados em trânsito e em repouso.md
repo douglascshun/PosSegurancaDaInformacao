@@ -10,4 +10,6 @@ Em seus primeiro momentos, a criptografia era como um esporte, quase como xadrez
 A cada dia a criptografia se integra mais e mais na vida digital, para melhorar a sua segurança.
 	Para utilizar a criptografia não é necessário um estudo aprofundado sobre o tema. Atualmente, seu uso já está integrado a vários dispositivos e aplicações. O exemplo mais conhecido pé o WhatsApp, que recentemente passou a criptografar as mensagens para evitar a exposição dos dados de seus usuários e, com isso garantir a segurança de todas as conversas.
 
-É um recursos de muita utilidade e importância para a proteção de dados, e não seria diferente na área de computação em nuvem. Com a Criptografia, e possível.
+É um recursos de muita utilidade e importância para a proteção de dados, e não seria diferente na área de computação em nuvem. Com a Criptografia, e possível:
+	- Proteger dados sigilosos armazenados em um computador, como exemplo seu arquivo de senhas pessoais
+	- Proteger uma partição do disco de trabalho separada do disco de sistemas, de forma que todas as informações ali gravadas fiquem criptografadas
