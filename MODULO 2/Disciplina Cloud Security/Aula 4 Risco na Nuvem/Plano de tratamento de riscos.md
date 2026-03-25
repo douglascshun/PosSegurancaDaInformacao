@@ -21,4 +21,7 @@ Caso o risco atenda aos critérios para aceitação, ele poderá ser retido.
 O risco pode ser evitado por meio de eliminação da atividade ou do processo de negócio de uma mudança significativa no ambiente (ex.: mudar um data center de lugar).
 
 `Transferir`:
-O risco pode ser transf
+O risco pode ser transferido para outra entidade (ex.: contratação de um seguro ou terceirização). É importante lembrar que não se pode transferir completamente a responsabilidade pela segurança da informação.
+
+Faz sentido para você: quem levanta dos riscos cria o seu plano de tratamento?
+	O plano de tratamento de riscos é elaborado pelo gerente de projetos ou pelo reponsável pelo depar
