@@ -5,4 +5,7 @@ A `criptografia` é a arte de se camuflar o objeto real, seu texto, seus dados, 
 
 Em seus primeiro momentos, a criptografia era como um esporte, quase como xadrez, testando e desafiando a inteligência das pessoas
 	Art X
-		Segundo o Comitê da Internet no Brasil (CGI.br), que criou a `Cartilha de Segurança para Internet`, produzida pelo Centro de Estudo
+		Segundo o Comitê da Internet no Brasil (CGI.br), que criou a `Cartilha de Segurança para Internet`, produzida pelo Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança do Brasil (Cert.br), a `criptgrafia é considerada a ciência e a arte de escrever mensagens em forma cifrada ou em código` e é um dos principais mecanismos de segurança disponíveis para se proteger dos riscos associados ao uso da internet.
+
+A cada dia a criptografia se integra mais e mais na vida digital, para melhorar a sua segurança.
+	Para utilizar a criptografia não 
