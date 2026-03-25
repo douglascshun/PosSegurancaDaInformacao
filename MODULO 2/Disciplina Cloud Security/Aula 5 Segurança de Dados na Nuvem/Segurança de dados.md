@@ -19,4 +19,4 @@ Mas não pense que a segurança da nuvem é diferente da segurança normal do TI
 	No entanto, a computação em nuvem envolve uma `lenta perda de controle` uma vex que os quesitos de segurança podem ficar a cargo do provedor. Á medida que a organização vai  `amadurecendo`, o sistema de segurança também é `ajustado`.
 
 Com seu custo reduzido a flexibilidade, será que a computação em nuvem compromete a segurança?
-	Esses requisitos podem ser observados quanto é efetuada a escolha sobre qual modelo será implementado na nuvem. Por exemplo, no SaaS, nível mais alto indicado na pilha, o consumidor contrata a segurança, quanto no IaaS, o consumidor 
+	Esses requisitos podem ser observados quanto é efetuada a escolha sobre qual modelo será implementado na nuvem. Por exemplo, no SaaS, nível mais alto indicado na pilha, o consumidor contrata a segurança, quanto no IaaS, o consumidor implementa a segurança.
