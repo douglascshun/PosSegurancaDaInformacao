@@ -13,4 +13,7 @@ A Nuvem deve oferecer o que determina o `Tripe de principio da segurança da inf
 	Todo serviço oferecido em rede deve atender aos princípios que garantem a disponibilidade e confidencialidade de dados. Os riscos devem ser avaliados antes da implantação da nuvem e quem migrar para este sistema deve ficar atento as devidas orientações ao usar o produto final.
 
 Embora a Nuvem seja vasta em serviços e recursos, é sempre importante compreender, de acordo com o exposto nas especificações do provedor, se ele suporta os ativos e atividades da empresa com segurança.
-	Ao realizar a migração é necessário se atentar para os riscos ao manipular dados ou funções para a nuvem, e a organização deve estar precavida para as piores eventualidade
+	Ao realizar a migração é necessário se atentar para os riscos ao manipular dados ou funções para a nuvem, e a organização deve estar precavida para as piores eventualidades, como a destruição ou má administração dos ativos.
+
+Mas não pense que a segurança da nuvem é diferente da segurança normal do TI de uma empresa, são `semelhantes`.
+	No entanto, a computação em nuvem envolve uma `lenta perda de controle` uma vex que os quesitos de segurança podem ficar a cargo do provedor. Á medida que a organização vai  `amadurecendo`, o sistema de segurança também é ajustado`
