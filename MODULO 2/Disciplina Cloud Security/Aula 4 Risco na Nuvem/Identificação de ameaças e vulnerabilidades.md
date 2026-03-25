@@ -26,4 +26,5 @@ Os dados mantidos pela aplicação certamente provêm de inúmeras fontes, motiv
 Embora represente uma ameaça de caráter genérico, sua ocorrência é a mais provável se considerarmos o nível de exposição desses dados.
 
 # Que tal mais desafios?
-`Incapacidade de monitorar dados em trânsito de e para aplicativos na nuvem 
+`Incapacidade de monitorar dados em trânsito de e para aplicativos na nuvem:
+A responsabilidade do provedor em relação às aplicações e aos dados por elas mantidos ao âmbit
