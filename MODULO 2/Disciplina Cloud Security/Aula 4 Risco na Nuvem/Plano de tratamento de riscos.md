@@ -24,4 +24,4 @@ O risco pode ser evitado por meio de eliminação da atividade ou do processo de
 O risco pode ser transferido para outra entidade (ex.: contratação de um seguro ou terceirização). É importante lembrar que não se pode transferir completamente a responsabilidade pela segurança da informação.
 
 Faz sentido para você: quem levanta dos riscos cria o seu plano de tratamento?
-	O plano de tratamento de riscos é elaborado pelo gerente de projetos ou pelo reponsável pelo depar
+	O plano de tratamento de riscos é elaborado pelo gerente de projetos ou pelo responsável pelo departamento de TI, o qual será responsável pelo levantamento de todos os possíveis riscos no ambiente de cloud computing, sendo as opções para trata-los: Reduzir, reter, evitar ou transferir o risco.
