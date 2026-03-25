@@ -12,4 +12,7 @@ Uma das áreas de foco mais críticas da governança de tecnologia da informaç�
 Este domínio compreende aos problemas legais em potencial quando se utiliza computação em nuvem: requisitos de proteção da informação e de sistemas informáticos, leis de divulgação de violações de segurança, os requisitos regulatórios, requisitos de privacidade, as leis internacionais, entre outros.
 
 `Gestão do Cilo de Vida da Informação`
-Este
+Este domínio inclui o gerenciamento de dados que são colocados na nuvem, itens em torno da identificação e controle de dados, bem como controles compensatórios que podem ser usados para lidar com a perda de controle físico ao mover um dado.
+
+`Portabilidade e Interoperabilidade`
+Este domínio compreende a habilidade de mover dados/serviços de um provedor para outro, sem problemas de identificação e/ou acesso 
