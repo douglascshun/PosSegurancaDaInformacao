@@ -14,3 +14,7 @@ Identidades mal resolvidas pelo sistema de segurança podem dar acesso a dados e
 As atualizações do sistema operacional devem ser baixadas e executadas assim que estiverem disponíveis, a fim de minimizar a exploração de suas vulnerabilidades.
 
 `Sequestro de conta`:
+Ameaça que se efetiva com o roubo e uso da conta do usuário legítimo para fins maliciosos.
+
+Vamos a um bom exemplo de uma situação de ameaça na nuvem:
+	Usa uma
