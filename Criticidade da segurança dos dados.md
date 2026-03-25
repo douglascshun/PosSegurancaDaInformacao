@@ -20,4 +20,8 @@ Este domínio compreende a habilidade de mover dados/serviços de um provedor pa
 `Segurança Tradicional, Continuidade de negócios e Recuperação de desastres`
 Domínio capaz de determinar como a computação em nuvem afeta os processos e procedimentos operacionais atualmente usados para programar a segurança, continuidade de negócios e recuperação de desastres.
 
-``
+`Operação do Data Center`
+Domínio que avalia a arquitetura e a operação de um fornecedor de Data Center .
+
+`Resposta a incidentes, notificação e correção`
+A correta e adequada detecção de incidentes, a resposta, notificação e correção. Nesse sentido, para domínio, se faz necessário identificar os itens e/ou rec
