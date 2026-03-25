@@ -22,4 +22,5 @@ Vamos a um bom exemplo de uma situação de ameaça na nuvem:
 `Falta de visibilidade sobre quais dados estão no aplicativos em nuvem`:
 Os dados mantidos pela aplicação certamente provêm de inúmeras fontes, motivo pelo qual podem ser ilegais ou até mesmo roubados de alguma outra organização. Afinal não se sabe o que uma simples planilha do Excel pode conter.
 
-``
+`Roubo de dados de um aplicativo em nuvem por um ator dmalicioso`:
+Em
