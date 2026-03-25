@@ -14,4 +14,11 @@ Não podemos no iludir pensando que vamos eliminar totalmente todos os riscos, p
 `Reduzir ou mitigar`:
 Aplicação de um controle para que o risco seja considerado aceitável.
 
-``
+`Reter ou aceitar`:
+Caso o risco atenda aos critérios para aceitação, ele poderá ser retido.
+
+`Evitar`:
+O risco pode ser evitado por meio de eliminação da atividade ou do processo de negócio de uma mudança significativa no ambiente (ex.: mudar um data center de lugar).
+
+`Transferir`:
+O risco pode ser transf
