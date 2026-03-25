@@ -27,4 +27,9 @@ Domínio que avalia a arquitetura e a operação de um fornecedor de Data Center
 A correta e adequada detecção de incidentes, a resposta, notificação e correção. Nesse sentido, para domínio, se faz necessário identificar os itens e/ou recursos que devem estar prestes tanto no nível dos prestadores e dos usuários para permitir bom tratamento de incidentes e forenses computacionais.
 
 `Segurança de Aplicação`
-Domínio criado para proteger o software ou aplicação que está sendo executada ou sendo desenvolvida na nuvem. Isto incluí itens tais como, a necessidade de migrar ou projetar um aplicativo para ser executado na nuvem, e em caso afirmativo, selecionar a plat
+Domínio criado para proteger o software ou aplicação que está sendo executada ou sendo desenvolvida na nuvem. Isto incluí itens tais como, a necessidade de migrar ou projetar um aplicativo para ser executado na nuvem, e em caso afirmativo, selecionar a plataforma em nuvem mais adequada (SaaS, IaaS, PaaS).
+
+`Gestão de criptografia e de chaves`
+Domínio para identificar o uso de criptografia e gestão de chaves de acesso. Esse domínio permite analisar quais são as questões que surgem na utilização, tanto para proteger o acesso aos recursos, bem como para proteger os dados.
+
+``
