@@ -8,4 +8,8 @@ A nuvem pode se fazer valer das melhores práticas de segurança da informação
 `Governança e gestão de Riscos corporativos`
 Uma das áreas de foco mais críticas da governança de tecnologia da informação na computação em nuvem. Alguns riscos inerentes à computação em nuvem devem ser considerados em um processo decisório que cisa à adoção desse novo paradigma.
 
-`Aspectos Legais e Eletroni`
+`Aspectos Legais e Eletronic Discovery`
+Este domínio compreende aos problemas legais em potencial quando se utiliza computação em nuvem: requisitos de proteção da informação e de sistemas informáticos, leis de divulgação de violações de segurança, os requisitos regulatórios, requisitos de privacidade, as leis internacionais, entre outros.
+
+`Gestão do Cilo de Vida da Informação`
+Este
