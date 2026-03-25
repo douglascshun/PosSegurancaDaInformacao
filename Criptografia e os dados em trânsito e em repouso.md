@@ -13,3 +13,7 @@ A cada dia a criptografia se integra mais e mais na vida digital, para melhorar 
 É um recursos de muita utilidade e importância para a proteção de dados, e não seria diferente na área de computação em nuvem. Com a Criptografia, e possível:
 	- Proteger dados sigilosos armazenados em um computador, como exemplo seu arquivo de senhas pessoais.
 	- Proteger uma partição do disco de trabalho separada do disco de sistemas, de forma que todas as informações ali gravadas fiquem criptografadas.
+
+Com a Criptografia, podemos:
+	Proteger a comunicação pela internet, como no caso de Whatsapp, mas também emails enviados/recebidos, transações bancárias.
+- 
