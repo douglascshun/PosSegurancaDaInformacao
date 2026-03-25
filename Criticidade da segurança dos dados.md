@@ -15,4 +15,9 @@ Este domínio compreende aos problemas legais em potencial quando se utiliza com
 Este domínio inclui o gerenciamento de dados que são colocados na nuvem, itens em torno da identificação e controle de dados, bem como controles compensatórios que podem ser usados para lidar com a perda de controle físico ao mover um dado.
 
 `Portabilidade e Interoperabilidade`
-Este domínio compreende a habilidade de mover dados/serviços de um provedor para outro, sem problemas de identificação e/ou acesso 
+Este domínio compreende a habilidade de mover dados/serviços de um provedor para outro, sem problemas de identificação e/ou acesso aos mesmos. 
+
+`Segurança Tradicional, Continuidade de negócios e Recuperação de desastres`
+Domínio capaz de determinar como a computação em nuvem afeta os processos e procedimentos operacionais atualmente usados para programar a segurança, continuidade de negócios e recuperação de desastres.
+
+``
