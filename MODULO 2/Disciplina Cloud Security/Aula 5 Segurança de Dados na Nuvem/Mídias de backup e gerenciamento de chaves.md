@@ -18,3 +18,6 @@ Como o gerenciamento de identidade as organizações podem:
 - Cumprir leis e regulamentos aplicáveis
 - Permitir operações de negócio  mais ágeis e seguras
 
+# Quantos usuários você tem em sua empresa?
+
+![[Usuários na empresa.png]]
