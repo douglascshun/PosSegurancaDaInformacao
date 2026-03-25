@@ -7,3 +7,11 @@ Não podemos no iludir pensando que vamos eliminar totalmente todos os riscos, p
 	Controles que não são justificáveis do ponto de vista do negócio, ou seja, cujo custo de implementação é inviável frente a uma análise de custo-beneficio, não devem ser implementados, cabendo à organização aceitar ou evitar o risco.
 
 # Plano de tratamento de riscos
+![[Plano de tratamento de riscos.png]]
+
+# As opções de tratamento dos riscos para um plano estratégico são:
+
+`Reduzir ou mitigar`:
+Aplicação de um controle para que o risco seja considerado aceitável.
+
+``
