@@ -16,4 +16,6 @@ A cada dia a criptografia se integra mais e mais na vida digital, para melhorar 
 
 Com a Criptografia, podemos:
 	Proteger a comunicação pela internet, como no caso de Whatsapp, mas também emails enviados/recebidos, transações bancárias.
-- 
+
+ Criptografia para garantir a `confidencialidade e a integridade` de dados em trânsito
+	 É crucial que os provedores invistam na implementação de controle adequados em sua infraestrutura, e fundamentalmente, é necessário que seja compreendido o real significado de confidencialidade, integridade e disponibilidade da informação.
