@@ -23,4 +23,7 @@ Vamos a um bom exemplo de uma situação de ameaça na nuvem:
 Os dados mantidos pela aplicação certamente provêm de inúmeras fontes, motivo pelo qual podem ser ilegais ou até mesmo roubados de alguma outra organização. Afinal não se sabe o que uma simples planilha do Excel pode conter.
 
 `Roubo de dados de um aplicativo em nuvem por um ator dmalicioso`:
-Em
+Embora represente uma ameaça de caráter genérico, sua ocorrência é a mais provável se considerarmos o nível de exposição desses dados.
+
+# Que tal mais desafios?
+`Incapacidade de monitorar dados em trânsito de e para aplicativos na nuvem 
