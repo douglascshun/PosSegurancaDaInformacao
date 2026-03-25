@@ -8,4 +8,4 @@ Quanto mais nuvem usamos, adotamos, maiores são as preocupações com a seguran
 Aceso aos dados por quem não tem autorização para tanto e usa maeio fraudulentos para obtê-lo.
 
 `Falha no gerenciamento de identidade`:
-Identidades mal resolvidas pelo sistema de segurança podem dar acesso a dados e recuros para quem não deveria tê-lo
+Identidades mal resolvidas pelo sistema de segurança podem dar acesso a dados e recursos para quem não deveria tê-lo, mesmo a afastada a ma-fé no acesso.
