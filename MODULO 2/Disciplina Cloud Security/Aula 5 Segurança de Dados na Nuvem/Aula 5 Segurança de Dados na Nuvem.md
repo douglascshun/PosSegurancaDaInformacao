@@ -1,9 +1,5 @@
 [[Cloud Security]]
 
-Observação: este site inclui um sistema de acessibilidade. Pressione Control-F11 para ajustar o site para pessoas com deficiências visuais que usam um leitor de tela; Pressione Control-F10 para abrir um menu de acessibilidade.
-
-## Segurança de Dados na Nuvem
-
 **Introdução**
 
 A nuvem mantém dados e recursos computacionais, desta forma existem diferentes perspectivas sobre como proteger os dados e os recursos, pois possuem dinâmicas diferentes, estão baseados em infraestrutura específica e são suscetíveis a diferentes formas de ataques.
