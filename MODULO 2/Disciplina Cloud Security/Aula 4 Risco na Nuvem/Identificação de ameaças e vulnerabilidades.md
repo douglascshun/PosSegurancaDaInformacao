@@ -27,4 +27,4 @@ Embora represente uma ameaça de caráter genérico, sua ocorrência é a mais p
 
 # Que tal mais desafios?
 `Incapacidade de monitorar dados em trânsito de e para aplicativos na nuvem:
-A responsabilidade do provedor em relação às aplicações e aos dados por elas mantidos ao âmbit
+A responsabilidade do provedor em relação às aplicações e aos dados por elas mantidos ao âmbito de sua infraestrutura. Em outras palavras, o provedor não é capaz de evitar ataques durante o  trânsito desses ativos pela internet.
