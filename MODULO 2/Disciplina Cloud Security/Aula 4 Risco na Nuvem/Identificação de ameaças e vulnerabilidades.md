@@ -17,4 +17,5 @@ As atualizações do sistema operacional devem ser baixadas e executadas assim q
 Ameaça que se efetiva com o roubo e uso da conta do usuário legítimo para fins maliciosos.
 
 Vamos a um bom exemplo de uma situação de ameaça na nuvem:
-	Usa uma
+	Usar uma pessoa com pertences valiosos expostos publicamente certamente chamaria a atenção de gente com intenções nada escrupulosas, o que poderia colocar em risco que ma organização corre quando dados sensíveis são movimentados do interior de uma organização para a nuvem, ou em sentido inverso
+
