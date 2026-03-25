@@ -32,4 +32,5 @@ Domínio criado para proteger o software ou aplicação que está sendo executad
 `Gestão de criptografia e de chaves`
 Domínio para identificar o uso de criptografia e gestão de chaves de acesso. Esse domínio permite analisar quais são as questões que surgem na utilização, tanto para proteger o acesso aos recursos, bem como para proteger os dados.
 
-``
+`Virualização`
+Dada a inviabilidade de hospedar cada serviço/aplicação em um servidor dedicado ocasionado tanto pelo custo de atender a característica de elasticidade oferecida pelo paradigma de computação nas nuvens, foi adotado um modelo baseado na tecnologia de virtualização.
