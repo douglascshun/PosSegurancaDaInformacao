@@ -24,4 +24,7 @@ Domínio capaz de determinar como a computação em nuvem afeta os processos e p
 Domínio que avalia a arquitetura e a operação de um fornecedor de Data Center .
 
 `Resposta a incidentes, notificação e correção`
-A correta e adequada detecção de incidentes, a resposta, notificação e correção. Nesse sentido, para domínio, se faz necessário identificar os itens e/ou rec
+A correta e adequada detecção de incidentes, a resposta, notificação e correção. Nesse sentido, para domínio, se faz necessário identificar os itens e/ou recursos que devem estar prestes tanto no nível dos prestadores e dos usuários para permitir bom tratamento de incidentes e forenses computacionais.
+
+`Segurança de Aplicação`
+Domínio criado para proteger o software ou aplicação que está sendo executada ou sendo desenvolvida na nuvem. Isto incluí itens tais como, a necessidade de migrar ou projetar um aplicativo para ser executado na nuvem, e em caso afirmativo, selecionar a plat
