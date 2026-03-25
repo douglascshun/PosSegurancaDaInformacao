@@ -19,3 +19,7 @@ Ameaça que se efetiva com o roubo e uso da conta do usuário legítimo para fin
 Vamos a um bom exemplo de uma situação de ameaça na nuvem:
 	Usar uma pessoa com pertences valiosos expostos publicamente certamente chamaria a atenção de gente com intenções nada escrupulosas, o que poderia colocar em risco que ma organização corre quando dados sensíveis são movimentados do interior de uma organização para a nuvem, ou em sentido inverso
 
+`Falta de visibilidade sobre quais dados estão no aplicativos em nuvem`:
+Os dados mantidos pela aplicação certamente provêm de inúmeras fontes, motivo pelo qual podem ser ilegais ou até mesmo roubados de alguma outra organização. Afinal não se sabe o que uma simples planilha do Excel pode conter.
+
+``
