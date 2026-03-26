@@ -22,4 +22,4 @@ PaaS Platform as a Service
 	De acordo com autores pesquisadores, esta tercerita iniciativa apresentada neste documento ganhou destaque e valor. É uma forma de alugar hardware, sistemas operacionais, armazenamento e capacidade de rede através da internet. O estilo de prestação de serviço segue a mesma rede através da internet. O estilo de prestação de serviço segue a mesma linha dos anteriores, porém oferecendo outros serviços 'on demand'.
 
 IaaS
-	Segundo Souza (2009) o modelo de infraestrutura como serviço (IaaS)
+	Segundo Souza (2009) o modelo de infraestrutura como serviço (IaaS), é parte da computação em nuvem, onde é possível criar sua própria infraestrutura, ou apenas personalizar de acordo com a demanda de cada cliente, O objetivo é tornar mais simples os acessos aos recursos de serviço em nuvem, como servidores, redes, armazenamento entre outros.
