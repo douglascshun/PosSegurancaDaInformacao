@@ -22,4 +22,4 @@ Fase em que se escreve o código para aplicação. Integração e testes: caract
 Consiste na fase final de desenvolvimento, na qual o software é migrado para o ambiente de produção.
 
 - Manutenção:
-Caracteriza-se pelo 
+Caracteriza-se pelo que acontece durante o ciclo de vida do software de produção: mudanças, correções edições...
