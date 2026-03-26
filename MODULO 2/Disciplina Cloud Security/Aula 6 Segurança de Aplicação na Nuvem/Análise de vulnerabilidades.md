@@ -20,4 +20,4 @@ A virtualização e o compartilhamento de recursos são pontos fracos da Computa
 					Execução de ataques de negação de serviço em uma maquina virtual
 
 Se os dados ou outros recursos exigem um ambiente protegido devido a leis, normas ou regulamentos do segmento específico em que a empresa atua, a abordagem utilizada precisará respeita-los.
-	A solução mais recomendável para esse cenário é uma nuvem privada ou, possivelmente uma nuvem hibrida, com dados confi
+	A solução mais recomendável para esse cenário é uma nuvem privada ou, possivelmente uma nuvem hibrida, com dados confidenciais, transições e serviços hospedados na seção privada, a fim de proporcionar à organização um controle mais rígido da segurança e do acesso.
