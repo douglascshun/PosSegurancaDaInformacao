@@ -16,4 +16,10 @@ Eis que ele precisa de um software empresarial para gerenciar sua locadora de VH
 Descreve as características desejadas e as operações em detalhes, incluindo layouts de tela, regras de negócios, diagramas de processo, pseudocódigos e outras documentações.
 
 - Implementação:
-Fase em que se escreve o código para aplicação. Integração e testes: caracteriza-se c=pela realização dos test
+Fase em que se escreve o código para aplicação. Integração e testes: caracteriza-se pela realização dos testes em ambiente apropriado, para evitar b erros, bugs e interoperabilidade.
+
+- Aceitação, instalação e implantação:
+Consiste na fase final de desenvolvimento, na qual o software é migrado para o ambiente de produção.
+
+- Manutenção:
+Caracteriza-se pelo 
