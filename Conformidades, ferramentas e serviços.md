@@ -4,7 +4,9 @@ Com o desenvolvimento da computação em nuvem como um meio viável e rentável 
 	Mas lembre-se que metodologias e modelos praticamente nasceram antes dos primeiros serviços na nuvem!
 
 Quem deve sempre compreender as exigências e funcionalidades são os clientes do projeto:
+	- A aplicabilidade regulatória para o uso do serviço de nuvem em questão.
+	- A divisão das responsabilidades ela conformidade entre o provedor do serviço e o cliente de nuvem.
+	- A capacidade do provedor de serviço de nuvem de produzir evidências necessárias para a conformidade.
+	- Seu papel de fazer a ponte entre o provedor do serviço de nuvem e o auditor/avaliador.
 
-	A aplicabilidade regulatória para o uso do serviço de nuvem em questão.
-	
-	A
+# Ferramentas e servi
