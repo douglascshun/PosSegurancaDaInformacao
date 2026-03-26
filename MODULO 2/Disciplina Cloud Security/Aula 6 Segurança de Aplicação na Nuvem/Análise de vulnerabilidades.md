@@ -9,3 +9,8 @@ A grande maioria sabe que existem vulnerabilidades, portanto suas formações pr
 # Visão geral da computação em nuvem
 ![[visao geral da computacao em nuvem.png]]
 
+Seria a a aversão a nuvem uma vulnerabilidade?
+	Mesmo diante das várias possibilidades de fazer economias, as lideranças das organizações relutam em mover informações, softwares e outros serviços para a nuvem. Isso deve à necessidade de considerar todos os riscos envolvidos.
+
+A virtualização e o compartilhamento de recursos são pontos fracos da Computação na Nuvem:
+	D
