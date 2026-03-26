@@ -23,4 +23,4 @@ Aplicativos conversam com outros sistemas, com banco de dados, com o usuário, c
 3. Use o gerenciamento de identidades federadas para assegurar cada usuário seja conhecido em todos os pontos da nuvem.
 4. Conceda funções e outros atributos a cada usuário para verificar as solicitações de acessos de dados. 
 5. Atribua regras de controle de acesso a aplicativos e dados que possam ser movidas como elas para a nuvem. 
-6. Autorize
+6. Autorize o acesso a aplicativos e dados com base em solicitações de acesso de usuários aprovadas. 
