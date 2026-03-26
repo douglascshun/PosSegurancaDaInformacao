@@ -7,4 +7,13 @@ Eis que ele precisa de um software empresarial para gerenciar sua locadora de VH
 ![[Metodologia cascata.png]]
 
 # Etapas do desenvolvimento de sistemas com modelos de metodologias:
-- Análise de sistemas e definição de requisitos: refina os objetivos do projeto em funções e projeta o funcionamento da aplicação pretendida.Analisa precisamente as informaçõe
+
+- Análise de sistemas e definição de requisitos: refina os objetivos do projeto em funções e projeta o funcionamento da aplicação pretendida.Analisa precisamente as informações do usuário final.
+
+## Etapas:
+
+- Projeto de sistemas: 
+Descreve as características desejadas e as operações em detalhes, incluindo layouts de tela, regras de negócios, diagramas de processo, pseudocódigos e outras documentações.
+
+- Implementação:
+Fase em que se escreve o código para aplicação. Integração e testes: caracteriza-se c=pela realização dos test
