@@ -13,3 +13,7 @@ Quem deve sempre compreender as exigências e funcionalidades são os clientes d
 Para falarmos das ferramentas e dos serviços utilizados para segurança no desenvolvimento de aplicações na computação em nuvem, teremos que revisar os tipos de plataformas existentes nesse tipo de tecnologia.
 
 # Modelos de serviços em nuvem
+![[Modelos de servico em nuvem.png]]
+
+SaaS - Software as a service 
+	Essa abordagem é chamada de SaaS por que o u
