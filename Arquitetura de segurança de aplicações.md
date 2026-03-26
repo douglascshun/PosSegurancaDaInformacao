@@ -7,4 +7,8 @@ O Hacker sempre busca uma `vulnerabilidade`, e encontra muitas em sistemas web o
 	Os aplicativos se interconectam com outras soluções e agem como `se não edpendessem dos próprios usuários`. Contido, como sempre existe um usuário por trás de uma aplicação as arquiteturas necessitam de `segurança redobrada`, e é preciso suportar tanto a interconectividade como a alta demanda desses serviços como.
 
 Grande parte das atualizações de SO's como o Windows atuam na eliminação de vulnerabilidades. 
-	Para usufruir dos benefícios de um serviço de com
+	Para usufruir dos benefícios de um serviço de computação em nuvem sem a preocupação inerente de um ambiente web, deve-se implementar u processo de controle de acesso distribuído correspondente ao conteúdo e ao aplicativos.
+
+# Arquitetura orientada a objetos (SOA)
+
+Eles são implementados a ap
