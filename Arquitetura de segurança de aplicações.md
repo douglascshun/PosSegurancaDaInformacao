@@ -11,4 +11,5 @@ Grande parte das atualizações de SO's como o Windows atuam na eliminação de 
 
 # Arquitetura orientada a objetos (SOA)
 
-Eles são implementados a ap
+Eles são implementados a partir do fornecedor, e é possível empregar um maior controle se trouxermos primeiro todo o código e todas as atualizações de aplicativos para a empresa e, em seguida, distribuí-los a partir dela. 
+	Os dados migram da máquina cliente para os repositórios de dados da empresa ou da nuvem, que são ex
