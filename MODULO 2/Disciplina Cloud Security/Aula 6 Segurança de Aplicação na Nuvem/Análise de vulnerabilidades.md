@@ -13,4 +13,8 @@ Seria a a aversão a nuvem uma vulnerabilidade?
 	Mesmo diante das várias possibilidades de fazer economias, as lideranças das organizações relutam em mover informações, softwares e outros serviços para a nuvem. Isso deve à necessidade de considerar todos os riscos envolvidos.
 
 A virtualização e o compartilhamento de recursos são pontos fracos da Computação na Nuvem:
-	D
+	Discos compartilhados, computadores virtuais ou redes virtuais (VLANs)
+		Drivers genéricos que emulam hardware
+			Vulnerabilidades no hypervisor, pois permitem a execução de códigos no hosts com privilégio do hypervisor 
+				Rootkits, baseados em máquinas virtuais 
+					Execução de ataues de negação de se
