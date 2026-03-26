@@ -17,4 +17,7 @@ A virtualização e o compartilhamento de recursos são pontos fracos da Computa
 		Drivers genéricos que emulam hardware
 			Vulnerabilidades no hypervisor, pois permitem a execução de códigos no hosts com privilégio do hypervisor 
 				Rootkits, baseados em máquinas virtuais 
-					Execução de ataues de negação de se
+					Execução de ataques de negação de serviço em uma maquina virtual
+
+Se os dados ou outros recursos exigem um ambiente protegido devido a leis, normas ou regulamentos do segmento específico em que a empresa atua, a abordagem utilizada precisará respeita-los.
+	A solução mais recomendável para esse cenário é uma nuvem privada ou, possivelmente uma nuvem hibrida, com dados confi
