@@ -15,4 +15,8 @@ Eles são implementados a partir do fornecedor, e é possível empregar um maior
 	Os dados migram da máquina cliente para os repositórios de dados da empresa ou da nuvem, que são exibidos como servidores SharePoint.
 
 Aplicativos conversam com outros sistemas, com banco de dados, com o usuário, captam seus dados pessoais e credenciais, isso induz a maior necessidade de segurança
-	Deve-se preservar a integridade dos executáveis dos aplicativos e dos dados da empresa. Uma situação mais flexível é quando se pode gerenciar os recursos locais e na nuvem como uma única entidade, 
+	Deve-se preservar a integridade dos executáveis dos aplicativos e dos dados da empresa. Uma situação mais flexível é quando se pode gerenciar os recursos locais e na nuvem como uma única entidade, que pode responder de maneira dinâmica às solicitações de recursos.
+
+# Como desenvolver uma arquitetura em nuvem segura:
+1. Estabeleça uma arquitetura orientada a serviços (SOA) para garantir que possa realocar cada componente com segurança.
+2. Centralize o gerenciamento de implantações e atualizações de dados e aplicativos.
