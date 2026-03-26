@@ -16,4 +16,7 @@ Para falarmos das ferramentas e dos serviços utilizados para segurança no dese
 ![[Modelos de servico em nuvem.png]]
 
 SaaS - Software as a service 
-	Essa abordagem é chamada de SaaS por que o u
+	Essa abordagem é chamada de SaaS por que o usuário paga para usar serviços escolhidos. O cliente não tem controle nem é responsável pelo hardware no qual o serviço está instalado.
+
+PaaS Platform as a Service
+	De acordo com autores pesquisadores, esta tercerita iniciativa apresentada neste documento ganhou destaque e valor. É uma forma de alugar hardware, sistemas operacionais, armazenamento e capacidade de rede atra
