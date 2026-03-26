@@ -9,4 +9,7 @@ Quem deve sempre compreender as exigências e funcionalidades são os clientes d
 	- A capacidade do provedor de serviço de nuvem de produzir evidências necessárias para a conformidade.
 	- Seu papel de fazer a ponte entre o provedor do serviço de nuvem e o auditor/avaliador.
 
-# Ferramentas e servi
+# Ferramentas e serviços
+Para falarmos das ferramentas e dos serviços utilizados para segurança no desenvolvimento de aplicações na computação em nuvem, teremos que revisar os tipos de plataformas existentes nesse tipo de tecnologia.
+
+Modelos 
