@@ -10,4 +10,5 @@ Federação são formas ágeis de gerenciar o acesso a recursos em parceiros que
 
 
 (a) Gerenciamento de identidades federadas
-	O
+	Ele fornece as políticas, processos e mecanismos para gerenciar a identidade e acesso confiável a sistemas nas organizações.
+Isso permite reutilizar as identidades dos usuários nos limites da organização, e garante gerenciamento eficiente do ciclo de vida do usuário, conformidade e congruência de informações de usuários relevantes entre duas organizações parceiras sem sobrecarga administra
