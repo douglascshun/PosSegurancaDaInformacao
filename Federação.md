@@ -14,4 +14,7 @@ Federação são formas ágeis de gerenciar o acesso a recursos em parceiros que
 Isso permite reutilizar as identidades dos usuários nos limites da organização, e garante gerenciamento eficiente do ciclo de vida do usuário, conformidade e congruência de informações de usuários relevantes entre duas organizações parceiras sem sobrecarga administrativa excessiva.
 
 (b) Single Sing-On Federado (SSO)
-	O single Sing-On (SSO) permite que a autenticação de um usuário em um domínio seja co
+	O single Sing-On (SSO) permite que a autenticação de um usuário em um domínio seja confiável em todos os domínios diferentes (por exemplo, diferentes provedores de serviço).
+Isso proporciona conveniência aos usuários e melhor segurança, se o domínio de autenticação mantém uma forte postura de segurança.
+
+Muito cuidade com o SSO, pois o _single_ significa que se trata de um sistema onde o usuário se autentica apenas uma vez 
