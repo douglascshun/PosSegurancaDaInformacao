@@ -23,3 +23,8 @@ A automação desse processo assegura sua consistência e permite a auditoria de
 Devemos lembrar que clientes e parceiros também tem acesso a vários sistemas da empresa, e assim, podemos expandir o conceito de identidade em TI.
 	A equié de colaboradores, parceiros e clientes não são as únicas identidades em um ambiente de TI. Considerando legislação e regulamentos, há o Projeto ou Lei n25.276/16 (BRASIL, 2016), de proteção a dados pessoais, e regras de outros países, como o Ato de Gramm-Leach-Bliley(GLB.)
 
+Alguns sistemas são tão críticos que demandam auditoria constante e independente para controlar o que seus usuários fazem.
+
+No caso de um banco, este deve gerir e relatar, por intermédio da auditoria, as atividades de seus empregados no tocante a operações com clientes, bem como atividades de parceiros de negócios e clientes que têm acesso a dados protegidos. 
+
+O csto de comprimento do Ato GLB em um ambiente com muitas contas por usuários internos pode se tornar in
