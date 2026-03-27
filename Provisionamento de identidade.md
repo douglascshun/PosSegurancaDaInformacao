@@ -8,4 +8,13 @@ A criação, o monitoramento, e o provisionamento devem passar por um bem constr
 
 A empresa contrata sua nuvem e com ela passa a ter que gerenciar e provisionar a identidade de seus funcionários, Mas tem que controlar os acessos constantemente.
 
-No caso mais simples, uma identidade é equivalente a um ID (uma identificação) da segquência de eventos para adicionar usuários com base nas su
+No caso mais simples, uma identidade é equivalente a um ID (uma identificação) da sequência de eventos para adicionar usuários com base nas suas funções e na aprovação dos responsáveis na organização.
+
+A automação desse processo assegura sua consistência e permite a auditoria detalhada de cada passo.
+
+
+# Em uma empresa tecnológica um funcionário pode ter diversos ID's pois acessa diversos sistemas.
+
+- Um sistema de arquivos de rede nos diretórios compartilhados
+- Vários aplicativos de mainframes
+- 
