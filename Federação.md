@@ -19,4 +19,4 @@ Isso proporciona conveniência aos usuários e melhor segurança, se o domínio 
 
 Muito cuidado com o SSO, pois o _single_ significa que se trata de um sistema onde o usuário se autentica apenas uma vez.
 	A federação permite acesso confiável aos domínios relacionados e o gerenciamento de identidade federadas define políticas e processos para a gestão de identidades e acesso em uma federação.
-Nesse contexto, o SSO 
+Nesse contexto, o SSO federado provê acesso em um ambiente de federação, por meio de protocolos específicos, à aplicações em domínios diferentes e confiáveis.
