@@ -20,4 +20,6 @@ Entretanto, a necessidade de acesso levou à criação de processos de gestão d
 
 - Permitir operações de negócio mais ágeis e seguras.
 
-#  Quantos u
+#  Quantos usuários você tem em sua empresa?
+
+![[Diagrama gerenciamento.png]]
