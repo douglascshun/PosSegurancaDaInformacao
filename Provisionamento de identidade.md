@@ -17,4 +17,8 @@ A automação desse processo assegura sua consistência e permite a auditoria de
 
 - Um sistema de arquivos de rede nos diretórios compartilhados
 - Vários aplicativos de mainframes
-- 
+- Um módulo de gestão de relacionamento com o cliente (CRM)
+- Sistemas de estoque, vendas, financeiros, etc...
+
+Devemos lembrar que clientes e parceiros também tem acesso a vários sistemas da empresa, e assim, podemos expandir o conceito de identidade em TI.
+	A equié de colaboradores, parceiros e clientes não são as únicas identidades em um ambiente de T
