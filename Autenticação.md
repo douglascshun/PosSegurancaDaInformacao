@@ -23,4 +23,6 @@ Consiste em apresentar um identificador ao sistema de segurança, essas identida
 `Verificação`:
 Consiste em apresentar ou gerar informações de identificação que corroboram o vínculo entre a entidade e o identificador.
 
-# As formas de autenticação 
+# As formas de autenticação de identidade podem ser usadas de formas isoladas ou combinadas e são em geral, quatro tipos diferentes:
+
+1. Algo que o individuo sabe: alguns exemplos são uma senha, um número de identificação pessoal (PIN, do acrônimo em inglês para personal identification number) ou respostas a um conjunto de perguntas pré
