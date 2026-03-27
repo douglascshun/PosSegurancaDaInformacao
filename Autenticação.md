@@ -25,4 +25,8 @@ Consiste em apresentar ou gerar informações de identificação que corroboram 
 
 # As formas de autenticação de identidade podem ser usadas de formas isoladas ou combinadas e são em geral, quatro tipos diferentes:
 
-1. Algo que o individuo sabe: alguns exemplos são uma senha, um número de identificação pessoal (PIN, do acrônimo em inglês para personal identification number) ou respostas a um conjunto de perguntas pré
+1. Algo que o individuo sabe: alguns exemplos são uma senha, um número de identificação pessoal (PIN, do acrônimo em inglês para personal identification number) ou respostas a um conjunto de perguntas pré-estipuladas:
+
+2. Algo que o indivíduo possui: alguns exemplos são chaves de criptográficas, cartões de senha eletrônica, smart cards e chaves físicas. Esse tipo de autenticador é conhecido como token
+
+3. 
