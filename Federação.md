@@ -6,4 +6,8 @@ Imagine que uma empresa usa o sistema de outra empresa e faz isso através dos u
 A identidade federada indica que indivíduos (pessoas ou entidades) possam usar credenciais (id locais, senhas biométricas, etc..) para acessar redes de diferentes entidades (governos, empresas, etc...) sem aderir para um sistema centralizado de logon único. 
 
 Federação são formas ágeis de gerenciar o acesso a recursos em parceiros que já contam com um bom controle de acesso e um processo de autenticação robusto.
-	
+	Uma federação de identidades permite acesso transparente a seus usuários aos serviços oferecidos pelos membros e parceiros. Esta federação é apoiada por padrões de comunicação e troca de mensagens, como SAML (Security Assertion Markup Language).
+
+
+(a) Gerenciamento de identidades federadas
+	O
