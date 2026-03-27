@@ -21,4 +21,5 @@ A automação desse processo assegura sua consistência e permite a auditoria de
 - Sistemas de estoque, vendas, financeiros, etc...
 
 Devemos lembrar que clientes e parceiros também tem acesso a vários sistemas da empresa, e assim, podemos expandir o conceito de identidade em TI.
-	A equié de colaboradores, parceiros e clientes não são as únicas identidades em um ambiente de T
+	A equié de colaboradores, parceiros e clientes não são as únicas identidades em um ambiente de TI. Considerando legislação e regulamentos, há o Projeto ou Lei n25.276/16 (BRASIL, 2016), de proteção a dados pessoais, e regras de outros países, como o Ato de Gramm-Leach-Bliley(GLB.)
+
