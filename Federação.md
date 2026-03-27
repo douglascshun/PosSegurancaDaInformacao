@@ -13,5 +13,5 @@ Federação são formas ágeis de gerenciar o acesso a recursos em parceiros que
 	Ele fornece as políticas, processos e mecanismos para gerenciar a identidade e acesso confiável a sistemas nas organizações.
 Isso permite reutilizar as identidades dos usuários nos limites da organização, e garante gerenciamento eficiente do ciclo de vida do usuário, conformidade e congruência de informações de usuários relevantes entre duas organizações parceiras sem sobrecarga administrativa excessiva.
 
-(b) Single Sing-On Federado (SS)
-	O single 
+(b) Single Sing-On Federado (SSO)
+	O single Sing-On (SSO) permite que a autenticação de um usuário em um domínio seja co
