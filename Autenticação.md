@@ -17,4 +17,10 @@ O termo `handsahke (Aperto de mãos)`, significa realizar um processo onde as du
 
 # Um processo de autenticação consiste em duas etapas:
 
-`Identificaç`
+`Identificação`:
+Consiste em apresentar um identificador ao sistema de segurança, essas identidades autenticadas são base para o controle de acesso. 
+
+`Verificação`:
+Consiste em apresentar ou gerar informações de identificação que corroboram o vínculo entre a entidade e o identificador.
+
+# As formas de autenticação 
