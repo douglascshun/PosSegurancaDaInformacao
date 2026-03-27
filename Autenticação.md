@@ -10,4 +10,7 @@ A `Autenticação` é o não garantido, a credencial busca o sim. Ou seja, por p
 
 A autenticação deve ser feita de maneira segura. confiável e gerenciável. Para contas que exigem níveis mais altos de segurança, podem ser necessárias autenticações de múltiplos fatores. 
 
-Sistemas de autenticação devem ter a capacidade de usar a definição de risco de transação comercial como orientação e fornce
+Sistemas de autenticação devem ter a capacidade de usar a definição de risco de transação comercial como orientação e fornecer autenticação adaptativa baseada no nível de risco da transação. 
+
+O termo `handsahke (Aperto de mãos)`, significa realizar um processo onde as duas partes passam  a confiar mutuamente. Usado no contato do software com o servidor e semelhante a autenticação.
+	A autenticação visa estabelecer confiança na identidade das entidades e serv
