@@ -29,4 +29,6 @@ Consiste em apresentar ou gerar informações de identificação que corroboram 
 
 2. Algo que o indivíduo possui: alguns exemplos são chaves de criptográficas, cartões de senha eletrônica, smart cards e chaves físicas. Esse tipo de autenticador é conhecido como token
 
-3. 
+3. Algo que o indivíduo é (biometria estática): alguns exemplos são reconhecimento por impressão digital, retina e face
+
+4. Algo que o indivíduo faz (biometria dinâmica): alguns exemplos são reconhecimento pelo padrão de voz, características de escrita manual e ritmo de digitação.
