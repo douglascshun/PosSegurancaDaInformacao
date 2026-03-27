@@ -18,4 +18,6 @@ Entretanto, a necessidade de acesso levou à criação de processos de gestão d
 
 - Cumprir leis e regulamentos aplicáveis
 
-- Permitir operações de negócio m
+- Permitir operações de negócio mais ágeis e seguras.
+
+#  Quantos u
