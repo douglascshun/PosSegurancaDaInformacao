@@ -27,4 +27,5 @@ Usar a nuvem com qualidade e segurança significa que o plano de governança est
 	Um projeto de migração para nuvem deve prever eventuais ajustes nas políticas de segurança e governança de TI das empresas. Estratégias devem ser atualizadas para otimizar o dia a dia dos usuários dos novos serviços. Esse trabalho, entretanto, deve continuar após a configuração e o início das operações com as novas ferramentas. 
 
 Manter os backups em dia, pois pensar  na segurança em nuvem, é respirar segurança!
-	De acordo com Jesus e Schumiguel, "para backup de pequno e médio porte a solução de backup em nuvem apresenta grandes "
+	De acordo com Jesus e Schumiguel, "para backup de pequeno e médio porte a solução de backup em nuvem apresenta grandes vantagens, devido ao fato de seu tamanho ser pequeno."
+Além da vantagem de utilização do backup em nuvem, que permite a inexistência de um local para armazenamento, e a escalabilidade, aumentando gradualmente o tamanho do backup de acordo com a necessidade, não requer um custo inicial.
