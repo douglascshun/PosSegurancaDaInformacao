@@ -6,4 +6,6 @@ Bilhões de `objetos, dispositivos ou coisas` com capacidade de detecção e/ou 
 - Análise dos dados permite obter insights e tomada de decisões. 
 - Objetos podem ser controlados pela internet.
 
-# Algumas definiç
+### Algumas definições de IoT
+
+![[Diferentes definicoes de IoT.png]]
