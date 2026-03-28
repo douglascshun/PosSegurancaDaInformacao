@@ -9,3 +9,7 @@
 
 # Esquema visual
 ![[Esquema visual.png]]
+
+
+# Divisões do ecossistema IoT
+![[Pasted image 20260328145109.png]]
