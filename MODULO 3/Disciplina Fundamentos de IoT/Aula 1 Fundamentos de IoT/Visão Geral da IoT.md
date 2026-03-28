@@ -9,3 +9,5 @@ Bilhões de `objetos, dispositivos ou coisas` com capacidade de detecção e/ou 
 ### Algumas definições de IoT
 
 ![[Diferentes definicoes de IoT.png]]
+
+# I
