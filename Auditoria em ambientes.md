@@ -12,4 +12,7 @@ Quando a migração para a nuvem envolve empresas que operam com Compliance e Go
 - Alinhamento dos sistemas de informação com a missão, a visão, os valores e os objetivos e estratégias da organização.
 - Conformidade com requisitos de segurança e privacidade legais, ambientais e fiduciários.
 - Consecução do desempenho e concretização dos objetivos traçados para os SI.
-- 
+- Gestão dos investimentos em TI
+- Análise e avaliação dos riscos inerentes ao ambiente de SI, como a computação em nuvem.
+
+Devemos lembrar que com o mundo dos negócios cada vez mais digital, o processo de auditoria para a nuvem representa um pro
