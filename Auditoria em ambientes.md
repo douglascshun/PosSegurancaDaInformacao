@@ -8,4 +8,8 @@ Quando a migração para a nuvem envolve empresas que operam com Compliance e Go
 	O objetivo é fornecer garantia e tranquilidade aos stakeholders, internos e externos, no que dis respeito aos pontos auditados, ou seja todos os fatores internos interligados que contribuem para a realização dos objetivos da organização, suportados pelo COBIT.
 
 ## Os principais objetivos da auditoria, são: 
-A
+
+- Alinhamento dos sistemas de informação com a missão, a visão, os valores e os objetivos e estratégias da organização.
+- Conformidade com requisitos de segurança e privacidade legais, ambientais e fiduciários.
+- Consecução do desempenho e concretização dos objetivos traçados para os SI.
+- 
