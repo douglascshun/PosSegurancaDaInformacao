@@ -27,4 +27,6 @@ Como uma proporção considerável de custo em operações de TI vem de funçõe
 
 # Avaliação de capacidades
 
-O TI da empresa que ainda não migrou para a nuvem tem diversos custos e riscos com
+O TI da empresa que ainda não migrou para a nuvem tem diversos custos e riscos como a manutenção de seus equipamentos, redundâncias de energia, resfriamento, elementos de custo consideráveis!
+	Com o uso de sistemas na nuvem, há o risco sempre presente da segurança de dados, da conectividade e das ações mal-intencionadas de terceiros interferindo nos processos.
+Entretanto, comum plano bem definido, a applicação de uma metodologia sólida
