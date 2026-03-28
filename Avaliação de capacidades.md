@@ -14,4 +14,6 @@ Em nossa experiência, o principal gargalo para a densidade de máquinas virtuai
 	A computação em nuvem elimina esse gargalo removendo a questão de densidade de máquinas lidar com isso é responsabilidade do provedor de nuvem, o que faz com que o usuário da nuvem não tenha com que se preocupar.
 
 Na computação em nuvem, a largura de banda para o provedor é um gargalo que deve ser evitado. 
-	No mercado atual, existem soluções para evitar esse problema, e uma sugestão é o servidor hiade, que é um servidor que foi otimizado para minimizar o uso de espaçõ fisico e energia
+	No mercado atual, existem soluções para evitar esse problema, e uma sugestão é o servidor blade, que é um servidor que foi otimizado para minimizar o uso de espaço físico e energia. Uma das grandes vantagens do blade é a melhoria da velocidade de largura de banda.
+
+O desempenho de uma empresa 
