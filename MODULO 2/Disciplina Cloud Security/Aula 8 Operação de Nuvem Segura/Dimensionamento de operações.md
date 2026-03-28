@@ -18,4 +18,7 @@ A nuvem pública, por exemplo, é um ambiente multi-inquilino. Nesse cenário, v
 ![[Estrutura de computacao em nuvem.png]]
 
 As nuvens públicas são abertas, onde a maioria dos serviços e usuários estão, pois oferecem escalabilidade e melhor custo de contratação.
-	No entanto, elas podem oferecer um menor controle dos recursos, o que pode trazer riscos a companhias que trabalham com dados privados, como é o caso de empresa das áreas da saúde e serviços financeiros, em um cenário de investigações que possa exigir revelação dos dados,
+	No entanto, elas podem oferecer um menor controle dos recursos, o que pode trazer riscos a companhias que trabalham com dados privados, como é o caso de empresa das áreas da saúde e serviços financeiros, em um cenário de investigações que possa exigir revelação dos dados.
+
+A nuvem privada é como m avião particular, se comparado com um de Cia aérea...
+	Já as nuvens privadas apresentam um ambiente com maior controle sobre as configurações, uso de recursos e brechas de segurança. Ao contrário do que ocorre na nuvem pública, toda a responsabilidade pelos servidores recai sobre a empresa os mantém
