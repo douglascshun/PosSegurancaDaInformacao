@@ -10,4 +10,7 @@ Provedor de computação na nuvem toma conta de algo tão valioso quanto dinheir
 	Escolher o provedor que vai assumir vários aspectos créticos e até estratégicos da empresa é uma decisão complexa e sensível.
 
 Juridicamente falando, se a empresa depende de normas e regulamentos, leis federias e municipais, o provedor deve ser capaz de oferecer isso!
-	Uma vez feita a decisão por ingressar na nuvem, o contrato deve ser analisado com atenção.Além de definirem-se questões técnicas de níveis de serviço de segurança, é essencial que seja
+	Uma vez feita a decisão por ingressar na nuvem, o contrato deve ser analisado com atenção.Além de definirem-se questões técnicas de níveis de serviço de segurança, é essencial que sejam previstas as responsabilidades, os direitos e as obrigações de cada parte. No caso de serviços internacionais, devem estar claras para o cliente as demandas da legislação local vigente.
+
+Além do TI mudar muito, quando a empresa adota a nuvem, muda sua forma de consumir tecnologia, o que implica em compreender...
+	Onde estão os fornecedores, qu
