@@ -13,4 +13,7 @@ Juridicamente falando, se a empresa depende de normas e regulamentos, leis feder
 	Uma vez feita a decisão por ingressar na nuvem, o contrato deve ser analisado com atenção.Além de definirem-se questões técnicas de níveis de serviço de segurança, é essencial que sejam previstas as responsabilidades, os direitos e as obrigações de cada parte. No caso de serviços internacionais, devem estar claras para o cliente as demandas da legislação local vigente.
 
 Além do TI mudar muito, quando a empresa adota a nuvem, muda sua forma de consumir tecnologia, o que implica em compreender...
-	Onde estão os fornecedores, qu
+	Onde estão os fornecedores, quais atividades serão realizadas, qual tratamento será destinado aos dados da empresa, qual nível de controle os clientes terão sobre seus dados e como será possível acessar os dados nos casos de falência do fornecedor, suspensão do serviço ou atraso de pagamento, 
+
+Cuidado com as entrelinhas do SLA!
+	SLA é o _Service Level Agreement_ ou 
