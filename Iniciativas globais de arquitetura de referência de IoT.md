@@ -6,5 +6,3 @@ Várias organizações de todo o mundo tentam definir a arquitetura de referênc
 
 # Iniciativas globais:
 
-Industrial Internet Consortium, IIC
-- Industrial Internet Reference Archt
