@@ -11,4 +11,10 @@ Pois os serviços podem receber aumento de desempenho e novos recursos podem ser
 Quando dizemos que a nuvem é pública, estamos nos referindo a uma estrutura de computação compartilhada massivamente pelos usuários e de acesso geral. Fica mais fácil quando falamos sobre o que é a nuvem privada!
 
 A nuvem pública, por exemplo, é um ambiente multi-inquilino. Nesse cenário, várias pessoas ou empresas compartilham os recursos de uma máquina para utiliza as usas aplicações.
-	Para quem trabalha com projetos de alto desempenho, é importante verificar se os sistemas não estão enfrentando problema de performance em momentos de alta demanda e, acima de tudo, se o custo de manutenção do serviço mantém-se menor quadno c
+	Para quem trabalha com projetos de alto desempenho, é importante verificar se os sistemas não estão enfrentando problema de performance em momentos de alta demanda e, acima de tudo, se o custo de manutenção do serviço mantém-se menor quando comparado com o de um servidor privado.
+
+# Estrutura de comparação em nuvem
+
+![[Estrutura de computacao em nuvem.png]]
+
+As nuvens pública
