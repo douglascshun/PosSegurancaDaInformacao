@@ -1,4 +1,4 @@
-[[C]]
+[[Módulo 2]]
 
 **Introdução**
 
