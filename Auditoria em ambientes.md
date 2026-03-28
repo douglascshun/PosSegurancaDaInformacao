@@ -15,4 +15,8 @@ Quando a migração para a nuvem envolve empresas que operam com Compliance e Go
 - Gestão dos investimentos em TI
 - Análise e avaliação dos riscos inerentes ao ambiente de SI, como a computação em nuvem.
 
-Devemos lembrar que com o mundo dos negócios cada vez mais digital, o processo de auditoria para a nuvem representa um pro
+Devemos lembrar que com o mundo dos negócios cada vez mais digital, o processo de auditoria para a nuvem representa um processo essencialmente transversal, com relação a empresa, e foca em dois grandes aspectos:
+- Na conformidade, ou seja, no cumprimento de políticas e regulamentos internos e externos e na proteção dos ativos de informação de valor para a organização.
+- No desempenho, ou seja, no valor que a TI adiciona e gera para a organização.
+
+# Compliance e segurança 
