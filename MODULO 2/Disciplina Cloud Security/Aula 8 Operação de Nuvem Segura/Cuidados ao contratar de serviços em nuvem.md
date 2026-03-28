@@ -16,4 +16,4 @@ Além do TI mudar muito, quando a empresa adota a nuvem, muda sua forma de consu
 	Onde estão os fornecedores, quais atividades serão realizadas, qual tratamento será destinado aos dados da empresa, qual nível de controle os clientes terão sobre seus dados e como será possível acessar os dados nos casos de falência do fornecedor, suspensão do serviço ou atraso de pagamento, 
 
 Cuidado com as entrelinhas do SLA!
-	SLA é o _Service Level Agreement_ ou 
+	SLA é o _Service Level Agreement_ ou `Acordo de Nível de Serviço`, o contrato que o usuário faz com o provedor e que estabelece o desempenho a ser entregue e por quanto tempo o serviço pode ficar inoperante .
