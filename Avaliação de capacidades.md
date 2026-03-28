@@ -16,4 +16,6 @@ Em nossa experiência, o principal gargalo para a densidade de máquinas virtuai
 Na computação em nuvem, a largura de banda para o provedor é um gargalo que deve ser evitado. 
 	No mercado atual, existem soluções para evitar esse problema, e uma sugestão é o servidor blade, que é um servidor que foi otimizado para minimizar o uso de espaço físico e energia. Uma das grandes vantagens do blade é a melhoria da velocidade de largura de banda.
 
-O desempenho de uma empresa 
+O desempenho de uma empresa é medido com seus KPI's e na nuvem é preciso usar indicadores de desempenho que possam ser utilizados na avaliação da performance da empresa fora da nuvem, ou seja, ela precisa saber, de acordo com os indicadores da nuvem se o serviço que está contratando se adequá a sua necessidade.
+
+Portanto, é necessário fazer uma avalização aprofundada dos recursos oferecidos pelo provedor, bem como o monito
