@@ -6,3 +6,4 @@ Várias organizações de todo o mundo tentam definir a arquitetura de referênc
 
 # Iniciativas globais:
 
+![[Iniciativas Globais IoT.png]]
