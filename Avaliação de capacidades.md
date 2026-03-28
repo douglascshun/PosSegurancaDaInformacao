@@ -21,4 +21,10 @@ O desempenho de uma empresa é medido com seus KPI's e na nuvem é preciso usar 
 Portanto, é necessário fazer uma avalização aprofundada dos recursos oferecidos pelo provedor, bem como o monitoramento constante de todos os serviços oferecidos, com o objetivo de evitar que o Acordo de Nível de Serviço (SLA) seja descumprido e o seu negócio seja prejudicado pela falta de capacidade dos serviços contratados. 
 
 # Impacto financeiro 
-Como uma proporção considerável de custo em operações de TI vem de funções administrativas e de gerenciamento, a 
+
+Como uma proporção considerável de custo em operações de TI vem de funções administrativas e de gerenciamento, a automação de algumas dessas funções poderá reduzir os gastos em um ambiente de computação em nuvem. 
+	A automação pode reduzir de forma significativa o fator de erro e o custo proveniente da redundância de intervenções manuais.
+
+# Avaliação de capacidades
+
+O TI da empresa que ainda não migrou para a nuvem tem diversos custos e riscos com
