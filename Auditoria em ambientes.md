@@ -27,4 +27,4 @@ Por ser externa, a Computação em Nuvem deve ser constantemente auditada para q
 	Nesse processo, conforme o COBIT, destaca-se a tarefa fundamental de análise e avaliação dos riscos inerentes à adoção dos serviços de TI alojados na nuvem como forma de mitigar a ocorrência de eventos que comprometam esses objetivos organizacionais. 
 
 Para a empresa, cabe conhecer o SLA celebrado e estabelecer mecanismos de monitoramento e controle de seu cumprimento!
-	Porém 
+	Porém há um elemento-chave que jamais poderá ser menosprezado: a confiança na relação entre o fornecedor e a empresa cliente, que deve prevalecer ao longo de todo o ciclo de vida dos serviços. A confiança é um elemento fundamental no modelo de negócio de computação em nuvem.
