@@ -10,4 +10,5 @@ Quando estamos falando de nuvem privada, a maior questão é com que fica a gran
 
 ## Requisitos de largura de banda 
 
-Em nossa experiência, o principal gargalo para a densidade de máquinas 
+Em nossa experiência, o principal gargalo para a densidade de máquinas virtuais é a capacidade de memória. Porém existem várias soluções em servidores sendo lançadas com áreas de cobertura de memória muito maiores, fazendo com que a memória deixe de ser um gargalo no sistema.
+	A computação em nuvem elimina esse gargalo removendo a questão de densidade de máquinas lidar com isso é responsabilidade do provedor de nuvem, o que faz com que o susuário da nuve não tenha com 
