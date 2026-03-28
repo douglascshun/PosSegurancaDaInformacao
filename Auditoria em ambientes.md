@@ -20,3 +20,8 @@ Devemos lembrar que com o mundo dos negócios cada vez mais digital, o processo 
 - No desempenho, ou seja, no valor que a TI adiciona e gera para a organização.
 
 # Compliance e segurança 
+
+![[Pasted image 20260328104337.png]]
+
+Por ser externa, a Computação em Nuvem deve ser constantemente auditada para que não comprometa as operações da empresa.
+	Nesse processo, conforme o COBIT, det
