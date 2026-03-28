@@ -11,4 +11,7 @@ Quando estamos falando de nuvem privada, a maior questão é com que fica a gran
 ## Requisitos de largura de banda 
 
 Em nossa experiência, o principal gargalo para a densidade de máquinas virtuais é a capacidade de memória. Porém existem várias soluções em servidores sendo lançadas com áreas de cobertura de memória muito maiores, fazendo com que a memória deixe de ser um gargalo no sistema.
-	A computação em nuvem elimina esse gargalo removendo a questão de densidade de máquinas lidar com isso é responsabilidade do provedor de nuvem, o que faz com que o susuário da nuve não tenha com 
+	A computação em nuvem elimina esse gargalo removendo a questão de densidade de máquinas lidar com isso é responsabilidade do provedor de nuvem, o que faz com que o usuário da nuvem não tenha com que se preocupar.
+
+Na computação em nuvem, a largura de banda para o provedor é um gargalo que deve ser evitado. 
+	No mercado atual, existem soluções para evitar esse problema, e uma sugestão é o servidor hiade, que é um servidor que foi otimizado para minimizar o uso de espaçõ fisico e energia
