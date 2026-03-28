@@ -4,3 +4,7 @@ As soluções de IoT são compostas por várias tecnologias, produtos e serviço
 
 Várias organizações de todo o mundo tentam definir a arquitetura de referência de IoT.
 
+# Iniciativas globais:
+
+Industrial Internet Consortium, IIC
+- Industrial Internet Reference Archt
