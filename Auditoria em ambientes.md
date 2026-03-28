@@ -24,4 +24,7 @@ Devemos lembrar que com o mundo dos negócios cada vez mais digital, o processo 
 ![[Pasted image 20260328104337.png]]
 
 Por ser externa, a Computação em Nuvem deve ser constantemente auditada para que não comprometa as operações da empresa.
-	Nesse processo, conforme o COBIT, det
+	Nesse processo, conforme o COBIT, destaca-se a tarefa fundamental de análise e avaliação dos riscos inerentes à adoção dos serviços de TI alojados na nuvem como forma de mitigar a ocorrência de eventos que comprometam esses objetivos organizacionais. 
+
+Para a empresa, cabe conhecer o SLA celebrado e estabelecer mecanismos de monitoramento e controle de seu cumprimento!
+	Porém 
