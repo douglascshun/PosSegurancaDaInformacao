@@ -1,3 +1,5 @@
 [[Aula 1 Fundamentos de IoT]]
 
-# Com
+# Componentes do IoT
+
+![[Componentes Iot.png]]
