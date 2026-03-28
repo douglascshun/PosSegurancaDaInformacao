@@ -29,4 +29,4 @@ Como uma proporção considerável de custo em operações de TI vem de funçõe
 
 O TI da empresa que ainda não migrou para a nuvem tem diversos custos e riscos como a manutenção de seus equipamentos, redundâncias de energia, resfriamento, elementos de custo consideráveis!
 	Com o uso de sistemas na nuvem, há o risco sempre presente da segurança de dados, da conectividade e das ações mal-intencionadas de terceiros interferindo nos processos.
-Entretanto, comum plano bem definido, a applicação de uma metodologia sólida
+Entretanto, comum plano bem definido, a aplicação de uma metodologia sólida para selecionar o provedor de serviço e a visão de gerenciamento de risco em geral, uma empresa pode ter sucesso na utilização dessas tecnologias.
