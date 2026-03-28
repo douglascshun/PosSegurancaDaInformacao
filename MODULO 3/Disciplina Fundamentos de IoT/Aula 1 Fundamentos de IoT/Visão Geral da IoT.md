@@ -10,4 +10,5 @@ Bilhões de `objetos, dispositivos ou coisas` com capacidade de detecção e/ou 
 
 ![[Diferentes definicoes de IoT.png]]
 
-# I
+# Visão geral das comparações de IoT
+![[Visao Geral IoT.png]]
