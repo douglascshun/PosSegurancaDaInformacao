@@ -21,4 +21,7 @@ As nuvens públicas são abertas, onde a maioria dos serviços e usuários estã
 	No entanto, elas podem oferecer um menor controle dos recursos, o que pode trazer riscos a companhias que trabalham com dados privados, como é o caso de empresa das áreas da saúde e serviços financeiros, em um cenário de investigações que possa exigir revelação dos dados.
 
 A nuvem privada é como m avião particular, se comparado com um de Cia aérea...
-	Já as nuvens privadas apresentam um ambiente com maior controle sobre as configurações, uso de recursos e brechas de segurança. Ao contrário do que ocorre na nuvem pública, toda a responsabilidade pelos servidores recai sobre a empresa os mantém
+	Já as nuvens privadas apresentam um ambiente com maior controle sobre as configurações, uso de recursos e brechas de segurança. Ao contrário do que ocorre na nuvem pública, toda a responsabilidade pelos servidores recai sobre a empresa os mantém.
+
+Usar a nuvem com qualidade e segurança significa que o plano de governança está sempre atualizado.
+	Um projeto de migração para nuvem deve prever eventuais ajustes nas políticas de segurança e governança de TI das empresas. Estratégias devem ser atualizadas para otimizar o dia a dia dos usuários dos novos serviços. Esse trabalho 
