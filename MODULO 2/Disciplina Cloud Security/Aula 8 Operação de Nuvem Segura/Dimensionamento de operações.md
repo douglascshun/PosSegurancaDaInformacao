@@ -24,4 +24,7 @@ A nuvem privada é como m avião particular, se comparado com um de Cia aérea..
 	Já as nuvens privadas apresentam um ambiente com maior controle sobre as configurações, uso de recursos e brechas de segurança. Ao contrário do que ocorre na nuvem pública, toda a responsabilidade pelos servidores recai sobre a empresa os mantém.
 
 Usar a nuvem com qualidade e segurança significa que o plano de governança está sempre atualizado.
-	Um projeto de migração para nuvem deve prever eventuais ajustes nas políticas de segurança e governança de TI das empresas. Estratégias devem ser atualizadas para otimizar o dia a dia dos usuários dos novos serviços. Esse trabalho 
+	Um projeto de migração para nuvem deve prever eventuais ajustes nas políticas de segurança e governança de TI das empresas. Estratégias devem ser atualizadas para otimizar o dia a dia dos usuários dos novos serviços. Esse trabalho, entretanto, deve continuar após a configuração e o início das operações com as novas ferramentas. 
+
+Manter os backups em dia, pois pensar  na segurança em nuvem, é respirar segurança!
+	De acordo com Jesus e Schumiguel, "para backup de pequno e médio porte a solução de backup em nuvem apresenta grandes "
