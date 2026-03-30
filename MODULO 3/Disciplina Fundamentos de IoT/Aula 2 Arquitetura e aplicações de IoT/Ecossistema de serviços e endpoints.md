@@ -28,3 +28,4 @@
 - Enviam dados para o ecossistema de serviço
 - Recebem instruções ou ações em resposta
 - Podem processar dados localmente
+
