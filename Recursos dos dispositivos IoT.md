@@ -9,3 +9,5 @@
 
 # Recursos de interface
 ![[Recursos de interface.png]]
+
+# Recursos de suporte dos dipositivos 
