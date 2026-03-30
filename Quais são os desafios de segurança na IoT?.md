@@ -19,3 +19,10 @@ Segurança da Operação
 Resiliência
 	- Sistemas que podem funcionar em condições diferentes das condições normais 
 	- Um sistema de IoT poderia ser projetado para que, em um grande cenário de ataque cibernético, ele ainda pudesse operar com capacidade  alta e capacidade parcial, sem causar muitos inconvenientes ao usuário? 
+
+Confiabilidade
+	- Confiabilidade do ecossistema IoT
+	- Capacidade de desempenhar suas funções no tempo especificado
+
+Segurança da Informação
+	- Confide
