@@ -12,3 +12,4 @@
 
 # Recursos de suporte dos dispositivos IoT
 ![[Recursos de suporte IoT.png]]
+![[Recursos de suporte dos dispositivos IoT2.png]]
