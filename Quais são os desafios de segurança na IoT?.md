@@ -25,4 +25,9 @@ Confiabilidade
 	- Capacidade de desempenhar suas funções no tempo especificado
 
 Segurança da Informação
-	- Confide
+	- Confidencialidade 
+	- Integridade
+	- Disponibilidade
+
+Privacidade
+	- 
