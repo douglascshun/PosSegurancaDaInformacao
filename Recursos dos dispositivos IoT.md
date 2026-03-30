@@ -1,3 +1,6 @@
 [[MODULO 3/Disciplina Fundamentos de IoT/Aula 2 Arquitetura e aplicações de IoT/Aula 2 Arquitetura e aplicações de IoT|Aula 2 Arquitetura e aplicações de IoT]]
 
-Dispositivos OIoT t
+# Dispositivos IoT têm recursos ou funções para atingir objetivos.
+
+![[Recursos e funcoes IoT.png]]
+
