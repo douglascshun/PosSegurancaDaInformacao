@@ -13,3 +13,10 @@ Internet das coisas => internet de tudo!
 - Mais integrações 
 - Mais coisas e pessoas
 
+# Grandes preocupações
+
+- Disponibilidade
+Garantida de conectividade constante entre os dispositivos e seus respectivos serviços
+
+- Identidade 
+Autenticação de dispositivo
