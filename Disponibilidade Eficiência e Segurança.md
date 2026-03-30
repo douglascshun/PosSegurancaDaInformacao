@@ -1,2 +1,4 @@
 [[Aula 3 IoT sob ataque visão geral]]
 
+Risco em IoT
+	A disponibilidade, a eficiência e a eficácia dos recursos de segurança cibernétiv
