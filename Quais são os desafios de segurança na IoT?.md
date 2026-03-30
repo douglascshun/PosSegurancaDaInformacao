@@ -13,4 +13,9 @@ Quais são os desafios da segurança na IoT?
 
 
 Segurança da Operação
-	- Operação adequada dos sistemas e/ou endpoints Io
+	- Operação adequada dos sistemas e/ou endpoints IoT
+	- Prevenir riscos de lesões físicas 
+
+Resiliência
+	- Sistemas que podem funcionar em condições diferentes das condições normais 
+	- Um sistema de IoT poderia ser projetado para que, 
