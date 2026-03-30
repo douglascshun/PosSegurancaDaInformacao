@@ -24,3 +24,4 @@ O desafio de segurança no ecossistema IoT é, em muitos casos, diretamente rela
 ![[Como impedir a falsificação do firmware e do software.png]]
 
 # Ataque remoto malicioso
+![[Ataque remoto malicioso.png]]
