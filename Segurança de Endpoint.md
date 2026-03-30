@@ -4,3 +4,8 @@ O desafio de segurança no ecossistema IoT é, em muitos casos, diretamente rela
 
 # Equilíbrio da segurança no Endpoint
 ![[Equilíbrio da segurança no Endpoint.png]]
+
+# Como Evitar a clonagem?
+![[Como Evitar a clonagem.png]]
+
+# Como assegurar a identidade do endpoint?
