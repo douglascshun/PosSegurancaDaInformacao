@@ -7,5 +7,8 @@ Três exemplos:
 - Aplicação no transporte 
 - Aplicação na agricultura
 
-# Aplicação na saúde
-Dados gerados por dispositivos vestíveis pe
+Aplicação na saúde
+	Dados gerados por dispositivos vestíveis permitem que as pessoas tenham uma compreensão/monitoramento muito melhor de sua saúde.
+
+Aplicação no transporte
+	
