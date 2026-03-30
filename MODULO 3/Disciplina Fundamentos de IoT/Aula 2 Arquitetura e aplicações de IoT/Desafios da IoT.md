@@ -23,7 +23,7 @@ Garantida de conectividade constante entre os dispositivos e seus respectivos se
 Autenticação de dispositivos, serviços e o cliente ou usuário final que operam o endpoint.
 
 - Privacidade 
-Redução da possibilidade de dano para indivíduos
+Redução da possibilidade de dano para indivíduos.
 
-Segurança
+- Segurança
 Garantia de que a integridade do sistema possa ser verificada, rastreada e monitorada. 
