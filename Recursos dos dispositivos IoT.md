@@ -6,3 +6,5 @@
 
 # Recursos de transdutor
 ![[Recursos de transdutor.png]]
+
+# R
