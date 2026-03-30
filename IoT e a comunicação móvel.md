@@ -7,5 +7,7 @@ As soluções de IoT são extremamente dependentes de conectividade e tecnologia
 	Seguros
 	Custo-eficientes
 
+# IoT e a comunicação móvel 
+![[IoT e a comunicacao movel.png]]
 
-![[Pasted image 20260329213516.png]]
+# R
