@@ -10,4 +10,5 @@
 # Recursos de interface
 ![[Recursos de interface.png]]
 
-# Recursos de suporte dos dipositivos 
+# Recursos de suporte dos dispositivos IoT
+![[Recursos de suporte IoT.png]]
