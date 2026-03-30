@@ -6,3 +6,7 @@ Quais são os desafios da segurança na IoT?
 
 # Como equilibrar essa balança?
 ![[Balança IoT.png]]
+
+
+# C
+![[Visão IoT perante a confiabilidade.png]]
