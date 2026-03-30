@@ -4,3 +4,6 @@ Internet of Thing (IoT) Reference Architecture ou Arquitetura de referência IoT
 
 # Perspectivas
 ![[Perspectivas.png]]
+
+Princípios-chave
+	A partir da arquitetura de segurança de Io
