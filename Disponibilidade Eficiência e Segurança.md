@@ -9,4 +9,4 @@ Risco em IoT
 # Dispositivos IoT sem suporte à funcionalidade de gerenciamento centralizado.
 ![[Pasted image 20260330124744.png]]
 
-# Dispositivos 
+![[Pasted image 20260330124942.png]]
