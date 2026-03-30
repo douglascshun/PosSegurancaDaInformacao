@@ -10,4 +10,5 @@ As soluções de IoT são extremamente dependentes de conectividade e tecnologia
 # IoT e a comunicação móvel 
 ![[IoT e a comunicacao movel.png]]
 
-# R
+# Rede sem Fio de curto alcance
+![[Rede sem fio de curto alcance.png]]
