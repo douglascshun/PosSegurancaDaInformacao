@@ -12,4 +12,4 @@ Alguns dispositivos IoT não possuem interfaces de usuário de aplicativos e/ou 
 	Como solicitar o consentimento dos usuários sobre o processamento de suas PII?
 	![[Interface de apps em IoT.png]]
 
-É a falta de suporte
+É a falta de suporte e mecanismos de gerenciamento centralizado.
