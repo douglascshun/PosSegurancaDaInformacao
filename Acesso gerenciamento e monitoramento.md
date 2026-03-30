@@ -10,4 +10,4 @@ Adquirir, verificar a integridade, instalar, configurar, armazenar, recuperar, e
 
 Alguns dispositivos IoT não possuem interfaces de usuário de aplicativos e/ou humanos para uso e gerenciamento de dispositivos 
 	Como solicitar o consentimento dos usuários sobre o processamento de suas PII?
-	
+	![[Interface de apps em IoT.png]]
