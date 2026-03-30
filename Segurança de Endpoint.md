@@ -13,3 +13,6 @@ O desafio de segurança no ecossistema IoT é, em muitos casos, diretamente rela
 
 # Como reduzir o impacto do ataque?
 ![[Como reduzir o impacto do ataque.png]]
+
+# Como reduzir a possibilidade de falsificação do endpoint?
+![[Como reduzir a possibilidade de falsificação do endpoint.png]]
