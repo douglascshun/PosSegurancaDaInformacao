@@ -6,4 +6,6 @@ As soluções de IoT são extremamente dependentes de conectividade e tecnologia
 	Disponíveis
 	Seguros
 	Custo-eficientes
-	
+
+
+![[Pasted image 20260329213516.png]]
