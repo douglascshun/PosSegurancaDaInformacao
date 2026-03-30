@@ -8,5 +8,9 @@ Quais são os desafios da segurança na IoT?
 ![[Balança IoT.png]]
 
 
-# C
+# Confiabilidade IoT
 ![[Visão IoT perante a confiabilidade.png]]
+
+
+Segurança da Operação
+	- Operação adequada dos sistemas e/ou endpoints Io
