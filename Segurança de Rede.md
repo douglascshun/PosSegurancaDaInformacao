@@ -9,3 +9,4 @@ A segurança de rede é composta por alguns protocolos de aplicação
 	TLS: Transport Layer Security
 		Geralmente baixa segurança 
 		Preferencia por TLS 
+	![[Segurança na rede.png]]
