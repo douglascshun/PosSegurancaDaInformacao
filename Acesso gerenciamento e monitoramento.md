@@ -13,4 +13,7 @@ Alguns dispositivos IoT não possuem interfaces de usuário de aplicativos e/ou 
 	![[Interface de apps em IoT.png]]
 
 É a falta de suporte e mecanismos de gerenciamento centralizado.
-	![[Pasted image 20260330121142.png]]
+	![[alta de suporte e mecanismos de gerenciamento centralizado.png]]
+
+Diferentes expectativas de tempo de vida
+	![[Diferentes expectativas de tempo de vida.png]]
