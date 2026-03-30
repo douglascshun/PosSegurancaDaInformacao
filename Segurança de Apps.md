@@ -2,3 +2,4 @@
 
 A segurança de plataforma IoT pode ser bastante ampla, pois a definição de plataforma IoT pode variar de acordo com as funções, bem como com as ofertas do fornecedor.
 
+# O que seriauma platafo
