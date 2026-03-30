@@ -7,4 +7,8 @@ Avaliação de Riscos => Primeiro passo para identificar ameaças
 
 # Modelo de referência 
 
-NIST
+NIST 
+	Estrutura de gerenciamento de riscos do National Institute of Standars and Technology
+
+CERT
+	Modelo OCTAVE do Computer Emergency
