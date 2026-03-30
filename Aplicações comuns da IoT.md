@@ -2,4 +2,10 @@
 
 # Qual a real aplicação do ecossistema IoT?
 
-Três ex
+Três exemplos:
+- Aplicações na saúde 
+- Aplicação no transporte 
+- Aplicação na agricultura
+
+# Aplicação na saúde
+Dados gerados por dispositivos vestíveis pe
