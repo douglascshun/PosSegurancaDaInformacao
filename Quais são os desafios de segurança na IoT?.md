@@ -30,4 +30,7 @@ Segurança da Informação
 	- Disponibilidade
 
 Privacidade
-	- 
+	- Enorme quantidade de dados implica em preocupações com privacidade 
+	- Como garantir a privacidade dos dados IoT
+	- Compartilhamento de dados 
+	- LGPD/GDPR
