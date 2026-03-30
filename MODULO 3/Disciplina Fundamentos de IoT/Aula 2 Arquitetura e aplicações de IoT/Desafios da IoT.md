@@ -30,4 +30,11 @@ Garantia de que a integridade do sistema possa ser verificada, rastreada e monit
 
 
 # Desafio da Disponibilidade
-![[O desafio da disponibilidade.png]]![[Pasted image 20260329212404.png]]
+![[O desafio da disponibilidade.png]]
+
+# Desafio da Identidade
+![[Pasted image 20260329212404.png]]
+
+# Desafio da Privacidade
+
+# Desafio da Segurança
