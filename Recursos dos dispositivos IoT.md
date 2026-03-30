@@ -7,4 +7,5 @@
 # Recursos de transdutor
 ![[Recursos de transdutor.png]]
 
-# R
+# Recursos de interface
+![[Recursos de interface.png]]
