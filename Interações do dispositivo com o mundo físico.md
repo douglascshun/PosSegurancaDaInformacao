@@ -13,4 +13,5 @@ Risco em IoT
 ![[Possibilidade de alterar sistemas físicos.png]]
 
 Confidencialidade, integridade e disponibilidade 
-	Em IoT, disponibilidade e a integridade podem ser mais importantes do
+	Em IoT, disponibilidade e a integridade podem ser mais importantes do que a confidencialidade devido ao impacto potencial no mundo físico.
+
