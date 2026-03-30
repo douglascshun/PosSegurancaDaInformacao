@@ -5,3 +5,4 @@ A segurança de plataforma IoT pode ser bastante ampla, pois a definição de pl
 # O que seria uma plataforma IoT?
 ![[Plataforma em IoT.png]]
 
+# 
