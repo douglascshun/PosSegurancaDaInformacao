@@ -4,3 +4,5 @@
 
 ![[Recursos e funcoes IoT.png]]
 
+# Recursos de transdutor
+![[Recursos de transdutor.png]]
