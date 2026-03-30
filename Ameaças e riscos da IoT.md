@@ -11,4 +11,12 @@ NIST
 	Estrutura de gerenciamento de riscos do National Institute of Standars and Technology
 
 CERT
-	Modelo OCTAVE do Computer Emergency
+	Modelo OCTAVE do Computer Emergency Response team 
+
+# Preocupações 
+
+Privacidade 
+	Redução da possibilidade de dano para indivíduos
+
+Segurança
+	Garantia de que a i
