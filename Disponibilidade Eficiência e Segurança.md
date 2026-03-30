@@ -6,5 +6,7 @@ Risco em IoT
 # Dispositivos Caixa preta 
 ![[Dispositivos Caixa preta.png]]
 
-Dispositivos IoT sem suporte à funcionalidade de gerenciamento centralizado.
+# Dispositivos IoT sem suporte à funcionalidade de gerenciamento centralizado.
+![[Pasted image 20260330124744.png]]
 
+# Dispositivos 
