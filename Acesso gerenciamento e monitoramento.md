@@ -5,4 +5,5 @@ Risco em IoT
 
 # Impossibilidade de gerenciar plenamente o firmware, SO e apps
 
-Adquirir, verificar a integridade, instalar, configurar, armazenar, recuperar, executar,
+Adquirir, verificar a integridade, instalar, configurar, armazenar, recuperar, executar, encerrar, remover, substituir, atualizar e corrigir software.
+	Software de um dispositivo IoT pode ser reconfigurado automaticamente quando ocorre um evento adverso, como uma falha de energia ou uma perda de conectividade de rede.
