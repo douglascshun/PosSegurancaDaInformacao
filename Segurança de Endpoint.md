@@ -9,3 +9,4 @@ O desafio de segurança no ecossistema IoT é, em muitos casos, diretamente rela
 ![[Como Evitar a clonagem.png]]
 
 # Como assegurar a identidade do endpoint?
+![[Como assegurar a identidade do endpoint.png]]
