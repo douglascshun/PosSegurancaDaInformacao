@@ -27,3 +27,5 @@ Redução da possibilidade de dano para indivíduos.
 
 - Segurança
 Garantia de que a integridade do sistema possa ser verificada, rastreada e monitorada. 
+
+![[O desafio da disponibilidade.png]]
