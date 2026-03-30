@@ -33,7 +33,7 @@ Garantia de que a integridade do sistema possa ser verificada, rastreada e monit
 ![[O desafio da disponibilidade.png]]
 
 # Desafio da Identidade
-![[Pasted image 20260329212404.png]]
+![[Desafio da Identidade em IoT.png]]
 
 # Desafio da Privacidade
 
