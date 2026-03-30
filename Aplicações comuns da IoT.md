@@ -10,5 +10,8 @@ Três exemplos:
 Aplicação na saúde
 	Dados gerados por dispositivos vestíveis permitem que as pessoas tenham uma compreensão/monitoramento muito melhor de sua saúde.
 
-Aplicação no transporte
-	
+Monitoramento da frequência cardíaca
+	Ecossistema do endpoint
+	![[SmartWatch.png]]
+	Ecossistema do serviço
+	![[Ecossistema SmartWatch.png]]
