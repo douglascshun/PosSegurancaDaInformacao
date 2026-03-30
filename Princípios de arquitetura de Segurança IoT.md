@@ -6,4 +6,6 @@ Internet of Thing (IoT) Reference Architecture ou Arquitetura de referência IoT
 ![[Perspectivas.png]]
 
 Princípios-chave
-	A partir da arquitetura de segurança de Io
+	A partir da arquitetura de segurança de IoT, vários princípios-chave podem ser aprendidos para orientar a segurança nas soluções de IoT.
+
+	
