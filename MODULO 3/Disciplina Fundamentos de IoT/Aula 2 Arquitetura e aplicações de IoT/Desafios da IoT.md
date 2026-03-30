@@ -9,4 +9,7 @@ Internet das coisas => internet de tudo!
 - Mais velocidade de rede 
 - Custo de conexão
 - Mais bateria 
-- mais 
+- Mais serviços
+- Mais integrações 
+- Mais coisas e pessoas
+
