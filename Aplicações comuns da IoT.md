@@ -17,7 +17,7 @@ Ecossistema do serviço
 
 Aplicação na Agricultura
 	Dados gerados por rede de sensores na agricultura ajudam no monitoramento e automação do cultivo, com dados sobre temperatura, umidade, salinidade, etc...
-Ecossistema do Endpoint
+Ecossistema do Endpoint na agricultura
 	![[Ecossistema do endpoint na agricultura.png]]
-Ecossistema do serviço
-	
+Ecossistema do serviço na agricultura
+	![[Ecossistema do serviço na agricultura.png]]
