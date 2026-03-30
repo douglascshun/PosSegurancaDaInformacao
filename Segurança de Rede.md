@@ -6,4 +6,6 @@ A segurança de rede é composta por alguns protocolos de aplicação
 	MQTT: Message Queuing Telemetry Transport
 	CoAP: Constrained Application Protocol
 	AMQP: Advanced Massage Queuing Protocol
-	TLS: Transport
+	TLS: Transport Layer Security
+		Geralmente baixa segurança 
+		Preferencia por TLS 
