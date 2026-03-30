@@ -13,4 +13,7 @@ Princípios-chave
 	- Serviços em Nuvem
 	- Usuário e Aplicativos
 	- Processos de Negócios
-	Equivalência 
+	
+	Equivalência:
+	
+![[Pasted image 20260330160546.png]]
