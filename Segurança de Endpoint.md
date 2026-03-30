@@ -18,3 +18,9 @@ O desafio de segurança no ecossistema IoT é, em muitos casos, diretamente rela
 ![[Como reduzir a possibilidade de falsificação do endpoint.png]]
 
 # Como impeço a falsificação de serviços ou pares?
+![[Como impeço a falsificação de serviços ou pares.png]]
+
+# Como impedir a falsificação do firmware e do software?
+![[Como impedir a falsificação do firmware e do software.png]]
+
+# Ataque remoto malicioso
