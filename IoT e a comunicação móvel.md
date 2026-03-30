@@ -18,3 +18,4 @@ As soluções de IoT são extremamente dependentes de conectividade e tecnologia
 
 
 # Rede sem fio de longo alcance
+![[Rede sem fio de longo alcance.png]]
