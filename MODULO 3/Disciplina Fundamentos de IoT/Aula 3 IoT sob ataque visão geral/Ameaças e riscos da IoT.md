@@ -22,8 +22,8 @@ Segurança
 	Garantia de que a integridade do sistema possa ser verificada, rastreada e monitorada
 
 # Desafio da Identidade
-![[Pasted image 20260330115047.png]]
+![[Desafio da Identidade.png]]
 
 
 # Desafio da privacidade
-![[Pasted image 20260330115132.png]]
+![[Desafio da privacidade.png]]
