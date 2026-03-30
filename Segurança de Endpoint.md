@@ -10,3 +10,6 @@ O desafio de segurança no ecossistema IoT é, em muitos casos, diretamente rela
 
 # Como assegurar a identidade do endpoint?
 ![[Como assegurar a identidade do endpoint.png]]
+
+# Como reduzir o impacto do ataque?
+![[Como reduzir o impacto do ataque.png]]
