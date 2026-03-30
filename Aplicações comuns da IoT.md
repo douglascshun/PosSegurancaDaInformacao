@@ -16,4 +16,5 @@ Monitoramento da frequência cardíaca
 	![[Ecossistema SmartWatch.png]]
 
 Aplicação na Agricultura
-	Dados gerados por rede de sensores na agricultura ajudam no monitorameno e automação 
+	Dados gerados por rede de sensores na agricultura ajudam no monitoramento e automação do cultivo, com dados sobre temperatura, umidade, salinidade, etc...
+	
