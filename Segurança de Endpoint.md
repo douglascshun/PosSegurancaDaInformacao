@@ -16,3 +16,5 @@ O desafio de segurança no ecossistema IoT é, em muitos casos, diretamente rela
 
 # Como reduzir a possibilidade de falsificação do endpoint?
 ![[Como reduzir a possibilidade de falsificação do endpoint.png]]
+
+# Como impeço a falsificação de serviços ou pares?
