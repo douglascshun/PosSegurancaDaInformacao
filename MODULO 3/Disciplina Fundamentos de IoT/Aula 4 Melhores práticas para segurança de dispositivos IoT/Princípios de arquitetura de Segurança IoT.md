@@ -16,4 +16,4 @@ Princípios-chave
 	
 	Equivalência:
 	
-![[Pasted image 20260330160546.png]]
+![[Arquitetura de referencia IoT e suas equivalencias.png]]
