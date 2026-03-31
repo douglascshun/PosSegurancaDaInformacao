@@ -3,3 +3,6 @@
 
 Camadas de ameaças exploradas pelos atacantes
 ![[Camadas de ameaças exploradas pelos atacantes.png]]
+
+
+Ataques as comunicações de 
