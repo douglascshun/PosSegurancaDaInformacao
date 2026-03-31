@@ -14,3 +14,5 @@ Camada de Aplicação
 
 Camada de Middleware
 ![[Camada de Middleware.png]]
+
+Camada de Rede 
