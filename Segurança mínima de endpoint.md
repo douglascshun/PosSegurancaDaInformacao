@@ -7,4 +7,6 @@ TCB (Trusted Computing Base) ou Base de Computação Confiável
 - Falhas de segurança fora do TCB não devem ser capazes de vazar mais privilégio do que os concedidos a eles para o funcionamento do ecossistema.
 ![[TCB.png]]
 
-O que é
+O que é?
+Conjunto de Hardware, software e protocolos que garantem a integridade do endpoint
+	Executa autenticação, mutua com redes pare
