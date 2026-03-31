@@ -7,3 +7,7 @@ Camadas de ameaças exploradas pelos atacantes
 
 Ataques as comunicações de rede
 ![[Ataques as comunicações de rede.png]]
+
+
+Ataques aos serviços de rede
+![[Ataques aos serviços de rede.png]]
