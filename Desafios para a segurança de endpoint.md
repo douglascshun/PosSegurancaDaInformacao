@@ -12,4 +12,4 @@ Desafio da segurança no endpoint
 - Os endpoints não são diretamente conectados a redes de comunicação de banda larga.
 - Endpoints podem não suportar o protocolo IP.
 - Endpoints geralmente usam Transceptores e Gateways.
-- Maio complexi
+- Maio complexidade de gerenciamento e de segurança.
