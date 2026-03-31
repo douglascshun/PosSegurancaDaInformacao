@@ -8,3 +8,4 @@ Tipos de ataques
 
 Ataques baseados em arquitetura
 ![[Ataques baseados em arquitetura.png]]
+![[Pasted image 20260330225254.png]]
