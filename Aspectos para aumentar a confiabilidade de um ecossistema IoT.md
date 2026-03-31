@@ -40,4 +40,7 @@ Deve-se considerar todo o ecossistema de IoT
 - Segurança física , proteção e gerenciamento de dados, incluindo compartilhamento e privacidade
 
 Medida proativa para prevenir ou mitigar problemas de segurança
-- Planos de pr
+- Planos de prontidão operacional de IoT
+- Auditoria de segurança, protocolos de integração de dispositivos IoT
+- Protocolos de testes e certificação de dispositivos IoT
+- Planos de gerenciamento de segurança, incluindo 
