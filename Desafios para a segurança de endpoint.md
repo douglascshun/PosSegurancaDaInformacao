@@ -6,3 +6,7 @@ Como aumentar a segurança perante as características específicas do endpoint 
 
 Desafio da segurança no endpoint
 ![[Desafio da segurança no endpoint.png]]
+
+# Resultado concreto
+
+- Os endpoints não são diretamente conectados a redes de
