@@ -11,4 +11,9 @@ aspectos de governança em IoT
 
 Treinamentos e conscientização
 
-- Segurança
+- Segurança IoT
+- Arquitetura de segurança IoT
+- Políticas de segurança IoT
+- Procedimentos de integração de dispositivos IoT
+- Auditoria de segurança em IoT
+- Detecção de ameaças 
