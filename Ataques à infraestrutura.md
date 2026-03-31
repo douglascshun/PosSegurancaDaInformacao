@@ -5,7 +5,8 @@ Os ataques são ações realizadas para prejudicar um sistema ou interromper as 
 Tipos mais comuns de ataques
 - Físico 
 - Reconhecimento 
-- Negação de Serviço Acesso
+- Negação de Serviço 
+- Acesso
 - Privacidade
 - Cibercrime
 - Ataque Destrutivo 
@@ -19,3 +20,10 @@ Tipos mais comuns de ataques
 
 # Negação de Serviço
 ![[Ataque de Negação de Serviço.png]]
+
+# Acesso
+# Privacidade
+
+# Cibercrime
+
+# 
