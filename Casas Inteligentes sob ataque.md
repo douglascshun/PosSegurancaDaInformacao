@@ -4,4 +4,4 @@ Os dispositivos domésticos inteligentes facilitam nossa vida, e a automação p
 	No entanto, todos esses dispositivos podem apresentar uma grande ameaça se forem atingidos por ataques cibernéticos como vírus maliciosos, ataques da Web, dentre outros.
 
 Tipos de ataques
-![[Pasted image 20260330224915.png]]
+![[Tipos de ataques.png]]
