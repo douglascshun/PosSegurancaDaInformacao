@@ -17,3 +17,6 @@ Camada de Middleware
 
 Camada de Rede 
 ![[Camada de Rede.png]]
+
+Camada de Percepção
+![[Camada de Percepção.png]]
