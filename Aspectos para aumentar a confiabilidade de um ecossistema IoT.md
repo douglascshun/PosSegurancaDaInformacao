@@ -48,4 +48,5 @@ Medida proativa para prevenir ou mitigar problemas de segurança
 - Processos operacionais de segurança
 - Planos de automação de processos 
 
-Dados podem fornecer informações 
+Dados podem fornecer informações sobre problemas existentes, ajudar a descobrir padrões potenciais, criar novas soluções, prever novos resultados, desafiar e moldar nosso pensamento.
+- Gestão de dados confidenciais e sensí
