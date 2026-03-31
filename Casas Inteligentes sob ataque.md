@@ -9,5 +9,8 @@ Tipos de ataques
 Ataques baseados em arquitetura
 ![[Ataques baseados em arquitetura.png]]
 
-DETALHAMENTO
+Camada de Aplicação
 ![[Ataques baseados em arquitetura detalhamento 1.png]]
+
+Camada de Middleware
+![[Camada de Middleware.png]]
