@@ -20,4 +20,7 @@ Treinamentos e conscientização
 - Vulnerabilidades de segurança de soluções IoT
 - Segurança de aplicativos em nuvem 
 - Segurança de aplicativos 
-
+- Segurança de rede IoT
+- Ameaças e ataques comuns de segurança IoT
+- Recomendações e melhores práticas de segurança IoT
+- 
