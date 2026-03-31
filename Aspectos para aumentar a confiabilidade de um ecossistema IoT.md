@@ -16,4 +16,7 @@ Treinamentos e conscientização
 - Políticas de segurança IoT
 - Procedimentos de integração de dispositivos IoT
 - Auditoria de segurança em IoT
-- Detecção de ameaças 
+- Detecção de ameaças em IoT
+- Vulnerabilidades de segurança de dispositivos IoT
+- Vulnerabilidades de segurança de soluções IoT
+- Segurança de apli
