@@ -38,3 +38,6 @@ Deve-se considerar todo o ecossistema de IoT
 - Cadeia de suprimentos e cadeia de valor
 - Gerenciamento de software e firmware 
 - Segurança física , proteção e gerenciamento de dados, incluindo compartilhamento e privacidade
+
+Medida proativa para prevenir ou mitigar problemas de segurança
+- Planos de pr
