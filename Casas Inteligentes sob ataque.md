@@ -5,3 +5,6 @@ Os dispositivos domésticos inteligentes facilitam nossa vida, e a automação p
 
 Tipos de ataques
 ![[Tipos de ataques.png]]
+
+Ataques baseados em arquitetura
+![[Pasted image 20260330225113.png]]
