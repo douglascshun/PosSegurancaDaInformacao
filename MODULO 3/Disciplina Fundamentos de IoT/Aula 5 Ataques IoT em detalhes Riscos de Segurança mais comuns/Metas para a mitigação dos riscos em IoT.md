@@ -8,3 +8,5 @@ Os riscos de segurança cibernética e privacidade para dispositivos IoT podem s
 
 Proteção do dispositivo Endpoint
 ![[Proteção do dispositivo Endpoint.png]]
+
+Proteção dos dados em IoT
