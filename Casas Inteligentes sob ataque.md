@@ -7,4 +7,4 @@ Tipos de ataques
 ![[Tipos de ataques.png]]
 
 Ataques baseados em arquitetura
-![[Pasted image 20260330225113.png]]
+![[Ataques baseados em arquitetura.png]]
