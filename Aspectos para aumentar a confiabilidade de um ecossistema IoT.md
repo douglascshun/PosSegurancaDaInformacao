@@ -23,4 +23,6 @@ Treinamentos e conscientização
 - Segurança de rede IoT
 - Ameaças e ataques comuns de segurança IoT
 - Recomendações e melhores práticas de segurança IoT
-- 
+- Métodos e procedimentos para identificação de vulnerabilidades IoT
+- Detecção de ameaças, mecanismos de proteção e procedimentos de recuperação
+- Responsabilidade compartilhadas de segurança de Io
