@@ -22,8 +22,12 @@ Tipos mais comuns de ataques
 ![[Ataque de Negação de Serviço.png]]
 
 # Acesso
+![[Ataque de Acesso.png]]
 # Privacidade
+
 
 # Cibercrime
 
-# 
+# Ataque Destrutivo 
+
+# SCADA
