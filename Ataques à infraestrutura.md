@@ -30,6 +30,7 @@ Tipos mais comuns de ataques
 ![[Ataques a fim de Cibercrime.png]]
 
 # Ataque Destrutivo 
+![[Ataque Destrutivo.png]]
 
 
 # SCADA
