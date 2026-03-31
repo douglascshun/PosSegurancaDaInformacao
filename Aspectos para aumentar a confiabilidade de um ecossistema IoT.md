@@ -31,4 +31,9 @@ Deve-se considerar todo o ecossistema de IoT
 - Gerenciamento de dispositivos IoT
 - Gerenciamento do ciclo de vida do dispositivo
 - Interfaces de dispositivos como dispositivos para nuvem
-Ac
+- Acessos como gateway de API
+- Portais e aplicativos de Web
+- Conectividade de rede, plataformas, produtos e serviços
+- Usuários de IoT
+- Cadeia de suprimentos e cadeia de valor
+- Gere
