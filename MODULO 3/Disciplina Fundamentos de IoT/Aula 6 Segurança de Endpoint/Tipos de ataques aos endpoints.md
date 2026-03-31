@@ -21,3 +21,4 @@ Ataque ao canal de comunicação
 
 
 Ataque de acesso ao chip
+![[Ataque de acesso ao chip.png]]
