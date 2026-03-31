@@ -5,3 +5,7 @@ Ataques baseados na segurança física
 
 
 Ataque de fonte de tensão
+![[Ataque de fonte de tensão.png]]
+
+Ataque de adulteração
+![[Ataque de adulteração.png]]
