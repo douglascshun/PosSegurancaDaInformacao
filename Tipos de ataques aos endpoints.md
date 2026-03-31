@@ -15,3 +15,9 @@ Ataques aos serviços de rede
 Ataques de acesso ao terminal 
 ![[Ataques de acesso ao terminal.png]]
 
+
+Ataque ao canal de comunicação
+![[Ataque ao canal de comunicação.png]]
+
+
+Ataque de acesso ao chip
