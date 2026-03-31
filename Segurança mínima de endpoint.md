@@ -9,4 +9,10 @@ TCB (Trusted Computing Base) ou Base de Computação Confiável
 
 O que é?
 Conjunto de Hardware, software e protocolos que garantem a integridade do endpoint
-	Executa autenticação, mutua com redes pare
+	Executa autenticação, mutua com redes pareadas e gerencia a segurança das comunicações e das aplicações
+
+
+Funções principais
+- Validação de imagem para execução
+- Autenticação mútua de redes pareadas
+- Separação de tarefas dentro d
