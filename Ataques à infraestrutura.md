@@ -24,10 +24,12 @@ Tipos mais comuns de ataques
 # Acesso
 ![[Ataque de Acesso.png]]
 # Privacidade
-
+![[Ataque a privacidade.png]]
 
 # Cibercrime
+![[Ataques a fim de Cibercrime.png]]
 
 # Ataque Destrutivo 
+
 
 # SCADA
