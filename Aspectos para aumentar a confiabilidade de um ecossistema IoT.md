@@ -36,4 +36,5 @@ Deve-se considerar todo o ecossistema de IoT
 - Conectividade de rede, plataformas, produtos e serviços
 - Usuários de IoT
 - Cadeia de suprimentos e cadeia de valor
-- Gere
+- Gerenciamento de software e firmware 
+- Segurança física , proteção e gerenciamento de dados, incluindo compartilhamento e privacidade
