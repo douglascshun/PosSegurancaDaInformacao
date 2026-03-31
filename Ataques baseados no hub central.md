@@ -6,3 +6,8 @@ Tipos de ataques
 
 Ataques baseados no hub central
 ![[Ataques baseados no hub central.png]]
+
+Ataques de Software
+![[Ataques de Software.png]]
+
+Ataques D
