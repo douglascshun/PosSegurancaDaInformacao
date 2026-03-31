@@ -2,3 +2,7 @@
 
 Tipos de ataques
 ![[Tipos de ataques 1.png]]
+
+
+Ataques baseados no hub central
+![[Ataques baseados no hub central.png]]
