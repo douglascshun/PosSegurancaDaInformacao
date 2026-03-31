@@ -4,7 +4,7 @@ Os dispositivos domésticos inteligentes facilitam nossa vida, e a automação p
 	No entanto, todos esses dispositivos podem apresentar uma grande ameaça se forem atingidos por ataques cibernéticos como vírus maliciosos, ataques da Web, dentre outros.
 
 Tipos de ataques
-![[Tipos de ataques.png]]
+![[MODULO 3/Disciplina Fundamentos de IoT/Aula 5 Ataques IoT em detalhes Riscos de Segurança mais comuns/Aula 5 Ataques IoT em detalhes Riscos de Segurança mais comuns Imagens/Tipos de ataques.png]]
 
 Ataques baseados em arquitetura
 ![[Ataques baseados em arquitetura.png]]
