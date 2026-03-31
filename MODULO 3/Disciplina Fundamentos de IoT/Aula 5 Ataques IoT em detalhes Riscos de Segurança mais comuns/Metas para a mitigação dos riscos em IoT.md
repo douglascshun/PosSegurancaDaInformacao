@@ -12,3 +12,5 @@ Proteção do dispositivo Endpoint
 Proteção dos dados em IoT
 ![[Proteção dos dados em IoT.png]]
 
+Privacidade dos dados do usuário em IoT
+![[Privacidade dos dados do usuário em IoT.png]]
