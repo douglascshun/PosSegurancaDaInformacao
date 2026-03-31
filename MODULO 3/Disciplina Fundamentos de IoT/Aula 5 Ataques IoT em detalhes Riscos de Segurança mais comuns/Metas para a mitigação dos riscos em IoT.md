@@ -10,3 +10,5 @@ Proteção do dispositivo Endpoint
 ![[Proteção do dispositivo Endpoint.png]]
 
 Proteção dos dados em IoT
+![[Proteção dos dados em IoT.png]]
+
