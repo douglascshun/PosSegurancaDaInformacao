@@ -34,3 +34,4 @@ Tipos mais comuns de ataques
 
 
 # SCADA
+![[Ataque do tipo SCADA.png]]
