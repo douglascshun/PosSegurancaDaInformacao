@@ -13,6 +13,8 @@ Conjunto de Hardware, software e protocolos que garantem a integridade do endpoi
 
 
 Funções principais
-- Validação de imagem para execução
-- Autenticação mútua de redes pareadas
-- Separação de tarefas dentro d
+	- Validação de imagem para execução
+	- Autenticação mútua de redes pareadas
+	- Separação de tarefas dentro da arquitetura de segurança em IoT
+	- Provisionamento e personalização
+	- Segurança de ambientes isolados
