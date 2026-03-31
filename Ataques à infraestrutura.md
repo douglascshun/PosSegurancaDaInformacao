@@ -11,5 +11,8 @@ Tipos mais comuns de ataques
 - Ataque Destrutivo 
 - SCADA
 
-Físico
-![[Pasted image 20260330224015.png]]
+# Físico
+![[Ataque Físico.png]]
+
+# Reconhecimento
+![[Pasted image 20260330224109.png]]
