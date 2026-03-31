@@ -14,3 +14,4 @@ Proteção dos dados em IoT
 
 Privacidade dos dados do usuário em IoT
 ![[Privacidade dos dados do usuário em IoT.png]]
+
