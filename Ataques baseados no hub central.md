@@ -14,6 +14,7 @@ Ataques DoS
 ![[Ataques DoS.png]]
 
 Ataque de tratamento incorreto de pacote
+![[Ataque de tratamento incorreto de pacote.png]]
 
 
 Ataque VPNFilter
