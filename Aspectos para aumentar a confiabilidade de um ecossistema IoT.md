@@ -9,7 +9,7 @@ Capacidade de avaliar como uma rede se defenderá e resistirá a um ataque ciber
 aspectos de governança em IoT
 ![[aspectos de governança em IoT.png]]
 
-Treinamentos e conscientização
+Partes a serem consideradas em treinamentos e conscientização referente a IoT
 - Segurança IoT
 - Arquitetura de segurança IoT
 - Políticas de segurança IoT
@@ -25,4 +25,5 @@ Treinamentos e conscientização
 - Recomendações e melhores práticas de segurança IoT
 - Métodos e procedimentos para identificação de vulnerabilidades IoT
 - Detecção de ameaças, mecanismos de proteção e procedimentos de recuperação
-- Responsabilidade compartilhadas de segurança de Io
+- Responsabilidade compartilhadas de segurança de IoT entre diferentes partes interessadas e parceiros
+
