@@ -27,3 +27,8 @@ Partes a serem consideradas em treinamentos e conscientização referente a IoT
 - Detecção de ameaças, mecanismos de proteção e procedimentos de recuperação
 - Responsabilidade compartilhadas de segurança de IoT entre diferentes partes interessadas e parceiros
 
+Deve-se considerar todo o ecossistema de IoT
+- Gerenciamento de dispositivos IoT
+- Gerenciamento do ciclo de vida do dispositivo
+- Interfaces de dispositivos como dispositivos para nuvem
+Ac
