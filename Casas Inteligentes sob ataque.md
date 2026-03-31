@@ -16,3 +16,4 @@ Camada de Middleware
 ![[Camada de Middleware.png]]
 
 Camada de Rede 
+![[Camada de Rede.png]]
