@@ -15,4 +15,7 @@ Tipos mais comuns de ataques
 ![[Ataque Físico.png]]
 
 # Reconhecimento
-![[Pasted image 20260330224109.png]]
+![[Ataque de Reconhecimento.png]]
+
+# Negação de Serviço
+![[Ataque de Negação de Serviço.png]]
