@@ -48,3 +48,4 @@ Medida proativa para prevenir ou mitigar problemas de segurança
 - Processos operacionais de segurança
 - Planos de automação de processos 
 
+Dados podem fornecer informações 
