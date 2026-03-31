@@ -2,3 +2,6 @@
 
 Ataques baseados na segurança física
 ![[Ataques baseados na segurança física.png]]
+
+
+Ataque de fonte de tensão
