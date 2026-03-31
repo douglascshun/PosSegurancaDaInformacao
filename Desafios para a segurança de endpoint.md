@@ -5,3 +5,4 @@ Como aumentar a segurança perante as características específicas do endpoint 
 
 
 Desafio da segurança no endpoint
+![[Desafio da segurança no endpoint.png]]
