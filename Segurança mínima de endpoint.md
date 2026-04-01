@@ -43,4 +43,7 @@ Funções principais
 Porque é importante?
 	- Possibilidade de um invasor roubar chaves relevantes para todo o ecossistema de IoT
 		- Clonar identidades de endpoint 
-		- Falsificar se
+		- Falsificar serviços de IoT
+		- Distribuir serviços de IoT
+		- Distribuir patches e atualizações maliciosas
+		- Fazer alterações não autorizadas no software do endpoint 
