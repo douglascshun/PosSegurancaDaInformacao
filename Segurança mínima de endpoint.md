@@ -72,8 +72,15 @@ Ameaça de Falsificação
 
 
 Ameaça de Adulteração
-![[Pasted image 20260401084212.png]]
+![[Ameaça de Adulteração.png]]
 
 
 Ameaça de Repúdio
 ![[Ameaça de Repúdio.png]]
+
+
+
+Ameaça de Violação de dados (Divulgar informações)
+![[Ameaça de Violação de dados.png]]
+
+
