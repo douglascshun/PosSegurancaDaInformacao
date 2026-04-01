@@ -30,3 +30,7 @@ Modelos de âncoras de confiança
 Por que é importante?
 	Garante que as comunicações entre a âncora de confiança, a aplicação principal e as redes pareadas sejam seguras, protegidas e atualizadas
 
+# Utilizar uma âncora de confiança
+
+O que é?
+	Hardware seguro, um chip físico segregado ou um núcleo seguro dentro de uma CPU
