@@ -91,4 +91,5 @@ Ameaça de Elevação de Privilégios
 ![[Ameaça de Elevação de Privilégios.png]]
 
 
-Ameaça do gerenci
+Ameaça do gerenciamento de endpoints sem suporte
+![[Ameaça do gerenciamento de endpoints sem suporte.png]]
