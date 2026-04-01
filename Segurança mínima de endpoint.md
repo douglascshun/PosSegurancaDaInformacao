@@ -56,4 +56,7 @@ O que é?
 Por que é importante?
 	Garante a integridade do ecossistema 
 
-Funções principais, farantem que 
+Funções principais, garantem que:
+	- Toda verificação de assinatura é executada pelo TCB
+	- Nenhuma chave privada do TCB é exposta 
+	- Troca de chaves pode ser realizado pelo 
