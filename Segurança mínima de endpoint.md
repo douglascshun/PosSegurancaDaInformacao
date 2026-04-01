@@ -53,3 +53,7 @@ Porque é importante?
 O que é?
 	Serviço para acessar as funções do TCB
 
+Por que é importante?
+	Garante a integridade do ecossistema 
+
+Funções principais, farantem que 
