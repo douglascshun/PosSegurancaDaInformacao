@@ -33,4 +33,8 @@ Por que é importante?
 # Utilizar uma âncora de confiança
 
 O que é?
-	Hardware seguro, um chip físico segregado ou um núcleo seguro dentro de uma CPU
+	- Hardware seguro, um chip físico segregado ou um núcleo seguro dentro de uma CPU
+	- Capaz de armazenar e processar com segurança senhas criptografadas
+
+Funções principais
+	- Determinar com segurança se as mensagens e identidades podem ser 
