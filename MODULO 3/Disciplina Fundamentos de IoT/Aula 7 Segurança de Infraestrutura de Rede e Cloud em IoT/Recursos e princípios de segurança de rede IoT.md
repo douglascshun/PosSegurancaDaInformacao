@@ -7,3 +7,5 @@ Quem é responsável pela cibersegurança?
 # Impactos 
 ![[Impactos.png]]
 
+
+Pŕincipios de segurança de rede 
