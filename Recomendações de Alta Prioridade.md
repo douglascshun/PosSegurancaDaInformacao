@@ -12,3 +12,5 @@ Recomendação na utilização de gateways e Firewalls
 
 Recomendação quanto a Autenticação e Autorização
 ![[Recomendação quanto a Autenticação e Autorização.png]]
+
+
