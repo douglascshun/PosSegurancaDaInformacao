@@ -25,4 +25,7 @@ Modelos de âncoras de confiança
 	Tecnologias de hardware seguro que armazena e processa senhas criptografadas
 		- Texto claro 
 		- Chave Pré-compartilhada (PSK) -Criptografia Assimétrica 
-		- Chave Pública/Privada 
+		- Chave Pública/Privada (Criptografia Simétrica)
+
+Por que é importante?
+	Garante que as comunicações entre a âncora de confiança, a aplicação principal e as redes pareadas sejam seguras, protegidas e atu
