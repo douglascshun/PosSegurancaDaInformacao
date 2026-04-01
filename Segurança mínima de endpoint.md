@@ -22,4 +22,7 @@ Funções principais
 # Implementar uma TCB
 
 Modelos de âncoras de confiança
-Tecnologias de hardware seguro que armazena e processa senhas criptografadas
+	Tecnologias de hardware seguro que armazena e processa senhas criptografadas
+		- Texto claro 
+		- Chave Pré-compartilhada (PSK) -Criptografia Assimétrica 
+		- Chave Pública/Privada 
