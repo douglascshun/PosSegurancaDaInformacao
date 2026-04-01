@@ -6,5 +6,5 @@ Segurança de hardware
 Gestão de confiança e integridade 
 ![[Gestão de confiança e integridade.png]]
 
-Processos de inicialização seguro baseado em HWRoT - Trust Anchor
+Processos de inicialização seguro baseado em HWRoT (Hardware Root of Trust) - Trust Anchor
 ![[Processos de inicialização seguro baseado em HWRoT  Trust Anchor.png]]
