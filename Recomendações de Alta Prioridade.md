@@ -9,4 +9,4 @@ Recomendação para Rede Local IoT dedicada
 Recomendação na utilização de gateways e Firewalls
 ![[Pasted image 20260401085712.png]]
 
-Recomendação
+Recomendação quanto a Autenticação e Autorização
