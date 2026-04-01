@@ -59,4 +59,7 @@ Por que é importante?
 Funções principais, garantem que:
 	- Toda verificação de assinatura é executada pelo TCB
 	- Nenhuma chave privada do TCB é exposta 
-	- Troca de chaves pode ser realizado pelo 
+	- Troca de chaves pode ser realizado pelo TCB em nome da aplicação
+	- Criptografia e descriptografia de devem ser rexecutadaos pelo TCB
+	- A assinatura de mensagens deve ser executado no TCB
+	- 
