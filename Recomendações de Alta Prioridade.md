@@ -3,3 +3,7 @@
 # Recomendações 
 
 Recomendação para Rede Local IoT dedicada
+![[Recomendação para Rede Local IoT dedicada.png]]
+
+
+Recomendação 
