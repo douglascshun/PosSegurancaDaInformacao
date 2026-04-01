@@ -79,7 +79,6 @@ Ameaça de Repúdio
 ![[Ameaça de Repúdio.png]]
 
 
-
 Ameaça de Violação de dados (Divulgar informações)
 ![[Ameaça de Violação de dados.png]]
 
@@ -88,5 +87,8 @@ Ameaça de Negação de Serviço (DOS - Denial of Service)
 ![[Ameaça de Negação de Serviço.png]]
 
 
+Ameaça de Elevação de Privilégios
+![[Ameaça de Elevação de Privilégios.png]]
 
-Ameaça de 
+
+Ameaça do gerenci
