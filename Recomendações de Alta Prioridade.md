@@ -14,3 +14,5 @@ Recomendação quanto a Autenticação e Autorização
 ![[Recomendação quanto a Autenticação e Autorização.png]]
 
 
+Recomendação de Inicialização Segura
+![[Recomendação de Inicialização Segura.png]]
