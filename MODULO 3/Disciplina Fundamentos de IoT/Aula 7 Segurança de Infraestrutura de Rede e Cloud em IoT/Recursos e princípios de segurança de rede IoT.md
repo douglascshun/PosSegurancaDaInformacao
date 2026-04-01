@@ -6,3 +6,4 @@ Quem é responsável pela cibersegurança?
 
 # Impactos 
 ![[Impactos.png]]
+
