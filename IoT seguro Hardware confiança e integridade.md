@@ -7,3 +7,4 @@ Gestão de confiança e integridade
 ![[Gestão de confiança e integridade.png]]
 
 Processos de inicialização seguro baseado em HWRoT - Trust Anchor
+![[Processos de inicialização seguro baseado em HWRoT  Trust Anchor.png]]
