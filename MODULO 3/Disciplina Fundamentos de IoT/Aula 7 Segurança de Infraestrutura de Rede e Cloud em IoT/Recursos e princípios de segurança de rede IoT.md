@@ -14,8 +14,8 @@ Princípios de segurança de rede
 		Identificação e autentificação
 		![[Identificação e autentificação.png]]
 		Controle de acesso 
-		![[Pasted image 20260401160916.png]]
-		
+		![[Controle de acesso.png]]
 		Proteção de dados 
-
-Processos e mecanismos para garantir a disponibilidade com segurança
+		![[Proteção de dados.png]]
+		Processos e mecanismos para garantir a disponibilidade com segurança
+		
