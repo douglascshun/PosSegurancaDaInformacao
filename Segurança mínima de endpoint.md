@@ -73,3 +73,7 @@ Ameaça de Falsificação
 
 Ameaça de Adulteração
 ![[Pasted image 20260401084212.png]]
+
+
+Ameaça de Repúdio
+![[Ameaça de Repúdio.png]]
