@@ -28,4 +28,5 @@ Modelos de âncoras de confiança
 		- Chave Pública/Privada (Criptografia Simétrica)
 
 Por que é importante?
-	Garante que as comunicações entre a âncora de confiança, a aplicação principal e as redes pareadas sejam seguras, protegidas e atu
+	Garante que as comunicações entre a âncora de confiança, a aplicação principal e as redes pareadas sejam seguras, protegidas e atualizadas
+
