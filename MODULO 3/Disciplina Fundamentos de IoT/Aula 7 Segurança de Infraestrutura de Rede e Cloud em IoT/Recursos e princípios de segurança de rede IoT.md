@@ -18,4 +18,4 @@ Princípios de segurança de rede
 		Proteção de dados 
 		![[Proteção de dados.png]]
 		Processos e mecanismos para garantir a disponibilidade com segurança
-		
+		![[Processos e mecanismos para garantir a disponibilidade com segurança.png]]
