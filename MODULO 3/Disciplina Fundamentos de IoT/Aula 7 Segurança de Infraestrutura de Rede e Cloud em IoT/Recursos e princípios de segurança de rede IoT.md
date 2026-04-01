@@ -12,8 +12,10 @@ Quem é responsável pela cibersegurança?
 Princípios de segurança de rede 
 	![[Princípio de segurança de rede.png]]
 		Identificação e autentificação
-		![[Identificação e autentificação.png]Controle de acesso 
-
-Proteção de dados 
+		![[Identificação e autentificação.png]]
+		Controle de acesso 
+		![[Pasted image 20260401160916.png]]
+		
+		Proteção de dados 
 
 Processos e mecanismos para garantir a disponibilidade com segurança
