@@ -19,3 +19,7 @@ Funções principais
 	- Provisionamento e personalização
 	- Segurança de ambientes isolados
 
+# Implementar uma TCB
+
+Modelos de âncoras de confiança
+Tecnologias de hardware seguro que armazena e processa senhas criptografadas
