@@ -41,4 +41,6 @@ Funções principais
 	- Ser capaz de informar com segurança à TCB o resultado de todas as operações de autenticação ou criptografia
 
 Porque é importante?
-	
+	- Possibilidade de um invasor roubar chaves relevantes para todo o ecossistema de IoT
+		- Clonar identidades de endpoint 
+		- Falsificar se
