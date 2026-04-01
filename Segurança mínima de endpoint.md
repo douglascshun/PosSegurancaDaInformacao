@@ -84,4 +84,9 @@ Ameaça de Violação de dados (Divulgar informações)
 ![[Ameaça de Violação de dados.png]]
 
 
-Negação de Serviço (DOS - Denial of Service)
+Ameaça de Negação de Serviço (DOS - Denial of Service)
+![[Ameaça de Negação de Serviço.png]]
+
+
+
+Ameaça de 
