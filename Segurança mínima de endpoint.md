@@ -47,3 +47,9 @@ Porque é importante?
 		- Distribuir serviços de IoT
 		- Distribuir patches e atualizações maliciosas
 		- Fazer alterações não autorizadas no software do endpoint 
+
+# Utilizar uma API para o TCB
+
+O que é?
+	Serviço para acessar as funções do TCB
+
