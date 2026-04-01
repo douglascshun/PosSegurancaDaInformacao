@@ -62,4 +62,6 @@ Funções principais, garantem que:
 	- Troca de chaves pode ser realizado pelo TCB em nome da aplicação
 	- Criptografia e descriptografia de devem ser rexecutadaos pelo TCB
 	- A assinatura de mensagens deve ser executado no TCB
-	- 
+	- O preenchimento seguro de mensagens deve ser realizado no TCB
+	-  Confidencialidade e integridade entre o TCB e a aplicação
+
