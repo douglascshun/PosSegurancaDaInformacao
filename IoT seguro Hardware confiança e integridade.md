@@ -2,3 +2,5 @@
 
 Segurança de hardware
 ![[Segurança de hardware.png]]
+
+Gestão de confiança e integridade 
