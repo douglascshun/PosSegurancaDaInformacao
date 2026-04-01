@@ -1,3 +1,4 @@
 [[Aula 7 Segurança de Infraestrutura de Rede e Cloud em IoT]]
 
-# segurança
+Segurança de hardware
+![[Segurança de hardware.png]]
