@@ -65,5 +65,11 @@ Funções principais, garantem que:
 	- O preenchimento seguro de mensagens deve ser realizado no TCB
 	-  Confidencialidade e integridade entre o TCB e a aplicação
 
-# Ameaça 
-![[Ameaça.png]]
+# Ameaças
+
+Ameaça de Falsificação
+![[Ameaça de Falsificação.png]]
+
+
+Ameaça de Adulteração
+![[Pasted image 20260401084212.png]]
