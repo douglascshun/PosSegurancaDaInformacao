@@ -37,4 +37,8 @@ O que é?
 	- Capaz de armazenar e processar com segurança senhas criptografadas
 
 Funções principais
-	- Determinar com segurança se as mensagens e identidades podem ser 
+	- Determinar com segurança se as mensagens e identidades podem ser autenticadas 
+	- Ser capaz de informar com segurança à TCB o resultado de todas as operações de autenticação ou criptografia
+
+Porque é importante?
+	
