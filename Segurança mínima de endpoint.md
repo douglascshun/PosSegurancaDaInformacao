@@ -18,3 +18,4 @@ Funções principais
 	- Separação de tarefas dentro da arquitetura de segurança em IoT
 	- Provisionamento e personalização
 	- Segurança de ambientes isolados
+
