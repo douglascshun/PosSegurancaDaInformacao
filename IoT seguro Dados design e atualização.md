@@ -2,3 +2,6 @@
 
 Proteção e desing do software
 ![[Proteção e desing do software.png]]
+
+
+Configuração do dispositivo e atualização de software
