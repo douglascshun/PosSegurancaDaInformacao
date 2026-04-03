@@ -5,3 +5,4 @@ Proteção e desing do software
 
 
 Configuração do dispositivo e atualização de software
+![[Configuração do dispositivo e atualização de software.png]]
