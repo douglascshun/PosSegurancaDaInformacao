@@ -32,3 +32,10 @@ Objetivos do CERT Resiliency Engineering Framework
 		- Há 4 categorias
 		- Vários componentes
 		- 1 ou + objetivos 
+
+Sobre as 4 categorias:
+	Categorias do componentes do CERT Resiliency Engineering Framework
+		- Gestão Empresarial 
+		- Engenharia 
+		- Operações 
+		- Gestão de process
