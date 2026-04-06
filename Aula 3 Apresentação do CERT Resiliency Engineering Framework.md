@@ -17,4 +17,4 @@ Escopo do Framework:
 Vantagens:
 	- Se estende até o estratégico (apesar de operacional)
 	- Se estendem além da organização
-	- A abordagem é por 
+	- A abordagem é por processo e não por lista de verificação
