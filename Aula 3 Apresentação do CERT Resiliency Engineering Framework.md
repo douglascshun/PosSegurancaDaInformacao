@@ -13,4 +13,8 @@ Cobrindo o Ciclo de Vida do Ativo
 		- Instalação
 
 Escopo do Framework:
-	O foco do Framework de engenharia de resiliência, como o CERT REF (Resiliency Engineering Framework), é a Empresa`
+	O foco do Framework de engenharia de resiliência, como o CERT REF (Resiliency Engineering Framework), é a `Empresa`.
+Vantagens:
+	- Se estende até o estratégico (apesar de operacional)
+	- Se estendem além da organização
+	- A abordagem é por 
