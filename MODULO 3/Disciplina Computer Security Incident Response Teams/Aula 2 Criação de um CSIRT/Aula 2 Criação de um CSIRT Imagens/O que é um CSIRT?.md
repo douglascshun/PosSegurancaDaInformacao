@@ -18,3 +18,6 @@ Diferenciação:
 	1. Equipes de SI (sem a responsabilidade formal de tratar incidentes)
 	2. CSIRT internos (recebeu formalmente a responsabilidade)
 	3. CSIRTs coordenadores (coordena o tratamento interno e externo)
+
+Evolução é essencial!
+	A maioria dos CSIRTs começam como organizações "orientadas à resposta" e depois, mais do que um  
