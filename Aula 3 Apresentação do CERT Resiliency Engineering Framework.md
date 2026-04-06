@@ -24,4 +24,5 @@ Abrangência
 	- Nas competências essenciais 
 	- No gerenciamento de entrega do serviço
 
-Objetivos do CERT
+Objetivos do CERT Resiliency Engineering Framework
+![[Pasted image 20260406130830.png]]
