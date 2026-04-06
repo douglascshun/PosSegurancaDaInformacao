@@ -37,4 +37,8 @@ Diferenças:
 	Serviços prestados
 	Definições e terminologia
 
-No fundo, um CSIRT acaba 
+No fundo, um CSIRT acaba `tratando de incidentes` de forma ampla com parte de suas operações diárias
+	O tratamento inclui três funções:
+		- Relatório de incidentes 
+		- Análise de incidentes 
+		- Resposta 
