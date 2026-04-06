@@ -11,3 +11,5 @@ DESAFIOS
 	- Falta de objetivos e integração
 	- Em silos ou distribuídos?
 	- Quem faz o que?
+
+Gerenciamento de Incide
