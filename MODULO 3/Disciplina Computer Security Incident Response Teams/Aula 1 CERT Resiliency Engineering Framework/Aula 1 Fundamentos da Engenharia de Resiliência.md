@@ -29,4 +29,5 @@ O que a segurança representa para uma empresa?
 Importância da Segurança no apoio da Resiliência Operacional
 	A empresa precisa ser resiliente para atingir a sua missão
 	- Gerir é melhor do que reagir
-	- Segurança no 
+	- Segurança no desi
+
