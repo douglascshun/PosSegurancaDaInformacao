@@ -36,4 +36,8 @@ Como relacionar os processos de GI e os CSIRTS?
 	Estratégia geral de proteção
 	Incluir novos processos
 
-Novos processos 
+Novos processos para:
+- Notificação e comunicação
+- Análise e resposta
+- Colaboração e coordenação
+- Manutenção e rastreamento de registros
