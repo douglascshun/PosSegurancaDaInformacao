@@ -29,7 +29,6 @@ Ativos
 	- Normalmente se alinham os objetivos de negócios 
 
 Um processo precisa de insumos (ativos) para cumprir com o seu propósito, como:
-
 - Pessoas
 	- Seja de forma ativa ou com a capacidade de monitoramento
 	- Dependem de responsabilidades e papéis
@@ -40,7 +39,8 @@ Um processo precisa de insumos (ativos) para cumprir com o seu propósito, como:
 	- Qualidade da informação: CID
 
 - Tecnologia 
-	 - 
+	- Quase impossível uma empresa viver sem 
+	- Contribuí significativamente para o sucesso estratégico e competitivo
 
 - Instalações
 
