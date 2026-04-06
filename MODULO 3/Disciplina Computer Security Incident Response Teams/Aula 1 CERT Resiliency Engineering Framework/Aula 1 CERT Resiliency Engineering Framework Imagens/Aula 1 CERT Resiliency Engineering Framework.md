@@ -19,4 +19,7 @@ Serviços
 
 Processo de Negócios
 	- Processos de negócios são atividades que a a organização executa
-	- Podem ser terceirizados (Forneedores)
+	- Podem ser terceirizados (Fornecedores)
+	- Podem existir milhares
+	- A falha de um compromete o serviço
+
