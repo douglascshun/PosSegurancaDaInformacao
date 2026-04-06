@@ -16,3 +16,4 @@ CSIRT:
 Existe uma lista de serviços CSIRT que expande o escopo do Gerenciamento de Incidentes e inclui outros serviços e funções.
 
 ![[Pasted image 20260406150219.png]]
+	- Relação entre resposta, tratamento e gerenciamento de incidentes
