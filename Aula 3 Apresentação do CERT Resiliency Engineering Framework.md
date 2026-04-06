@@ -38,4 +38,4 @@ Sobre as 4 categorias:
 		- Gestão Empresarial 
 		- Engenharia 
 		- Operações 
-		- Gestão de process
+		- Gestão de processos 
