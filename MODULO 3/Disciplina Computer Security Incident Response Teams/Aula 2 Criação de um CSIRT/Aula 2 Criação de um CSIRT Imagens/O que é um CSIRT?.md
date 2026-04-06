@@ -43,3 +43,7 @@ No fundo, um CSIRT acaba `tratando de incidentes` de forma ampla com parte de su
 		- Análise de incidentes 
 		- Resposta a incidentes 
 
+Estruturação de um CSIRT
+	- Equipe de segurança (equipe ad hoc)
+	- Equipe dedicada distribuída 
+	- Equipe de me
