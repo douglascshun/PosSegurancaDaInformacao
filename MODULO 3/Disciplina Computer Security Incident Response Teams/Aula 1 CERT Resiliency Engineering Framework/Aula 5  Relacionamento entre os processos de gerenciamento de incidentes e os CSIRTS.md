@@ -12,4 +12,7 @@ DESAFIOS
 	- Em silos ou distribuídos?
 	- Quem faz o que?
 
-Gerenciamento de Incide
+Gerenciamento de Incidentes está distribuído 
+- CSIRT, TI ou Service Desk
+- RH ou Jurídico
+- Compliance ou Auditoria 
