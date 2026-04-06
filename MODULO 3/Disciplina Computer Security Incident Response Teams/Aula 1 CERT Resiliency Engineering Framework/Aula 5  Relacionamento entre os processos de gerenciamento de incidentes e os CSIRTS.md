@@ -31,4 +31,9 @@ Como relacionar os processos de GI e os CSIRTS?
 	 Integrar-se com o existente 
 	 Fortalecer e melhorar
 	 Apoiar e complementar o PCN/DRP
-	 
+	Apoiar, complementar o PSI
+	Estrutura de comando e controle
+	Estratégia geral de proteção
+	Incluir novos processos
+
+Novos processos 
