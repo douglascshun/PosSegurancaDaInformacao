@@ -22,3 +22,6 @@ SEGURANÇA!
 
 O que a segurança representa para uma empresa?
 	- Mal necessário
+	- Um ativo de negócio
+	- Equilíbrio: crescimento X segurança 
+	- Suporta a Resiliência Operacional 
