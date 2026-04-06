@@ -43,4 +43,5 @@ Um processo precisa de insumos (ativos) para cumprir com o seu propósito, como:
 	- Contribuí significativamente para o sucesso estratégico e competitivo
 
 - Instalações
-
+	- Local onde "vivem" outros objetos
+	- Podem ser distribuídos, estarem localmente ou colonizados
