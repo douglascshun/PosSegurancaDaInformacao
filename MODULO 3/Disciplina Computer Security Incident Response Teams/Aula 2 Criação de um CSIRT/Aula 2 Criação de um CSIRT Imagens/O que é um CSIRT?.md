@@ -31,3 +31,10 @@ Meta do CSIRT
 	- Evitar que eventos futuros aconteçam
 
 Os CSIRTs não são estruturados da mesma maneira
+Diferenças:
+	Missão, metas e objetivos
+	Eleitorado (Grupo constituinte)
+	Serviços prestados
+	Definições e terminologia
+
+No fundo, um CSIRT acaba 
