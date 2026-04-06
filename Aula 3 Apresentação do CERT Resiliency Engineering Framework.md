@@ -7,3 +7,5 @@ Como melhorar os processos de gerenciamento de resiliência operacional?
 		- Atividades que alinhem ao negócio 
 		- Ciclo de vida do ativo
 
+Cobrindo o Ciclo de Vida do Ativo
+	Envol
