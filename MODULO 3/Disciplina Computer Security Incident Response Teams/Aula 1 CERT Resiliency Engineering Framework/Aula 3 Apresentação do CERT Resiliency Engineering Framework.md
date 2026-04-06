@@ -1,4 +1,4 @@
-[[CERT Resiliency Engineering Framework]]
+[[Computer Security Incident Response Teams]]
 
 Como melhorar os processos de gerenciamento de resiliência operacional?
 	Por meio do Framework (CERT Resiliency Engineering Framework), que descreve:
