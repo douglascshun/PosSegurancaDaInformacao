@@ -6,7 +6,9 @@
 	- Como integrar aos processos atuais?
 `Resposta`: Entender o relacionamento do Gerenciamento de Incidentes e CSIRT.
 
-Gerenciamento de Incidentes
+Gerenciamento de Incidentes:
 	Conjunto de atividades baseadas em boas práticas que visam a resolução de incidentes o mais rápido possível, com base nos contratos de nível serviço.
 
-CSIRT
+CSIRT:
+	Time de Resposta à incidentes de Segurança de Computadores.
+
