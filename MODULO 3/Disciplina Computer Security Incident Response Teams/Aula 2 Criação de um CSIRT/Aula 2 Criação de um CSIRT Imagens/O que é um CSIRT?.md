@@ -46,4 +46,7 @@ No fundo, um CSIRT acaba `tratando de incidentes` de forma ampla com parte de su
 Estruturação de um CSIRT
 	- Equipe de segurança (equipe ad hoc)
 	- Equipe dedicada distribuída 
-	- Equipe de me
+	- Equipe de meio período distribuída
+	- Equipe centralizada 
+	- Centro de coordenação
+	- Provedor de serviço terceiro 
