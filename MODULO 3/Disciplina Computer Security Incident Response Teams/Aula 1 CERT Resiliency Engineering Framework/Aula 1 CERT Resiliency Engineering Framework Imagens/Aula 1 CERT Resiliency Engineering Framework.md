@@ -8,3 +8,10 @@ Quais são os objetivos?
 Coletivamente impulsionam a missão da empresa 
 
 
+Objetos da Engenharia da Resiliência
+
+![[Objetos da Engenharia da Resiliência.png]]
+
+Serviços
+	- Principais recurso que contribuí com cumprimento da missão
+	- P
