@@ -30,3 +30,4 @@ Meta do CSIRT
 	- Fornecer resposta e recuperação eficaz
 	- Evitar que eventos futuros aconteçam
 
+Os CSIRTs não são estruturados da mesma maneira
