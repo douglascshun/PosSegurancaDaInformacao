@@ -19,3 +19,6 @@ Dependências da Resiliência operacional
 - A resiliência Operacional depende dos requisitos de...
 - O processo de Engenharia de Resiliência depende da...
 SEGURANÇA!
+
+O que a segurança representa para uma empresa?
+	- Mal necessário
