@@ -26,3 +26,4 @@ Abrangência
 
 Objetivos do CERT Resiliency Engineering Framework
 ![[Pasted image 20260406130830.png]]
+20 Áreas de competências de alto n
