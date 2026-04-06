@@ -6,4 +6,8 @@ Características de um CSIRT e Gerenciamento de Incidentes (GI):
 	- Atividades de GI podem assumir várias formas 
 
 DESAFIOS
-	-Um CSIRT não está bem def
+	- Um CSIRT não está bem definido 
+	- Autoridade e tomada de decisões 
+	- Falta de objetivos e integração
+	- Em silos ou distribuídos?
+	- Quem faz o que?
