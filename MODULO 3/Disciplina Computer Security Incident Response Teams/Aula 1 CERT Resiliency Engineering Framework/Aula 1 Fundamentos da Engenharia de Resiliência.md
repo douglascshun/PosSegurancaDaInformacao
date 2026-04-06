@@ -10,4 +10,8 @@ O que é Resiliência?
 	- Lidar com `eventos disruptivos`
 `Resiliência Operacional:` Trata de manter os serviços, processos e ativos da operações.
 
-Por que Engenharia
+Por que Engenharia?
+	- Não é só sobre bens e produtos físicos
+	- Projetar é sistematizar a construção
+	- `Requisito é essencial` para o "produto"
+
