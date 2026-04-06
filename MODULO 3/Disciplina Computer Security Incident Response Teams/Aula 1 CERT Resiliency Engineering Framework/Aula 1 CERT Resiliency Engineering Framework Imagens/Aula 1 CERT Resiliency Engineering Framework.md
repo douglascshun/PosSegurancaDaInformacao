@@ -25,7 +25,8 @@ Processo de Negócios
 
 Ativos
 	- Os ativos são algo de valor para a organização
-	- Facilita 
+	- Facilita a operação eficaz e eficiente 
+	- Normalmente se alinham os objetivos de negócios 
 
 Um processo precisa de insumos (ativos) para cumprir com o seu propósito, como:
 
