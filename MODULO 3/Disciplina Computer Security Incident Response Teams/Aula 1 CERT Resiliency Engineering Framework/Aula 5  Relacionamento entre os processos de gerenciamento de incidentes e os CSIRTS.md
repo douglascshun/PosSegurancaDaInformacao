@@ -20,4 +20,8 @@ Gerenciamento de Incidentes está distribuído
 - Equipe de Redes ou Operação
 - Negócio ou Terceiros
 - Equipe de comunicação 
-- Um "c"
+- Um "cadinho" de cada um
+
+Integração
+	Se já está sendo feito, basta integrar o CSIRT ao GI
+	Se não está feito 
