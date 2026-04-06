@@ -3,4 +3,8 @@ Objetos da Engenharia da Resiliência
 
 Quais são os objetivos?
 	- Serviços
-	- 
+	- Processos de Negócios
+	- Ativos
+Coletivamente impulsionam a missão da empresa 
+
+
