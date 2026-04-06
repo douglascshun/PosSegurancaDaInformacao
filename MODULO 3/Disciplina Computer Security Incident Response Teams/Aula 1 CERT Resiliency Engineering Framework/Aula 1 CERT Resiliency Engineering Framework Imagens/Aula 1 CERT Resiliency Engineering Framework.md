@@ -18,4 +18,5 @@ Serviços
 	- Normalmente se alinham os objetivos de negócios
 
 Processo de Negócios
-- 
+	- Processos de negócios são atividades que a a organização executa
+	- Podem ser terceirizados (Forneedores)
