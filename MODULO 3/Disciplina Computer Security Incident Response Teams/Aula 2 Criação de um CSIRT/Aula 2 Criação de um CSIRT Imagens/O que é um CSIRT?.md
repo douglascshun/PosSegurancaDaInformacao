@@ -16,4 +16,5 @@ Definição de CSIRT
 
 Diferenciação:
 	1. Equipes de SI (sem a responsabilidade formal de tratar incidentes)
-	2. CSIRT internos (recebeu formalmente a responsabilid)
+	2. CSIRT internos (recebeu formalmente a responsabilidade)
+	3. CSIRTs coordenadores (coordena o tratamento interno e externo)
