@@ -20,4 +20,8 @@ Diferenciação:
 	3. CSIRTs coordenadores (coordena o tratamento interno e externo)
 
 Evolução é essencial!
-	A maioria dos CSIRTs começam como organizações "orientadas à resposta" e depois, mais do que um  
+	A maioria dos CSIRTs começam como organizações "orientadas à resposta" e depois, mais do que um "T"
+		1. Reativo 
+		2. Proativo
+	Metas do CSIRT alinhadas às metas de negócios
+
