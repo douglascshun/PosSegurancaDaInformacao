@@ -19,4 +19,10 @@ CSIRT:
 	- Relação entre resposta, tratamento e gerenciamento de incidentes.
 	- As vezes essas atividades são distribuídas entre várias áreas.
 
-O gerenciamento de incidentes 
+O gerenciamento de incidentes envolve:
+	- Planejamento 
+	- Coordenação
+	- Identificação de Vulnerabilidades 
+	- Treinamento e conscientização
+	- Prevenção de incidentes 
+	- Comportamentos anormais
