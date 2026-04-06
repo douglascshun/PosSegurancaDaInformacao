@@ -27,4 +27,8 @@ Integração
 	Se não está sendo feito, o CSIRT complementa
 Importante, acode uma interface formal entre CSIRT e GI
 
-Como relacionar os 
+Como relacionar os processos de GI e os CSIRTS?
+	 Integrar-se com o existente 
+	 Fortalecer e melhorar
+	 Apoiar e complementar o PCN/DRP
+	 
