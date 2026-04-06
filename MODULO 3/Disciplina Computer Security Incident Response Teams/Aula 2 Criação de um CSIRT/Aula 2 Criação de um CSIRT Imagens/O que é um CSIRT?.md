@@ -10,3 +10,7 @@ Atividades Proativas:
 	- Consultoria
 	- Recomendações técnicas etc...
 
+Computer Security Incidente Response Team
+
+Definição de CSIRT
+	- É uma organização de serviços responsável por receber, revis
