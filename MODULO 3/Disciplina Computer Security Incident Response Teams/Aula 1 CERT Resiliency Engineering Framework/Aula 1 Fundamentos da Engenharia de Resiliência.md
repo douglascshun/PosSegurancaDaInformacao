@@ -40,3 +40,10 @@ Importância da Segurança no apoio da Resiliência Operacional
 
 No centro da resiliência está o gerenciamento de riscos operacionais
 ![[Resiliencia.png]]
+
+Mudança de posicionamento de Segurança
+
+Segurança é considerado algo prático
+=>
+Movimente em direção à engenharia de resiliência
+=
