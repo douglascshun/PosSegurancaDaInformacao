@@ -23,6 +23,10 @@ Processo de Negócios
 	- Podem existir milhares
 	- A falha de um compromete o serviço
 
+Ativos
+	- Os ativos são algo de valor para a organização
+	- Facilita 
+
 Um processo precisa de insumos (ativos) para cumprir com o seu propósito, como:
 
 - Pessoas
