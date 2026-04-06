@@ -41,4 +41,5 @@ No fundo, um CSIRT acaba `tratando de incidentes` de forma ampla com parte de su
 	O tratamento inclui três funções:
 		- Relatório de incidentes 
 		- Análise de incidentes 
-		- Resposta 
+		- Resposta a incidentes 
+
