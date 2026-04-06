@@ -8,4 +8,6 @@ Como melhorar os processos de gerenciamento de resiliência operacional?
 		- Ciclo de vida do ativo
 
 Cobrindo o Ciclo de Vida do Ativo
-	Envol
+	Envolve o desenvolvimento, aquisição e implementação de:
+		- Informação
+		- Instalação
