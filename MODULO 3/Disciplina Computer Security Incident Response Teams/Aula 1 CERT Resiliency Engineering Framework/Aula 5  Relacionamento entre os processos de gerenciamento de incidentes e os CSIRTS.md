@@ -24,4 +24,5 @@ Gerenciamento de Incidentes está distribuído
 
 Integração
 	Se já está sendo feito, basta integrar o CSIRT ao GI
-	Se não está feito 
+	Se não está sendo feito, o CSIRT complementa
+Importante, acode uma interface formal entre CSIRT e GI
