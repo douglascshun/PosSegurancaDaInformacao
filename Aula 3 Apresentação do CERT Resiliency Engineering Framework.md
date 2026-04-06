@@ -11,3 +11,6 @@ Cobrindo o Ciclo de Vida do Ativo
 	Envolve o desenvolvimento, aquisição e implementação de:
 		- Informação
 		- Instalação
+
+Escopo do Framework:
+	O foco do Framework de engenharia de resiliência, como o CERT REF (Resiliency Engineering Framework), é a Empresa`
