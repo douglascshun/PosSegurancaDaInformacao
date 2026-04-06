@@ -23,3 +23,4 @@ Processo de Negócios
 	- Podem existir milhares
 	- A falha de um compromete o serviço
 
+Um processo precisa de insumos (ativos) para cumprir com o seu propósito 
