@@ -31,6 +31,9 @@ Ativos
 Um processo precisa de insumos (ativos) para cumprir com o seu propósito, como:
 
 - Pessoas
+	- Seja de forma ativa ou com a capacidade de monitoramento
+	- Dependem de responsabilidades e papéis
+
 - Informações e dados 
 - Tecnologia 
 - Instalações
