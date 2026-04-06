@@ -25,7 +25,7 @@ Abrangência
 	- No gerenciamento de entrega do serviço
 
 Objetivos do CERT Resiliency Engineering Framework
-![[Pasted image 20260406130830.png]]
+![[Diretrizes CSIRT.png]]
 20 Áreas de competências de alto nível (conformidade, monitoramento, riscos, financeiro, RH, sustentabilidade, controls etc...)
 	Cada área:
 		- É uma área prática

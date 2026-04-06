@@ -15,7 +15,7 @@ CSIRT:
 ![[MODULO 3/Disciplina Computer Security Incident Response Teams/Aula 1 CERT Resiliency Engineering Framework/Aula 1 CERT Resiliency Engineering Framework Imagens/CSIRT.png]]
 	Existe uma lista de serviços CSIRT que expande o escopo do Gerenciamento de Incidentes e inclui outros serviços e funções.
 
-![[Pasted image 20260406150219.png]]
+![[Incident Management CSIRT.png]]
 	- Relação entre resposta, tratamento e gerenciamento de incidentes.
 	- As vezes essas atividades são distribuídas entre várias áreas.
 
