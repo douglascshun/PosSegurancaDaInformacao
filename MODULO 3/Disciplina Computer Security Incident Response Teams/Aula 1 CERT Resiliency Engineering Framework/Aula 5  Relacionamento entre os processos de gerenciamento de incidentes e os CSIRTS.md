@@ -20,4 +20,4 @@ Gerenciamento de Incidentes está distribuído
 - Equipe de Redes ou Operação
 - Negócio ou Terceiros
 - Equipe de comunicação 
-- Um    vvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+- Um "c"
