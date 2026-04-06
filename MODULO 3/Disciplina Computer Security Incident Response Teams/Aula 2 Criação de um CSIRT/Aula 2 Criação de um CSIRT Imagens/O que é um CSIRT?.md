@@ -25,3 +25,7 @@ Evolução é essencial!
 		2. Proativo
 	Metas do CSIRT alinhadas às metas de negócios
 
+Meta do CSIRT
+	- Minimizar e controlar danos 
+	- Fornecer resposta e recuperação eficaz
+	- E
