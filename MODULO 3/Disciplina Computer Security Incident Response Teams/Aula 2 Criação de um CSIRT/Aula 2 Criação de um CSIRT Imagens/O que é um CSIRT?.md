@@ -6,4 +6,7 @@ Atividades Reativas:
 Atividades Proativas:
 	- Conscientização
 	- Treinamento 
-	- Insta
+	- Instalar ou verificar alarmes
+	- Consultoria
+	- Recomendações técnicas etc...
+
