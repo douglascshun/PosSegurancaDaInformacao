@@ -18,3 +18,6 @@ Vantagens:
 	- Se estende até o estratégico (apesar de operacional)
 	- Se estendem além da organização
 	- A abordagem é por processo e não por lista de verificação
+
+Abrangência
+	- Segurança, continuidade de negócios e operações de
