@@ -11,6 +11,5 @@ Atividades Proativas:
 	- Recomendações técnicas etc...
 
 Computer Security Incidente Response Team
-
 Definição de CSIRT
-	- É uma organização de serviços responsável por receber, revis
+	- É uma organização de serviços responsável por receber, revisar e responder a relatórios e atividades de incidentes de segurança de computadores.
