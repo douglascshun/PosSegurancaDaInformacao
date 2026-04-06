@@ -35,6 +35,10 @@ Um processo precisa de insumos (ativos) para cumprir com o seu propósito, como:
 	- Dependem de responsabilidades e papéis
 
 - Informações e dados 
+	- Podem assumir muitas formas
+	- Essencial para tomada de decisões
+	- Qualidade da informação: CID
+
 - Tecnologia 
 - Instalações
 
