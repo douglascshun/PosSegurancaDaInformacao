@@ -4,4 +4,5 @@
 	- Que tipo de habilidade precisamos?
 	- Quem deve ser envolvido?
 	- Como integrar aos processos atuais?
-`Resposta`: Entender o relacionamento do Gerenci
+`Resposta`: Entender o relacionamento do Gerenciamento de Incidentes e CSIRT.
+
