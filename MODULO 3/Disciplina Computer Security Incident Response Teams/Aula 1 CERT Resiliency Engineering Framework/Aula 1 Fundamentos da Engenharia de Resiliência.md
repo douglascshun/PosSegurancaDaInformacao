@@ -31,5 +31,8 @@ Importância da Segurança no apoio da Resiliência Operacional
 	- Gerir é melhor do que reagir
 	- Segurança no design
 
-`Gerencimanto de Risco:` Silos são criados para evitar o cruzamento entre Segurança e Negócio (Mal necessáirio)
+`Gerencimanto de Risco:` Silos são criados para evitar o cruzamento entre Segurança e Negócio (Mal necessário)
+	Solução:
+		- Segurança focada não só no técnico, mas no `negócio`
+		- Ajudar no gerenciamento de `
 
