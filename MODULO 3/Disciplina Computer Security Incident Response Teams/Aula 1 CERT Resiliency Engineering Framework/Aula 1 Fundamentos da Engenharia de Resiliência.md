@@ -38,4 +38,5 @@ Importância da Segurança no apoio da Resiliência Operacional
 		- Competências de ER executadas por `toda a empresa`
 		- ER gerida e melhorada com `metodologia`
 
-No centro da resiliência está o
+No centro da resiliência está o gerenciamento de riscos operacionais
+![[Resiliencia.png]]
