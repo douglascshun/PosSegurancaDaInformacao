@@ -40,5 +40,7 @@ Um processo precisa de insumos (ativos) para cumprir com o seu propósito, como:
 	- Qualidade da informação: CID
 
 - Tecnologia 
+	 - 
+
 - Instalações
 
