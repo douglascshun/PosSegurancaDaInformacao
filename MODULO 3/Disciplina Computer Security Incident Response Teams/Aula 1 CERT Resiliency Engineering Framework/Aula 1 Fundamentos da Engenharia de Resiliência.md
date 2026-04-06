@@ -25,3 +25,6 @@ O que a segurança representa para uma empresa?
 	- Um ativo de negócio
 	- Equilíbrio: crescimento X segurança 
 	- Suporta a Resiliência Operacional 
+
+Importância da Segurança no apoio da Resiliência Operacional
+	A empresa precisa ser sili
