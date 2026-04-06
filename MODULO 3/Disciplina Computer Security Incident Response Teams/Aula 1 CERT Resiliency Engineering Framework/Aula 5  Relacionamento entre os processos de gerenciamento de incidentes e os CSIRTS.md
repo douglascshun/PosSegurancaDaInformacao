@@ -16,3 +16,8 @@ Gerenciamento de Incidentes está distribuído
 - CSIRT, TI ou Service Desk
 - RH ou Jurídico
 - Compliance ou Auditoria 
+- Segurança da Informação
+- Equipe de Redes ou Operação
+- Negócio ou Terceiros
+- Equipe de comunicação 
+- Um    vvvvvvvvvvvvvvvvvvvvvvvvvvvvv
