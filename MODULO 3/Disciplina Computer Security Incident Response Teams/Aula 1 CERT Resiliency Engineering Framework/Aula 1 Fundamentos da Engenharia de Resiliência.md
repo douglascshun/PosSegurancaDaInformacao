@@ -42,9 +42,8 @@ No centro da resiliência está o gerenciamento de riscos operacionais
 ![[Resiliencia.png]]
 
 # Mudança de posicionamento de Segurança
-
 Segurança é considerado algo prático
-V
+⬇⬇
 Movimente em direção à engenharia de resiliência
-V
+⬇⬇
 Criará uma oportunidade de melhoria de processo 
