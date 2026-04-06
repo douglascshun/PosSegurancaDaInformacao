@@ -28,4 +28,5 @@ Evolução é essencial!
 Meta do CSIRT
 	- Minimizar e controlar danos 
 	- Fornecer resposta e recuperação eficaz
-	- E
+	- Evitar que eventos futuros aconteçam
+
