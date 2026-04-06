@@ -14,4 +14,8 @@ Objetos da Engenharia da Resiliência
 
 Serviços
 	- Principais recurso que contribuí com cumprimento da missão
-	- P
+	- Prestação interna ou externa
+	- Normalmente se alinham os objetivos de negócios
+
+Processo de Negócios
+- 
