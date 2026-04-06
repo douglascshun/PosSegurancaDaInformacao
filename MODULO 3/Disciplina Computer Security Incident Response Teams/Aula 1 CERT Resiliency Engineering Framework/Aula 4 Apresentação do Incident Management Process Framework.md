@@ -12,3 +12,5 @@ Gerenciamento de Incidentes:
 CSIRT:
 	Time de Resposta à incidentes de Segurança de Computadores.
 
+![[MODULO 3/Disciplina Computer Security Incident Response Teams/Aula 1 CERT Resiliency Engineering Framework/Aula 1 CERT Resiliency Engineering Framework Imagens/CSIRT.png]]
+Existe uma lista de serviços CSIRT que e
