@@ -27,4 +27,8 @@ Abrangência
 Objetivos do CERT Resiliency Engineering Framework
 ![[Pasted image 20260406130830.png]]
 20 Áreas de competências de alto nível (conformidade, monitoramento, riscos, financeiro, RH, sustentabilidade, controls etc...)
-	Cada á
+	Cada área:
+		- É uma área prática
+		- Há 4 categorias
+		- Vários componentes
+		- 1 ou + objetivos 
