@@ -15,4 +15,7 @@ Por que Engenharia?
 	- Projetar é `sistematizar a construção`
 	- `Requisito é essencial` para o "produto"
 
-Dependências da Resiliência 
+Dependências da Resiliência operacional
+- A resiliência Operacional depende dos requisitos de...
+- O processo de Engenharia de Resiliência depende da...
+SEGURANÇA!
