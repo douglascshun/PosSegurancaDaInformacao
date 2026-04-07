@@ -51,4 +51,7 @@ Serviços proativos
 	Desenvolvimento de Ferramentas de Segurança
 		- Desenvolvimento de patches de segurança
 		- Ferramentas ou scripts
-	- 
+	Serviços de Detecção de Intrusão
+		- Análise dos logs de segurança
+		- Coletar e analisar grandes quantidades de dados capturados
+		- Identificar falsos positivos/negativos
