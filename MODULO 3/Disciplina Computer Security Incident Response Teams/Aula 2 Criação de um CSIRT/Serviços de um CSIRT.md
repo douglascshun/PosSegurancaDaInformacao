@@ -22,4 +22,7 @@ Tratamento de Incidente
 	- Coordenação de resposta à incidentes entre as partes envolvidas
 
 Tratamento de vulnerabilidades
-	- Análise de vulnerabili
+	- Análise de vulnerabilidade, como em um código-fonte, reproduzindo o problema 
+	- Resposta de vulnerabilidade, como aplicação de patches, correções etc...
+	- Coordenação de resposta a vulnerabilidades, compartilhando e comunicando
+
