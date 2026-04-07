@@ -1,3 +1,7 @@
 [[Aula 2 Criação de um CSIRT]]
 
-Categorias gerai
+Categorias gerais de CSIRT (baseadas no propósito):
+	- CSIRT interno 
+	- Centro de coordenação de vários CSIRTs
+	- Os centros de análise que recebem dados de várias fontes
+	- Equipes de fornecedores de SW e 
