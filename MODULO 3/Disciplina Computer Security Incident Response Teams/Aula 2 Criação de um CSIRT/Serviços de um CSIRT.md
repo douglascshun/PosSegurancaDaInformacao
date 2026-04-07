@@ -72,4 +72,6 @@ Serviços de gestão de qualidade de segurança
 	Planejamento de continuidade de negócios e recuperação de desastres
 		- Planejamento e recuperação para eventos relacionados à segurança da informação 
 	Consultoria de Segurança 
-		- Avali
+		- Avaliações qualitativas e quantitativas realistas dos riscos aos ativos da informação
+		- Avaliar ameaças
+	
