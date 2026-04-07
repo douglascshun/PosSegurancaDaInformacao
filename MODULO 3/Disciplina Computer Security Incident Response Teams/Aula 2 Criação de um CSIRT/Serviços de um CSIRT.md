@@ -41,4 +41,7 @@ Serviços proativos
 		- Identificar futuras ameaças
 	Auditorias ou Avaliações de Segurança
 		- Revisão da infraestrutura de segurança
-		- Revisão das melhores pr
+		- Revisão das melhores práticas
+		- Varreduras com scanners
+		- Pentest
+	Configuração e manutenção de ferramentas, aplc
