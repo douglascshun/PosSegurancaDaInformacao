@@ -39,4 +39,6 @@ Serviços proativos
 		- Leis e decisões legais
 		- Recomendações
 		- Identificar futuras ameaças
-	
+	Auditorias ou Avaliações de Segurança
+		- Revisão da infraestrutura de segurança
+		- Revisão das melhores pr
