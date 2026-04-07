@@ -77,3 +77,6 @@ Serviços de gestão de qualidade de segurança
 	Conscientização
 		- Para se adequar melhores às práticas de segurança
 		- Ajudar a realizar suas operações diárias de maneira mais segura 
+	Educação/Treinamento
+		- Seminários, workshops, cursos e tutoriais 
+		- Certificação profissional
