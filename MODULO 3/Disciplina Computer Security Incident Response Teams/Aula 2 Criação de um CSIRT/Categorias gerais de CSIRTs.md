@@ -20,6 +20,11 @@ Categorias mais detalhadas
 	- Informação e comunicação
 	- Energia Elétrica
 	- Óleo e gás
-	- Abasteciemtno de água
+	- Abastecimento de água
 	- Serviços de aplicação da lei 
 	- Serviços de incêndio e regaste
+	- Governo e administração pública 
+	- Transporte
+	- Bancário e financeiro 
+	- Serviços profissionais 
+	- Outras o
