@@ -31,4 +31,6 @@ Serviços proativos
 	- Evitar incidentes, reduzir seu impacto e abrangência, caso ocorra.
 		![[Serviços proativos.png]]
 	Anunciar
-		Alertas de intrusão
+		- Alertas de intrusão, avisos de vulnerabilidades e avisos de segurança
+		- Vulnerabilidades revém-descobertas
+	Observação
