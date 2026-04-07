@@ -12,4 +12,6 @@ Serviços reativos
 ![[Serviços Reativos.png]]
 
 Alertas e avisos
-- Ataues de intrusão, vulne
+- Ataques de intrusão, vulnerabilidades, vírus e fraude
+- Informações podem ser criadas pelo CSIRT ou fornecederores especializados.
+
