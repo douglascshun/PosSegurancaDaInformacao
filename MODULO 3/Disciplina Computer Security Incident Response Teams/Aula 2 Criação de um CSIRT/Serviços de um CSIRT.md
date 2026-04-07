@@ -13,5 +13,7 @@ Serviços reativos
 
 Alertas e avisos
 - Ataques de intrusão, vulnerabilidades, vírus e fraude
-- Informações podem ser criadas pelo CSIRT ou fornecederores especializados.
+- Informações podem ser criadas pelo CSIRT ou fornecedores especializados.
 
+Tratamento de Incidente
+	Analise de 
