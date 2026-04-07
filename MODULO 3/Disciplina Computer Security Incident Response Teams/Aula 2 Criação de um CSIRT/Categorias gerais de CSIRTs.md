@@ -31,4 +31,8 @@ Categorias mais detalhadas
 	- Outra organização sem fins lucrativos
 
 
-Estrutura Brasileita
+Estrutura Brasileira
+![[Estrutura Brasileira CERt.png]]
+
+Atividades 
+![[Pasted image 20260407205042.png]]
