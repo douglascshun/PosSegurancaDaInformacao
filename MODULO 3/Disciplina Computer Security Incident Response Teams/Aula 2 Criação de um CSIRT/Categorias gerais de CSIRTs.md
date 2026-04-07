@@ -6,3 +6,8 @@ Categorias gerais de CSIRT (baseadas no propósito):
 	- Os centros de análise que recebem dados de várias fontes
 	- Equipes de fornecedores de SW e HW que analisam vulnerabilidades
 	- Provedores de resposta a incidentes
+
+Modelos Organizacionais 
+	- Equipe de segurança 
+	- CSIRT Distribuído Internamente (Integral ou parcial)
+	- CSIRT Centra
