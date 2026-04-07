@@ -16,4 +16,7 @@ Alertas e avisos
 - Informações podem ser criadas pelo CSIRT ou fornecedores especializados.
 
 Tratamento de Incidente
-	Analise de 
+	- Analise de incidentes, rastreamento de intrusão e coleta de evidências forenses
+	- Resposta à incidentes localmente
+	- Suporte de resposta remota à incidentes, auxiliando a vitima
+	-C
