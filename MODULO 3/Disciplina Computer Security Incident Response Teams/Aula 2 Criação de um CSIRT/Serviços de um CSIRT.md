@@ -63,4 +63,6 @@ Serviços proativos
 		- Links e contatos de fornecedores
 
 Serviços de gestão de qualidade de segurança
-	Projetados para melhorar a segurança geral de uma organização
+	- Projetados para melhorar a segurança geral de uma organização
+	- Usando o Feedback e lições aprendidas
+	![[Serviços de gestão de qualidade de segurança.png]]
