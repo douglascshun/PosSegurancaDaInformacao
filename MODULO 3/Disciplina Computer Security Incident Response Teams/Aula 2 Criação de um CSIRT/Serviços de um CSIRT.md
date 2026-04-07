@@ -44,4 +44,6 @@ Serviços proativos
 		- Revisão das melhores práticas
 		- Varreduras com scanners
 		- Pentest
-	Configuração e manutenção de ferramentas, aplc
+	Configuração e manutenção de ferramentas, aplicativos, infraestruturas e serviços de segurança
+		Orientação apropriada sobre como configurar e manter a segurança de:
+			- IDS, sistemas de varreduras, filtros, firewalls, VPN
