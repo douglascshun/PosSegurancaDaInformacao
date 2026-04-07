@@ -14,4 +14,12 @@ Modelos Organizacionais
 	- Combinação do CSIRT e Distribuído Internamente 
 	- CSIRT de coordenação
 
-Categorias mais detalhada
+Categorias mais detalhadas
+	- Militar
+	- Educacional
+	- Informação e comunicação
+	- Energia Elétrica
+	- Óleo e gás
+	- Abasteciemtno de água
+	- Serviços de aplicação da lei 
+	- Serviços de incêndio e regaste
