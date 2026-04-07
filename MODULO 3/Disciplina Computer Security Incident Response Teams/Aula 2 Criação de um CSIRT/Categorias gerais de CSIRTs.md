@@ -10,4 +10,8 @@ Categorias gerais de CSIRT (baseadas no propósito):
 Modelos Organizacionais 
 	- Equipe de segurança 
 	- CSIRT Distribuído Internamente (Integral ou parcial)
-	- CSIRT Centra
+	- CSIRT Centralizado Internamente (Integral)
+	- Combinação do CSIRT e Distribuído Internamente 
+	- CSIRT de coordenação
+
+Categorias mais detalhada
