@@ -19,4 +19,7 @@ Tratamento de Incidente
 	- Analise de incidentes, rastreamento de intrusão e coleta de evidências forenses
 	- Resposta à incidentes localmente
 	- Suporte de resposta remota à incidentes, auxiliando a vitima
-	-C
+	- Coordenação de resposta à incidentes entre as partes envolvidas
+
+Tratamento de vulnerabilidades
+	- Análise de vulnerabili
