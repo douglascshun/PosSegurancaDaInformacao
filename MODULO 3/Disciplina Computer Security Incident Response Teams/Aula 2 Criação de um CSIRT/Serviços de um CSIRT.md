@@ -39,7 +39,6 @@ Serviços proativos
 		- Leis e decisões legais
 		- Recomendações
 		- Identificar futuras ameaças
-		-
 	Auditorias ou Avaliações de Segurança
 		- Revisão da infraestrutura de segurança
 		- Revisão das melhores práticas
@@ -49,3 +48,7 @@ Serviços proativos
 		Orientação apropriada sobre como configurar e manter a segurança de:
 			- IDS, sistemas de varreduras, filtros, firewalls, VPN etc...
 			- PDAs, servidores, desktops, smartphones e endpoints em geral
+	Desenvolvimento de Ferramentas de Segurança
+		- Desenvolvimento de patches de segurança
+		- Ferramentas ou scripts
+	- 
