@@ -34,5 +34,5 @@ Categorias mais detalhadas
 Estrutura Brasileira
 ![[Estrutura Brasileira CERt.png]]
 
-Atividades 
+Atividades do CERT.BR
 ![[Pasted image 20260407205042.png]]
