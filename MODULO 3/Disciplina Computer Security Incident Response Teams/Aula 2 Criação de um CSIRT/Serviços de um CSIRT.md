@@ -74,4 +74,6 @@ Serviços de gestão de qualidade de segurança
 	Consultoria de Segurança 
 		- Avaliações qualitativas e quantitativas realistas dos riscos aos ativos da informação
 		- Avaliar ameaças
-	
+	Conscientização
+		- Para se adequar melhores às práticas de segurança
+		- Ajudar a realizar suas operações diárias de maneira mais segura 
