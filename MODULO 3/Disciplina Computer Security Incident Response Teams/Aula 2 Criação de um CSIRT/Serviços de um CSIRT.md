@@ -69,4 +69,7 @@ Serviços de gestão de qualidade de segurança
 	Análise de Risco
 		- Avaliações qualitativas e quantitativas realistas dos riscos aos ativos de informação
 		- Avaliar ameaças 
-	Planejamento de continuidade de negócios e recuperação de desastres 
+	Planejamento de continuidade de negócios e recuperação de desastres
+		- Planejamento e recuperação para eventos relacionados à segurança da informação 
+	Consultoria de Segurança 
+		- Avali
