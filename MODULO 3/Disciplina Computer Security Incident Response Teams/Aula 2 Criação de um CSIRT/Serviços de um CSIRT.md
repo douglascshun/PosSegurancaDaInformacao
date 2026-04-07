@@ -55,3 +55,6 @@ Serviços proativos
 		- Análise dos logs de segurança
 		- Coletar e analisar grandes quantidades de dados capturados
 		- Identificar falsos positivos/negativos
+	Disseminação de Informações relacionadas à Segurança
+		- Foco na melhoria da segurança 
+		- Relatórios 
