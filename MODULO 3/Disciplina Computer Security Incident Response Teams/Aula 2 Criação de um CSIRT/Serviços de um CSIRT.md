@@ -27,4 +27,6 @@ Serviços reativos
 		- Coordenação de resposta de artefato, como compartilhar e sintetizar resultados das análises
 
 Serviços proativos
-	- Projetados com o obje
+	- Projetados com o objetivo de melhorar a infraestrutura e os processos de segurança
+	- Evitar incidentes, reduzir seu impacto e abrangência, caso ocorra.
+	![[Serviços proativos.png]]
