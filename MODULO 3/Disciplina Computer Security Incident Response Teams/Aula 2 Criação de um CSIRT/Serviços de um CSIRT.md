@@ -57,4 +57,7 @@ Serviços proativos
 		- Identificar falsos positivos/negativos
 	Disseminação de Informações relacionadas à Segurança
 		- Foco na melhoria da segurança 
-		- Relatórios 
+		- Relatórios e informações de contato 
+		- Documentação e procedimentos 
+		- Políticas e diretrizes
+		- Links e contatos de fornecedores
