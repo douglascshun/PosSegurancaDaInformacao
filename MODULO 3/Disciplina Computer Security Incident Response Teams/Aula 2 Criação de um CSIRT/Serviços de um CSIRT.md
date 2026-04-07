@@ -39,6 +39,7 @@ Serviços proativos
 		- Leis e decisões legais
 		- Recomendações
 		- Identificar futuras ameaças
+		-
 	Auditorias ou Avaliações de Segurança
 		- Revisão da infraestrutura de segurança
 		- Revisão das melhores práticas
@@ -46,4 +47,5 @@ Serviços proativos
 		- Pentest
 	Configuração e manutenção de ferramentas, aplicativos, infraestruturas e serviços de segurança
 		Orientação apropriada sobre como configurar e manter a segurança de:
-			- IDS, sistemas de varreduras, filtros, firewalls, VPN
+			- IDS, sistemas de varreduras, filtros, firewalls, VPN etc...
+			- PDAs, servidores, desktops, smartphones e endpoints em geral
