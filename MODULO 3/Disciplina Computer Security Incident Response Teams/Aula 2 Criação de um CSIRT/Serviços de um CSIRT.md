@@ -33,4 +33,10 @@ Serviços proativos
 	Anunciar
 		- Alertas de intrusão, avisos de vulnerabilidades e avisos de segurança
 		- Vulnerabilidades revém-descobertas
-	Observação
+	Observação Tecnológica
+		- Tendencias
+		- Notícias e artigos
+		- Leis e decisões legais
+		- Recomendações
+		- Identificar futuras ameaças
+	
