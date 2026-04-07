@@ -26,3 +26,6 @@ Tratamento de vulnerabilidades
 	- Resposta de vulnerabilidade, como aplicação de patches, correções etc...
 	- Coordenação de resposta a vulnerabilidades, compartilhando e comunicando
 
+Manipulação de artefatos
+	-Análise de artefatos como o tipo de arquivo, estrutura, versão e engenharia reversa 
+	
