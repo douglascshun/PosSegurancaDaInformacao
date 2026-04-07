@@ -67,4 +67,6 @@ Serviços de gestão de qualidade de segurança
 	- Usando o Feedback e lições aprendidas
 		![[Serviços de gestão de qualidade de segurança.png]]
 	Análise de Risco
-		- Avaliações 
+		- Avaliações qualitativas e quantitativas realistas dos riscos aos ativos de informação
+		- Avaliar ameaças 
+	Planejamento de continuidade de negócios e recuperação de desastres 
