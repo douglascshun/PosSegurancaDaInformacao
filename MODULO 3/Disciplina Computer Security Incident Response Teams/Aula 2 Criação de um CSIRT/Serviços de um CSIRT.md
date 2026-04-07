@@ -27,5 +27,6 @@ Tratamento de vulnerabilidades
 	- Coordenação de resposta a vulnerabilidades, compartilhando e comunicando
 
 Manipulação de artefatos
-	-Análise de artefatos como o tipo de arquivo, estrutura, versão e engenharia reversa 
-	
+	- Análise de artefatos como o tipo de arquivo, estrutura, versão e engenharia reversa 
+	- Resposta do artefato como uma nova assinatura no antivírus, ações para evitar ou remover
+	- Coordenação de resposta de artefato, como compartilhar e sintetizar resultados das análises
