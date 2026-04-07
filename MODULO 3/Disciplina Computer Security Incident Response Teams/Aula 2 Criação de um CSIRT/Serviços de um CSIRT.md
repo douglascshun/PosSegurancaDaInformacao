@@ -17,12 +17,14 @@ Serviços reativos
 		- Resposta à incidentes localmente
 		- Suporte de resposta remota à incidentes, auxiliando a vitima
 		- Coordenação de resposta à incidentes entre as partes envolvidas
-		Tratamento de vulnerabilidades
+	Tratamento de vulnerabilidades
 		- Análise de vulnerabilidade, como em um código-fonte, reproduzindo o problema 
 		- Resposta de vulnerabilidade, como aplicação de patches, correções etc...
-	- Coordenação de resposta a vulnerabilidades, compartilhando e comunicando
-Manipulação de artefatos
-	- Análise de artefatos como o tipo de arquivo, estrutura, versão e engenharia reversa 
-	- Resposta do artefato como uma nova assinatura no antivírus, ações para evitar ou remover
-	- Coordenação de resposta de artefato, como compartilhar e sintetizar resultados das análises
+		- Coordenação de resposta a vulnerabilidades, compartilhando e comunicando
+	Manipulação de artefatos
+		- Análise de artefatos como o tipo de arquivo, estrutura, versão e engenharia reversa 
+		- Resposta do artefato como uma nova assinatura no antivírus, ações para evitar ou remover
+		- Coordenação de resposta de artefato, como compartilhar e sintetizar resultados das análises
 
+Serviços proativos
+	- Projetados com o obje
