@@ -27,4 +27,8 @@ Categorias mais detalhadas
 	- Transporte
 	- Bancário e financeiro 
 	- Serviços profissionais 
-	- Outras o
+	- Outra organização comercial
+	- Outra organização sem fins lucrativos
+
+
+Estrutura Brasileita
