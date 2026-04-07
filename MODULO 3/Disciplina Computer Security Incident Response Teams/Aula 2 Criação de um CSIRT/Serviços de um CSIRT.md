@@ -61,3 +61,6 @@ Serviços proativos
 		- Documentação e procedimentos 
 		- Políticas e diretrizes
 		- Links e contatos de fornecedores
+
+Serviços de gestão de qualidade de segurança
+	Projetados para melhorar a segurança geral de uma organização
