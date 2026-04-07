@@ -29,4 +29,6 @@ Serviços reativos
 Serviços proativos
 	- Projetados com o objetivo de melhorar a infraestrutura e os processos de segurança
 	- Evitar incidentes, reduzir seu impacto e abrangência, caso ocorra.
-	![[Serviços proativos.png]]
+		![[Serviços proativos.png]]
+	Anunciar
+		Alertas de intrusão
