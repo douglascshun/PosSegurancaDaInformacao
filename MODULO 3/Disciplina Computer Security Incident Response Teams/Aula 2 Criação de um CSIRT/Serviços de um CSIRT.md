@@ -8,4 +8,8 @@ Categorias
 Serviços reativos
 	- Serviços iniciados através de notificações interna ou de terceiros, logs, IDS etc..
 	- Responder a uma ameaça ou ataques 
-![[Pasted image 20260406212443.png]]
+	
+![[Serviços Reativos.png]]
+
+Alertas e avisos
+- Ataues de intrusão, vulne
