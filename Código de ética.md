@@ -52,4 +52,10 @@ Dever com a saúde da equipe
 	- Um ambiente de trabalho saudável, seguro e positivo, principalmente na crise
 
 Dever de habilidade da equipe
-	
+	- Estudar, aplicar e avançar com o conhecimento
+
+Dever de coleta responsável
+	- Coletar o necessário
+	- Dados não relevantes devem ser excluídos
+	- Dados tratados de acordo com as leis 
+	- Garantir a privacidade do(s) usuário
