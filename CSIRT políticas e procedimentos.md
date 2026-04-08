@@ -12,3 +12,6 @@ Sem politicas e procedimentos, não há como entender o que é e o que não é a
 	Sem eles: fracasso!
 
 O conceito de políticas e procedimentos, pois muitas vezes se `mesclam e se misturam`, mas procedimento é:
+	- Detalham como uma equipe realiza atividades
+	- Beneficio para ajudar a tornar uma política bem-sucedida
+	- Ajudam a se manter dentro das diretrizes da política 
