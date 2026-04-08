@@ -4,4 +4,6 @@ Uma `estrutura organizacional` de um CSIRT  depende de componentes configurados 
 	- Público alvo (Constituency)
 	- Missão
 	- Questões Organizacionais 
-	- Financ
+	- Financiamento 
+	- Serviços
+	- Políticas e Procedimentos
