@@ -20,4 +20,4 @@ Não há uma missão padrão, mas a maioria das declarações de missão inclui 
 
 Muitas equipes definem sua missão do CSIRT em sua página principal do site.
 	Missão do CSIRT da Globo
-		"O CSIRT tem como missão atuar na detecção, análise, resposta e prevenção de incidentes de segurança, alé"
+		"O CSIRT tem como missão atuar na detecção, análise, resposta e prevenção de incidentes de segurança, além de contribuir para o esforço nacional de cibersegurança no âmbito da Rede Nacional de CSIRT"
