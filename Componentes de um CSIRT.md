@@ -49,3 +49,9 @@ Custo de um incidente
 		- Legais e reputação
 		- Seguro, licença médica etc...
 
+Custo com o Pessoal
+	Considere:
+		- Tamanho da equipe 
+		- Cargos da equipe
+		- Habilidades da equipe 
+		- DEsgaste da equipe 
