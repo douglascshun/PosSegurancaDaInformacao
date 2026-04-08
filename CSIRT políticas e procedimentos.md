@@ -15,3 +15,5 @@ O conceito de políticas e procedimentos, pois muitas vezes se `mesclam e se mis
 	- Detalham como uma equipe realiza atividades
 	- Beneficio para ajudar a tornar uma política bem-sucedida
 	- Ajudam a se manter dentro das diretrizes da política 
+
+Bora pensar e concluir!
