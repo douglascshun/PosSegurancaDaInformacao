@@ -7,3 +7,8 @@ Código de conduta
 
 Código de Ética 
 	Contém valores e princípios da organização.
+
+Exemplo:
+	Demonstre a devida curiosidade, mas ao mesmo tempo, mostra a devida moderação no que busca.
+		-Simples (Não é um procedimento!)
+		Fácil 
