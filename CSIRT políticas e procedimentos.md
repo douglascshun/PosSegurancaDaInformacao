@@ -58,4 +58,5 @@ Implementando as políticas e procedimentos
 
 Sem uma `compreensão clara` da política, não será possível para a equipe cumprir corretamente com suas reconciabilidades.
 	Não esqueça:
-		- Será necessário
+		- Será necessário fazer a verificação regularmente 
+		- Garantia de qualidade e busque a melhoria continua
