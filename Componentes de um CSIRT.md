@@ -28,5 +28,10 @@ Localização dentro da Organização
 	- Departamento de TI / SI / Auditoria / Conformidade
 	- Reportado ao CIO / CISO
 
-Autoridade para tomada de decisões
-	Autoridade to
+Tipo de autoridade para tomada de decisões
+	- Autoridade total 
+	- Autoridade compartilhada 
+	- Sem autoridade
+
+Financiamento e Custos
+	- Estratégias de Financiamento 
