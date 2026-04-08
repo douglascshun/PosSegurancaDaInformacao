@@ -53,4 +53,5 @@ Implementando as políticas e procedimentos
 		- Comunicar a política 
 		- Contratar e treinar 
 		- Investir na infraestrutura 
-		- Anunciar o CSIRT para 
+		- Anunciar o CSIRT para sua comunidade
+		- Dar recomendações à sua comunidade 
