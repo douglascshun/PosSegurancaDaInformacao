@@ -7,4 +7,7 @@ Categorias de ferramentas necessárias
 	- Identificação de endereços e contatos
 	- Análise de sistemas
 	- Monitoramento de conexões
-
+	- Detecção de Intrusão
+	- Controle de acessos
+	- Verificação da integridade do arquivo
+	- Criptografia e descr
