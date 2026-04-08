@@ -9,4 +9,6 @@ Uma `estrutura organizacional` de um CSIRT  depende de componentes configurados 
 	- Políticas e Procedimentos
 
 Tipos de constituinte / Público-Alvo / Constituency:
-	- Funcionários, cleitnes, assina
+	- Funcionários, clientes, assinantes, ou mesmo consumidores de informações e bolsa de valores
+	- Departamento, universidades, empresa, governo, prestadores de serviços ou locais
+	
