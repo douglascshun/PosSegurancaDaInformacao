@@ -11,4 +11,8 @@ Uma `estrutura organizacional` de um CSIRT  depende de componentes configurados 
 Tipos de constituinte / Público-Alvo / Constituency:
 	- Funcionários, clientes, assinantes, ou mesmo consumidores de informações e bolsa de valores
 	- Departamento, universidades, empresa, governo, prestadores de serviços ou locais
-	
+
+Não há uma missão padrão, mas a maioria das declarações de missão inclui referências à:
+	- Proteger e manter
+	- Coordenar atividades de respsota
+	- Minimiza
