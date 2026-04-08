@@ -22,3 +22,11 @@ Bora pensar e concluir!
 	- O `como` será prestado é descrito no `procedimento`
 	- A política `NÃO É` um conjunto de `procedimentos detalhados`
 	- `NÃO É` um documento `simplório`
+
+Atributos de uma boa política
+	- Aprovada pela administração
+	- Clara
+	- Concisa
+	- Necessária e suficiente 
+	- Utilizável 
+	- Implement
