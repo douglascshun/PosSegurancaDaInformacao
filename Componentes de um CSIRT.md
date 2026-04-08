@@ -42,4 +42,6 @@ Financiamento e Custos
 
 Custo de um incidente 
 	De interrupções de serviço e violação de direitos autorais
-		
+		- Horas gastas para resolução
+		- Hardware e Software
+		- Horas perdidas sem produtividade
