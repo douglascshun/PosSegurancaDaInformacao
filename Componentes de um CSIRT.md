@@ -23,4 +23,7 @@ Muitas equipes definem sua missão do CSIRT em sua página principal do site.
 		"O CSIRT tem como missão atuar na detecção, análise, resposta e prevenção de incidentes de segurança, além de contribuir para o esforço nacional de cibersegurança no âmbito da Rede Nacional de CSIRT"
 
 Localização dentro da Organização
-- Matr
+	- Matriz/Filial
+	- Um/vários departamentos
+	- Departamento de TI / SI / Auditoria / Conformidade
+	- Reportado ao CIO / CISO
