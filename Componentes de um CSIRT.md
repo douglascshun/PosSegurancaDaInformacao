@@ -45,3 +45,7 @@ Custo de um incidente
 		- Horas gastas para resolução
 		- Hardware e Software
 		- Horas perdidas sem produtividade
+		- Negócios perdidos 
+		- Legais e reputação
+		- Seguro, licença médica etc...
+
