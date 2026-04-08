@@ -42,6 +42,7 @@ Atributos de uma boa política
 
 Após a definição de uma política, é aconselhável verificar sua validade na prática
 	Questões devem ser levadas em consideração
-		-Quem valida não é o mesmo que cria
-		Compare com outra politicas de SI
-		
+		- Quem valida não é o mesmo que cria
+		- Compare com outra politicas de SI
+		- Implemente um piloto em cenários ruins
+		- Valide os atributos e o conteúdo
