@@ -12,3 +12,4 @@ Categorias de ferramentas necessárias
 	- Verificação da integridade do arquivo
 	- Criptografia e descriptografia
 	- Comunicações segura
+
