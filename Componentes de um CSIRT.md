@@ -54,4 +54,5 @@ Custo com o Pessoal
 		- Tamanho da equipe 
 		- Cargos da equipe
 		- Habilidades da equipe 
-		- DEsgaste da equipe 
+		- Desgaste da equipe 
+
