@@ -27,3 +27,6 @@ Localização dentro da Organização
 	- Um/vários departamentos
 	- Departamento de TI / SI / Auditoria / Conformidade
 	- Reportado ao CIO / CISO
+
+Autoridade para tomada de decisões
+	Autoridade to
