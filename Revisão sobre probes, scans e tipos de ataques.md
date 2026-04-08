@@ -6,3 +6,8 @@ Probe
 Scan
 	Geralmente usa ferramentas para retornar informações precisas sobre algo
 
+
+Relatórios de ataques via scan
+![[Relatórios de ataques via scan.png]]
+
+
