@@ -56,4 +56,6 @@ Implementando as políticas e procedimentos
 		- Anunciar o CSIRT para sua comunidade
 		- Dar recomendações à sua comunidade 
 
-Sem uma
+Sem uma `compreensão clara` da política, não será possível para a equipe cumprir corretamente com suas reconciabilidades.
+	Não esqueça:
+		- Será necessário
