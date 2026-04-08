@@ -18,4 +18,7 @@ Exemplo:
 Por que é importante?
 	Porque os membros do CSIRT tem:
 		- Acesso à muitos sistemas
-		- Que 
+		- Que ser inspirados
+		- Que reconhecer suas responsabilidades
+		- Que identificam `deveres`
+
