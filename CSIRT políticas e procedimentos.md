@@ -11,3 +11,4 @@ Sem politicas e procedimentos, não há como entender o que é e o que não é a
 		- Procedimento: Como
 	Sem eles: fracasso!
 
+O conceito de políticas e procedimentos, pois muitas vezes se `mesclam e se misturam`, mas procedimento é:
