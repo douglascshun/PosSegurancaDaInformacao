@@ -10,5 +10,9 @@ Código de Ética
 
 Exemplo:
 	Demonstre a devida curiosidade, mas ao mesmo tempo, mostra a devida moderação no que busca.
-		-Simples (Não é um procedimento!)
-		Fácil 
+		- Simples (Não é um procedimento!)
+		- Fácil comunicação
+		- Aplicável a todos 
+		- Fornece orientação básica
+
+Código de Conduta: Um guia pŕatico com regras e princípios do C´
