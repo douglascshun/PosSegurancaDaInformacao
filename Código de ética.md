@@ -43,4 +43,8 @@ Dever de respeitar os direitos humanos
 	- Cuidado ao compartilhar informações
 	- Não agir de maneira tendenciosa
 
+Dever de informar
+	- Sobre ameaças e riscos de segurança
+	- Informações que possam afetar ou melhorar a segurança e a proteção
+
 Dever de 
