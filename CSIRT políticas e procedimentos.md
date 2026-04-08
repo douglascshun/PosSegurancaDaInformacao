@@ -29,4 +29,5 @@ Atributos de uma boa política
 	- Concisa
 	- Necessária e suficiente 
 	- Utilizável 
-	- Implement
+	- Implementável
+	- Exequível
