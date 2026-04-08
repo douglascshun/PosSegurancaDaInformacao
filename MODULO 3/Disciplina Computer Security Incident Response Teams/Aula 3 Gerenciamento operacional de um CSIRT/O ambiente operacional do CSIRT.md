@@ -20,4 +20,4 @@ Modelo 2 gerenciamento de incidentes
 ![[Modelo 2 gerenciamento de incidentes.png]]
 
 Ciclo de Vida
-![[Pasted image 20260408162211.png]]
+![[Ciclo de Vida.png]]
