@@ -35,4 +35,9 @@ Atributos de uma boa política
 	- Identificação de papeis
 	- Responsabilidade
 	- Interação
-	- De
+	- Descrição dos procedimentos
+	- Relacionamentos 
+	- Glossário de termos
+	- Manutenção
+
+Após a definiçã
