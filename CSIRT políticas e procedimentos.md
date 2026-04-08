@@ -40,4 +40,8 @@ Atributos de uma boa política
 	- Glossário de termos
 	- Manutenção
 
-Após a definiçã
+Após a definição de uma política, é aconselhável verificar sua validade na prática
+	Questões devem ser levadas em consideração
+		-Quem valida não é o mesmo que cria
+		Compare com outra politicas de SI
+		
