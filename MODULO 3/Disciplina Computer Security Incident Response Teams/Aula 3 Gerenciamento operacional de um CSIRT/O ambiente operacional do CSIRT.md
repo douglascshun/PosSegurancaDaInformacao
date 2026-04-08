@@ -9,5 +9,5 @@ Quantidade de Vulnerabilidades
 Total de incidentes reportados por ano
 ![[Total de incidentes reportados por ano.png]]
 
-Modelo de  
-![[Pasted image 20260408161838.png]]
+Modelo de Resposta a incidentes  
+![[Modelo de Resposta a incidentes.png]]
