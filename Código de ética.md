@@ -15,4 +15,7 @@ Exemplo:
 		- Aplicável a todos 
 		- Fornece orientação básica
 
-Código de Conduta: Um guia pŕatico com regras e princípios do C´
+Por que é importante?
+	Porque os membros do CSIRT tem:
+		- Acesso à muitos sistemas
+		- Que 
