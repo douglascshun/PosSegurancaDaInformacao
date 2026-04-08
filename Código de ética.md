@@ -23,6 +23,9 @@ Por que é importante?
 		- Que identificam `deveres`
 
 Dever de confiança
-	Assumir compromissos que possam cumprir 
-	Se comportar de maneira previsível 
-	Manter a relação de confiança que tem com outras equipes
+	- Assumir compromissos que possam cumprir 
+	- Se comportar de maneira previsível 
+	- Manter a relação de confiança que tem com outras equipes
+	- Dever de divulgar vulnerabilidades
+		- De forma coordenada 
+		- Seguindo as políticas de liberação de informa
