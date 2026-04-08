@@ -35,3 +35,7 @@ Tipo de autoridade para tomada de decisões
 
 Financiamento e Custos
 	- Estratégias de Financiamento 
+	- Orçamentos
+	- Custos com pessoal 
+	- O custo de um incidente 
+	- Business Case
