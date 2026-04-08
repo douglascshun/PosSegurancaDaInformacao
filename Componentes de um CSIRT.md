@@ -14,5 +14,8 @@ Tipos de constituinte / Público-Alvo / Constituency:
 
 Não há uma missão padrão, mas a maioria das declarações de missão inclui referências à:
 	- Proteger e manter
-	- Coordenar atividades de respsota
-	- Minimiza
+	- Coordenar atividades de resposta
+	- Minimização de danos 
+	- Educar sobre questões de segurança
+
+Muitas equipes definem
