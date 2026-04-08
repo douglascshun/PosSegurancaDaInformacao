@@ -64,4 +64,8 @@ Dever de reconhecer jurídicos
 	- Respeitar as leis, regulamentos e outras questões legais
 	- Determinados pelas localizações físicas das partes envolvidas
 
-Dever de rac
+Dever de raciocínio baseado em evidências
+	- Operar com base em fatos verificáveis 
+	- Fornecer evidências e escopo de forma transparente 
+	- Abster-se de espalhar boatos
+
