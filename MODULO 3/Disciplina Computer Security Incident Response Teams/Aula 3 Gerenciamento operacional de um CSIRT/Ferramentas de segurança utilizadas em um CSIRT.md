@@ -10,4 +10,5 @@ Categorias de ferramentas necessárias
 	- Detecção de Intrusão
 	- Controle de acessos
 	- Verificação da integridade do arquivo
-	- Criptografia e descr
+	- Criptografia e descriptografia
+	- Comunicações segura
