@@ -37,4 +37,10 @@ Dever de confidencialidade
 
 Dever de confirmação e acusar recebimento
 	- Responder às perguntas em tempo hábil
-	- 
+	- Confirmar que a solicitação foi recebida
+
+Dever de respeitar os direitos humanos
+	- Cuidado ao compartilhar informações
+	- Não agir de maneira tendenciosa
+
+Dever de 
