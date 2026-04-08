@@ -20,4 +20,5 @@ Bora pensar e concluir!
 	- Um `serviço` é definido `para o cliente`
 	- Uma `política` define a `maneira` e a `qualidade` no qual o serviço é prestado
 	- O `como` será prestado é descrito no `procedimento`
-	- A política `NÃO É` um conjutno de 
+	- A política `NÃO É` um conjunto de `procedimentos detalhados`
+	- `NÃO É` um documento `simplório`
