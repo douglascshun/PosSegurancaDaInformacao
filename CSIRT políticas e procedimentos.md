@@ -48,3 +48,9 @@ Após a definição de uma política, é aconselhável verificar sua validade na
 		- Valide os atributos e o conteúdo
 
 Implementando as políticas e procedimentos
+	Uma vez  concluída a validação da política, ele poderá ser implementada
+		- Obter a aprovação
+		- Comunicar a política 
+		- Contratar e treinar 
+		- Investir na infraestrutura 
+		- Anunciar o CSIRT para 
