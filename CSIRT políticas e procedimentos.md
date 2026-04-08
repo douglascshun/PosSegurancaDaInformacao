@@ -7,6 +7,7 @@ Estão entre os elementos mais cruciais!
 
 Sem politicas e procedimentos, não há como entender o que é e o que não é aceitável
 	Cada um corresponde à um proposito:
-	- Política: O que
-	- Procedimento: Como
-	Sem eles: 
+		- Política: O que
+		- Procedimento: Como
+	Sem eles: fracasso!
+
