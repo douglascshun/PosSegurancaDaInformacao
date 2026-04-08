@@ -46,3 +46,5 @@ Após a definição de uma política, é aconselhável verificar sua validade na
 		- Compare com outra politicas de SI
 		- Implemente um piloto em cenários ruins
 		- Valide os atributos e o conteúdo
+
+Implementando as políticas e procedimentos
