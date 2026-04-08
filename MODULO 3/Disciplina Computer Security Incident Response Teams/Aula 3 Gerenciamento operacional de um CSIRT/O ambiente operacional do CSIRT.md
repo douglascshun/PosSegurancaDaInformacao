@@ -10,4 +10,7 @@ Total de incidentes reportados por ano
 ![[Total de incidentes reportados por ano.png]]
 
 Modelo de Resposta a incidentes  
-![[Modelo de Resposta a incidentes.png]]
+![[Modelo de Resposta a incidentes.png]]![[Modelo de Resposta a incidentes  2.png]]
+
+Gerenciamento 
+![[Pasted image 20260408162037.png]]
