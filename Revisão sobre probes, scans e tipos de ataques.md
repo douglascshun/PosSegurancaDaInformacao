@@ -12,3 +12,7 @@ Relatórios de ataques via scan
 
 Avanço do tipos de ataques
 ![[Avanço do tipos de ataques.png]]
+
+
+Tipos de ataques
+	Roubo e violação de informa
