@@ -39,3 +39,7 @@ Financiamento e Custos
 	- Custos com pessoal 
 	- O custo de um incidente 
 	- Business Case
+
+Custo de um incidente 
+	De interrupções de serviço e violação de direitos autorais
+		
