@@ -22,3 +22,7 @@ Por que é importante?
 		- Que reconhecer suas responsabilidades
 		- Que identificam `deveres`
 
+Dever de confiança
+	Assumir compromissos que possam cumprir 
+	Se comportar de maneira previsível 
+	Manter a relação de confiança que tem com outras equipes
