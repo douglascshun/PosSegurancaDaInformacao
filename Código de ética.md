@@ -58,4 +58,10 @@ Dever de coleta responsável
 	- Coletar o necessário
 	- Dados não relevantes devem ser excluídos
 	- Dados tratados de acordo com as leis 
-	- Garantir a privacidade do(s) usuário
+	- Garantir a privacidade do(s) usuário(s)
+
+Dever de reconhecer jurídicos 
+	- Respeitar as leis, regulamentos e outras questões legais
+	- Determinados pelas localizações físicas das partes envolvidas
+
+Dever de rac
