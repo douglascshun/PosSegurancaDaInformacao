@@ -55,3 +55,5 @@ Implementando as políticas e procedimentos
 		- Investir na infraestrutura 
 		- Anunciar o CSIRT para sua comunidade
 		- Dar recomendações à sua comunidade 
+
+Sem uma
