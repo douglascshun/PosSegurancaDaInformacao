@@ -10,4 +10,5 @@ Scan
 Relatórios de ataques via scan
 ![[Relatórios de ataques via scan.png]]
 
-
+Avanço do tipos de ataques
+![[Avanço do tipos de ataques.png]]
