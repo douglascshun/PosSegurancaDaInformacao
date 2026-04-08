@@ -12,5 +12,12 @@ Total de incidentes reportados por ano
 Modelo de Resposta a incidentes  
 ![[Modelo de Resposta a incidentes.png]]![[Modelo de Resposta a incidentes  2.png]]
 
-Gerenciamento 
-![[Pasted image 20260408162037.png]]
+Gerenciamento de incidentes e suas correlações 
+![[Gerenciamento de incidentes e suas correlações.png]]
+
+
+Modelo 2 gerenciamento de incidentes
+![[Modelo 2 gerenciamento de incidentes.png]]
+
+Ciclo de Vida
+![[Pasted image 20260408162211.png]]
