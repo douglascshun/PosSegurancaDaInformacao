@@ -17,3 +17,5 @@ O conceito de políticas e procedimentos, pois muitas vezes se `mesclam e se mis
 	- Ajudam a se manter dentro das diretrizes da política 
 
 Bora pensar e concluir!
+	- Um `serviço` é definido `para o cliente`
+	- Uma `política` define a `maneira 
