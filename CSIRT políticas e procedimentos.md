@@ -31,3 +31,8 @@ Atributos de uma boa política
 	- Utilizável 
 	- Implementável
 	- Exequível
+	- Link com a missão
+	- Identificação de papeis
+	- Responsabilidade
+	- Interação
+	- De
