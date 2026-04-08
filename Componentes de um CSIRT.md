@@ -56,3 +56,10 @@ Custo com o Pessoal
 		- Habilidades da equipe 
 		- Desgaste da equipe 
 
+Treinamento e Certificação
+	- CERT
+	- CISSP
+	- GIAC
+	- MCSA Microsoft
+	- IT-Shaped
+	- Ec-council
