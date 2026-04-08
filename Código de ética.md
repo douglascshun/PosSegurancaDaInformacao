@@ -47,4 +47,9 @@ Dever de informar
 	- Sobre ameaças e riscos de segurança
 	- Informações que possam afetar ou melhorar a segurança e a proteção
 
-Dever de 
+Dever com a saúde da equipe
+	- Incluir a saúde física e emocional 
+	- Um ambiente de trabalho saudável, seguro e positivo, principalmente na crise
+
+Dever de habilidade da equipe
+	
