@@ -26,10 +26,15 @@ Dever de confiança
 	- Assumir compromissos que possam cumprir 
 	- Se comportar de maneira previsível 
 	- Manter a relação de confiança que tem com outras equipes
-	- Dever de divulgar vulnerabilidades
-		- De forma coordenada 
-		- Seguindo as políticas de liberação de informação
+
+ Dever de divulgar vulnerabilidades
+	- De forma coordenada 
+	- Seguindo as políticas de liberação de informação
 
 Dever de confidencialidade
 	- Manter informações em sigilo 
-	- Respeitar leis, regul
+	- Respeitar leis, regulamentos e cultura 
+
+Dever de confirmação e acusar recebimento
+	- Responder às perguntas em tempo hábil
+	- 
