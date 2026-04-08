@@ -7,3 +7,4 @@ Categorias de ferramentas necessárias
 	- Identificação de endereços e contatos
 	- Análise de sistemas
 	- Monitoramento de conexões
+
