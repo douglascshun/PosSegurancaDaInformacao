@@ -14,4 +14,5 @@ O modelo pode ser usado por uma organização para:
 	- Fornecer um caminho para melhorar e expandir a capacidade
 
 O ponto de partida é:
-	Document
+	Documentar todos os processos envolvidos no trabalho de gerenciamento de incidentes eficaz e eficiente.
+
