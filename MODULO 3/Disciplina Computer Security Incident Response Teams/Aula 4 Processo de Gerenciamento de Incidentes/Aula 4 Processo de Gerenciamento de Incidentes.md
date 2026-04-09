@@ -20,4 +20,8 @@ Este modelo documenta um conjunto de atividades ou funções que descrevem os v�
 
 Os CSIRTs poderão avaliar seu desempenho para os seguintes processos:
 	- Preparar, sustentar e melhorar (Preparar)
-	- Proteger a infra
+	- Proteger a infraestrutura (proteger)
+	- Detectar Eventos (Detectar)
+	- Triagem de Eventos (Triagem)
+	- Responder
+
