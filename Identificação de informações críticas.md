@@ -27,4 +27,10 @@ Regras a serem seguidas ao responder a incidentes
 Mas por que rastrear e registrar informações?
 	- Monitorar volume e identificar tendências
 	- Útil para evidências forenses e no tribunal 
-	- Gerenciar os esforços
+	- Gerenciar os esforços e tarefas para tratamento
+	- Transferência de conhecimento e/ ou escalação
+
+CSIRT precisa de recursos para registrar dados 
+	Capacidade de:
+		- Gerar relatórios e/ou estatísticas
+		- 
