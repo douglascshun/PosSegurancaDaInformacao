@@ -11,3 +11,6 @@ Como se constituí uma hotline?
 
 `Triagem` é o processo de classificar, categorizar e priorizar relatórios de incidentes ou outras solicitações do CSIRT.
 
+A triagem é um elemento essencial de qualquer CSIRT. Serve como `veículo`pelo qual todas as informações fluem para o CSIRT
+	Permite uma avaliação inical 
+	
