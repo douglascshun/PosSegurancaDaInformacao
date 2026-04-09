@@ -7,3 +7,4 @@ Pontos importantes para se alinhas ( 3 P ):
 	- Ferramentas, equipamentos e infraestrutura (Produtos)
 	- Políticas e procedimentos (Politicas/Processo/Procedimentos)
 
+ 
