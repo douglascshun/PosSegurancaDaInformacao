@@ -20,3 +20,5 @@ Tipos de ataques
 	- Fraude financeira
 	- Sabotagem de redes
 	- Ataques de negação de serviços
+	- Escutas telefônicas
+	- 
