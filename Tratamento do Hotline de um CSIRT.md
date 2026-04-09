@@ -29,4 +29,6 @@ Mecanismos para recebimento de dados de incidentes
 	- Formulário no site ou app
 
 Linha direta, help desk ou equipe de triagem fazem:
-	- Lidar com os telefones do CSIRT `principalmente para incidentes` ou relátorios de segurança
+	- Lidar com os telefones do CSIRT `principalmente para incidentes` ou relatórios de segurança
+	- Fornecem `assistência inical`, dependo das habilidade
+	- Realizam a entrada inicial de dados, `classificação e priorização` das
