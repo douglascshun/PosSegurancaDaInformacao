@@ -25,3 +25,5 @@ Os CSIRTs poderão avaliar seu desempenho para os seguintes processos:
 	- Triagem de Eventos (Triagem)
 	- Responder
 
+Para implementar o plano, as organizações precisam ter estratégias e processos de qualidade em vigor.
+	Os processos servem para lidar com incidentes e também para evitar que incidentes ocorram ou se rep
