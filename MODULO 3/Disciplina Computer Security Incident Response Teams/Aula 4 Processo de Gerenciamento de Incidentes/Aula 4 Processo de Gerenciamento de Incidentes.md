@@ -11,4 +11,7 @@ O modelo fornece processos para descrever:
 O modelo pode ser usado por uma organização para:
 	- Planejar uma nova capacidade
 	- Comparar sua capacidade atual
-	- Fornecer um caminho para melhor
+	- Fornecer um caminho para melhorar e expandir a capacidade
+
+O ponto de partida é:
+	Document
