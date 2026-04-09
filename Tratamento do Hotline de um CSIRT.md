@@ -33,3 +33,5 @@ Linha direta, help desk ou equipe de triagem fazem:
 	- Fornecem `assistência inical`, dependo das habilidade
 	- Realizam a entrada inicial de dados, `classificação e priorização` das informações recebidas
 
+Como e quando o CSIRT responde à um hotline?
+	O próprio CSIRT opera duran
