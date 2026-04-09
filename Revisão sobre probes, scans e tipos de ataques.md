@@ -27,5 +27,11 @@ Tipos de ataques
 	- Escaneamento sem permissão
 
 Tipos de Scan
-	se Filtragem de portas para evitar varreduras de:
-		
+	Use Filtragem de portas para evitar varreduras de:
+		 - TCP
+		 - SYN
+		 - UDP
+		 - ACK
+		 - FIN
+		 - Não esqueça da ÉTICA!
+
