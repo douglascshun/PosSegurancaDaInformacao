@@ -33,4 +33,7 @@ Mas por que rastrear e registrar informações?
 CSIRT precisa de recursos para registrar dados 
 	Capacidade de:
 		- Gerar relatórios e/ou estatísticas
-		- 
+		- Acessar e ler todos os emails relacionados
+		- Responder a solicitações por e-mail
+		- Abrir/fechar/reabrir relatórios
+		- Acessar a base de conhecimento
