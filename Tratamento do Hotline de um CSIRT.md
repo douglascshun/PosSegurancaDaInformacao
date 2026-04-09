@@ -21,3 +21,8 @@ Formação
 	- Grupo distribuído por natureza área geográfica, divisão ou departamento
 	- CSIRT atuando como Hotline e recebendo todos os incidentes diretamente
 	- CSIRT trabalhando em estreita colaboração com um Help Desk em toda a empresa
+
+Mecanismos para recebimento de dados de incidentes
+	- alias de email como "suporte#dominio.com"
+	- Help Desk, Service Desk
+	- 
