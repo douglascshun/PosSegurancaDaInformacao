@@ -18,4 +18,8 @@ Os CSIRTs recebem Dados de Incidente de diversas formas
 	- Telefone
 	- IDS
 	- Denúncias anônimas
-	- Formulário do site
+	- Formulário de sites
+
+Regras a serem seguidas ao responder a incidentes
+	1. Não entre em `pânico`!
+	2. `Documen`
