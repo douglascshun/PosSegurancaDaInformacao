@@ -40,3 +40,8 @@ Como e quando o CSIRT responde à um hotline?
 	- Equipe de TI ou CS atende durante o horário comercial 
 	- Depende do horário de funcionamento
 
+Tamanho da equipe
+	- Nível de serviço prestado 
+	- Turnos, se 24 * 7 * 365
+	- Números de chamadas recebidas
+	- Nível de conhecimento
