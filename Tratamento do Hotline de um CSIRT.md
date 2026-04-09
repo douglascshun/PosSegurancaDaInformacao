@@ -15,5 +15,7 @@ A triagem é um elemento essencial de qualquer CSIRT. Serve como `veículo`pelo 
 	- Permite uma avaliação inicial
 	- Fornece uma visão geral da atividade
 	- Identifica possíveis problemas de segurança
-	- Usado para gerar tendências e estatisticas
+	- Usado para gerar tendências e estatísticas
 
+Formação
+	Grupo distribuído por natureza área 
