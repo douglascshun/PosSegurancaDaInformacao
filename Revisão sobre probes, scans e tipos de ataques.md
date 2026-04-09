@@ -26,3 +26,6 @@ Tipos de ataques
 	- Acesso não autorizados
 	- Escaneamento sem permissão
 
+Tipos de Scan
+	se Filtragem de portas para evitar varreduras de:
+		
