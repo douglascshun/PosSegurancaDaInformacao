@@ -22,4 +22,9 @@ Os CSIRTs recebem Dados de Incidente de diversas formas
 
 Regras a serem seguidas ao responder a incidentes
 	1. Não entre em `pânico`!
-	2. `Documen`
+	2. `Documente`
+
+Mas por que rastrear e registrar informações?
+	- Monitorar volume e identificar tendências
+	- Útil para evidências forenses e no tribunal 
+	- Gerenciar os esforços
