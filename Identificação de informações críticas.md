@@ -13,3 +13,9 @@ E durante o tratamento de incidentes?
 		- O que foi feito e que mais foi contatado?
 		- Que informações de suporte estão disponíveis?
 
+Os CSIRTs recebem Dados de Incidente de diversas formas
+	- Por email
+	- Telefone
+	- IDS
+	- Denúncias anônimas
+	- Formulário do site
