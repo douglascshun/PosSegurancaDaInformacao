@@ -9,4 +9,7 @@ E durante o tratamento de incidentes?
 	Informações críticas
 		- Quem está envolvido? Quais são as informações de contato
 		- Como eles estão envolvidos? Qual é o seu papel?
-		- Qual é a natur
+		- Qual é a natureza e o escopo do incidente?
+		- O que foi feito e que mais foi contatado?
+		- Que informações de suporte estão disponíveis?
+
