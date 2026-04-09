@@ -5,5 +5,5 @@ O processo `Preparar` descreve o que precisa ser implementado para que o gerenci
 Pontos importantes para se alinhas ( 3 P ):
 	- Equipe e treinamento (Pessoas)
 	- Ferramentas, equipamentos e infraestrutura (Produtos)
-	- Políticas e procedimentos (Politicas e )
+	- Políticas e procedimentos (Politicas/Processo/Procedimentos)
 
