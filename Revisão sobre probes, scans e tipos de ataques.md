@@ -21,4 +21,8 @@ Tipos de ataques
 	- Sabotagem de redes
 	- Ataques de negação de serviços
 	- Escutas telefônicas
-	- 
+	- Infecção por virus, worms e cavalos de troia
+	- Roubo de laptop
+	- Acesso não autorizados
+	- Escaneamento sem permissão
+
