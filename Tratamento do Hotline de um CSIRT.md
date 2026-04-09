@@ -27,3 +27,6 @@ Mecanismos para recebimento de dados de incidentes
 	- Help Desk, Service Desk
 	- URA
 	- Formulário no site ou app
+
+Linha direta, help desk ou equipe de triagem fazem:
+	- Lidar com os telefones do CSIRT `principalmente para incidentes` ou relátorios de segurança
