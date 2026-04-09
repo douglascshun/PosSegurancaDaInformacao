@@ -34,4 +34,5 @@ Linha direta, help desk ou equipe de triagem fazem:
 	- Realizam a entrada inicial de dados, `classificação e priorização` das informações recebidas
 
 Como e quando o CSIRT responde à um hotline?
-	O próprio CSIRT opera duran
+	- O próprio CSIRT opera durante o horário comercial
+	- O próprio CSIRT atende o disque denpuncias após o horário comercial
