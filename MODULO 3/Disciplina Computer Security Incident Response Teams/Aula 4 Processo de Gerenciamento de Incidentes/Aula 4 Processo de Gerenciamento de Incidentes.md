@@ -16,3 +16,4 @@ O modelo pode ser usado por uma organização para:
 O ponto de partida é:
 	Documentar todos os processos envolvidos no trabalho de gerenciamento de incidentes eficaz e eficiente.
 
+Este modelo documenta um conjunto de atividades ou funções que descrevem os vários processos de gerenciamento de
