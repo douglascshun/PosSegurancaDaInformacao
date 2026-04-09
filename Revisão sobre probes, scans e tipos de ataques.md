@@ -15,4 +15,8 @@ Avanço do tipos de ataques
 
 
 Tipos de ataques
-	Roubo e violação de informa
+	- Roubo e violação de informações
+	- Acesso privilegiado não autorizado 
+	- Fraude financeira
+	- Sabotagem de redes
+	- Ataques de negação de serviços
