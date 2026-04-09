@@ -37,3 +37,8 @@ CSIRT precisa de recursos para registrar dados
 		- Responder a solicitações por e-mail
 		- Abrir/fechar/reabrir relatórios
 		- Acessar a base de conhecimento
+
+Identificar informações críticas
+	- Informações de contato
+	- Horário do incidente 
+	- I
