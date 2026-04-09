@@ -41,4 +41,10 @@ CSIRT precisa de recursos para registrar dados
 Identificar informações críticas
 	- Informações de contato
 	- Horário do incidente 
-	- I
+	- Informação do sistema
+	- Estratégias de resolução e mitigação
+	- Passos recomendados
+	- Equipe entrevistada na resolução
+	- Acompanhamento de ações
+	- Custo do incidente 
+	- Tempo para resolução
