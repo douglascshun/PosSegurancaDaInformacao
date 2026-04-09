@@ -26,4 +26,4 @@ Os CSIRTs poderão avaliar seu desempenho para os seguintes processos:
 	- Responder
 
 Para implementar o plano, as organizações precisam ter estratégias e processos de qualidade em vigor.
-	Os processos servem para lidar com incidentes e também para evitar que incidentes ocorram ou se rep
+	Os processos servem para lidar com incidentes e também para evitar que incidentes ocorram ou se repitam.
