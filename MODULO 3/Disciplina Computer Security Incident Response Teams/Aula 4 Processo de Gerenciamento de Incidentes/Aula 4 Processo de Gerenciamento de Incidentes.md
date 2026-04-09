@@ -8,3 +8,7 @@ O modelo fornece processos para descrever:
 	- Principais funções
 	- Atividades necessárias
 
+O modelo pode ser usado por uma organização para:
+	- Planejar uma nova capacidade
+	- Comparar sua capacidade atual
+	- Fornecer um caminho para melhor
