@@ -35,4 +35,8 @@ Linha direta, help desk ou equipe de triagem fazem:
 
 Como e quando o CSIRT responde à um hotline?
 	- O próprio CSIRT opera durante o horário comercial
-	- O próprio CSIRT atende o disque denpuncias após o horário comercial
+	- O próprio CSIRT atende o disque denuncias após o horário comercial
+	- Equipe de TI ou CS atende fora do horário comercial 
+	- Equipe de TI ou CS atende durante o horário comercial 
+	- Depende do horário de funcionamento
+
