@@ -13,5 +13,5 @@ Podem incluir igualmente as partes que apresentam apoio em TI à vítima, como:
 O trabalho de coordenação pode implicar:
 	- Coleta de contatos
 	- Notificações de sites sobre seu  potencial envolvimento
-	- Coleta de dados estaticos
-	- Facilitação do intercâmbio e da análise d
+	- Coleta de dados estáticos
+	- Facilitação do intercâmbio e da análise de informações
