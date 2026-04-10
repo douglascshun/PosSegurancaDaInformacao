@@ -9,4 +9,7 @@ Pontos importantes para se alinhas ( 3 P ):
 
  Uma parte desse processo envolve a construção do CSIRT inicial ou capacidade de gerenciamento de incidentes.
 
+Principais subprocessos
+	- Coordenar o planejamento e o design da capacidade
+	- Coordenar a implementação
  
