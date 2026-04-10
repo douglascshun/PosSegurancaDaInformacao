@@ -4,4 +4,5 @@ Na triagem, os relatórios de incidente ou vulnerabilidades e eventos são:
 	- Classificados
 	- Categorizados
 	- Priorizados
-	- Correlacion
+	- Correlacionados e atribuídos
+
