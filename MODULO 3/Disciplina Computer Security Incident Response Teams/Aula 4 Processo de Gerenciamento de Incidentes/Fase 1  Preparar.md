@@ -14,4 +14,9 @@ Principais subprocessos
 	- Coordenar a implementação
 
 Na fase de planejamento e projeto, uma análise de necessidades e definição de requisitos são realizadas para definir qual deve ser a capacidade do CSIRT.
- 
+
+
+Requisitos vêm de diversas fontes:
+	- Entrevistas e discussões com partes interessadas
+	- Necessidades de negócios
+	- Políticas e diretizes existentes
