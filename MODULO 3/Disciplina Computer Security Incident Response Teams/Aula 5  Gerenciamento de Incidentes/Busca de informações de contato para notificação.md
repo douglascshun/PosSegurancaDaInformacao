@@ -13,4 +13,8 @@ Contatos Relacionados ao incidente:
 	- Alta administração
 	- Patrocinadores
 	- Outros departamentos
-	- Administradore
+	- Administradores técnicos (sistema e rede)
+	- Departamento de auditoria interna, etc...
+
+Contatos não relacionados á incidentes:
+	- Contatos de segurança d
