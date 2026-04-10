@@ -12,4 +12,6 @@ Pontos importantes para se alinhas ( 3 P ):
 Principais subprocessos
 	- Coordenar o planejamento e o design da capacidade
 	- Coordenar a implementação
+
+Na fase de planejamento e projeto, uma análise de necessidades e definição de requisitos são realizadas para definir qual deve ser a capacidade do CSIRT.
  
