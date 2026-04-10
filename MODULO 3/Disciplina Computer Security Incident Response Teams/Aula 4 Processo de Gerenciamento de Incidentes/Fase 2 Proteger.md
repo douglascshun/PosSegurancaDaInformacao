@@ -15,4 +15,5 @@ Essas mudanças podem incluir:
 	- Alteração nas configurações do sistema para desativar serviços padrão
 	- Instalações de patches para softwares vulneráveis
 
-Alterações na infraestrutura 
+Alterações na infraestrutura também podem ser feitas, com base nas alterações de melhoria de processo e nas ligações aprendidas.
+	Esses tipos de alterações são feitas para garantir que incidentes não ocorram novamente.
