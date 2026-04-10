@@ -52,4 +52,10 @@ Formulário de Notificações de incidentes:
 	- País
 	- Endereços de correios eletrônicos 
 
-Formulário de No
+Formulário de Notificação de incidentes:
+	- Números de telefone
+	- Nome e IP do computador central 
+	- Função do computador central 
+	- Descrição detalhada
+
+Função de Tratamento
