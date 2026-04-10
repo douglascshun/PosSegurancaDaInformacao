@@ -14,7 +14,13 @@ Notificações de incidentes: O desafio!
 Como tornas as coisas melhores?
 	Meta:
 		- Tornar as notificações mais compreencíceis e fáceis de escrever 
-		- Tornar o processo de tratamento de incidentes mais eficz
+		- Tornar o processo de tratamento de incidentes mais eficaz
 
 Um documento público (Creative Commons) que cobre:
-	- Por que relatar
+	- Por que relatar incidentes
+	- Como selecionar os contatos certos
+	- onde e como procurar contatos
+	- Como escrever formatar e enviar uma notificação
+
+O que notificar?
+	- Incidentes comuns Regulares
