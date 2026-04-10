@@ -4,4 +4,7 @@ Os `incidentes de segurança`, são eventos que podem indicar que os sistemas ou
 	Um `evento de segurança` é qualquer coisa que tenha importância para o hardware ou software do sistema, e um `incidente` é um evento que interrompe as operações normais.
 
 Exemplos pelos quais pode-se detectar incidentes:
-	- Comportamento incomun
+	- Comportamento incomum de contas de usuário privilegiadas
+	- Insiders não autorizados tentando acessar servidores e dados
+	- Anomalias no tráfego de rede de saída
+	- Tráfego enviado de locais ou para locais desconhecidos
