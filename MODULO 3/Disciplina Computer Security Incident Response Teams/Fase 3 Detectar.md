@@ -13,3 +13,5 @@ Na detecção `reativa`,  as informações podem ser detectadas e relatadas a pa
 	- Relatórios daqueles que usam as instalações da organização
 	- Alertas de especialistas em segurança
 
+A detecção `proativa` requer ação da equipe designada para identificar atividades suspeitas.
+
