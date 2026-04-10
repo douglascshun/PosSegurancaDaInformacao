@@ -31,3 +31,5 @@ A visão define:
 	- Modelo organizacional
 	- Recursos para a capacidade
 
+Um processo paralelo obtém patrocínios e financiamentos para o CSIRT
+	A partir desse trabalho inicial é desenvolvido um plano de imp
