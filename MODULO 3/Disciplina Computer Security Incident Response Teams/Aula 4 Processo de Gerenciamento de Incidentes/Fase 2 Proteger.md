@@ -20,4 +20,7 @@ Alterações na infraestrutura também podem ser feitas, com base nas alteraçõ
 
 A prevenção pode assumir muitas formas:
 	- Auditorias de segurança, avaliações de vulnerabilidades
-	- Fornecer infor
+	- Fornecer informações a responsáveis pelo desenvolvimento e manutenção
+	- Seguir padrões e melhorias práticas reconhecidas
+
+...essas informações devem ser passadas para o 
