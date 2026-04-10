@@ -19,3 +19,9 @@ O trabalho de coordenação pode implicar:
 Parte do trabalho de coordenação pode implicar a notificação e a colaboração com:
 	- Consultores jurídicos
 	- Notificação de sites sobre o seu potencial envolvimento 
+	- Departamentos de RH e de relações públicas
+	- Entidades responsáveis pela aplicação da legislação
+
+Relembrando:
+	- Respostas técnicas
+	- Respostas ge
