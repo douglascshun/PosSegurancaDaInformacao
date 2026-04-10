@@ -12,3 +12,5 @@ A triagem serve como veículo pelo qual todas as informações fluem para um ún
 A triagem pode ser realizada por uma ampla gama de pessoas-chave. Isso depende do caráter da triagem na organização - Estratégico ou Tático.
 	O mais importante para o quão bem a triagem é executada é a experiência de habilidade da equipe de triagem.
 
+A função da triagem fornece o status atual e imediato de todas as atividade relatadas:
+	
