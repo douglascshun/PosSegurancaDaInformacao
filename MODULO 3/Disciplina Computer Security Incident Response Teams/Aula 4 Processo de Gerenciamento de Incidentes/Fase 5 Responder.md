@@ -9,3 +9,6 @@ Há três tipos de atividades de respostas:
 	- Técnicas
 	- Gerenciais
 	- Legais
+
+Esses três tipos de atividade podem acontecer simultaneamente.
+	Mas, para uma 
