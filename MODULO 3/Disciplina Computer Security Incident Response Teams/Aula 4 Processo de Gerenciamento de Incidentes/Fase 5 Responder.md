@@ -13,3 +13,4 @@ Há três tipos de atividades de respostas:
 Esses três tipos de atividade podem acontecer simultaneamente.
 	Mas, para uma resposta mais eficaz, eles devem acontecer em uma função coordenada com membros de todas as áreas de resposta, coordenando o planejamento e a execução das atividades de resposta.
 
+A `resposta tática` se concentra nas ações tomadas pela equipe técnica para analisar e resolver um evento ou incidente. 
