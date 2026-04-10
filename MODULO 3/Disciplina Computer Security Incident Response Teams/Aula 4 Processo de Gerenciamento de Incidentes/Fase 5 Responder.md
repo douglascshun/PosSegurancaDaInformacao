@@ -5,3 +5,7 @@ O processo `responder` inclui as etapas tomadas para:
 	 - Resolver
 	 - Mitigar
 
+Há três tipos de atividades de respostas:
+	- Técnicas
+	- Gerenciais
+	- Legais
