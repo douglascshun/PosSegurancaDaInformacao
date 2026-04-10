@@ -18,3 +18,5 @@ A detecção `proativa` requer ação da equipe designada para identificar ativi
 A equipe monitora proativamente uma variedade de dados e usa softwares de detecção de intrusão para monitorar o comportamento da rede, procurando indicações de atividades suspeitas.
 	Cada organização terá seu próprio conjunto de diretrizes e regras para determinar o que constitui um incidente ou uma ameaça potencial.
 
+Essas diretrizes serão usadas para decidir o que será repassado para a Triagem, o que será encerrado, porque nenhuma ação é necessária, e o que será repassado para outra parte da organização para tratamento.
+
