@@ -23,4 +23,6 @@ A prevenção pode assumir muitas formas:
 	- Fornecer informações a responsáveis pelo desenvolvimento e manutenção
 	- Seguir padrões e melhorias práticas reconhecidas
 
-...essas informações devem ser passadas para o 
+...essas informações devem ser passadas para o processo de detecção como um incidente apropriado ou relatório de vulnerabilidade.
+
+O processo `proteger` conté,subprocessos que descrevem atividades menc
