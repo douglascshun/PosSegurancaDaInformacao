@@ -15,4 +15,5 @@ Na detecção `reativa`,  as informações podem ser detectadas e relatadas a pa
 
 A detecção `proativa` requer ação da equipe designada para identificar atividades suspeitas.
 
-A equipe monitora proativamente uma variedade
+A equipe monitora proativamente uma variedade de dados e usa softwares de detecção de intrusão para monitorar o comportamento da rede, procurando indicações de atividades suspeitas.
+
