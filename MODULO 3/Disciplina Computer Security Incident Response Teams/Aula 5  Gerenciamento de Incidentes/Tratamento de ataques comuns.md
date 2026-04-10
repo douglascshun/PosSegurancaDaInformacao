@@ -35,4 +35,9 @@ Reduzindo o risco dos incidentes comuns:
 		- Implementar o monitoramento de segurança
 
 Reduzindo o risco dos incidentes comuns:
-	- Programas de 
+	Contra `ameaças internas`:
+		- Programas de verificação de spyware
+		- Antivirus
+		- Firewall
+		- Backups regulares
+		- Treinamenot 
