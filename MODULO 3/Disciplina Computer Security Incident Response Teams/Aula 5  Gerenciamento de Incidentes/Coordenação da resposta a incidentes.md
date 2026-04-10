@@ -12,4 +12,4 @@ Podem incluir igualmente as partes que apresentam apoio em TI à vítima, como:
 
 O trabalho de coordenação pode implicar:
 	- Coleta de contatos
-	- Notificações de siters sobre seu 
+	- Notificações de sites sobre seu  pontencial 
