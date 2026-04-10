@@ -22,4 +22,10 @@ Contatos não relacionados á incidentes:
 	- Sites externos ao eleitorado
 	- Provedores de serviços de internet 
 	- Outros CSIRTs
-	- Cons
+	- Consultor jurídico
+	- Fornecedores, especialistas, etc...
+
+A manutenção dos contatos podem ser um desafio, pois eles:
+	-Podem se tornar obsoletos
+	Podem ficar desatualizados
+	Devem ser mantidos atualizados em caso de contatos críticos
