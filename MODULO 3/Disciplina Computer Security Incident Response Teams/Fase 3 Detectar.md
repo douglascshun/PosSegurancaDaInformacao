@@ -3,4 +3,8 @@
 Esse processo inclui atividades associadas à detecção de intrusão ou monitoramento de rede.
 	Evolve qualquer observação de atividades maliciosas ou suspeitas e qualquer coleta de informações que forneça informações sobre ameaças ou riscos de segurança atuais.
 
-As informaçoes 
+As informações sobre incidentes o vulnerabilidades são coletadas de duas formas:
+	- Reativa 
+	- Proativa
+Triagem
+
