@@ -22,4 +22,8 @@ As ações podem incluir:
 	- Erradicar ou limpar processos e arquivos maliciosos
 	- Reparar ou recuperar sistemas afetados
 
-A `resposta gerencial` destaca as atividade que requerem intervençao 
+A `resposta gerencial` destaca as atividade que requerem intervenção, notificação, interação, escalonamento ou aprovação de gerência.
+
+As ações podem incluir:
+	- Entrar em contato com o conselho jurídico 
+	- Garantir que 
