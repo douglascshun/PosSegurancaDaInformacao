@@ -29,4 +29,11 @@ O que notificar?
 	- Botnet
 	- Violações de dados confidenciais 
 	- Domínios maliciosos...
-	- 
+
+A quem notificar?
+	Selecione os contatos certos é fundamental.
+
+Onde encontrar contatos:
+	- Banco de dados WHOIS
+	- Listas de contatos de CSIRTs
+	- Seu próprio band
