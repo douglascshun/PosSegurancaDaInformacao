@@ -24,4 +24,8 @@ Parte do trabalho de coordenação pode implicar a notificação e a colaboraç�
 
 Relembrando:
 	- Respostas técnicas
-	- Respostas ge
+	- Respostas gerenciais
+	- Respostas legais
+
+A coordenação deve ocorrer em todas as três Áreas do processo de resposta para que o processo seja eficiente e eficaz.
+	Todos os envolvidos na resposta devem comunicar as providências que estão sendo tomadas e qualquer informação relevante.
