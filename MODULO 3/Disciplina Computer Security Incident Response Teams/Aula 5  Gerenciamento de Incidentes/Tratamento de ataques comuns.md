@@ -30,4 +30,9 @@ Reduzindo o risco dos incidentes comuns:
 
 Reduzindo o risco dos incidentes comuns:
 	Conta `ataues de escalomanto de provilégios`:
-		- POro
+		- Procura e corrigir regularmente os pontos fracos de segurança
+		- Princípio de menor privilégio 
+		- Implementar o monitoramento de segurança
+
+Reduzindo o risco dos incidentes comuns:
+	- Programas de 
