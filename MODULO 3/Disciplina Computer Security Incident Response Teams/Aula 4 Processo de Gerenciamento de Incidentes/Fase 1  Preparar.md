@@ -32,4 +32,5 @@ A visão define:
 	- Recursos para a capacidade
 
 Um processo paralelo obtém patrocínios e financiamentos para o CSIRT
-	A partir desse trabalho inicial é desenvolvido um plano de imp
+	A partir desse trabalho inicial é desenvolvido um plano de implementação, que é usado para construir, dotar e equipar o CSIRT.
+
