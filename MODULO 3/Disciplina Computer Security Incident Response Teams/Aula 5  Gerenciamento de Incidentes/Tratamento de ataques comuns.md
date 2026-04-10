@@ -50,5 +50,6 @@ Reduzindo o risco dos incidentes comuns:
 	Contra `negação de serviços (DoS)`:
 	- Reiniciar o sistema
 	- Reconfigurar firewalls, roteadores e servidores
-	- Manter roteadores e firewalls
-	- 
+	- Manter roteadores e firewalls atualizados
+
+
