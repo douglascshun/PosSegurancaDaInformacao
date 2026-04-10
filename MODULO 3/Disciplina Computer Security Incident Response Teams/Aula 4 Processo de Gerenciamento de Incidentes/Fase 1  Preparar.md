@@ -26,7 +26,8 @@ A definição de requisito é usada para delinear uma visão CSIRT.
 
 A visão define:
 	- Missão
-	- Consituinte
-	- SErviços
+	- Constituinte
+	- Serviços
 	- Modelo organizacional
-	- Recursos pa
+	- Recursos para a capacidade
+
