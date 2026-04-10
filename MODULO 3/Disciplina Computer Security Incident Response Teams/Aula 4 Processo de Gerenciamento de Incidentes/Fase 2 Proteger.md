@@ -17,3 +17,7 @@ Essas mudanças podem incluir:
 
 Alterações na infraestrutura também podem ser feitas, com base nas alterações de melhoria de processo e nas ligações aprendidas.
 	Esses tipos de alterações são feitas para garantir que incidentes não ocorram novamente.
+
+A prevenção pode assumir muitas formas:
+	- Auditorias de segurança, avaliações de vulnerabilidades
+	- Fornecer infor
