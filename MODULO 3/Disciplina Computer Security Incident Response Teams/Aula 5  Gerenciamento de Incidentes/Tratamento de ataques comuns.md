@@ -8,3 +8,9 @@ Exemplos pelos quais pode-se detectar incidentes:
 	- Insiders não autorizados tentando acessar servidores e dados
 	- Anomalias no tráfego de rede de saída
 	- Tráfego enviado de locais ou para locais desconhecidos
+
+Concentre-se em vetores de ataque comuns, como:
+	- Mídia externa e removível 
+	- Redes
+	- Email
+	- Malware baseado em anpuncios (malvers)
