@@ -32,4 +32,8 @@ A `resposta legal` incluí ações associadas à atividade do incidente relacion
 	Essas tarefas envolvem como processo legal, computação forense e determinação de responsabilidade legal. 
 
 A coordenação deve ocorrer em todas as três áreas do processo 
-	Todos os envolvidos na resposta devem comunicar as providências que estão sendo tomadas a qualque informa
+	Todos os envolvidos na resposta devem comunicar as providências que estão sendo tomadas a qualquer informação relevante.
+		- Coordenação
+		- Comunicação
+	Eficiência
+
