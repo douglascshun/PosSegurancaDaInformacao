@@ -8,3 +8,5 @@ As informações sobre incidentes o vulnerabilidades são coletadas de duas form
 	- Proativa
 Triagem
 
+na detecção `reativa`,  as informações podem ser detectadas e relatadas a partir de duas fontes principais:
+	- Relatórios da
