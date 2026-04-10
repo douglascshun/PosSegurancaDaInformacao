@@ -28,4 +28,5 @@ As ações podem incluir:
 	- Entrar em contato com o conselho jurídico 
 	- Garantir que várias partes da organização trabalhem juntas
 
-A `resposta legal` incluí ações associadas à atividade do incidente relacionadas à investigação, acus
+A `resposta legal` incluí ações associadas à atividade do incidente relacionadas à investigação, acusação, responsabilidade, NDA, decisões legais...
+	Essas tarefas envolvem como processo legal, computação forense e determinação de responsabilidade legal. 
