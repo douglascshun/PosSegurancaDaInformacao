@@ -26,4 +26,6 @@ A `resposta gerencial` destaca as atividade que requerem intervenção, notifica
 
 As ações podem incluir:
 	- Entrar em contato com o conselho jurídico 
-	- Garantir que 
+	- Garantir que várias partes da organização trabalhem juntas
+
+A `resposta legal` incluí ações associadas à atividade do incidente relacionadas à investigação, acus
