@@ -7,4 +7,6 @@ Pontos importantes para se alinhas ( 3 P ):
 	- Ferramentas, equipamentos e infraestrutura (Produtos)
 	- Políticas e procedimentos (Politicas/Processo/Procedimentos)
 
+ Uma parte desse processo envolve a construção do CSIRT inicial ou capacidade de gerenciamento de incidentes.
+
  
