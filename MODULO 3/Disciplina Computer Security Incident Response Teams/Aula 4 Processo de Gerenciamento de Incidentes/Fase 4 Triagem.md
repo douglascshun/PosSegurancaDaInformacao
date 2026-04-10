@@ -13,4 +13,7 @@ A triagem pode ser realizada por uma ampla gama de pessoas-chave. Isso depende d
 	O mais importante para o quão bem a triagem é executada é a experiência de habilidade da equipe de triagem.
 
 A função da triagem fornece o status atual e imediato de todas as atividade relatadas:
-	
+	- Relatórios aberto e fechados
+	- Ações pendentes
+	- Tipos e quantidade de relatórios recebidos
+
