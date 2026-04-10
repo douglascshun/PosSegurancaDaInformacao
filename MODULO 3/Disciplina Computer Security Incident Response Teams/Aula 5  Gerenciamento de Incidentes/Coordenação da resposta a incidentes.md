@@ -10,4 +10,6 @@ Podem incluir igualmente as partes que apresentam apoio em TI à vítima, como:
 	- Outras CSIRT
 	- Administradores de sistemas e de rede no local
 
-O trabalho de coordenação pode impli
+O trabalho de coordenação pode implicar:
+	- Coleta de contatos
+	- Notificações de siters sobre seu 
