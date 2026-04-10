@@ -36,4 +36,8 @@ A quem notificar?
 Onde encontrar contatos:
 	- Banco de dados WHOIS
 	- Listas de contatos de CSIRTs
-	- Seu próprio band
+	- Seu próprio banco de dados
+	- Banco de dados da zona raiz da IANA
+
+O que incluir?
+	Evite dadso em .jpg, 
