@@ -41,5 +41,9 @@ Onde encontrar contatos:
 
 O que incluir?
 	- Evite dados em . jpg, .gif, .xls, .pdf, etc...
-	Evite jargão jurídico, acusações e retaliações
-	E
+	- Evite jargão jurídico, acusações e retaliações
+	- Evite longas filas (leitura fácil)
+	- Use carimbos de data e hora 
+	- Criptografe informações confidenciais
+
+Formulçário de Npo
