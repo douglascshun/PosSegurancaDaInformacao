@@ -22,4 +22,11 @@ Requisitos vêm de diversas fontes:
 	- Políticas e diretrizes existentes
 	- Regulamentos ou leis relacionadas
 
-A definição de requisito é usada para delinear uma visão CSI
+A definição de requisito é usada para delinear uma visão CSIRT.
+
+A visão define:
+	- Missão
+	- Consituinte
+	- SErviços
+	- Modelo organizacional
+	- Recursos pa
