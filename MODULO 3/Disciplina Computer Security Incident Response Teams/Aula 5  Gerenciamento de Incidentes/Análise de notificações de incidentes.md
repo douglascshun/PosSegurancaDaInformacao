@@ -58,4 +58,5 @@ Formulário de Notificação de incidentes:
 	- Função do computador central 
 	- Descrição detalhada
 
-Função de Tratamento
+Função de Tratamento:
+	Seu objetivo é fornecer resposta e suporte para relatórios recebidos do eleitorado
