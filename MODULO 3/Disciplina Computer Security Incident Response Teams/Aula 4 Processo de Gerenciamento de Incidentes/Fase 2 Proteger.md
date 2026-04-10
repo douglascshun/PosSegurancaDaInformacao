@@ -7,4 +7,8 @@ Uma das ações mais importantes que uma organização pode realizar é impedir 
 
 O processo `proteger` está relacionado às atividades envolvidas na prevenção de ataques e à mitigação do impacto daqueles que ocorrem.
 
-Muitas vezes, como parte de uma resposta a um incidente em andamento ou para mitigar uma vulnerabilidade descoberta, mudanças na infraestrutura da empr
+Muitas vezes, como parte de uma resposta a um incidente em andamento ou para mitigar uma vulnerabilidade descoberta, mudanças na infraestrutura da empresa devem ser feitas.
+
+Essas mudanças podem incluir:
+	- Alteração nos filtros de firewalls, roteadores ou servidores de email
+	- Atualização para IDS
