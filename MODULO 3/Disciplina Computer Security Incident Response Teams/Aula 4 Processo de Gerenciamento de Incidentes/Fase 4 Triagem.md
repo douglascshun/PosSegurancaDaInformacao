@@ -9,4 +9,5 @@ Na triagem, os relatórios de incidente ou vulnerabilidades e eventos são:
 A triagem serve como veículo pelo qual todas as informações fluem para um único ponto de contato.
 	Isso depende do pessoal que executa cada função e da estrutura organizacional.
 
-A triagem pode ser realizada por uma
+A triagem pode ser realizada por uma ampla gama de pessoas-chave. Isso depende do caráter da triagem na organização - Estratégico ou Tático.
+	O mais importante para o quão bem a triagem 
