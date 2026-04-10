@@ -14,3 +14,9 @@ Esses três tipos de atividade podem acontecer simultaneamente.
 	Mas, para uma resposta mais eficaz, eles devem acontecer em uma função coordenada com membros de todas as áreas de resposta, coordenando o planejamento e a execução das atividades de resposta.
 
 A `resposta tática` se concentra nas ações tomadas pela equipe técnica para analisar e resolver um evento ou incidente. 
+
+As ações podem incluir:
+	- Analisar as informações, dados, e material
+	- Pesquisar estratégias de mitigação
+	- Desenvolver avisos, alertas e outras publicações
+	- Erradicar ou limpar proessos e arui
