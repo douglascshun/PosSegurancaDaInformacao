@@ -25,4 +25,8 @@ A prevenção pode assumir muitas formas:
 
 ...essas informações devem ser passadas para o processo de detecção como um incidente apropriado ou relatório de vulnerabilidade.
 
-O processo `proteger` conté,subprocessos que descrevem atividades menc
+O processo `proteger` contém subprocessos que descrevem atividades mencionadas:
+	- Avaliar a infraestrutura atual 
+	- Determinar modificações
+	- Implementar modificações
+
