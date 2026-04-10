@@ -19,4 +19,7 @@ As ações podem incluir:
 	- Analisar as informações, dados, e material
 	- Pesquisar estratégias de mitigação
 	- Desenvolver avisos, alertas e outras publicações
-	- Erradicar ou limpar proessos e arui
+	- Erradicar ou limpar processos e arquivos maliciosos
+	- Reparar ou recuperar sistemas afetados
+
+A `resposta gerencial` destaca as atividade que requerem intervençao 
