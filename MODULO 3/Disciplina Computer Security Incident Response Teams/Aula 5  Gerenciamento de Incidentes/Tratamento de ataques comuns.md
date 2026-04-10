@@ -25,4 +25,9 @@ Metodologia e os objetivos dos atacantes:
 
 Reduzindo o risco dos incidentes comuns:
 	 Contra `tentativas não autorizadas de acessar sistemas ou dados`:
-		- Autenticaçã 
+		- Autenticação de dois fatores
+		- Criptografar dados corporativos confidenciais
+
+Reduzindo o risco dos incidentes comuns:
+	Conta `ataues de escalomanto de provilégios`:
+		- POro
