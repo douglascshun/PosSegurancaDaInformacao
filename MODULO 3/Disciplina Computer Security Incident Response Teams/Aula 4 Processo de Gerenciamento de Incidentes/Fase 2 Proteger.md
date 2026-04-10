@@ -5,3 +5,4 @@ Uma das ações mais importantes que uma organização pode realizar é impedir 
 	- Worms
 	- Explorações remotas
 
+O processo `proteger` está relacionado às atividades envolvidas na prevenção de ataques e à mitigação do impacto daque
