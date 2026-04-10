@@ -59,4 +59,9 @@ Formulário de Notificação de incidentes:
 	- Descrição detalhada
 
 Função de Tratamento:
-	Seu objetivo é fornecer resposta e suporte para relatórios recebidos do eleitorado
+	Seu objetivo é fornecer resposta e suporte para relatórios recebidos do eleitorado.
+
+A função deve fornecer alguma instanciação dos seguintes atributos:
+	- Ponto de denúncia 
+	- Análise
+	- Notificação 
