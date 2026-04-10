@@ -13,4 +13,8 @@ Notificações de incidentes: O desafio!
 
 Como tornas as coisas melhores?
 	Meta:
-		- Tornar as notificações mais compreendíceis e fáceis de 
+		- Tornar as notificações mais compreencíceis e fáceis de escrever 
+		- Tornar o processo de tratamento de incidentes mais eficz
+
+Um documento público (Creative Commons) que cobre:
+	- Por que relatar
