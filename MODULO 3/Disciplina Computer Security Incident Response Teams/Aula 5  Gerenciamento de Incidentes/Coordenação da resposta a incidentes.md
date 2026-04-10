@@ -15,3 +15,6 @@ O trabalho de coordenação pode implicar:
 	- Notificações de sites sobre seu  potencial envolvimento
 	- Coleta de dados estáticos
 	- Facilitação do intercâmbio e da análise de informações
+
+Parte do trabalho de coordenação pode implicar a notificação e a colaboração com:
+	- Consultores j
