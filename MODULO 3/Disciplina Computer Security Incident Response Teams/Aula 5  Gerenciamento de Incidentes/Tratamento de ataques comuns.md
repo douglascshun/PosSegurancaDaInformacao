@@ -20,4 +20,9 @@ Metodologia e os objetivos dos atacantes:
 	- Exploração
 	- Armamento
 	- Instalação
-	- Entrega C
+	- Entrega Comando e controle 
+	- Ações sobre objetivos
+
+Reduzindo o risco dos incidentes comuns:
+	 Contra `tentativas não autorizadas de acessar sistemas ou dados`:
+		- Autenticaçã 
