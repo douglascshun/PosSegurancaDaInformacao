@@ -6,3 +6,5 @@ Na triagem, os relatórios de incidente ou vulnerabilidades e eventos são:
 	- Priorizados
 	- Correlacionados e atribuídos
 
+A triagem serve como veículo pelo qual todas as informações fluem para um único ponto de contato.
+	Isso depende do pessoal que executa cada função e da
