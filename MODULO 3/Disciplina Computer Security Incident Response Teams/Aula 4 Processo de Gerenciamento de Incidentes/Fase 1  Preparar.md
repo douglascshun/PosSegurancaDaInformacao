@@ -19,4 +19,6 @@ Na fase de planejamento e projeto, uma análise de necessidades e definição de
 Requisitos vêm de diversas fontes:
 	- Entrevistas e discussões com partes interessadas
 	- Necessidades de negócios
-	- Políticas e diretizes existentes
+	- Políticas e diretrizes existentes
+	- Regulamentos ou leis relacionadas
+
