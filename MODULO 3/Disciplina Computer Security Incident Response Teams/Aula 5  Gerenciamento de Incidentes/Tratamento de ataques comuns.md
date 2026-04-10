@@ -13,4 +13,11 @@ Concentre-se em vetores de ataque comuns, como:
 	- Mídia externa e removível 
 	- Redes
 	- Email
-	- Malware baseado em anpuncios (malvers)
+	- Malware baseado em anúncios (malvertising)
+
+Metodologia e os objetivos dos atacantes:
+	- Reconhecimento 
+	- Exploração
+	- Armamento
+	- Instalação
+	- Entrega C
