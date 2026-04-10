@@ -17,4 +17,9 @@ Contatos Relacionados ao incidente:
 	- Departamento de auditoria interna, etc...
 
 Contatos não relacionados á incidentes:
-	- Contatos de segurança d
+	- Contatos de segurança do site (constituinte)
+	- Outros contatos do site constituinte
+	- Sites externos ao eleitorado
+	- Provedores de serviços de internet 
+	- Outros CSIRTs
+	- Cons
