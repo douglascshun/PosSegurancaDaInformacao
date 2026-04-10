@@ -45,4 +45,10 @@ Reduzindo o risco dos incidentes comuns:
 Reduzindo o risco dos incidente comuns:
 	Contra `malware`:
 	- Antivírus
-reduzindo o risco dos incidn
+
+Reduzindo o risco dos incidentes comuns:
+	Contra `negação de serviços (DoS)`:
+	- Reiniciar o sistema
+	- Reconfigurar firewalls, roteadores e servidores
+	- Manter roteadores e firewalls
+	- 
