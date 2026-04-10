@@ -40,4 +40,6 @@ Onde encontrar contatos:
 	- Banco de dados da zona raiz da IANA
 
 O que incluir?
-	Evite dadso em .jpg, 
+	- Evite dados em . jpg, .gif, .xls, .pdf, etc...
+	Evite jargão jurídico, acusações e retaliações
+	E
