@@ -23,4 +23,10 @@ Um documento público (Creative Commons) que cobre:
 	- Como escrever formatar e enviar uma notificação
 
 O que notificar?
-	- Incidentes comuns Regulares
+	- Incidentes comuns 
+	- Regulares / Geolocalização
+	- Negação de serviços
+	- Botnet
+	- Violações de dados confidenciais 
+	- Domínios maliciosos...
+	- 
