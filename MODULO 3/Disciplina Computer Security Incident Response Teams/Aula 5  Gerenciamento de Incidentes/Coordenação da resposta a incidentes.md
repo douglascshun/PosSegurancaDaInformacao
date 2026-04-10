@@ -17,4 +17,5 @@ O trabalho de coordenação pode implicar:
 	- Facilitação do intercâmbio e da análise de informações
 
 Parte do trabalho de coordenação pode implicar a notificação e a colaboração com:
-	- Consultores j
+	- Consultores jurídicos
+	- Notificação de sites sobre o seu potencial envolvimento 
