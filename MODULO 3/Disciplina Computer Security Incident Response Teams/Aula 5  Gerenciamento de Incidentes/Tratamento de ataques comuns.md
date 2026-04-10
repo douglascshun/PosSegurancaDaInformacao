@@ -40,4 +40,9 @@ Reduzindo o risco dos incidentes comuns:
 		- Antivirus
 		- Firewall
 		- Backups regulares
-		- Treinamenot 
+		- Treinamento de conscientização da equipe
+
+Reduzindo o risco dos incidente comuns:
+	Contra `malware`:
+	- Antivírus
+reduzindo o risco dos incidn
