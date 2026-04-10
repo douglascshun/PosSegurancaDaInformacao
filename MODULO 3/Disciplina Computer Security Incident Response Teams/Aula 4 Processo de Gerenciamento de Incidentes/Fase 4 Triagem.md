@@ -18,3 +18,7 @@ A função da triagem fornece o status atual e imediato de todas as atividade re
 	- Tipos e quantidade de relatórios recebidos
 
 se a triagem executa função de `avaliação`, a equipe deve ter a combinação certa de:
+	- Habilidades técnicas
+	- Conhecimento de negócios
+`Sucesso!`
+
