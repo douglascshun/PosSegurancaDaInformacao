@@ -11,4 +11,8 @@ Muitas vezes, como parte de uma resposta a um incidente em andamento ou para mit
 
 Essas mudanças podem incluir:
 	- Alteração nos filtros de firewalls, roteadores ou servidores de email
-	- Atualização para IDS
+	- Atualização para IDS para incluir novas assinaturas
+	- Alteração nas configurações do sistema para desativar serviços padrão
+	- Instalações de patches para softwares vulneráveis
+
+Alterações na infraestrutura 
