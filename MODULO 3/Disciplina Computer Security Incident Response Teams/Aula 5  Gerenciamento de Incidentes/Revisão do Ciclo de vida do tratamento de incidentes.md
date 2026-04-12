@@ -14,4 +14,6 @@ O ciclo de vida do incidente inclui os seguintes processos:
 Depois que um incidente é aberto, ele pode transitar por muitos estados diferentes.
 	Até que nenhuma ação adicional seja necessária da perspectiva da equipe.
 
-O encerrame
+O encerramento de um incidente normalmente ocorre quando:
+	- Nenhuma das partes envolvidas no incidente está identificando ou relatando novas informações ao CSIRT
+	- O CSIRT empreendeu suas ações de responder adequadam
