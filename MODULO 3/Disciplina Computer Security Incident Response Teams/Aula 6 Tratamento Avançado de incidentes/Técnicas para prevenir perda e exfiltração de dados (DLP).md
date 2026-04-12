@@ -20,4 +20,7 @@ Qual a solução para resolver isso?
 				Imagem e reputação
 
 `DLP`: Ações que as organizações executam para impedir que `terceiros não autorizados` obtenham acesso a dados confidenciais
-	
+	`Mas, a exfiltração considera que os dados`:
+		- São `Sensíveis`
+		- Verdadeiramente `importantes`
+		- Relacionados ao público extern``
