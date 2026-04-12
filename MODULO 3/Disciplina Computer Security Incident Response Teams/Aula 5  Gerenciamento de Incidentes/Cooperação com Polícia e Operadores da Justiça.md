@@ -8,4 +8,7 @@ Geralmente, os crimes de computadores incluem crimes tradicionais cometidos com 
 Os membros do CSIRT devem estar familiarizados com:
 	- Leis de privacidade
 	- Leis que afetam sua resposta a incidentes
-	- Leis estatu
+	- Leis estatuárias
+	- Novas jurisprudências
+
+As leis aplicáveis podem ser variadas em numerosas e a `interpretação` 
