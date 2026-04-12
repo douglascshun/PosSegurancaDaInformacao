@@ -25,4 +25,8 @@ Qual a solução para resolver isso?
 		- Verdadeiramente `importantes`
 		- Relacionados ao `público externo`
 
-Roubo é 
+Roubo é diferente de vazamento (confidencialidade comprometida)
+	- Processos
+	- Pessoas
+	- Tecnologias
+DLP
