@@ -9,4 +9,9 @@ Ciclo de vida do incidentes
 O ciclo de vida do incidente inclui os seguintes processos:
 	- Análises 
 	- Fornecer assistência técnica
-	- Co
+	- Coordenação
+
+Depois que um incidente é aberto, ele pode transitar por muitos estados diferentes.
+	Até que nenhuma ação adicional seja necessária da perspectiva da equipe.
+
+O encerrame
