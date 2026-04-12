@@ -13,9 +13,11 @@ O maior culpado da exfiltração de dados é a `falta de conscientização`
 
 Qual a solução para resolver isso?
 	`DLP`: `Prevenção de Perda de Dados` (Data Lost Prevention)
-			
+			Você evita:
 				Penalidades e multas
-			Responsabilidades contratuais
-		Danos diretos 
-		Imagem e reputação
+				Responsabilidades contratuais
+				Danos diretos 
+				Imagem e reputação
 
+`DLP`: Ações que as organizações executam para impedir que `terceiros não autorizados` obtenham acesso a dados confidenciais
+	
