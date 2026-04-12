@@ -40,4 +40,6 @@ Leis que protegem dados de crime virtual no ramo jurídico - Lei Carolina Dieckm
 	- Inaugurou e tipificou a questão dos atos criminais em âmbito cibernético
 	- Invasão de computadores e celulares, violação de dados de usuários
 
-Leis que protegem dados de crimes v
+Leis que protegem dados de crimes virtuais no ramo jurídico - LGPD - Lei Geral de Proteção de Dados
+	- Regula as atividades de coleta e tratamento de dados pessoais 
+	- Substitui dois artigos do Marco C
