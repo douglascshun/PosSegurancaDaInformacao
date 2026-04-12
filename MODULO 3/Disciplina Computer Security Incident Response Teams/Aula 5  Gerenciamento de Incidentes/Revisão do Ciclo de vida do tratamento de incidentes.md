@@ -4,4 +4,9 @@ Depois da triagem, os incidentes vão para uma fila de espera de pedidos.
 	Ferramentas de gestão de incidentes usada gestores de incidentes.
 
 Ciclo de vida do incidentes
-	Medidas repetidamente aplicadas até a resolução do incidente 
+	Medidas repetidamente aplicadas até a resolução do incidente e as partes envolvidas terem as informações necessárias.
+
+O ciclo de vida do incidente inclui os seguintes processos:
+	- Análises 
+	- Fornecer assistência técnica
+	- Co
