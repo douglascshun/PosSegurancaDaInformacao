@@ -31,4 +31,8 @@ As ações de resposta legal podem incluir:
 	- Desenvolver acordos de confidencialidade
 
 As ações de resposta legal podem incluir:
-	- 
+	- Notificar e envolver a aplicação da lei
+	- Coordenar com a resposta técnica para executar tarefas forenses
+	- Revisar documentos legais e ações de resposta
+
+Leis que protegem dados de crime virtual no ramo 
