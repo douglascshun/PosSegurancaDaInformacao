@@ -14,4 +14,7 @@ Os membros do CSIRT devem estar familiarizados com:
 As leis aplicáveis podem ser variadas em numerosas e a `interpretação`  de algumas leis podem não ser obvias ou diretas.
 	Portanto recomenda-se buscar a orientação de um `especialista`
 
-Recomenda-se
+Recomenda-se procurar estabelecer uma relação de trabalho com autoridades policiais e com seu próprio advogado.
+	- Autoridades
+	- Advogado
+Relação de 
