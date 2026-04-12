@@ -23,4 +23,6 @@ Qual a solução para resolver isso?
 	`Mas, a exfiltração considera que os dados`:
 		- São `Sensíveis`
 		- Verdadeiramente `importantes`
-		- Relacionados ao público extern``
+		- Relacionados ao `público externo`
+
+Roubo é 
