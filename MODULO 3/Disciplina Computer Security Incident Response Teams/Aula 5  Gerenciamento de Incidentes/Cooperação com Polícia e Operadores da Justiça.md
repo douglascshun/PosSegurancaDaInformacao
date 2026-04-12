@@ -20,4 +20,7 @@ Recomenda-se procurar estabelecer uma relação de trabalho com autoridades poli
 Relação de trabalho
 
 Os tipos de pessoas que podem estar envolvidas na resposta legal podem variar:
-	- Consutor jur
+	- Consultor jurídico organizacional ou paralegais
+	- Aplicação da lei nacional, estadual ou local e membros do governo
+	- Analistas forenses de computadores ou redes
+
