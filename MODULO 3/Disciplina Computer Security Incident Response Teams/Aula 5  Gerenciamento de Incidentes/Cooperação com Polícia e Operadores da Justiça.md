@@ -24,3 +24,7 @@ Os tipos de pessoas que podem estar envolvidas na resposta legal podem variar:
 	- Aplicação da lei nacional, estadual ou local e membros do governo
 	- Analistas forenses de computadores ou redes
 
+As ações de resposta legal podem incluir:
+	- Dar conselhos sobre quais opções de resposta são legalmente poermitidas
+	- Fornecer aconselhamento jurídico sobre a responsabilidade legal
+	- Revisar comunicados à imp
