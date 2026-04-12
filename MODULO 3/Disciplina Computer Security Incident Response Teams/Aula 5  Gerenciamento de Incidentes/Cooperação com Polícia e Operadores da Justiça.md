@@ -35,4 +35,6 @@ As ações de resposta legal podem incluir:
 	- Coordenar com a resposta técnica para executar tarefas forenses
 	- Revisar documentos legais e ações de resposta
 
-Leis que protegem dados de crime virtual no ramo 
+Leis que protegem dados de crime virtual no ramo jurídico - Lei Carolina Dieckmann
+	- Lei dos Crimes Cibernéticos, N° 12.737/2012
+	- Inaugurou e tipi
