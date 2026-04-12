@@ -28,5 +28,9 @@ Qual a solução para resolver isso?
 Roubo é diferente de vazamento (confidencialidade comprometida)
 	- Processos
 	- Pessoas
-	- Tecnologias
+	- Tecnologias (Produto)
 DLP
+
+Abordagens gerais para DLP
+- 1° Inventários de dados
+- 2°Fluxos de dados
