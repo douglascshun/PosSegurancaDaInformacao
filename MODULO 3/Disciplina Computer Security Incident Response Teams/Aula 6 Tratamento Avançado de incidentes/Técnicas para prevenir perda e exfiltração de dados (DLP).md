@@ -11,4 +11,6 @@ Custos com a perda de dados
 O maior culpado da exfiltração de dados é a `falta de conscientização`
 	Quanto mais complexo o ambiente, mais treinamento e comunicação são necessários
 
-Qual a solução para resolver 
+Qual a solução para resolver isso?
+	`DLP`: `Prevenção de Perda de Dados` (Data Lost Prevention)
+		Penalidades 
