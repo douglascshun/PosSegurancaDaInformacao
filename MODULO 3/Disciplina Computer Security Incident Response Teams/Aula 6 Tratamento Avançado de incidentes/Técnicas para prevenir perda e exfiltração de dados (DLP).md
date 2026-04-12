@@ -34,3 +34,5 @@ DLP
 Abordagens gerais para DLP
 - 1° Inventários de dados
 - 2°Fluxos de dados
+- 3° Estratégia e técnicas de proteção de dados
+
