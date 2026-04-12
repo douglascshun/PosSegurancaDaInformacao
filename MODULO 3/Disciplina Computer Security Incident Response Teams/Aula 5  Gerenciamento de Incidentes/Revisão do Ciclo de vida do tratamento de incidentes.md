@@ -16,4 +16,6 @@ Depois que um incidente é aberto, ele pode transitar por muitos estados diferen
 
 O encerramento de um incidente normalmente ocorre quando:
 	- Nenhuma das partes envolvidas no incidente está identificando ou relatando novas informações ao CSIRT
-	- O CSIRT empreendeu suas ações de responder adequadam
+	- O CSIRT empreendeu suas ações de responder adequadamente a todas as partes afetadas pela atividade.
+	- Os critérios para fechar um incidente podem `váriar` de equipe para equipe.
+	- Quando um incidente é e
