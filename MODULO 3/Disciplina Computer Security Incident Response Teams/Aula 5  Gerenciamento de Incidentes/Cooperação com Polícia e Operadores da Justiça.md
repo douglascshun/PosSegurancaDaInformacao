@@ -37,4 +37,7 @@ As ações de resposta legal podem incluir:
 
 Leis que protegem dados de crime virtual no ramo jurídico - Lei Carolina Dieckmann
 	- Lei dos Crimes Cibernéticos, N° 12.737/2012
-	- Inaugurou e tipi
+	- Inaugurou e tipificou a questão dos atos criminais em âmbito cibernético
+	- Invasão de computadores e celulares, violação de dados de usuários
+
+Leis que protegem dados de crimes v
