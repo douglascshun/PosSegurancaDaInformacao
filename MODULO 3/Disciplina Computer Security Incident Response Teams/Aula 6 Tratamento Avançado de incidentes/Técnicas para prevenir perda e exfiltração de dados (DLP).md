@@ -8,4 +8,5 @@ Custos com a perda de dados
 	- Danos diretos
 	- Imagem e reputação
 
-O maior culpado da exf
+O maior culpado da exfiltração de dados é a `falta de conscientização`
+	Quanto mais complexo o ambiente, mais treinamento e comunicação são necessários
