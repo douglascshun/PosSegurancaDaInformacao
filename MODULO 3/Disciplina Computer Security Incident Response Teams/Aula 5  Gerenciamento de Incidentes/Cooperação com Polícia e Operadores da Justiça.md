@@ -11,4 +11,7 @@ Os membros do CSIRT devem estar familiarizados com:
 	- Leis estatuárias
 	- Novas jurisprudências
 
-As leis aplicáveis podem ser variadas em numerosas e a `interpretação` 
+As leis aplicáveis podem ser variadas em numerosas e a `interpretação`  de algumas leis podem não ser obvias ou diretas.
+	Portanto recomenda-se buscar a orientação de um `especialista`
+
+Recomenda-se
