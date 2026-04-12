@@ -17,4 +17,7 @@ As leis aplicáveis podem ser variadas em numerosas e a `interpretação`  de al
 Recomenda-se procurar estabelecer uma relação de trabalho com autoridades policiais e com seu próprio advogado.
 	- Autoridades
 	- Advogado
-Relação de 
+Relação de trabalho
+
+Os tipos de pessoas que podem estar envolvidas na resposta legal podem variar:
+	- Consutor jur
