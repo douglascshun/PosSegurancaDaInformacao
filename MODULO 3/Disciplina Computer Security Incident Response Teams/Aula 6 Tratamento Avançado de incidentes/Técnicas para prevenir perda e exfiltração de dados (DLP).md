@@ -7,4 +7,5 @@ Custos com a perda de dados
 	- Responsabilidades contratuais
 	- Danos diretos
 	- Imagem e reputação
-	- 
+
+O maior culpado da exf
