@@ -36,3 +36,7 @@ Abordagens gerais para DLP
 - 2°Fluxos de dados
 - 3° Estratégia e técnicas de proteção de dados
 
+ Técnicas de DLP
+	 - Backup e rucperação
+	 - Ciclo de vida dos dados
+	 - Se
