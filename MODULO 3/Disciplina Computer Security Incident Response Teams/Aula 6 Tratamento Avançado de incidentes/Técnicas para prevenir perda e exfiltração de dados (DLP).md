@@ -4,4 +4,7 @@ Custos com a perda de dados
 	- Investigar e corrigir o problema
 	- Comunicar os afetados 
 	- Penalidades e multas
-	- Responsabilidades contr
+	- Responsabilidades contratuais
+	- Danos diretos
+	- Imagem e reputação
+	- 
