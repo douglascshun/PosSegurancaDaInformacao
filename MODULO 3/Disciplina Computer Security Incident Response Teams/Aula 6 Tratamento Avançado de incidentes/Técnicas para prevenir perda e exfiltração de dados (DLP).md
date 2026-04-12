@@ -43,3 +43,11 @@ Abordagens gerais para DLP
 	 - Cultura de segurança
 	 - Privacidade
 	 - Mudança organizacional
+
+Network DLP
+![[Network DLP.png]]
+
+Endpoint DL![[Endpoint DLP.png]]
+
+Hybrid DLP
+![[Hybrid DLP.png]]
