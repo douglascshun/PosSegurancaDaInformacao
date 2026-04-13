@@ -36,4 +36,8 @@ Alguns TTPS (Táticas, Técnicas e Procedimentos) se encaixam em diferentes cate
 	- Persistência
 	- Escalação de de privilégios
 	- Evasão de defesa
-
+	- Acesso à credencial
+	- Descoberta
+	- Movimento Lateral
+	- Coleta
+	- Comando e controe
