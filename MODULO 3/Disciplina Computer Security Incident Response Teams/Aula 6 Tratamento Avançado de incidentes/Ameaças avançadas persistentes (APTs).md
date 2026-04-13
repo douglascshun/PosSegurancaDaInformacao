@@ -11,7 +11,7 @@ Avançada (Advanced)
 	Bem `equipados`, usam técnicas que indicam `treinamentos` formais, suporte de `inteligências`e significativos recursos `financeiros`.
 
 O que categoriza um APT?
-	- Multi-Atack-Stage
+	- Multi-Attack-Stage
 	- Pré-requisitos e pós -condições
 	- Longo período de tempo
 	- Furtividade entre as etapas
@@ -19,3 +19,5 @@ O que categoriza um APT?
 	- Crer ser orquestrado por um único ator
 	- Nível de interação necessário
 	- Quis dados e como exfiltrar
+
+É um `
