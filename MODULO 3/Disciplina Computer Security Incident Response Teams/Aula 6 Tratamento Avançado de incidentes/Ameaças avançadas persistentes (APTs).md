@@ -40,4 +40,7 @@ Alguns TTPS (Táticas, Técnicas e Procedimentos) se encaixam em diferentes cate
 	- Descoberta
 	- Movimento Lateral
 	- Coleta
-	- Comando e controe
+	- Comando e Controle
+	- Exfiltração
+	- Impactar
+
