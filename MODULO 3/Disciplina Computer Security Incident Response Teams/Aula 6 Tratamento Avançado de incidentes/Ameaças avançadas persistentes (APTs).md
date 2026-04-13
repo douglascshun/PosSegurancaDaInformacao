@@ -17,4 +17,5 @@ O que categoriza um APT?
 	- Furtividade entre as etapas
 	- Adaptar-se para resistir
 	- Crer ser orquestrado por um único ator
-	- N´
+	- Nível de interação necessário
+	- Quis dados e como exfiltrar
