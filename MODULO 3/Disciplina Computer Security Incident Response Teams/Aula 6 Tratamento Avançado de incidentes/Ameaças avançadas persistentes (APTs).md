@@ -29,4 +29,10 @@ O que categoriza um APT?
 - Podem ficar dias, semanas, meses e até anos, com histórico de até `12 anos` dentro do sistema.
 
 Alguns TTPS (Táticas, Técnicas e Procedimentos) se encaixam em diferentes categorias (Não há uma ordem fixa)
-	- Re
+	- Reconhecimento 
+	- Desenvolvimento de recursos 
+	- Acesso Inicial 
+	- Execução
+	- Persistência
+	- Escalação de de privilégios
+	- Evasão de defesa
