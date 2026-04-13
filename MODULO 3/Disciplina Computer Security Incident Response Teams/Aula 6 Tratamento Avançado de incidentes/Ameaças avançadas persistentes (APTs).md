@@ -4,4 +4,6 @@ Ameaça
 	Projetada e coordenada por humanos com um objetivo específico em mente 
 
 Persistente
-	- Focado em uma `tarefa espscífica`
+	- Focado em uma `tarefa espscífica` e, geralmente, ignoram alvos oportunistas
+	- Implica em `regras estritas`.
+
