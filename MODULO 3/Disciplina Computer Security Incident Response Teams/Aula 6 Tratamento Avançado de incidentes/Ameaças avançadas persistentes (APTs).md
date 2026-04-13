@@ -12,4 +12,9 @@ Avançada (Advanced)
 
 O que categoriza um APT?
 	- Multi-Atack-Stage
-	- Pré-requisitos e pós -condicç
+	- Pré-requisitos e pós -condições
+	- Longo período de tempo
+	- Furtividade entre as etapas
+	- Adaptar-se para resistir
+	- Crer ser orquestrado por um único ator
+	- N´
