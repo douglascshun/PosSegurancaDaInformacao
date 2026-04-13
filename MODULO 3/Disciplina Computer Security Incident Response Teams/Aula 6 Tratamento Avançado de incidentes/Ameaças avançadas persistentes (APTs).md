@@ -20,4 +20,5 @@ O que categoriza um APT?
 	- Nível de interação necessário
 	- Quis dados e como exfiltrar
 
-É um `
+É um `ataque sofisticado`, executados por uma organização ou governo.
+	Visam objetivos políticos, países, competitividades entre empresas, alvos valiosos, etc...
