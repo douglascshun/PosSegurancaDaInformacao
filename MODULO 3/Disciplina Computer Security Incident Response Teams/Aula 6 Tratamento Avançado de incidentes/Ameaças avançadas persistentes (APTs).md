@@ -22,3 +22,5 @@ O que categoriza um APT?
 
 É um `ataque sofisticado`, executados por uma organização ou governo.
 	Visam objetivos políticos, países, competitividades entre empresas, alvos valiosos, etc...
+
+![[Commodity Threats.png]]
