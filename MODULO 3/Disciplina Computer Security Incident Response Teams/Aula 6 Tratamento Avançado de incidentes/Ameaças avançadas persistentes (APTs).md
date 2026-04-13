@@ -28,3 +28,5 @@ O que categoriza um APT?
 - Diferente de hacktivistas/scipt kiddies (chamar a atenção apenas)
 - Podem ficar dias, semanas, meses e até anos, com histórico de até `12 anos` dentro do sistema.
 
+Alguns TTPS (Táticas, Técnicas e Procedimentos) se encaixam em diferentes categorias (Não há uma ordem fixa)
+	- Re
