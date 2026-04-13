@@ -27,3 +27,4 @@ O que categoriza um APT?
 
 - Diferente de hacktivistas/scipt kiddies (chamar a atenção apenas)
 - Podem ficar dias, semanas, meses e até anos, com histórico de até `12 anos` dentro do sistema.
+
