@@ -9,3 +9,7 @@ Persistente (Persistent)
 
 Avançada (Advanced)
 	Bem `equipados`, usam técnicas que indicam `treinamentos` formais, suporte de `inteligências`e significativos recursos `financeiros`.
+
+O que categoriza um APT?
+	- Multi-Atack-Stage
+	- Pré-requisitos e pós -condicç
