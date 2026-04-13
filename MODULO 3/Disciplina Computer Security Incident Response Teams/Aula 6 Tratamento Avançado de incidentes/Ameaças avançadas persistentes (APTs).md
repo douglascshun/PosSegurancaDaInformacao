@@ -24,3 +24,4 @@ O que categoriza um APT?
 	Visam objetivos políticos, países, competitividades entre empresas, alvos valiosos, etc...
 
 ![[Commodity Threats.png]]
+- Diferente de hacke
