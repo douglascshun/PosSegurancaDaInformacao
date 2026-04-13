@@ -8,4 +8,4 @@ Persistente (Persistent)
 	- Implica em `regras estritas`.
 
 Avançada (Advanced)
-	Bem `equipados`, usam técnicas que indicam ``
+	Bem `equipados`, usam técnicas que indicam `treinamentos` formais, suporte de `inteligências`e significativos recursos `financeiros`.
