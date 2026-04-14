@@ -42,3 +42,8 @@ Servidor DNS Desonesto (Rogue)
 2. Hospeda conteúdo malicioso 
 3. Compromete um site popular 
 4. Altera a configuração de DNS do equipamento do usuário
+
+Desafios para lidar com o DNS
+	- Difícil explicar o problema
+	- Equipes de 1° nível não são treinadas
+	- Rou
