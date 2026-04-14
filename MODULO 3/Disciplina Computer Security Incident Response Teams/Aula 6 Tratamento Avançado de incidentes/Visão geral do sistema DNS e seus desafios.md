@@ -26,4 +26,7 @@ Como é envenenado o DNS
 	- Espalha os efeitos do ataque aos usuários do servidor
 	- O Hacker pode usar o seu próprio domínio e DNS hackeado
 
-Alguns m
+Alguns métodos de defesa contra o envenenamento de DNS
+	- DNSSEC e NXDOMAIN
+	- Auditar servidores DNS por vulnerabilidades
+	- Evitar porta de saída UDO 53
