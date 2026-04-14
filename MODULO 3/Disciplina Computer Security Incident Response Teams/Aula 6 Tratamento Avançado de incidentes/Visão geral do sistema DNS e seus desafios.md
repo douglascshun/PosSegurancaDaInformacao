@@ -32,4 +32,7 @@ Alguns métodos de defesa contra o envenenamento de DNS
 	- Evitar porta de saída UDO 53
 
 Sequestro de servidores DNS
-	Redireciona os clientes para um site falso para a coleta de dados confif
+	Redireciona os clientes para um site falso para a coleta de dados confidenciais.
+
+Ataque DoD do DNS
+	Simplesmente para deixar indispon´
