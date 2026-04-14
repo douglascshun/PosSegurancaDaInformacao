@@ -39,3 +39,6 @@ Ataque DoD do DNS
 
 Servidor DNS Desonesto (Rogue)
 1. Configura um DNS desonesto
+2. Hospeda conteúdo malicioso 
+3. Compromete um site popular 
+4. Altera a configuração de DNS do equipamento do usuário
