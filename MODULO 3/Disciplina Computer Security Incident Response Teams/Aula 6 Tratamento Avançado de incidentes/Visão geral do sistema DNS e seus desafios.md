@@ -9,3 +9,6 @@ Todo servidor de informações públicas deve ser considerado `não confivel`.
 
 Ataques de DNS
 	`TUDO` é acessado pelo DNS quando recursos estão na nuvem
+
+Ameaças com o Serviço DNS
+![[Ameaças com o Serviço DNS.png]]
