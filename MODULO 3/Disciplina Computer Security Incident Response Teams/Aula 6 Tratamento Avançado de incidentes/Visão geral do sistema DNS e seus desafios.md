@@ -7,3 +7,5 @@ Todo servidor de informações públicas deve ser considerado `não confivel`.
 	É possível `disfarçar` um outro sistema como um servidor DNS.
 
 
+Ataques de DNS
+	`TUDO` é acessado pelo DNS quando recursos estão na nuvem
