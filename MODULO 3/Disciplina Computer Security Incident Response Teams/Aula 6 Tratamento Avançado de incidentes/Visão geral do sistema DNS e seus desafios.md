@@ -35,4 +35,7 @@ Sequestro de servidores DNS
 	Redireciona os clientes para um site falso para a coleta de dados confidenciais.
 
 Ataque DoD do DNS
-	Simplesmente para deixar indispon´
+	Simplesmente para deixar `indisponível`
+
+Servidor DNS Desonesto (Rogue)
+1. Configura um DNS desonesto
