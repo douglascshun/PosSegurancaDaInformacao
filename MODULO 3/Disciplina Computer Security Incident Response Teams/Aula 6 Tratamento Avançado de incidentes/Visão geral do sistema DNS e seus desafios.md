@@ -19,3 +19,6 @@ Principais Ataques de DNS inclem:
 	- Sequestro de domínio 
 	- Captura de domínio 
 	- Cybersquatting
+
+Como é envenenado o DNS
+	- O DNS é enganado
