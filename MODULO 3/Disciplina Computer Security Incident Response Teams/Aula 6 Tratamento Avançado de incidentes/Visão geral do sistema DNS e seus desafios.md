@@ -25,3 +25,5 @@ Como é envenenado o DNS
 	- As informações geralmente são armazenadas em cache por um tempo
 	- Espalha os efeitos do ataque aos usuários do servidor
 	- O Hacker pode usar o seu próprio domínio e DNS hackeado
+
+Alguns m
