@@ -12,3 +12,6 @@ Ataques de DNS
 
 Ameaças com o Serviço DNS
 ![[Ameaças com o Serviço DNS.png]]
+
+Principais Ataques de DNS inclem:
+ - Envenenamento de DNS
