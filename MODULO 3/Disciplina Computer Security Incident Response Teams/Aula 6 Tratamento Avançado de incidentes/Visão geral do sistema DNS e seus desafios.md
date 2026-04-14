@@ -46,4 +46,6 @@ Servidor DNS Desonesto (Rogue)
 Desafios para lidar com o DNS
 	- Difícil explicar o problema
 	- Equipes de 1° nível não são treinadas
-	- Rou
+	- Rougue DNS são à prova de balas (?)
+	- "O Cliente" é o atacante
+	- Senhas fracas e vulnerabilidades nos endpoints.
