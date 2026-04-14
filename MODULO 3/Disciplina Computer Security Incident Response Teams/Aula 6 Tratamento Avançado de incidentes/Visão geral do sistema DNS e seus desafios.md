@@ -21,4 +21,6 @@ Principais Ataques de DNS inclem:
 	- Cybersquatting
 
 Como é envenenado o DNS
-	- O DNS é enganado
+	- O DNS é enganado, fazendo-o acreditar que recebeu informações autênticas
+	- As informações geralmente são armazenadas em cache por um tempo
+	- Espalha os 
