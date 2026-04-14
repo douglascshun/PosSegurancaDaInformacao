@@ -23,4 +23,5 @@ Principais Ataques de DNS inclem:
 Como é envenenado o DNS
 	- O DNS é enganado, fazendo-o acreditar que recebeu informações autênticas
 	- As informações geralmente são armazenadas em cache por um tempo
-	- Espalha os 
+	- Espalha os efeitos do ataque aos usuários do servidor
+	- O Hacker pode usar o seu próprio domínio e DNS hackeado
