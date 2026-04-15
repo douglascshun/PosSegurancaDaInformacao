@@ -20,4 +20,4 @@ Opções de Divulgação:
 	- Divulgação Limitada (Parcial)
 	- Divulgação completa
 
-Podem surgir problemas quando várias partes envolvidas no CVD Cfuncionam em diferentes tempos operacionais 
+Podem surgir problemas quando várias partes envolvidas no CVD Coordinate vulnerability Disclosure  funcionam em diferentes tempos operacionais.
