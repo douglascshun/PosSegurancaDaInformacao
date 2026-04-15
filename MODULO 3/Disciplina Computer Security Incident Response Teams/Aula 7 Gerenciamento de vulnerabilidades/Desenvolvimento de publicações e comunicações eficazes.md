@@ -25,4 +25,4 @@ Podem surgir problemas quando várias partes envolvidas no CVD Coordinate vulner
 
 Comunicações complexas reduzem a confiança.
 	Momento da Divulgação:
-		Quanto tempo é ""
+		Quanto tempo é "tempo suficiente" para responder a uma vulnerabilidade? Não existe uma única resposta certa. 
