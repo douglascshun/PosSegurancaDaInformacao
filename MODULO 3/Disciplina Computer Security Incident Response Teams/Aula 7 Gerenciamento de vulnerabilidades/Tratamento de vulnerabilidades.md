@@ -37,4 +37,7 @@ pós lançamento
 
 Monitoramento do processo
 	Monitore a eficácia de seus processos de tratamento de vulnerabilidades, incluindo, entre outros, as seguintes medições:
-		- 
+		- Velocidade
+		- Integridade
+		- Eficácia
+
