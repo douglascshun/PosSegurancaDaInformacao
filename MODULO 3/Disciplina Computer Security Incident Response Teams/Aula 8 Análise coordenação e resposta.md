@@ -15,4 +15,4 @@ Coordenação de vulnerabilidade
 	Envolve notificar, trabalhar junto e coordenar a troca de informações relevantes com várias partes.
 		Partes do serviço de coordenação:
 			- Notificação/Relatório de vulnerabilidades
-			- Coordenação das pares inte
+			- Coordenação das pares interessadas em vulnerabilidade
