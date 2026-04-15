@@ -29,3 +29,5 @@ Desenvolvimento de Remediação
 		2. Produção de correção
 		3. Teste de Remediação
 
+pós lançamento
+	Executa-se as seguintes ações em paralelo após a
