@@ -18,3 +18,7 @@ Coordenação de vulnerabilidade
 			- Coordenação das pares interessadas em vulnerabilidade
 
 A `Resposta de vulnerabilidade` visa obter informações obre vulnerabilidades conhecidas e agir de acordo para prevenir, detectar e remediar/mitigar essas vulnerabilidades.
+
+Busca determinar se existe uma vulnerabilidade divulgada nos sistemas de um consituinte.
+	Partes do serviço de resposta:
+		
