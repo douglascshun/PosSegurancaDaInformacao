@@ -22,3 +22,7 @@ Verificação
 		Etapas incluem:
 			- Investigação inicial
 			- Possível saída do processo
+
+Desenvolvimento de Remediação
+	Os fornecedores devem desenvolver e testar correções na seguinte ordem sequencial:
+		1. Decis
