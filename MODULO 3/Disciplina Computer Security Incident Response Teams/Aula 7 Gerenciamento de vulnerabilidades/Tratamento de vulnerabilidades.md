@@ -1,3 +1,5 @@
 [[Aula 7 Gerenciamento de vulnerabilidades]]
 
-ISO Iec 13011
+ISO IEC 30111
+	Normal que alinha o tratamento de vulnerabilidades 
+
