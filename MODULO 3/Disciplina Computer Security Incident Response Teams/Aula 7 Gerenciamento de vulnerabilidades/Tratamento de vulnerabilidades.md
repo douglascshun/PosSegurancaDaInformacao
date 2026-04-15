@@ -41,3 +41,6 @@ Monitoramento do processo
 		- Integridade
 		- Eficácia
 
+Confidencialidade das informações de vulnerabilidade
+	Há duas classes significativas de informações a serem protegidas
+		- Informações de identidade pessoal ou organizacional
