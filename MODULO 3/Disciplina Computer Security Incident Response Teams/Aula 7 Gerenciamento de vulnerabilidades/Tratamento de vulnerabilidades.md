@@ -21,3 +21,4 @@ Verificação
 	Os fornecedores devem `verificar` as vulnerabilidades relatadas.
 		Etapas incluem:
 			- Investigação inicial
+			- Possível saída do processo
