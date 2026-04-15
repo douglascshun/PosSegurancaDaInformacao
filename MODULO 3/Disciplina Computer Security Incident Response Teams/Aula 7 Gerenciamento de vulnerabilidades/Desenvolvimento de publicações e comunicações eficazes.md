@@ -11,3 +11,7 @@ Escolhendo uma Política de Divulgação:
 	- Informações de contato
 	- Tempo
 
+Opções de Divulgação:
+	- Que ações devo tomar em resposta a esse connhecimento?
+	- A quem mais devo contar sobre isso?
+	- O que devo dizer a eles?
