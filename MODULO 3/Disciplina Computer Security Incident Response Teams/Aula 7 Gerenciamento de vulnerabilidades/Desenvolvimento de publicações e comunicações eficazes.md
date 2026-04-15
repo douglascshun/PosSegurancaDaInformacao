@@ -21,4 +21,8 @@ Opções de Divulgação:
 	- Divulgação completa
 
 Podem surgir problemas quando várias partes envolvidas no CVD Coordinate vulnerability Disclosure  funcionam em diferentes tempos operacionais.
-	A complexidade dos problemas de coordenação aumenta rapidamente à medida que mais partes estão envolvidas no esforço de coordena
+	A complexidade dos problemas de coordenação aumenta rapidamente à medida que mais partes estão envolvidas no esforço de coordenação.
+
+Comunicações complexas reduzem a confiança.
+	Momento da Divulgação:
+		Quanto tempo é ""
