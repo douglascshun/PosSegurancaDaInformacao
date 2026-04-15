@@ -16,4 +16,4 @@ Propriedades de Vulnerabilidade
 	As propriedades interessantes das vulnerabilidades são diferentes das propriedades interessantes das falhas de software.
 
 Propriedade do Exploit
-	Para que o exploit execute o 
+	Para que o exploit execute o código, o código já deve existir no espaço de endereço do processo vulnerável ou deve ser injetado.
