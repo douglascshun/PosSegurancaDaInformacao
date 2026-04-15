@@ -15,3 +15,7 @@ Opções de Divulgação:
 	- Que ações devo tomar em resposta a esse connhecimento?
 	- A quem mais devo contar sobre isso?
 	- O que devo dizer a eles?
+	- Sem divulgação
+	- Divulgação Privada
+	- Divulgação Limitada (Parcial)
+	- Divulgação completa
