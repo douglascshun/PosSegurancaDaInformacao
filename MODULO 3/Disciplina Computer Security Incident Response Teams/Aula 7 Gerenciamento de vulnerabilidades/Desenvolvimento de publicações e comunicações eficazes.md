@@ -12,7 +12,7 @@ Escolhendo uma Política de Divulgação:
 	- Tempo
 
 Opções de Divulgação:
-	- Que ações devo tomar em resposta a esse connhecimento?
+	- Que ações devo tomar em resposta a esse conhecimento?
 	- A quem mais devo contar sobre isso?
 	- O que devo dizer a eles?
 	- Sem divulgação
@@ -26,3 +26,6 @@ Podem surgir problemas quando várias partes envolvidas no CVD Coordinate vulner
 Comunicações complexas reduzem a confiança.
 	Momento da Divulgação:
 		Quanto tempo é "tempo suficiente" para responder a uma vulnerabilidade? Não existe uma única resposta certa. 
+
+A divulgação de informações parciais pode ajudar os adversários . Não "provoque".
+	Provocar a existência de uma vulnerabilidade em um prodi
