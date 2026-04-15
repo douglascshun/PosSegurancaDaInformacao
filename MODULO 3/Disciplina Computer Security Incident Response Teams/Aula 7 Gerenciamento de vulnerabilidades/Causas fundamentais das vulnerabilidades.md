@@ -31,4 +31,6 @@ Os membros da equipe do CSIRT precisam ter uma compreensão básica de:
 	- Protocolos de rede comuns
 	- Aplicativos e serviços de rede comuns
 	- Conceitos de segurança de rede
-
+	- Problemas de segurança no nível do host
+	- Diferentes tipos de ataques de código malicioso
+	- Programação de sistemas e redes
