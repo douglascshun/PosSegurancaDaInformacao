@@ -12,3 +12,5 @@ Mitigação
 Falha de Segurança
 	Defeitos no código-fonte de software que podem levar a vulnerabilidades de software.
 
+Propriedades de Vulnerabilidade
+	As propriedades interessantes das vulnerabilidades são diferentes das propriedades interessantes das falhas de software.
