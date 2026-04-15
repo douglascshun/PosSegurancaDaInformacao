@@ -9,3 +9,6 @@ Versão do Programa
 Mitigação
 	Solução para uma falha ou vulnerabilidade de software que pode ser aplicada para impedir a exploração de uma vulnerabilidade.
 
+Falha de Segurança
+	Defeitos no código-fonte de software que podem levar a vulnerabilidades de software.
+
