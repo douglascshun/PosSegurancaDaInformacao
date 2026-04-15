@@ -16,3 +16,8 @@ Recebimento:
 		- Vulnerabilidades encontradas internamente
 		- Vulnerabilidades encontradas externamente
 		- Vulnerabilidades divulgadas publicamente
+
+Verificação
+	Os fornecedores devem `verificar` as vulnerabilidades relatadas.
+		Etapas incluem:
+			- Investigação inicial
