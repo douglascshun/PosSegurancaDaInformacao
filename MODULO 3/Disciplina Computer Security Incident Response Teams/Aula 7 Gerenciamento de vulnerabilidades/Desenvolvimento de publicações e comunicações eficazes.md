@@ -28,4 +28,4 @@ Comunicações complexas reduzem a confiança.
 		Quanto tempo é "tempo suficiente" para responder a uma vulnerabilidade? Não existe uma única resposta certa. 
 
 A divulgação de informações parciais pode ajudar os adversários . Não "provoque".
-	Provocar a existência de uma vulnerabilidade em um prodi
+	Provocar a existência de uma vulnerabilidade em um produto às vezes pode fornecer uma vantagem adversária que aumenta o risco para os usuários finais.
