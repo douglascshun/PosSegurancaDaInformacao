@@ -10,3 +10,5 @@ As fases do `processo de tratamento de vulnerabilidades` fornecem um ponto de pa
 
 Preparação:
 	Os fornecedores devem desenvolver políticas, processos e recursos antes de iniciar um programa de tratamento de vulnerabilidades.
+
+Recebimento
