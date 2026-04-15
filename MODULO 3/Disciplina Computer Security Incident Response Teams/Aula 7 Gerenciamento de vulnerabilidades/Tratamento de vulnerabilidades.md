@@ -35,3 +35,6 @@ pós lançamento
 		- Feedback do ciclo de vida de desenvolvimento de segurança
 		- Monitoramento
 
+Monitoramento do processo
+	Monitore a eficácia de seus processos de tratamento de vulnerabilidades, incluindo, entre outros, as seguintes medições:
+		- 
