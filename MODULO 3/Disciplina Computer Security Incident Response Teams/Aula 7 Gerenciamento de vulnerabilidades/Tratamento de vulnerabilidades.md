@@ -30,4 +30,8 @@ Desenvolvimento de Remediação
 		3. Teste de Remediação
 
 pós lançamento
-	Executa-se as seguintes ações em paralelo após a
+	Executa-se as seguintes ações em paralelo após liberar a correção de vulnerabilidades:
+		- Manutenção do caso 
+		- Feedback do ciclo de vida de desenvolvimento de segurança
+		- Monitoramento
+
