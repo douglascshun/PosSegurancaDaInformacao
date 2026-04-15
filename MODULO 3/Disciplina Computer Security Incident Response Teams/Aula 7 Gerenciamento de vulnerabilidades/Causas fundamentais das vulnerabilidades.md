@@ -7,3 +7,5 @@ Versão do Programa
 	Imagens executáveis reais que podem ser instaladas e executadas em um sistema
 
 Mitigação
+	Solução para uma falha ou vulnerabilidade de software que pode ser aplicada para impedir a exploração de uma vulnerabilidade.
+
