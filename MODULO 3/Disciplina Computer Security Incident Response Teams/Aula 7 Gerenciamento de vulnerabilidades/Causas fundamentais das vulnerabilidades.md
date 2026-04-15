@@ -19,4 +19,10 @@ Propriedade do Exploit
 	Para que o exploit execute o código, o código já deve existir no espaço de endereço do processo vulnerável ou deve ser injetado.
 
 Para entender como um ataque específico se manifesta, é necessário entender as `causas fundamentais` das vulnerabilidades.
-	- 
+	- Problemas de segurança física 
+	- Falhas de projetos de protocolo
+	- Código malicioso
+	- Falhas de implementação
+	- Pontos fracos de configuração
+	- Erros ou indiferença do usuário
+
