@@ -26,3 +26,4 @@ Para entender como um ataque específico se manifesta, é necessário entender a
 	- Pontos fracos de configuração
 	- Erros ou indiferença do usuário
 
+Os membros da equie
