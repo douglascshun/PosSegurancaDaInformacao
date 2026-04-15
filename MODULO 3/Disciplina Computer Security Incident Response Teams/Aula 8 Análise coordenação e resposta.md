@@ -19,6 +19,7 @@ Coordenação de vulnerabilidade
 
 A `Resposta de vulnerabilidade` visa obter informações obre vulnerabilidades conhecidas e agir de acordo para prevenir, detectar e remediar/mitigar essas vulnerabilidades.
 
-Busca determinar se existe uma vulnerabilidade divulgada nos sistemas de um consituinte.
+Busca determinar se existe uma vulnerabilidade divulgada nos sistemas de um constituinte.
 	Partes do serviço de resposta:
-		
+		- Detecção/Varredura de vulnerabilidade
+		- Correção de vulnerabilidade
