@@ -6,3 +6,4 @@ ISO IEC 30111
 ISO IEC 29147
 	Norma que busca alinhar a divulgação das vulnerabilidades
 
+As fases do `processo de tratamento de vu`
