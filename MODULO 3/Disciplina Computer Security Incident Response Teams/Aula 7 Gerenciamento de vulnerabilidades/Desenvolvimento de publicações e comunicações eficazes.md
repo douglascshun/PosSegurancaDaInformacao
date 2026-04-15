@@ -7,3 +7,7 @@ Escolhendo uma Política de Divulgação:
 	- Exceções
 	- Safe Harbor
 	- Requisitos de qualidade do relatório 
+	- Idioma(s) de comunicação preferido(s)
+	- Informações de contato
+	- Tempo
+
