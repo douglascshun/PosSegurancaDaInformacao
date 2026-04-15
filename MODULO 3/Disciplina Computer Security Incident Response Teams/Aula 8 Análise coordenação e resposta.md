@@ -11,4 +11,8 @@ Análise de vulnerabilidade
 
 A `Coordenação de vulnerabilida` visa trocar informações e coordenar as atividades com os participantes envolvidos.
 
-Coordenação 
+Coordenação de vulnerabilidade
+	Envolve notificar, trabalhar junto e coordenar a troca de informações relevantes com várias partes.
+		Partes do serviço de coordenação:
+			- Notificação/Relatório de vulnerabilidades
+			- Coordenação das pares inte
