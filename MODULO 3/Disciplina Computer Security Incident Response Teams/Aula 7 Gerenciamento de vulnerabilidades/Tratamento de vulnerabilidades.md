@@ -25,4 +25,7 @@ Verificação
 
 Desenvolvimento de Remediação
 	Os fornecedores devem desenvolver e testar correções na seguinte ordem sequencial:
-		1. Decis
+		1. Decisão de correção
+		2. Produção de correção
+		3. Teste de Remediação
+
