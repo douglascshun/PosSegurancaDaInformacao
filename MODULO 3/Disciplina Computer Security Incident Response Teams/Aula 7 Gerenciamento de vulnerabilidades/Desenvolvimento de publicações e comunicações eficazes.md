@@ -19,3 +19,5 @@ Opções de Divulgação:
 	- Divulgação Privada
 	- Divulgação Limitada (Parcial)
 	- Divulgação completa
+
+Podem surgir problemas quando várias partes envolvidas no CVD Cfuncionam em diferentes tempos operacionais 
