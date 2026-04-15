@@ -17,4 +17,4 @@ Coordenação de vulnerabilidade
 			- Notificação/Relatório de vulnerabilidades
 			- Coordenação das pares interessadas em vulnerabilidade
 
-A `Resposta de vulnerabilidade` visa obter informações obre vulnerabilidades conhecidas e agir de acordo para prevenir
+A `Resposta de vulnerabilidade` visa obter informações obre vulnerabilidades conhecidas e agir de acordo para prevenir, detectar e remediar/mitigar essas vulnerabilidades.
