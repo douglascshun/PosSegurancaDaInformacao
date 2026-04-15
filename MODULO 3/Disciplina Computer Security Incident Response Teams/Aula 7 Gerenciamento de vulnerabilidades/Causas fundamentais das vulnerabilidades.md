@@ -17,3 +17,6 @@ Propriedades de Vulnerabilidade
 
 Propriedade do Exploit
 	Para que o exploit execute o código, o código já deve existir no espaço de endereço do processo vulnerável ou deve ser injetado.
+
+Para entender como um ataque específico se manifesta, é necessário entender as `causas fundamentais` das vulnerabilidades.
+	- 
