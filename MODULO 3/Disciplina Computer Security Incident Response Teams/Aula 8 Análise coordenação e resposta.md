@@ -10,3 +10,5 @@ Análise de vulnerabilidade
 			- Desenvolvimento de correção
 
 A `Coordenação de vulnerabilida` visa trocar informações e coordenar as atividades com os participantes envolvidos.
+
+Coordenação 
