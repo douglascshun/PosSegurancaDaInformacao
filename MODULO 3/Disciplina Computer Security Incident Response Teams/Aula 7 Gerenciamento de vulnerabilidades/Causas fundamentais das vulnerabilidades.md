@@ -26,4 +26,9 @@ Para entender como um ataque específico se manifesta, é necessário entender a
 	- Pontos fracos de configuração
 	- Erros ou indiferença do usuário
 
-Os membros da equie
+Os membros da equipe do CSIRT precisam ter uma compreensão básica de:
+	- Análise de riscos de segurança
+	- Protocolos de rede comuns
+	- Aplicativos e serviços de rede comuns
+	- Conceitos de segurança de rede
+
