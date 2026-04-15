@@ -9,4 +9,4 @@ ISO IEC 29147
 As fases do `processo de tratamento de vulnerabilidades` fornecem um ponto de partida para desenvolver e organizar seu processo específico de tratamento de vulnerabilidades.
 
 Preparação:
-	Os forncedores devem desenvolver pol
+	Os fornecedores devem desenvolver políticas, processos e recursos antes de iniciar um programa de tratamento de vulnerabilidades.
