@@ -16,3 +16,5 @@ Coordenação de vulnerabilidade
 		Partes do serviço de coordenação:
 			- Notificação/Relatório de vulnerabilidades
 			- Coordenação das pares interessadas em vulnerabilidade
+
+A `Resposta de vulnerabilidade` visa obter informações obre vulnerabilidades conhecidas e agir de acordo para prevenir
