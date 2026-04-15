@@ -9,4 +9,4 @@ Análise de vulnerabilidade
 			- Análise de causa raiz
 			- Desenvolvimento de correção
 
-A `Coordenação de vulnerabil`
+A `Coordenação de vulnerabilida` visa trocar informações e coordenar as atividades com os participantes envolvidos.
