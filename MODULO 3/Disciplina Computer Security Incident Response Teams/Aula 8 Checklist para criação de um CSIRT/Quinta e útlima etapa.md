@@ -7,4 +7,5 @@ Nesse estágio, a equipe institucionalizou sua atuação na detecção de ameaç
 
 As atividades nesta fase incluem:
 	- Atividades de compartilhamento de dados
-	- Funções globais de "observação e alerta" para apoiar a comun
+	- Funções globais de "observação e alerta" para apoiar a comunidade de CSIRTs
+	- Melhorar a qualidade das atividades do CSIRT fornecendo treinamentos .
