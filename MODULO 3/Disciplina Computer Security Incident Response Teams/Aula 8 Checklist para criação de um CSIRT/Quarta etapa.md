@@ -19,4 +19,4 @@ Políticas e procedimentos foram desenvolvidos e implementados para:
 	- Estabelecer canais de comunicação protegidos
 	- Disseminar informações
 	- Coordenar as funções de resposta e análise
-	- Desenv
+	- Desenvolver estratégias de mitigação
