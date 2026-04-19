@@ -23,4 +23,6 @@ Mais especificamente, as atividades nesta fase incluem:
 	- Projetar os processos e mecanismos de comunicação e coordenação para informações
 	- Criar o plano nacional de CSIRT
 
-Documentação de operações
+Documentação de operações:
+	Pode-se desenvolver um `documento de operações` para auxiliar no escopo ou delimitar as responsabilidades da equipe
+	
