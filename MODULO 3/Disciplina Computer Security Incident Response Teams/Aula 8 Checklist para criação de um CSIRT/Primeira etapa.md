@@ -12,3 +12,6 @@ Essas reuniões e discussões devem incluir, por exemplo:
 	- Entender o desenvolvimento de capacidades de resposta a incidentes em nível de equipe nacional
 	- Identificar as pessoas que estarão envolvidas nas discussões
 	- Aprender quais são os principais recursos e infraestruturas
+	- Identificar os tipos de canais de comunicação necessários
+	- Considerar os tipos de missão, metas, objetivos e expectativas de alto nível
+	- De
