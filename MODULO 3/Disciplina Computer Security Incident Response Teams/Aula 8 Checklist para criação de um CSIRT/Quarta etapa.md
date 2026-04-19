@@ -4,3 +4,4 @@ A `quarta etapa` trata da `Operação do CSIRT`
 	Nessa etapa, o CSIRT nacional possui uma capacidade básica de gerenciamento de incidentes e a equipe está recebendo ativamente relatórios de incidentes e coordenando respostas a incidentes.
 Está `operacional`
 
+O CSIRT nacional tem uma visão com uma estrutura que de
