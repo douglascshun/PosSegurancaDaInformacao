@@ -10,4 +10,5 @@ As atividades nesta fase incluem:
 	- Funções globais de "observação e alerta" para apoiar a comunidade de CSIRTs
 	- Melhorar a qualidade das atividades do CSIRT fornecendo treinamentos 
 	- Ajudar a comunidade a desenvolver documentos e diretrizes
-	- 
+	- Revisar processos de gestão de incidentes - Tal da melhoria contínua
+	- Promover o desenvolvimento de CSIRT organizacionais dentro do eleitorado do país
