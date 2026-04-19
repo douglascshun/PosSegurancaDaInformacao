@@ -17,4 +17,7 @@ Essas reuniões e discussões devem incluir, por exemplo:
 	- Determinar as leis, regulamentos e outras políticas relevantes
 	- Investigar e identificar estratégias de financiamento
 	- Determinar infraestruturas de tecnologia e informações de rede
-	- Discutir planos básicos de resposta e interdepêndend
+	- Discutir planos básicos de resposta e interdependências
+	- Compreender o conjunto potencial de serviços básicos
+	- Revisar e pesquisar o que outros países estão fazendo
+
