@@ -8,3 +8,6 @@ As questões que são revisadas e discutidas posteriormente durante esta etapa i
 	- Identificação da clientela, serviços e suporte
 	- Custos, prazos e pessoas
 
+Mais especificamente, as atividades nesta fase incluem:
+	- Delinear os requisitos e a necessidade do CSIRT nacional 
+	- Desenvolver uma visão de como o CSIRT nacional irá po
