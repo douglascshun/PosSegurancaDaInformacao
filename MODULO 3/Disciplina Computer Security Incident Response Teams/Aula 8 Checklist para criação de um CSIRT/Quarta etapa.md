@@ -24,3 +24,5 @@ Políticas e procedimentos foram desenvolvidos e implementados para:
 - As principais partes interessadas reconhecem a equipe
 
 - Há procedimentos claramente definidos para comunicações, coordenação e escalação na resposta a ameaças.
+
+A equipe nacional promove o desenvolvimento e a implementação de outras CSIRTs locais dentro de suas fronteiras por meio de recu
