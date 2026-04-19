@@ -4,4 +4,7 @@ Com base no conhecimento e nas informações obtidas durante a primeira etapa, o
 
 As questões que são revisadas e discutidas posteriormente durante esta etapa incluirão:
 	- Articulação da necessidade de uma equipe
-	- Benefícios 
+	- Benefícios que ela fornecerá
+	- Identificação da clientela, serviços e suporte
+	- Custos, prazos e pessoas
+
