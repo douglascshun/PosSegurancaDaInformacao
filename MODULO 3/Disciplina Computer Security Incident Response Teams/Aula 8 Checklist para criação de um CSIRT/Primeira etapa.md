@@ -10,5 +10,5 @@ Para levantar questões relacionadas ao estabelecimento de uma capacidade nacion
 Essas reuniões e discussões devem incluir, por exemplo:
 	- Compreender os drivers de negócios e motivadores
 	- Entender o desenvolvimento de capacidades de resposta a incidentes em nível de equipe nacional
-	- Identificar as pessoas qe estarão envolvidas nas discussões
-	- Aprender quais são os pri
+	- Identificar as pessoas que estarão envolvidas nas discussões
+	- Aprender quais são os principais recursos e infraestruturas
