@@ -21,4 +21,6 @@ Políticas e procedimentos foram desenvolvidos e implementados para:
 	- Coordenar as funções de resposta e análise
 	- Desenvolver estratégias de mitigação
 
-- A
+- As principais partes interessadas reconhecem a equipe
+
+- Há procedimentos claramente definidos para comunicações, coordenação e escalação na resposta a ameaças.
