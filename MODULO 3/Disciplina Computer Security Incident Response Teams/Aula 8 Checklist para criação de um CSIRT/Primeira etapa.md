@@ -5,4 +5,5 @@ A `primeira etapa` trata de educar as partes interessadas sobre o desenvolviment
 Além de alavancar o treinamento disponível publicamente sobre questões de desenvolvimento de CSIRT, devem ocorrer:
 	Reuniões
 	Discussões
-Para levantar questões relacionadas ao estabe
+Para levantar questões relacionadas ao estabelecimento de uma capacidade nacional de CSIRT.
+
