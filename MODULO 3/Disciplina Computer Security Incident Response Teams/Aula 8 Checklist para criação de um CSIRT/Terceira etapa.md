@@ -7,4 +7,4 @@ As etapas básicas envolvidas incluem:
 	- Obter fundos
 	- Anunciar amplamente a criação do CSIRT nacional
 	- Formalizar os mecanismos de coordenação e comunicação
-	- Implementar os sistemas de informação seguros e infraestruturas de
+	- Implementar os sistemas de informação seguros e infraestruturas de rede
