@@ -16,4 +16,5 @@ Essas reuniões e discussões devem incluir, por exemplo:
 	- Considerar os tipos de missão, metas, objetivos e expectativas de alto nível
 	- Determinar as leis, regulamentos e outras políticas relevantes
 	- Investigar e identificar estratégias de financiamento
-	- 
+	- Determinar infraestruturas de tecnologia e informações de rede
+	- Discutir planos básicos de resposta e interdepêndend
