@@ -13,3 +13,4 @@ Mais especificamente, as atividades nesta fase incluem:
 	- Desenvolver uma visão de como o CSIRT nacional irá operar
 	- Identificar o tipo de aprovação nacional, liderança e patrocínio necessários
 	- Identificar os tipos de habilidades e conhecimentos da equipe necessários
+	- Definir os tipos de papéis e repo
