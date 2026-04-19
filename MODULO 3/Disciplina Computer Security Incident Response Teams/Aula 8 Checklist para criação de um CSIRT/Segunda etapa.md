@@ -17,3 +17,7 @@ Mais especificamente, as atividades nesta fase incluem:
 	- Especificar os processos de gerenciamento de incidentes
 	- Desenvolver um conjunto padronizado de critérios e terminologia
 	- Definir um conjunto de diretrizes de tratamento de incidentes e requisitos
+	- Determinar processos de recuperação de desastres e planos de continuidade
+	- Identificar quaisquer restrições que possam afetar o processo
+	- Determinar métodos para construir relacionamentos confiáveis e acordos
+	- Projetar 
