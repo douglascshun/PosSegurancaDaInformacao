@@ -10,4 +10,6 @@ As questões que são revisadas e discutidas posteriormente durante esta etapa i
 
 Mais especificamente, as atividades nesta fase incluem:
 	- Delinear os requisitos e a necessidade do CSIRT nacional 
-	- Desenvolver uma visão de como o CSIRT nacional irá po
+	- Desenvolver uma visão de como o CSIRT nacional irá operar
+	- Identificar o tipo de aprovação nacional, liderança e patrocínio necessários
+	- Identificar os tipos de habilidades e conhecimentos da equipe necessários
