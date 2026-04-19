@@ -31,4 +31,7 @@ A equipe nacional promove o desenvolvimento e a implementação de outras CSIRTs
 	- Outros materiais de recursos
 
 As tarefas nesta fase de operação incluem:
-	- Realizar ativamente os diversos s
+	- Realizar ativamente os diversos serviços
+	- Criar um mecanismo para avaliar a eficácia das operações nacionais
+	- Melhorar de acordo com os resultados
+	- Expandir a missão, os serviços e a equipe conforme apropriado.
