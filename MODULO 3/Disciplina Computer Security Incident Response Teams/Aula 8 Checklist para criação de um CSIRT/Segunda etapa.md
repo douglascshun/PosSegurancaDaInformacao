@@ -20,4 +20,5 @@ Mais especificamente, as atividades nesta fase incluem:
 	- Determinar processos de recuperação de desastres e planos de continuidade
 	- Identificar quaisquer restrições que possam afetar o processo
 	- Determinar métodos para construir relacionamentos confiáveis e acordos
-	- Projetar 
+	- Projetar os processos e mecanismos de comunicação e coordenação para informações
+	- Criar o plano nacional de CSIRT
