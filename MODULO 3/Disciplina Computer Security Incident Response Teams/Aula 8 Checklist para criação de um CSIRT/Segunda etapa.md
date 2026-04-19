@@ -22,3 +22,5 @@ Mais especificamente, as atividades nesta fase incluem:
 	- Determinar métodos para construir relacionamentos confiáveis e acordos
 	- Projetar os processos e mecanismos de comunicação e coordenação para informações
 	- Criar o plano nacional de CSIRT
+
+Documentação de operações
