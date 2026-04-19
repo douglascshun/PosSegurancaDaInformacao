@@ -14,4 +14,9 @@ O CSIRT nacional tem uma visão com uma estrutura que define:
 	- Estrutura
 	- Financiamento
 
-Pol
+Políticas e procedimentos foram desenvolvidos e implementados para:
+	- Manter relacionamentos confiáveis com parceiros
+	- Estabelecer canais de comunicação protegidos
+	- Disseminar informações
+	- Coordenar as funções de resposta e análise
+	- Desenv
