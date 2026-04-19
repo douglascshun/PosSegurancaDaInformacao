@@ -25,4 +25,5 @@ Mais especificamente, as atividades nesta fase incluem:
 
 Documentação de operações:
 	Pode-se desenvolver um `documento de operações` para auxiliar no escopo ou delimitar as responsabilidades da equipe
-	
+		Este servirá como roteiro para o desenvolvimento ou a "visão" do CSIRT e capturar a visão geral de alto nível dos itens.
+
