@@ -14,4 +14,5 @@ Essas reuniões e discussões devem incluir, por exemplo:
 	- Aprender quais são os principais recursos e infraestruturas
 	- Identificar os tipos de canais de comunicação necessários
 	- Considerar os tipos de missão, metas, objetivos e expectativas de alto nível
-	- De
+	- Determinar as leis, regulamentos e outras políticas relevantes
+	- Investigar e identificar estratégias de financiamento
