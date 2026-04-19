@@ -11,4 +11,4 @@ As etapas básicas envolvidas incluem:
 	- Desenvolver políticas e procedimentos operacionais
 	- Desenvolver políticas e procedimentos internos
 	- Implementação de processos para as interações com o eleitorado
-	- 
+	- Identificar e contratar (ou reatribuir) pessoal
