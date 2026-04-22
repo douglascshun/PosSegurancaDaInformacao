@@ -18,3 +18,7 @@ Dado pessoal
 			- Retrato em fotografia
 			- Histórico de pagamentos
 
+Os dados pessoais não abrangem:
+	- Pessoa falecida
+	- Dados anon
+
