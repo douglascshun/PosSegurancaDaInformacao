@@ -1,5 +1,7 @@
 [[Aula 1 Leis de proteção de dados]]
 
+# Canadá
+
 Canadá
 	PIPEDA
 		- Alinha com a GDPR
@@ -17,3 +19,7 @@ Princípios:
 	- Abertura
 	- Acesso individual
 	- Conformidade
+
+# Alemanha 
+
+Alemanha
