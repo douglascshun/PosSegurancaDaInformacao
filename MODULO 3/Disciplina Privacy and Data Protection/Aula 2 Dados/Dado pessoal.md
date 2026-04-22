@@ -25,4 +25,8 @@ Os dados pessoais não abrangem:
 	- Identificação de um indivíduo
 
 A importância do contexto
-	Uma informação que não identifica um indiv´
+	Uma informação que não identifica um indivíduo pode se tornar relevante
+		- Qual o seu cargo?
+		- Em que empresa você trabalha?
+		- Em que setor você trabalha?
+		- Em qual horário você trabalha?
