@@ -33,3 +33,5 @@ CPRA (direitos de privacidades da Califórnia)
 			- Empresas que recebem mais de 25 milhões por ano
 			- Possuem mais de 100 mil clientes
 			- E utilizam mais de 50% dos dados coletados dos clientes
+			- Direito de corrigir dados dos clientes
+			- Direito de limitar informações sensíveis
