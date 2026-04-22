@@ -34,4 +34,4 @@ CPRA (direitos de privacidades da Califórnia)
 			- Possuem mais de 100 mil clientes
 			- E utilizam mais de 50% dos dados coletados dos clientes
 			- Direito de corrigir dados dos clientes
-			- Direito de limitar informações sensíveis
+			- Direito de limitar informações sensíveis (religião, tipo sanguíneo, orientação sexual...)
