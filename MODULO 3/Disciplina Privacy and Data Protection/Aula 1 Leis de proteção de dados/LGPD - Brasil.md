@@ -9,4 +9,8 @@ Anteriormente, diversas disposições
 	Leis com disposições à proteção de dados
 		- Constituição Federal
 		- CCB
-		- CDC, Leis trabalhistas entre outros+
+		- CDC, Leis trabalhistas entre outros
+
+Aplicabilidade
+	A pessoas físicas ou jurídicas
+	
