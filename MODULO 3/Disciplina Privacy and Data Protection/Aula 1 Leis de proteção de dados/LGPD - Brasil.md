@@ -19,4 +19,5 @@ Aplicabilidade
 			- Localização dos dados
 
 A lei não se aplica ao tratamento de dados pessoais que sejam:
-	- Para fins jorna
+	- Para fins jornalísticos, artísticos ou acadêmicos
+	- Para fins de segurança pública, segurança nacional
