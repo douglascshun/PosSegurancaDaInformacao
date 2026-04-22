@@ -16,3 +16,9 @@ CCPA
 			- Possuem mais de 50 mil clientes
 			- E utilizam mais de 50% dos dados coletados dos clientes
 
+O que a CCPA engloba?
+	- Direito de saber
+	- Direito de acesso
+	- Direito de exclusão
+
+O que la se diferência da GDPR
