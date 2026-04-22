@@ -21,5 +21,7 @@ O que a CCPA engloba?
 	- Direito de acesso
 	- Direito de exclusão
 
-O que la se diferência da GDPR?
-	- Direito a igual serviço e preço (Igualdade entre o tratamento dos clientes, seja por questão financeira, religiosa, rac)
+O que la se diferença da GDPR?
+	- Direito a igual serviço e preço (Igualdade entre o tratamento dos clientes, seja por questão financeira, religiosa, racial, ou qualquer outra)
+	- Direito de apagar (pode, apagar um dado específico como, apenas a localização)
+	- Proteção especial a menor (não se )
