@@ -25,4 +25,4 @@ Princípios:
 Alemanha
 	TTDSG (Lei de Proteção de Dados de Telecomunicações e Telemedia)
 			Aplicabilidade:
-				- 
+				- Quaisquer organizações estabelecidas na Alemanha
