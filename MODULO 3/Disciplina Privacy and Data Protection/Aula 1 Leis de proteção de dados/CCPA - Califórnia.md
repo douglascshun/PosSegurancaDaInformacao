@@ -10,8 +10,9 @@ Legislação da Califórnia
 	Lei de Privacidade do Consumidor da Califórnia CCPA (2018)
 
 CCPA
-	- CCPA baseada na GDPR
+	-A CCPA é baseada na GDPR
 		- Quem deve cumprir?
 			- Empresas que recebem mais de 25 milhões por ano
 			- Possuem mais de 50 mil clientes
-			- E utilizam mais de 50% 
+			- E utilizam mais de 50% dos dados coletados dos clientes
+
