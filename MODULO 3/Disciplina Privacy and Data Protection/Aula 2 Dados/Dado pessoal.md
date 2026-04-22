@@ -23,5 +23,6 @@ Os dados pessoais não abrangem:
 	- Dados anonimizados
 	- Empresas e autoridades públicas
 	- Identificação de um indivíduo
-	- 
 
+A importância do contexto
+	Uma informação que não identifica um indiv´
