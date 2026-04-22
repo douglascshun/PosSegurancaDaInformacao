@@ -6,3 +6,6 @@ Conjunto de dados que devem ser tratados com segurança extra pois revelam:
 	- Crença religiosa
 	- Dados genéticos
 	- Dados biométricos
+
+Exemplo de dados:
+	- 
