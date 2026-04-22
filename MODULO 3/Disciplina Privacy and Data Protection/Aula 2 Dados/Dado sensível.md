@@ -8,4 +8,6 @@ Conjunto de dados que devem ser tratados com segurança extra pois revelam:
 	- Dados biométricos
 
 Exemplo de dados:
-	- 
+	- Maria do Carmo Oliveira (Dado sensível)
+	- CPF 123.444.555-88 (dado sigiloso)
+	- Cristã (dado senspiv)
