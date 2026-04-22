@@ -10,5 +10,11 @@ Dado pessoal
 			- Telefone
 			- Data de nascimento
 			- Cookies
-			- Endereços IP
+			- Endereços IPs
+			- Cartão bancário
+			- Email
+			- Endereço residencial
+			- Localização via GPS
+			- Retrato em fotografia
+			- Histórico de pagamentos
 
