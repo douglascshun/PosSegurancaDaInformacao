@@ -37,3 +37,6 @@ Obrigações:
 
 China
 	PIPL (Lei de Proteção de Informações Pessoais da China)
+		Se assemelha a CCPA e GDPR
+			Aplicabilidade:
+				- Organizações ou individuos qu
