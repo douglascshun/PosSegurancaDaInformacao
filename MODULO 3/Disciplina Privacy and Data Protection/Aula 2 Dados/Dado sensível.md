@@ -10,4 +10,8 @@ Conjunto de dados que devem ser tratados com segurança extra pois revelam:
 Exemplo de dados:
 	- Maria do Carmo Oliveira (Dado sensível)
 	- CPF 123.444.555-88 (dado sigiloso)
-	- Cristã (dado senspiv)
+	- Cristã (dado sensível)
+	- Japonesa 
+	- Natural de Petrolina
+	- Gosta de Rock e viajar
+	- maria@meuemail.com
