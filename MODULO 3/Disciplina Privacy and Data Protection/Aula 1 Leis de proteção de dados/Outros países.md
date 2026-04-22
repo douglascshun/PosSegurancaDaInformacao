@@ -30,5 +30,5 @@ Alemanha
 Obrigações:
 	- Colete e armazene os consentimentos dos usuários
 	- Obter consentimento para armazenar ou ler informações
-	- Exibir um banner de cookie
-	- Permitir o usu´
+	- Exibir um banner de cookies
+	- Permitir o usuário gerir seu consentimento
