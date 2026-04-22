@@ -4,7 +4,7 @@
 
 Canadá
 	PIPEDA
-		- Alinha com a GDPR
+		(Se alinha com a GDPR)
 			Aplicabilidade:
 				- Organizações que coletam, usam ou divulgam dados
 
@@ -23,3 +23,6 @@ Princípios:
 # Alemanha 
 
 Alemanha
+	TTDSG (Lei de Proteção de Dados de Telecomunicações e Telemedia)
+			Aplicabilidade:
+				- 
