@@ -8,3 +8,8 @@ Estados com poder
 
 Legislação da Califórnia
 	Lei de Privacidade do Consumidor da Califórnia CCPA (2018)
+
+CCPA
+	- CCPA baseada na GDPR
+		- Quem deve cumprir?
+			-
