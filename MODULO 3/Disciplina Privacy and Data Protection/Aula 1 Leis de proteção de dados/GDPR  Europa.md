@@ -4,4 +4,8 @@ GDPR
 	- Substitui a Diretiva de Proteção de Dados
 	- Padrão mais abrangente
 	- Aprovado em 2016 >> 2018
-	
+
+Foco na:
+	- União Europeia
+		Objetivo: Consumidor ter controle de seus dados
+	E se o site estiver fora da Europa?
