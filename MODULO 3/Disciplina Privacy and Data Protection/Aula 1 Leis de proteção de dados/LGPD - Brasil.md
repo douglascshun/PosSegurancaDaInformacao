@@ -15,5 +15,8 @@ Aplicabilidade
 	A pessoas físicas ou jurídicas
 		Independentemente de:
 			- Meio de tratamento
-			- Do país de sede
+			- Do país de sede (Salvo dados  armazenados fora do Brasil)
 			- Localização dos dados
+
+A lei não se aplica ao tratamento de dados pessoais que sejam:
+	- Para fins jorna
