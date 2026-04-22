@@ -5,3 +5,11 @@ Canadá
 		- Alinha com a GDPR
 			Aplicabilidade:
 				- Organizações que coletam, usam ou divulgam dados
+
+Princípios:
+	- Responsabilidade
+	- Identificação do propósito
+	- Consentimento
+	- Coleta limitante
+	- Limitações 
+	- Pre
