@@ -15,4 +15,5 @@ Garantias da GDPR:
 	- Consentimento
 	- Notificação de violação
 	- Informações pessoais:
-		- Anonimizadas ou pseudonimizadas
+		- Anonimizadas ou pseudobatizadas
+	Nomeação de DPO (Responsável por proteger os dados) 
