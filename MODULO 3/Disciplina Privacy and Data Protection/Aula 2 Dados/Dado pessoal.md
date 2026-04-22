@@ -20,5 +20,8 @@ Dado pessoal
 
 Os dados pessoais não abrangem:
 	- Pessoa falecida
-	- Dados anon
+	- Dados anonimizados
+	- Empresas e autoridades públicas
+	- Identificação de um indivíduo
+	- 
 
