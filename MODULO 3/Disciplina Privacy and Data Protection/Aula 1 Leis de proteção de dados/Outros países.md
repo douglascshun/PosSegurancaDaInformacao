@@ -12,4 +12,8 @@ Princípios:
 	- Consentimento
 	- Coleta limitante
 	- Limitações 
-	- Pre
+	- Precisão
+	- Proteção
+	- Abertura
+	- Acesso individual
+	- Conformidade
