@@ -13,4 +13,7 @@ Anteriormente, diversas disposições
 
 Aplicabilidade
 	A pessoas físicas ou jurídicas
-	
+		Independentemente de:
+			- Meio de tratamento
+			- Do país de sede
+			- Localização dos dados
