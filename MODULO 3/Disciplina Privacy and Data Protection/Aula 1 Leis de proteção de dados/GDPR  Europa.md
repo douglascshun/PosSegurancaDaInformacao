@@ -9,3 +9,10 @@ Foco na:
 	- União Europeia
 		Objetivo: Consumidor ter controle de seus dados
 	E se o site estiver fora da Europa?5
+
+Garantias da GDPR:
+	- Notificação de coleta
+	- Consentimento
+	- Notificação de violação
+	- Informações pessoais:
+		- Anonimizadas ou pseudonimizadas
