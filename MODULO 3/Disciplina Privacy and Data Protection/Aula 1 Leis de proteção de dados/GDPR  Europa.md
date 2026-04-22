@@ -8,4 +8,4 @@ GDPR
 Foco na:
 	- União Europeia
 		Objetivo: Consumidor ter controle de seus dados
-	E se o site estiver fora da Europa?
+	E se o site estiver fora da Europa?5
