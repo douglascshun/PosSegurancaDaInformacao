@@ -3,5 +3,5 @@
 Canadá
 	PIPEDA
 		- Alinha com a GDPR
-			Aplicabilidade
-			
+			Aplicabilidade:
+				- Organizações que coletam, usam ou divulgam dados
