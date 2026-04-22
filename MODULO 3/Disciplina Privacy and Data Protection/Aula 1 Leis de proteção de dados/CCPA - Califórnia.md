@@ -7,4 +7,4 @@ Estados com poder
 	Criaram leis relacionadas a dados
 
 Legislação da Califórnia
-	Lei de Privacidade do Consumidor da Califórnia CCPA ()
+	Lei de Privacidade do Consumidor da Califórnia CCPA (2018)
