@@ -12,4 +12,6 @@ Legislação da Califórnia
 CCPA
 	- CCPA baseada na GDPR
 		- Quem deve cumprir?
-			-
+			- Empresas que recebem mais de 25 milhões por ano
+			- Possuem mais de 50 mil clientes
+			- E utilizam mais de 50% 
