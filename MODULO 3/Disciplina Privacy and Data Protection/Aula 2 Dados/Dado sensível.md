@@ -11,7 +11,7 @@ Exemplo de dados:
 	- Maria do Carmo Oliveira (Dado sensível)
 	- CPF 123.444.555-88 (dado sigiloso)
 	- Cristã (dado sensível)
-	- Japonesa 
+	- Japonesa (dado sensível)
 	- Natural de Petrolina
 	- Gosta de Rock e viajar
-	- maria@meuemail.com
+	- maria@meuemail.com (dado sensível/case sensitive)
