@@ -28,3 +28,8 @@ O que la se diferença da GDPR?
 
 CPRA (direitos de privacidades da Califórnia)
 	- Aprovada em novembro de 2020
+		- Em vigor a partir de Janeiro de 2023
+			- O que muda?
+			- Empresas que recebem mais de 25 milhões por ano
+			- Possuem mais de 100 mil clientes
+			- E utilizam mais de 50% dos dados coletados dos clientes
