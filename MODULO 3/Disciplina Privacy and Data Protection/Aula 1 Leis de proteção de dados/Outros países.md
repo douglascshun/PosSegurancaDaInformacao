@@ -32,3 +32,8 @@ Obrigações:
 	- Obter consentimento para armazenar ou ler informações
 	- Exibir um banner de cookies
 	- Permitir o usuário gerir seu consentimento
+
+# China
+
+China
+	PIPL (Lei de Proteção de Informações Pessoais da China)
