@@ -40,3 +40,9 @@ China
 		Se assemelha a CCPA e GDPR
 			Aplicabilidade:
 				- Organizações ou indivíduos que processam informações na China
+
+Obrigações:
+	- Respeitas os direitos dos usuários
+	- Ter base legal para processamento de dados
+	- Divulgar as atividades de processamento de dados
+	- Fornecer segurança de dados
