@@ -27,3 +27,4 @@ Tipo 1
 ![[Dado Anonimizado.png]]
 
 Tipo 2
+![[Dado Anonimizados 2.png]]![[Pasted image 20260423141942.png]]
