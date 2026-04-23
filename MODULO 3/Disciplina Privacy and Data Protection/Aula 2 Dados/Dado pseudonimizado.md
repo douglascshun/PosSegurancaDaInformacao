@@ -12,4 +12,5 @@ Dados anonimizados
 Dado pseudonimizados
 	Dados que são codificados e futuramente podem ser associados ao titular e utilizado
 
-LGPD artigo 
+LGPD artigo § 4°
+	"para os efeitos deste artigo, a pseudonimização é o tratamento por meio do qual um"
