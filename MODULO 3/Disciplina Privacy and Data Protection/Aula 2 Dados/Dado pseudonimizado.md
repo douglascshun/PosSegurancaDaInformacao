@@ -13,4 +13,4 @@ Dado pseudonimizados
 	Dados que são codificados e futuramente podem ser associados ao titular e utilizado
 
 LGPD artigo § 4°
-	"para os efeitos deste artigo, a pseudonimização é o tratamento por meio do qual um"
+	"para os efeitos deste artigo, a pseudonimização é o tratamento por meio do qual um `dado perde a possibilidade de associação`, direta ou indireta, a um indivíduo, `senão` pelo uso de informação adicional mantida separadamente pelo controlador em ambiente controlado e seguro."
