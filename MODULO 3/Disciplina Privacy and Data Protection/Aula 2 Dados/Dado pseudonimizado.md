@@ -1,2 +1,8 @@
 [[Aula 2 Dados]]
 
+Dados pessoais
+	Dados que identificam uma pessoa natural (viva)
+
+Dados sensíveis
+	Dados sobre origem, convicção religiosa, saúde
+
