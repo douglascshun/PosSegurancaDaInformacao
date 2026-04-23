@@ -22,3 +22,6 @@ O que fazer com estes dados?
 		- Cumprimento de obrigação legal
 		- Preservação da vida
 		- Prevenção de fraude contra o titular
+
+Dados relacionados a crianças e adolescentes
+	- Deve o
