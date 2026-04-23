@@ -24,4 +24,6 @@ O que fazer com estes dados?
 		- Prevenção de fraude contra o titular
 
 Dados relacionados a crianças e adolescentes
-	- Deve o
+	- Deve obter o consentimento específico 
+	- Sem consentimento? Sem armazenamento!
+	- Tratamento somente quando for indispensável
