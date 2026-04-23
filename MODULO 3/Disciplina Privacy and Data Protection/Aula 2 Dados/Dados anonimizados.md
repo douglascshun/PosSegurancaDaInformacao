@@ -20,3 +20,5 @@ Diversas técnicas de anonimização de dados:
 	- Pseudonimização
 	- Embaralhamento
 	- Dados sintéticos
+
+
