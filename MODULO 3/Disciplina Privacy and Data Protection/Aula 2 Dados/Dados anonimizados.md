@@ -3,4 +3,8 @@
 Dado pessoal
 	Dado que identifica uma pessoa natural
 
-Dado sensív
+Dado sensível
+	Dado sobre origem, convicção religiosa, saúde...
+
+Dado anonimizado
+	Dado de um individuo que não possa ser identificado
