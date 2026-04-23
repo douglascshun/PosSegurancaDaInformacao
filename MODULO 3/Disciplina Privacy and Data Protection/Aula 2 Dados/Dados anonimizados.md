@@ -32,4 +32,4 @@ Tipo 2
 
 LGPD
 	Artigo 12
-		"Os dados anonimizados `não serão considerados dados pessoais` para os fins desta Lei, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido"
+		"Os dados anonimizados `não serão considerados dados pessoais` para os fins desta Lei, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido."
