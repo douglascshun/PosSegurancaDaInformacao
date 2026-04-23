@@ -12,4 +12,4 @@ Dados anonimizados
 Dado pseudonimizados
 	Dados que são codificados e futuramente podem ser associados ao titular e utilizado
 
-LGPD artigo 13 /?°æßð«»©?°®
+LGPD artigo 
