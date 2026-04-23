@@ -28,3 +28,8 @@ Tipo 1
 
 Tipo 2
 ![[Dado Anonimizados 2.png]]![[Pasted image 20260423141942.png]]
+
+
+LGPD
+	Artigo 12
+		"Os dados anonimizados `não ser~`"
