@@ -22,3 +22,4 @@ Diversas técnicas de anonimização de dados:
 	- Dados sintéticos
 
 
+
