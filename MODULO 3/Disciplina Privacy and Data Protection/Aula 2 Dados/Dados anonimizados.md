@@ -19,4 +19,4 @@ Diversas técnicas de anonimização de dados:
 	- Pertubação
 	- Pseudonimização
 	- Embaralhamento
-	- Dadps sint
+	- Dados sintéticos
