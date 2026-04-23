@@ -8,3 +8,6 @@ Dado sensível
 
 Dado anonimizado
 	Dado de um individuo que não possa ser identificado
+
+LGPD
+	"Utilização de `meios técnicos`"
