@@ -7,4 +7,7 @@ Dados sensíveis
 	Dados sobre origem, convicção religiosa, saúde
 
 Dados anonimizados
-	Dados de um indi
+	Dados de um indivíduo que não possa ser identificado
+
+Dado pseudonimizados
+	Dados que são codificados e po
