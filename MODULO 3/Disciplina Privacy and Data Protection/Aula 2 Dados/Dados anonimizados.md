@@ -21,5 +21,5 @@ Diversas técnicas de anonimização de dados:
 	- Embaralhamento
 	- Dados sintéticos
 
-
-
+Dado Anonimizado
+![[Dado Anonimizado.png]]
