@@ -6,3 +6,5 @@ Dados pessoais
 Dados sensíveis
 	Dados sobre origem, convicção religiosa, saúde
 
+Dados anonimizados
+	Dados de um indi
