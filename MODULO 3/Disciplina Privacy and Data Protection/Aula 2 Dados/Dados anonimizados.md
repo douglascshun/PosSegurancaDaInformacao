@@ -14,4 +14,9 @@ LGPD
 
 Trata-se da `sanitização` ou `limpeza` de informações que removem identificadores.
 
-Diversas 
+Diversas técnicas de anonimização de dados:
+	- Generalização
+	- Pertubação
+	- Pseudonimização
+	- Embaralhamento
+	- Dadps sint
