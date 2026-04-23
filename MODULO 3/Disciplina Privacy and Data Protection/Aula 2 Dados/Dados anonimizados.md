@@ -10,4 +10,4 @@ Dado anonimizado
 	Dado de um individuo que não possa ser identificado
 
 LGPD
-	"Utilização de `meios técnicos`"
+	"Utilização de `meios técnicos` razoáveis e disponíveis no momento do tratamento, por meio dos quais `um dado perde a possibildiade de associação`, direta ou indireta, a um indivíduo"
