@@ -19,3 +19,7 @@ GDPR
 	"O tratamento de dados pessoais de forma que `deixem de poder ser atribuídos a um titular` de dados específicos sem recorrer a informações suplementares, desde que essas `informações sejam mantidas separadamente` e sujeita a medidas técnicas e `organizativas` para assegurar que os dados pessoais não possam ser atribuídos a uma pessoa singular identificada ou identificável."
 
 Trata-se do `disfarce` de informações utilizando identificadores. 
+
+Duas principais técnicas de psedonimização de dados
+	- Criptografia 
+	- Tokenização
