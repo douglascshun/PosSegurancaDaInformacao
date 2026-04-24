@@ -15,3 +15,8 @@ Diversos entraves para obtenção do consentimento livre
 	- Complexidade das políticas de privacidade que acaba sendo ignorada
 	- Inacessibilidade das políticas de privacidade
 	- Consentimento coercitivo, deixando o consumidor sem alternativas
+
+Como obter o consentimento?
+	- Por um meio que demonstre a vontade do titular
+	- Finalidade determinada
+	- Sem texto genérico e/ou abusivo
