@@ -20,3 +20,9 @@ Como obter o consentimento?
 	- Por um meio que demonstre a vontade do titular
 	- Finalidade determinada
 	- Sem texto genérico e/ou abusivo
+
+Dados pessoais sensíveis
+	Apenas quando o titular autorizar e para finalidade determinada
+
+Dados pessoais de crianças e adolecentes
+	
