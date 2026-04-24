@@ -28,3 +28,7 @@ Exemplo de tokenização
 
 dados recebidos:
 ![[Pasted image 20260424141328.png]]
+
+Dado pseudonimizado:
+![[Pasted image 20260424141407.png]]
+(não se trata de desvincular o dado de uma determinada pessoa, mas dificultar o pro)
