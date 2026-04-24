@@ -31,3 +31,4 @@ Transferência internacional de dados pessoais
 	Apenas quando o motivo da transferência estiver bem definido e em destaque
 
 LGPD art 7 e art 10
+	"O legítimo interesse do controlador dos dados poderá basear o tratamento para `finalidade legítimas`, consideradas a partir de situações concretas, que incluem, mas não se limitama
