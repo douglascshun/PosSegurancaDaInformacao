@@ -29,3 +29,5 @@ Dados pessoais de crianças e adolescentes
 
 Transferência internacional de dados pessoais 
 	Apenas quando o motivo da transferência estiver bem definido e em destaque
+
+LGPD art 7 e art 10
