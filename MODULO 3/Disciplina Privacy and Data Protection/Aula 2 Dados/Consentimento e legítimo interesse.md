@@ -24,5 +24,8 @@ Como obter o consentimento?
 Dados pessoais sensíveis
 	Apenas quando o titular autorizar e para finalidade determinada
 
-Dados pessoais de crianças e adolecentes
-	
+Dados pessoais de crianças e adolescentes
+	O consentimento deve ser fornecido pelos pais ou responsáveis legais 
+
+Transferência de dados pessoais 
+	Apenas quando o motivo da transferência estiver bem definido e em destaque
