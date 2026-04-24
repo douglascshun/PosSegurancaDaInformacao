@@ -13,3 +13,5 @@ GDPR
 Diversos entraves para obtenção do consentimento livre
 	- Falta de compreensão da política de privacidade pelo consumidor
 	- Complexidade das políticas de privacidade que acaba sendo ignorada
+	- Inacessibilidade das políticas de privacidade
+	- Consentimento coercitivo, deixando o consumidor sem alternativas
