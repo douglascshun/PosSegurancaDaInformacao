@@ -3,3 +3,6 @@
 Consentimento
 	Quantos dados fornecemos diariamente?
 		Estes dados são concedidos livremente!
+
+LGPD
+	""
