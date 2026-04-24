@@ -27,5 +27,5 @@ Dados pessoais sensíveis
 Dados pessoais de crianças e adolescentes
 	O consentimento deve ser fornecido pelos pais ou responsáveis legais 
 
-Transferência de dados pessoais 
+Transferência internacional de dados pessoais 
 	Apenas quando o motivo da transferência estiver bem definido e em destaque
