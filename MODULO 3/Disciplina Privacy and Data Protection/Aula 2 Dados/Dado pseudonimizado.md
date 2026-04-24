@@ -23,3 +23,8 @@ Trata-se do `disfarce` de informações utilizando identificadores.
 Duas principais técnicas de psedonimização de dados
 	- Criptografia 
 	- Tokenização
+
+Exemplo de tokenização
+
+dados recebidos:
+![[Pasted image 20260424141328.png]]
