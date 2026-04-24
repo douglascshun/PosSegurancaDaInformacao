@@ -32,4 +32,5 @@ Transferência internacional de dados pessoais
 
 LGPD art 7 e art 10
 	"O legítimo interesse do controlador dos dados poderá basear o tratamento para `finalidade legítimas`, consideradas a partir de situações concretas, que incluem, mas não se limitam a:
-		-1. `apoio` e promoção de atividades do `controlador
+		-1. `apoio` e promoção de atividades do `controlador`
+		-2. `proteção`, em relação ao titular, do exercício regular de seus `direitos` ou prestação de serviços que o beneficiem, respeitadas as legítimas expectativas dele e 
