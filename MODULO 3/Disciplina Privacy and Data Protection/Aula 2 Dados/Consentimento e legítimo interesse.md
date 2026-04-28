@@ -1,4 +1,4 @@
-ur[[Aula 2 Dados]]
+[[Aula 2 Dados]]
 
 Consentimento
 	Quantos dados fornecemos diariamente?
