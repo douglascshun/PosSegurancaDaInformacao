@@ -8,4 +8,8 @@ Pilares
 	- Visibilidade e transparência
 	- Respeito pela privacidade do usuário
 	- Privacidade como configuração padrão
-Incorporar garantias de privacidade a dados pessoais em todos os projet
+
+Incorporar garantias de privacidade a dados pessoais em todos os projetos desenvolvidos.
+	- Resultado da privacidade by default
+	- Garantia de que o produto seja lançado e recebido com todas as garantidas de privacidade
+	- O usuár
