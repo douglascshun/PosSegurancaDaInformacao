@@ -5,4 +5,5 @@ Os termos não representam a mesma coisa!
 	- Proteção define mecanismos para garantir as políticas 
 
 Os termos não representam a mesma coisa!
-- 
+	- Usuário controla a privacidade
+	- Empresas garantem a proteção
