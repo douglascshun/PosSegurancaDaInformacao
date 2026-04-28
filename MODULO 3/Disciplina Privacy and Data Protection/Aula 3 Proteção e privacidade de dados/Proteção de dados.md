@@ -21,4 +21,4 @@ Princípios de proteção de dados
 	- Integridade e confidencialidade
 	- Responsabilidade
 
-A proteção de dados, protege as informações ont
+A proteção de dados, protege as informações contra perda por meio de `backups e recuperação`
