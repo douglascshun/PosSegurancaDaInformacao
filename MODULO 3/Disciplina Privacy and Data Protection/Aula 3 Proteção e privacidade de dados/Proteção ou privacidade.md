@@ -3,3 +3,6 @@
 Os termos não representam a mesma coisa!
 	- Privacidade define políticas
 	- Proteção define mecanismos para garantir as políticas 
+
+Os termos não representam a mesma coisa!
+- 
