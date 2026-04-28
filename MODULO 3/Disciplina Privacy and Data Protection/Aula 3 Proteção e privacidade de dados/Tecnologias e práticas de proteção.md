@@ -19,3 +19,8 @@ Replicação
 
 Criptografia
 	Altera o conteúdo dos dados de acordo com um algoritmo.
+
+Eliminação de dados
+	Limita a responsabilidade ao excluir dados que não são mais necessários.
+
+Autenticação e autor
