@@ -17,4 +17,5 @@ Snapshot
 Replicação
 	Estratégias para copiar dados protegidos de um local para outro.
 
-Criptograf
+Criptografia
+	Altera o conteúdo dos dados de acordo com um algoritmo.
