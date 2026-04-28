@@ -9,4 +9,12 @@ Prevenção contra perda de dados.
 	Estratégias para evitar que dados sejam perdidos, roubados ou excluídos acidentalmente.
 
 Backups
-	Criar cópias de seus dados e armazen
+	Criar cópias de seus dados e armazena-los separadamente.
+
+Snapshot
+	Imagem completa de um sistema protegido, semelhante ao backup
+
+Replicação
+	Estratégias para copiar dados protegidos de um local para outro.
+
+Criptograf
