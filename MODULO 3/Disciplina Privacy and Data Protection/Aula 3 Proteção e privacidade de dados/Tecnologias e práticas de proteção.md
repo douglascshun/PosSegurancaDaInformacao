@@ -23,4 +23,5 @@ Criptografia
 Eliminação de dados
 	Limita a responsabilidade ao excluir dados que não são mais necessários.
 
-Autenticação e autor
+Autenticação e autorização
+	Verificar as credenciais e garantir que os privilégios sejam aplicados corretamente.
