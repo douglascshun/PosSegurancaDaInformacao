@@ -25,3 +25,6 @@ Eliminação de dados
 
 Autenticação e autorização
 	Verificar as credenciais e garantir que os privilégios sejam aplicados corretamente.
+
+Firewall
+	Podemos utilizar firewall para que somente usuários autorizados trafeguem dados.
