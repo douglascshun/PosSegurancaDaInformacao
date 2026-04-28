@@ -5,3 +5,5 @@ Pilares
 	- Privacidade incorporada ao design
 	- Funcionalidade completa
 	- Segurança de ponta a ponta
+	- Visibilidade e transparência
+	- Respeito pela p
