@@ -8,6 +8,8 @@ Proteção de dados cobre:
 
 
 Aspectos do gerenciamento de dados
-	Disponibilidade de dados
-	Gerenciamento do ciclo de vida dos dados
-	Gerenciame
+	- Disponibilidade de dados
+	- Gerenciamento do ciclo de vida dos dados
+	- Gerenciamento do ciclo de vida das informações
+
+Princííos de proteçãp de 
