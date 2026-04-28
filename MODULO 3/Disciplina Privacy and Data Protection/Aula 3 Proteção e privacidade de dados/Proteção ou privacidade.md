@@ -7,3 +7,6 @@ Os termos não representam a mesma coisa!
 Os termos não representam a mesma coisa!
 	- Usuário controla a privacidade
 	- Empresas garantem a proteção
+	- Privacidade tenta impedir a venda e compartilhamento de dados
+	- Proteção tenta manter estes dados longe de hackers
+	- 
