@@ -6,4 +6,6 @@ Pilares
 	- Funcionalidade completa
 	- Segurança de ponta a ponta
 	- Visibilidade e transparência
-	- Respeito pela p
+	- Respeito pela privacidade do usuário
+	- Privacidade como configuração padrão
+Incorporar garantias de privacidade a dados pessoais em todos os projet
