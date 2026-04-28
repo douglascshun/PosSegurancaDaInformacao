@@ -7,3 +7,5 @@
 - Subconjunto de um conceito mais amplo que é a proteção de dados
 
 Dois aspectos principais
+	- Controle de acesso
+	- Criação de mecanismos que impeçam o acesso não autorizado
