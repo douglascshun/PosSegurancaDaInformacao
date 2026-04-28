@@ -5,3 +5,5 @@
 - Tratamento adequado de dados pessoais ou informações de identificação pessoal
 - Privacidade de dados é diferente de segurança de dados
 - Subconjunto de um conceito mais amplo que é a proteção de dados
+
+Dois aspectos principais
