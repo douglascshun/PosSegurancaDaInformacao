@@ -17,5 +17,7 @@ Princípios de proteção de dados
 	- Limitação de finalidade 
 	- Minimização de dados
 	- Precisão
-
+	- Limitação de armazenamento
+	- Integridade e confidencialidade
+	- Responsabilidade
 
