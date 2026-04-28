@@ -8,3 +8,5 @@ Descoberta de dados
 Prevenção contra perda de dados.
 	Estratégias para evitar que dados sejam perdidos, roubados ou excluídos acidentalmente.
 
+Backups
+	Criar cópias de seus dados e armazen
