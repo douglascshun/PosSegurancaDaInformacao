@@ -12,4 +12,10 @@ Aspectos do gerenciamento de dados
 	- Gerenciamento do ciclo de vida dos dados
 	- Gerenciamento do ciclo de vida das informações
 
-Princííos de proteçãp de 
+Princípios de proteção de dados
+	- Legalidade, justiça e transparência
+	- Limitação de finalidade 
+	- Minimização de dados
+	- Precisão
+
+
