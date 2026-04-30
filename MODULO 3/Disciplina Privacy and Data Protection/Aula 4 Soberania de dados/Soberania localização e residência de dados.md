@@ -22,3 +22,9 @@ Localização dos dados
 	- Conceito mais rigoroso, se assemelhando a soberania de dados
 	- Requer que os dados criados permaneçam dentro da fronteira original
 	- Alguns países utilizam a localização de dados para impedir a passagem de fronteira
+
+Residência
+	 Localidade física e geográfica do armazenamento dos dados
+
+Soberania
+	- 
