@@ -15,3 +15,5 @@ Soberania de dados
 	- Os dados estarão sujeitos a leis e costumes deste outro local
 Titulares terão diferentes proteções de privacidade e segurança
 
+Caso STF
+![[Caso STF.png]]
