@@ -17,3 +17,8 @@ Titulares terão diferentes proteções de privacidade e segurança
 
 Caso STF
 ![[Caso STF.png]]
+
+Localização dos dados 
+	- Conceito mais rigoroso, se assemelhando a soberania de dados
+	- Requer que os dados criados permaneçam dentro da fronteira original
+	- Alguns paíse
