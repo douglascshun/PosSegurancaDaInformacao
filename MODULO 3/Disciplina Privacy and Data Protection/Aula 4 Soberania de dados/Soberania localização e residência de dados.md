@@ -21,4 +21,4 @@ Caso STF
 Localização dos dados 
 	- Conceito mais rigoroso, se assemelhando a soberania de dados
 	- Requer que os dados criados permaneçam dentro da fronteira original
-	- Alguns paíse
+	- Alguns países utilizam a localização de dados para impedir a passagem de fronteira
