@@ -27,4 +27,7 @@ Residência
 	 Localidade física e geográfica do armazenamento dos dados
 
 Soberania
-	- 
+	Leis e regulamentos que regem o armazenamento dos dados.
+
+Localização
+	 Dados criados dentro de uma fronteira devem permanecer dentro dela
