@@ -13,3 +13,5 @@ Soberania de dados
 	- Local geográfico onde os dados serão armazenados
 	- Armazenamento de dados em outro local ou autoridade
 	- Os dados estarão sujeitos a leis e costumes deste outro local
+Titulares terão diferentes proteções de privacidade e segurança
+
