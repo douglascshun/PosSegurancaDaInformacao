@@ -9,3 +9,6 @@ I - Finalidade:
 II - Adequação:
 	Compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento.
 		Assim que definida a finalidade, ela será aplicada conforme prometido.
+
+III - Necessidade:
+	Limitação do tratamento ao mínimo necessário para a realização de s
