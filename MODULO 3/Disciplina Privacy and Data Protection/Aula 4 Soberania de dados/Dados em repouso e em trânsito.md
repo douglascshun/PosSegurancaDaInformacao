@@ -29,3 +29,4 @@ Dados em trânsito
 
 Dados em uso ou ativos
 	- Dados sendo atualizados, acessados, lidos processados ou apagados 
+
