@@ -7,4 +7,4 @@ VII - Segurança:
 		A empresa precisa ter uma política de segurança e privacidade
 
 VIII - Prevenção:
-	
+	Adoção de medidas para `previnir` a ocorrência de `danos` em virtude d
