@@ -9,4 +9,5 @@
 New York Times: A era  dos dados sem fronteira está acabando!
 	 Diferenças regulatórias dentro de um país:
 		 - Pais da Califórnia podem processar por vício em redes sociais
-		 - 
+		 - Flórida pode impedir que mídias sociais realizem bloqueio de contas de políticos
+		 - Google enfrenta um processo de monopólio no estado do Alabama
