@@ -31,4 +31,9 @@ As dez bases legais da LGPD
 4. Realização de estudos
 5. Criação e execução e contratos
 6. Exercício regular de direitos
-7. 
+7. Proteção de vida
+8. Tutela da saúde
+9. Legítimo interesse
+10. Proteção do crédito
+
+O
