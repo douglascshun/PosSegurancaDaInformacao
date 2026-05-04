@@ -12,4 +12,8 @@ Dados em repouso ou armazenados
 	- As empresas precisam saber a localização e regulamentos
 
 Dados em trânsito ou em movimento
-	- D
+	- Dados em movimento ativo
+	- Devem ser protegidos
+	- Maior vulnerabilidade
+	- Ativo importantíssimo para análise
+
