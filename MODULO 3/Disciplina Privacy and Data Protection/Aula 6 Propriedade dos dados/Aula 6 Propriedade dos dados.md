@@ -1,9 +1,5 @@
 [[Privacy and Data Protection]]
 
-Observação: este site inclui um sistema de acessibilidade. Pressione Control-F11 para ajustar o site para pessoas com deficiências visuais que usam um leitor de tela; Pressione Control-F10 para abrir um menu de acessibilidade.
-
-## Propriedade de dados
-
 **Introdução**
 
 A propriedade de dados é um tema relevante na era da informação, na qual dados se tornaram uma commodity valiosa. Nesse contexto, a noção de que os dados são propriedade de uma pessoa ou empresa se tornou cada vez mais presente.
