@@ -27,3 +27,5 @@ Dados em trânsito
 	- Criptografar os dados em movimento
 	- Usar conexões criptografadas
 
+Dados em uso ou ativos
+	- Dados sendo atualizados, acessados, lidos processados ou apagados 
