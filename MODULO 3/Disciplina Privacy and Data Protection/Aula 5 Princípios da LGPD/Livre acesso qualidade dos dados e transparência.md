@@ -9,3 +9,6 @@ IV - Livre acesso:
 V - Qualidade:
 	Garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento.
 		Os dados precisam estar atualizados e serem precisos e verdadeiros.
+
+VI - Transparência:
+	Garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, obs
