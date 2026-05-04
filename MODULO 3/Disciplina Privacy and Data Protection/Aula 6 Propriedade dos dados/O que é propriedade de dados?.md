@@ -10,3 +10,10 @@ Propriedade legal
 	- Mídias sociais, tecnologias alimentadas por dados:
 		é necessário limites
 	- Preocupações com suas `pegadas digitais...`
+
+Proprietário
+	- Consentimento
+	- Bloqueio
+	- Eliminação
+	- Transferência
+LGPD Art. 5° XII, 
