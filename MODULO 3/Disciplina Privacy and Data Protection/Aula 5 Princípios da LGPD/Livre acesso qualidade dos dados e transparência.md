@@ -11,4 +11,5 @@ V - Qualidade:
 		Os dados precisam estar atualizados e serem precisos e verdadeiros.
 
 VI - Transparência:
-	Garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, obs
+	Garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comerciais e industriais.
+		A empresa precisa ter ética e honestidade ao lidar com os dados pessoais.
