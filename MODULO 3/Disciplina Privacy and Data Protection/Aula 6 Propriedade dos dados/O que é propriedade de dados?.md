@@ -5,4 +5,5 @@ Propriedade legal
 	- Consumidores possuem direitos sobre seus dados pessoais?
 	- Percepção de posse de informações privadas online e offline.
 	- As organizações `não` adquirem direitos sobre os dados!
-	- Caminho ainda sendo traçado.
+	- Caminho ainda sendo traçado...
+	- O termo nasce da necessidade e urgência de se ter um direito.
