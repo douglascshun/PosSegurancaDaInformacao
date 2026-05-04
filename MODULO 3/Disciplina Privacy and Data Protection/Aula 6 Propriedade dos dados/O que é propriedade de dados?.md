@@ -9,4 +9,4 @@ Propriedade legal
 	- O termo nasce da necessidade e urgência de se ter um direito.
 	- Mídias sociais, tecnologias alimentadas por dados:
 		é necessário limites
-	-Preocupações com suas ``
+	- Preocupações com suas `pegadas digitais...`
