@@ -5,3 +5,6 @@ Recordando a definição de soberania...
 
 Desse modo
 	Preocupações em como os dados estão sendo gerenciados em diferentes locais.
+
+Considere o seguinte caso:
+	Uma empresa do Brasil usa a infraestrutura de
