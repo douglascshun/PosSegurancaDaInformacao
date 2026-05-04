@@ -26,4 +26,5 @@ Segundo, uniformidade!
 Terceiro, implementar a governança de dados em nuvem!
 	- Garantia de adesão e mitigação contínua de riscos por meio da governança de dados
 	- Políticas de conformidade e gerenciamento de ciclo de vida dos dados
-	- Acompanhar 
+	- Acompanhar os backups
+
