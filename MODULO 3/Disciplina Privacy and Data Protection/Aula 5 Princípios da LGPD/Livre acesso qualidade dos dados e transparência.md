@@ -7,5 +7,5 @@ IV - Livre acesso:
 		O titular deve ter acesso aos seus dados de forma transparente e acessível.
 
 V - Qualidade:
-	Garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento
-		Os dados precisam estar atualizados e serem precisos e verdadeiros
+	Garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento.
+		Os dados precisam estar atualizados e serem precisos e verdadeiros.
