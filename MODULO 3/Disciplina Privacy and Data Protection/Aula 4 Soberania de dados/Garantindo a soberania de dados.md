@@ -19,4 +19,4 @@ Tipos de garantida de soberania:
 	- Soberania em nível país
 	- Soberania deve se estratégica
 	- Nuvens regionais soberanas
-	- Soberania em nível regional 
+	- Soberania em nível regional (como no caso da Europa)
