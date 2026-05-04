@@ -36,4 +36,9 @@ As dez bases legais da LGPD
 9. Legítimo interesse
 10. Proteção do crédito
 
-O
+Os princípios da LGPD
+	São os pilares que fundamentam a lei
+
+Dados em trânsito
+	- Hipóteses para validar qualquer operação com dados pessoais
+		- Por exemplo, uma 
