@@ -1,3 +1,5 @@
 [[Aula 4 Soberania de dados]]
 
-Recordand
+Recordando a definição de soberania...
+	Diferentes responsabilidades pelos dados em diferentes localizações geográficas.
+
