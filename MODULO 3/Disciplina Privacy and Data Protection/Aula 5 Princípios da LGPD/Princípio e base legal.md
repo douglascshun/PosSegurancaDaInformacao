@@ -22,4 +22,10 @@ Base legal
 	- São as justificativas e argumentos utilizados pelas empresas para o tratamento de dados
 	- Artigo 7° apresenta dez bases legais
 	- A empresa deve enquadrar ao menos em uma
-	- Essas bases são fun
+	- Essas bases são fundamentais para a garantia da conformidade
+
+As dez bases legais da LGPD
+1. Consentimento
+2. Cumprimento de obrigação legal
+3. Execução de políticas públicas 
+4. Realização de estd
