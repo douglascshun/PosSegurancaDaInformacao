@@ -7,4 +7,5 @@ IX - não descriminação:
 		A empresa não pode tratar dados pessoais para fins de discriminação e abuso.
 
 X - responsabilidade e prestação de contas:
-	Demonstração, pelo
+	Demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância de dados pessoais e inclusive da eficácia dessas medidas.
+		A empresa deve adotar e comprovar o uso das exigências da lei .
