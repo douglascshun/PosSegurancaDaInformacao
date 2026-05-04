@@ -7,4 +7,5 @@ I - Finalidade:
 			Coleta de dados para processar pagamentos. Nesse caso os dados não podem ser usados para outro fim.
 
 II - Adequação:
-	Compatibilidade do tratamento com as finalidades informadas ao
+	Compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento.
+		Assim que definida a finalidade, ela será aplicada conforme prometido.
