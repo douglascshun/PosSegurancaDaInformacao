@@ -9,4 +9,4 @@ Estado dos dados
 Dados em repouso ou armazenados
 	- Dados que não estão se movendo
 	- Como os dados estão armazenados?
-	- 
+	- As empresas precisam saber a localização e regulamentos
