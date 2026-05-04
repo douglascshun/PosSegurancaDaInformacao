@@ -18,3 +18,8 @@ Os dez princípios da LGPD
 9. Não discriminação
 10. Responsabilidade
 
+Base legal 
+	- São as justificativas e argumentos utilizados pelas empresas para o tratamento de dados
+	- Artigo 7° apresenta dez bases legais
+	- A empresa deve enquadrar ao menos em uma
+	- Essas bases são fun
