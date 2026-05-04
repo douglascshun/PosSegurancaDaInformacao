@@ -17,10 +17,13 @@ Dados em trânsito ou em movimento
 	- Maior vulnerabilidade
 	- Ativo importantíssimo para análise
 
-Dados em repouso ou em trânsito
+### Dados em repouso ou em trânsito
 
 Dados em repouso
 	- Criptografar dados confidenciais
 	- Criptografar unidades inteiras
 
 Dados em trânsito
+	- Criptografar os dados em movimento
+	- Usar conexões criptografadas
+
