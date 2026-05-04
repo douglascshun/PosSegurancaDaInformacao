@@ -4,6 +4,6 @@ Art 6° da LGPD
 
 IX - não descriminação:
 	Impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos.
-		A empresa não pode tratar dados pessoais para fins de discriminação e abuso
+		A empresa não pode tratar dados pessoais para fins de discriminação e abuso.
 
-X - responsabilida
+X - responsabilidade:
