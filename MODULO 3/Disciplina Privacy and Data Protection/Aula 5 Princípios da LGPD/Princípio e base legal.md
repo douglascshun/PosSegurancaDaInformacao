@@ -41,4 +41,4 @@ Os princípios da LGPD
 
 Dados em trânsito
 	- Hipóteses para validar qualquer operação com dados pessoais
-		- Por exemplo, uma 
+		- Por exemplo, uma empresa usar a base legal para coletar dados e, posteriormente e arbitrariamente, manipulam esses dados
