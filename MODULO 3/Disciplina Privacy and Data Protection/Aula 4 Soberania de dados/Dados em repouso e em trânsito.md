@@ -3,4 +3,10 @@
 Estado dos dados
 	Três estados possíveis
 		- Dados em repouso 
-		- Dados em T
+		- Dados em trânsito
+		- Dados em uso
+
+Dados em repouso ou armazenados
+	- Dados que não estão se movendo
+	- Como os dados estão armazenados?
+	- 
