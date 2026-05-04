@@ -20,4 +20,5 @@ Primeiro, olhe para a nuvem!
 		- Criptografia e backup
 
 Segundo, uniformidade!
-	Empresas globais devem se manter em dia com as leis de cada regi
+	Empresas globais devem se manter em dia com as leis de cada região de negócio:
+		Admitir o mais forte de cada lei e implementá-lo de forma consistente!
