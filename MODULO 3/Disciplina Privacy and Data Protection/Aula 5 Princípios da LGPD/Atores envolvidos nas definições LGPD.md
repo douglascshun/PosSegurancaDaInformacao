@@ -9,4 +9,5 @@ Controlador (Art 5° VI)
 Operador (Art 5° VII)
 	Pessoa a quem os dados pessoais estão sujeitos a processamento.
 
-Responsável ou DPO (Data Protection O)
+Responsável ou DPO (Data Protection Officer) (Art 5° IX)
+	Atua como canal de comunicação entre o controlador, o titular dos dados e a ANPD 
