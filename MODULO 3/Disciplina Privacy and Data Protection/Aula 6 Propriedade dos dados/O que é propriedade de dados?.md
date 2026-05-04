@@ -7,3 +7,6 @@ Propriedade legal
 	- As organizações `não` adquirem direitos sobre os dados!
 	- Caminho ainda sendo traçado...
 	- O termo nasce da necessidade e urgência de se ter um direito.
+	- Mídias sociais, tecnologias alimentadas por dados:
+		é necessário limites
+	-Preocupações com suas ``
