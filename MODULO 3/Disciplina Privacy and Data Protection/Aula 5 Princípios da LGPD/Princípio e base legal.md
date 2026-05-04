@@ -12,4 +12,9 @@ Os dez princípios da LGPD
 3. Necessidade
 4. Acesso livre
 5. Qualidade de dados
-6. Transp
+6. Transparência
+7. Segurança
+8. Prevenção
+9. Não discriminação
+10. Responsabilidade
+
