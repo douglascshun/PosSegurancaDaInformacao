@@ -16,4 +16,4 @@ Proprietário
 	- Bloqueio
 	- Eliminação
 	- Transferência
-LGPD Art. 5° XII, 
+LGPD Art. 5° XII, XIII, XIV, XV
