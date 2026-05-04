@@ -14,3 +14,9 @@ New York Times: A era  dos dados sem fronteira está acabando!
 
 Acesso aos dados a qualquer hora e em qualquer lugar?
 	`Todos os dados devem estar situados em algum lugar!`
+
+Tipos de garantida de soberania:
+	- Soberania em nível país
+	- Soberania deve se estratégica
+	- Nuvens regionais soberanas
+	- Soberania em nível regional 
