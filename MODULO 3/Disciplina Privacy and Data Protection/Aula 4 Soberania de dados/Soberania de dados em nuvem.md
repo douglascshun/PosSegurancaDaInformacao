@@ -14,4 +14,7 @@ Cenário complicado?
 	As empresas devem ficar `atentas`e em `conformidade`!
 
 Primeiro, olhe para a nuvem!
-	A maioria dos provedores de IaaS possui data center no país. A empresa precisa sol
+	A maioria dos provedores de IaaS possui data center no país. A empresa precisa solicitar ao provedor em contrato:
+		- Regulamento de conformidade
+		- Opcionalidade de localização de dados
+		- Criptografia e backup
