@@ -8,4 +8,4 @@ Desse modo
 
 Considere o seguinte caso:
 	Uma empresa do Brasil usa a infraestrutura de um servidor dos EUA. Este mesmo servidor possui clientes na China e na União Europeia.
-	Os dados são coletados no Brasil, mas são armazenados nos EUA. O backup dos dados oco
+	Os dados são coletados no Brasil, mas são armazenados nos EUA. O backup dos dados ocorre na Irlanda e `estará sujeito a soberanida deste país`.
