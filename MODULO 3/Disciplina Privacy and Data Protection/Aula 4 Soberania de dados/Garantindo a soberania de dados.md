@@ -4,4 +4,4 @@
 - Empresas mudando sua infraestrutura
 - Diversos dispositivos endpoint
 - Empresas atuando globalmente
-- 
+- Dados em diferentes locais: desafios
