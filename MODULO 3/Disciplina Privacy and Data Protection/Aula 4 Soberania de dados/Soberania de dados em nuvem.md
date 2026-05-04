@@ -18,3 +18,6 @@ Primeiro, olhe para a nuvem!
 		- Regulamento de conformidade
 		- Opcionalidade de localização de dados
 		- Criptografia e backup
+
+Segundo, uniformidade!
+	Empresas globais devem se manter em dia com as leis de cada regi
