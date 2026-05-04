@@ -22,3 +22,8 @@ Primeiro, olhe para a nuvem!
 Segundo, uniformidade!
 	Empresas globais devem se manter em dia com as leis de cada região de negócio:
 		Admitir o mais forte de cada lei e implementá-lo de forma consistente!
+
+Terceiro, implementar a governança de dados em nuvem!
+	- Garantia de adesão e mitigação contínua de riscos por meio da governança de dados
+	- Políticas de conformidade e gerenciamento de ciclo de vida dos dados
+	- Acompanhar 
