@@ -7,4 +7,5 @@ VII - Segurança:
 		A empresa precisa ter uma política de segurança e privacidade
 
 VIII - Prevenção:
-	Adoção de medidas para `previnir` a ocorrência de `danos` em virtude d
+	Adoção de medidas para `previnir` a ocorrência de `danos` em virtude do tratamento de dados pessoais.
+		Prevenir é ser proativo em medidas de segurança
