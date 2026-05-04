@@ -6,4 +6,9 @@ Princípios da LGPD
 	- Empresas devem se atentar a estes princípios
 	- Artigo 6° apresenta os dez princípios
 
-Os dez principios da LGPD
+Os dez princípios da LGPD
+1. Proposito
+2. Adequação
+3. Necessidade
+4. Acesso livre
+5. Qualidade de dados
