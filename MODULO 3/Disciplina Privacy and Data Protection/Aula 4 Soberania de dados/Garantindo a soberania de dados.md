@@ -5,3 +5,5 @@
 - Diversos dispositivos endpoint
 - Empresas atuando globalmente
 - Dados em diferentes locais: desafios
+
+New York Times: A era  dos dados sem fronteira está acabando
