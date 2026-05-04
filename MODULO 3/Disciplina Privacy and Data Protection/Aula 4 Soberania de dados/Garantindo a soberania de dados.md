@@ -6,4 +6,7 @@
 - Empresas atuando globalmente
 - Dados em diferentes locais: desafios
 
-New York Times: A era  dos dados sem fronteira está acabando
+New York Times: A era  dos dados sem fronteira está acabando!
+	 Diferenças regulatórias dentro de um país:
+		 - Pais da Califórnia podem processar por vício em redes sociais
+		 - 
