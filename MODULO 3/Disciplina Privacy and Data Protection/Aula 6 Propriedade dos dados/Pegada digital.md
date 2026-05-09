@@ -29,4 +29,8 @@ Pegada de compras
 	- Mensagens e avaliações
 
 Protegendo-se
-	- Ver
+	- Verifique suas pegadas digitais
+	- Exclua contas antigas
+	- Use sites confiáveis
+	- Verifique as configurações de privacidade
+	- Não compartilhe (muito/dados sensíveis) em mídias so
