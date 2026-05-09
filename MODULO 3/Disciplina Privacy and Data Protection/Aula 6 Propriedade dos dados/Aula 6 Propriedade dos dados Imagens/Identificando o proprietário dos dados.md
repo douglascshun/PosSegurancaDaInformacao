@@ -1,4 +1,5 @@
 [[Privacy and Data Protection]]
 
 - Propriedade cria responsabilidade
-- Proprie
+- Propriedade contribui na definição de políticas
+- Propriedade elimina redundância dos dados
