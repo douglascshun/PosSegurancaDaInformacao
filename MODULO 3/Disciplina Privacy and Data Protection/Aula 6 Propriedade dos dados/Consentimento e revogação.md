@@ -14,3 +14,7 @@ O titular tem direito de revogar o tratamento de dados.
 	- Assim que `terminar seu interesse` em ter seus dados compartilhados
 	- Se sentir que os dados `não estão sendo` tratados conforme foi informado previamente
 	- Se houver `mudança de finalidade` e se estas forem incompatíveis com o consentimento anterior
+
+Revogação
+	- O titular entre em contato com a empresa requerendo revogação
+	- 
