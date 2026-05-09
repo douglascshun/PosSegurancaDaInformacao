@@ -2,4 +2,4 @@
 
 Consentimento
 	Art 5°
-		XII - Consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma dinalidade determinada.
+		XII - Consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada.
