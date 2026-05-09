@@ -1,4 +1,4 @@
-[[Privacy and Data Protection]]
+[[Aula 6 Propriedade dos dados]]
 
 - Propriedade cria responsabilidade
 - Propriedade contribui na definição de políticas
