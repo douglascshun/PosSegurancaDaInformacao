@@ -10,4 +10,8 @@
 Quem é mais afetado pela precisão dos dados?
 	Todos são afetados, mas quem é mais impactado?
 
-Quem tem autoridade para decidir o pr
+Quem tem autoridade para decidir o próximo passo?
+	Quem é a autoridade final?
+
+Quem possuí os atributos de dados relacionados?
+	Quem possui os detalhes do cliente?
