@@ -1,4 +1,4 @@
-[[Privacy and Data Protection]]
+[[Aula 6 Propriedade dos dados]]
 
 Pegada digital ativa: flagrante
 	- Informações que escolhemos compartilhar com o mundo
