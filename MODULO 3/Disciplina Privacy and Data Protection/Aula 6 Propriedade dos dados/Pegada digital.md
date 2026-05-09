@@ -27,3 +27,6 @@ Pegada de saúde
 Pegada de compras
 	- Fazer upload de fotos
 	- Mensagens e avaliações
+
+Protegendo-se
+	- Ver
