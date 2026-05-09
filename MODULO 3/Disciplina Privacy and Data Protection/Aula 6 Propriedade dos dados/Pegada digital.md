@@ -7,3 +7,5 @@ Pegada digital ativa: flagrante
 Pegada digital passiva: monitora cada passo que você dá
 	- Deixamos rastros nos sites que visitamos em nossas pesquisas
 	- Cookies para rastrear as ações dos usuários visitantes
+
+Pegada financeira
