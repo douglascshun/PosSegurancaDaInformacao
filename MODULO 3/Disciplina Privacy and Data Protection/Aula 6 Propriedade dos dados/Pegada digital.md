@@ -33,4 +33,4 @@ Protegendo-se
 	- Exclua contas antigas
 	- Use sites confiáveis
 	- Verifique as configurações de privacidade
-	- Não compartilhe (muito/dados sensíveis) em mídias so
+	- Não compartilhe (muito/dados sensíveis) em mídias sociais
