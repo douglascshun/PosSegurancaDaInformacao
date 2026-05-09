@@ -19,3 +19,11 @@ Pegada de compras
 Pegada nas redes sociais
 	- Fazer login em serviços com sua rede social
 	- Compartilhar informações (como fotos, textos, etc.)
+
+Pegada de saúde
+	- Usar relógio GPS para fitness
+	- Inscrever-se na academia
+
+Pegada de compras
+	- Fazer upload de fotos
+	- Mensagens e avaliações
