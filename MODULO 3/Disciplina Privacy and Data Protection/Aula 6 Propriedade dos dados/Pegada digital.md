@@ -17,4 +17,5 @@ Pegada de compras
 	- Inscrever-se para criar conta em loja online
 
 Pegada nas redes sociais
-	- Fazer login em 
+	- Fazer login em serviços com sua rede social
+	- Compartilhar informações (como fotos, textos, etc.)
