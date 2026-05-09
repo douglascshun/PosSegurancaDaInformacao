@@ -9,3 +9,12 @@ Pegada digital passiva: monitora cada passo que você dá
 	- Cookies para rastrear as ações dos usuários visitantes
 
 Pegada financeira
+	- Uso de aplicativos bancários
+	- Negociação online
+
+Pegada de compras
+	- Fazendo compras online
+	- Inscrever-se para criar conta em loja online
+
+Pegada nas redes sociais
+	- Fazer login em 
