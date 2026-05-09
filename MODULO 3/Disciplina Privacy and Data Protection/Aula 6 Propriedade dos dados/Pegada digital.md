@@ -5,4 +5,5 @@ Pegada digital ativa: flagrante
 	- As ferramentas seguem e estudam comportamento do usuário
 
 Pegada digital passiva: monitora cada passo que você dá
-	- Deixamp
+	- Deixamos rastros nos sites que visitamos em nossas pesquisas
+	- Cookies para rastrear as ações dos usuários visitantes
