@@ -7,4 +7,4 @@ Art 8° V LGPD
 Portabilidade
 - Impeditivo para o chamado lock-in
 - Transferência segura e gratuita
-- Necessário um sistema integrado
+- Necessário um sistema integradoo0lppppi9ok
