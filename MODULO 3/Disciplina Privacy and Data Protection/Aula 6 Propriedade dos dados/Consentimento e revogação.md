@@ -7,4 +7,4 @@ Consentimento
 		O tratamento de dados pessoais `somente` poderá ser realizado nas seguintes hipóteses:
 			I - Mediante o fornecimento de consentimento pelo titular.
 			...
-	Art 8° 
+	Art 8° § 5°
