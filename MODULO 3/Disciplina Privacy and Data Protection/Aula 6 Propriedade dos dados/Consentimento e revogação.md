@@ -17,4 +17,5 @@ O titular tem direito de revogar o tratamento de dados.
 
 Revogação
 	- O titular entre em contato com a empresa requerendo revogação
-	- 
+	- A empresa pode fornecer uma seção em seu site permitindo a revogação
+	- A LGPD não específica os meios, apenas determina que seja facilitado em sem custo.
