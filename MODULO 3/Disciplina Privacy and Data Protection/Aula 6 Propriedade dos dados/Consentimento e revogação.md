@@ -8,4 +8,7 @@ Consentimento
 			I - Mediante o fornecimento de consentimento pelo titular.
 	Art 8° § 5°
 		"o consentimento pode ser `revogado`  a qualquer momento mediante manifestação expressa do titular, por procedimento `gratuíto` e `facilitado`..."
-			Ratificados os tratamentos realizados sob amparo do consentimento anteriormente manifestado enquanto não houver requerimento de eliminação, nos termos do inciso VI do caput do ar
+			Ratificados os tratamentos realizados sob amparo do consentimento anteriormente manifestado enquanto não houver requerimento de eliminação, nos termos do inciso VI do caput do artigo 18 desta Lei
+
+O titular tem direito de revogar o tratamento de dados.
+	- Assim
