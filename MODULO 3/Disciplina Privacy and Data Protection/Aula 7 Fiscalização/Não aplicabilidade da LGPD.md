@@ -2,4 +2,5 @@
 
 Art 4° LGPD
 	"esta Lei não se aplica ao tratamento de dados pessoias
-		I - Realizado por pessoa natural para ``"
+		I - Realizado por pessoa natural para `fins` exclusivamente `particulares` e `não econômicos`;
+		II - Realizado para `fins` exclusiv"
