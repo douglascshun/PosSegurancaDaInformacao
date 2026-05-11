@@ -16,14 +16,15 @@ Ambas LAI e LGPD regulamentam direitos fundamentais expressamente previstos na C
 
 Comparação:
 	Acesso:
-		- LGPD
+			- LGPD:
 			Acesso livre pelo direito particular
-		- LAI
-			Qualquer um do povo pode fiscalizar
-	Controle:
-		- LGPD
-			O ente não tem controle irrestrito
-		- LAI
-			O ente público tem autonomia de dizer não
-	Tratamento:
-		
+	- LAI:
+		Qualquer um do povo pode fiscalizar
+
+Controle:
+	- LGPD:
+		O ente não tem controle irrestrito
+	- LAI:
+		O ente público tem autonomia de dizer não
+Tratamento:
+	
