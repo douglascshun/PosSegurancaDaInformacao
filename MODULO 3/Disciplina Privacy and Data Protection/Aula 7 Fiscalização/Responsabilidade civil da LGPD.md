@@ -8,7 +8,8 @@ Art 42° LGPD
 Art 43° LGPD
 	"Os agentes de tratamento só não serão responsabilizados quando provarem:
 		I - Que `não realizaram o tratamento` de dados pessoais que lhes é atribuído;
-		II - Que, embora tenham realizado o tratamento de dados pessoais que lhes é atribuído, `não houve violação à legislação` de proteção"
+		II - Que, embora tenham realizado o tratamento de dados pessoais que lhes é atribuído, `não houve violação à legislação` de proteção de dados; ou
+		III - Que o dano é decorrente de `culpa` exclusiva do `titular` dos dados ou de terceiro."
 
 Art 44° LGPD
 	"O tratamento de dados pessoais será irregular quando deixar de observar a legislação ou quando não fornecer a segurança que o titular dele pode esperar, consideradas as circunstâncias relevantes, entre as quais:
