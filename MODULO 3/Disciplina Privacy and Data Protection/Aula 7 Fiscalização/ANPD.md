@@ -4,3 +4,10 @@
 - Autoridade nacional de proteção de dados
 - Zela e fiscaliza o cumprimento da LGPD
 - Natureza normativa e deliberativa
+
+Composição
+	- Conselho diretor (5 diretores)
+	- Órgão consultivo (23 operantes)
+	- Órgão de assistência ao conselho diretor
+	- Órgãos seccionais
+	- Órgão
