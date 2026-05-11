@@ -13,3 +13,9 @@ LAI:
 Ambas LAI e LGPD regulamentam direitos fundamentais expressamente previstos na Constituição Federal de 1988!
 	- Direito a informações públicas
 	- Direito à proteção de dados pessoais
+
+Comparação:
+	Acesso:
+		- LGPD
+			Acesso livre pelo direito particular
+		- Lai
