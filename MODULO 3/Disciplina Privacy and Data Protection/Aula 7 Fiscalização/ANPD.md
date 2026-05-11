@@ -11,3 +11,6 @@ Composição
 	- Órgão de assistência ao conselho diretor
 	- Órgãos seccionais
 	- Órgãos específicos singulares
+
+Funções da ANPD
+	- fiscalizar e aplicar senções em caso de tra
