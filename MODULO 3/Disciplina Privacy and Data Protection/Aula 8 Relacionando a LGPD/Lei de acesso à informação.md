@@ -29,3 +29,4 @@ Comparação:
 		- LAI:
 			- Sem preocupações do impacto de vazamentos
 
+![[Comparativo LGPD com LAI.png]]
