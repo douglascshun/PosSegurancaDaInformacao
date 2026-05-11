@@ -17,7 +17,7 @@ Secretaria nacional do consumidor
 	Verifica violações aos direitos do consumidor 
 
 ANPD
-	Solicita re
+	Solicita relatórios de impacto e riscos à privacidade
 
 LGPD
 - Regulamenta a captura e tratamento
