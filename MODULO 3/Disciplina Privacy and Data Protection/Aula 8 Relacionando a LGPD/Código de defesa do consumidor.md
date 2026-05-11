@@ -12,3 +12,6 @@ Art 72
 	Impedir ou dificultar o acesso do consumidor às informações que sobre ele constem em cadastros, banco de dados, fichas e registros.
 		Pena: 
 			Detenção de 6 meses a um ano de multa.
+
+Art 73
+	Deixar de corrigir imediatamente informação sobre o consumidor constante de cadastro, 
