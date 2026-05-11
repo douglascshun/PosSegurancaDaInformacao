@@ -3,4 +3,6 @@
 Revisando a LGPD
 	- Regulamentação sobre o tratamento de dados pessoais
 	- Dados pessoais:
-		Informações for
+		Informações fornecidas a uma empresa
+	- Fiscalizada e regulada pela ANPD
+	- Marketing digital é uma das áreas mais impactadas
