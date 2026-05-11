@@ -27,4 +27,6 @@ Comparação:
 			O ente público tem autonomia de dizer não
 	Tratamento:
 		-LGPD:
-			Principio de responsabilização e 
+			Principio de responsabilização e prestação de contas
+		- LAI:
+			- Sem preocupações do impacto de vazamentos
