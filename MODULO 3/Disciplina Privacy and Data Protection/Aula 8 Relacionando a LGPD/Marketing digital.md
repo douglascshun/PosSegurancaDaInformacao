@@ -13,4 +13,8 @@ Como são adquiridos os dados?
 	- Anúncios
 	- Mídias sociais
 
-Marketing
+Marketing Digital e LGPD
+	- LGPD impõe consentimento
+	- Deixar explicito o que motiva a coleta 
+	- Cookies identificam o usuário
+	- O titular dos dados possuí direito sobre eles
