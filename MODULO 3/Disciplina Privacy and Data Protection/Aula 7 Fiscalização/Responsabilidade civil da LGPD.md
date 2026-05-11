@@ -14,3 +14,6 @@ Art 44° LGPD
 Art 44° Parágrafo único LGPD
 	"Responde pelos danos decorrentes da Violação da segurança dos dados o controlador ou o operador que, ao deixar de adotar as medidas de segurança previstas no Art 46 desta Lei, de causa ao dano. "
 
+Art 46° LGPD
+	"Os agentes de tratamento devem adotar medidas de segurança, técnicas e administrativas aptas a  proteger os dados pessoais de acesso não autorizados..."
+		
