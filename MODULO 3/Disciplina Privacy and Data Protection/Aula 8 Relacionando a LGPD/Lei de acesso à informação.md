@@ -22,4 +22,8 @@ Comparação:
 			Qualquer um do povo pode fiscalizar
 	Controle:
 		- LGPD
-			
+			O ente não tem controle irrestrito
+		- LAI
+			O ente público tem autonomia de dizer não
+	Tratamento:
+		
