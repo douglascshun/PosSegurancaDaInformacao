@@ -6,3 +6,6 @@ Revisando a LGPD
 		Informações fornecidas a uma empresa
 	- Fiscalizada e regulada pela ANPD
 	- Marketing digital é uma das áreas mais impactadas
+
+Como são adquiridos os dados?
+	- Lan
