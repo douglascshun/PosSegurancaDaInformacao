@@ -18,4 +18,8 @@ Comparação:
 	Acesso:
 		- LGPD
 			Acesso livre pelo direito particular
-		- Lai
+		- LAI
+			Qualquer um do povo pode fiscalizar
+	Controle:
+		- LGPD
+			
