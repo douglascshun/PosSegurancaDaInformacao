@@ -9,4 +9,6 @@ CDC (Código de Defesa do Consumidor)
 	- As violações do direito do consumidor constitui infração penal
 
 Art 72
-	Impedir ou dificultar o acesso do consumidor às informações que sobre
+	Impedir ou dificultar o acesso do consumidor às informações que sobre ele constem em cadastros, banco de dados, fichas e registros.
+		Pena: 
+			Detenção de 6 meses a um ano de multa.
