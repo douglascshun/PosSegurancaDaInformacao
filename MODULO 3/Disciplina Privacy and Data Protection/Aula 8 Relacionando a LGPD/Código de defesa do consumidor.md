@@ -7,3 +7,6 @@ CDC (Código de Defesa do Consumidor)
 	- Em caso de violação de direito, caberá denúncia a ANPD
 	- CDC determina que o consumidor tem acesso as suas informações de cadastro
 	- As violações do direito do consumidor constitui infração penal
+
+Art 72
+	Impedir ou dificultar o acesso do consumidor às informações que sobre
