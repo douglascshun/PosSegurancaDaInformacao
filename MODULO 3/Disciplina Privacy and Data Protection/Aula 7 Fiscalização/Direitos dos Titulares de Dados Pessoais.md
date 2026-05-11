@@ -13,4 +13,4 @@ Art 18° LGPD
 		- Eliminação dos dados pessoais tratados com o consentimento do(a) titular, exceto nas hipóteses previstas no Art 16 da Lei;
 		- Informação das entidades públicas e privadas com as quais o Controlador realizou uso compartilhado de dados;
 		- Informação sobre a possibilidade de não fornecer consentimento e sobre consequências da negativa;
-		- Revogação do consentimento, nos termos do § 5° do Art 8° da Lei
+		- Revogação do consentimento, nos termos do § 5° do Art 8° da Lei.
