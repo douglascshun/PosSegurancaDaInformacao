@@ -16,3 +16,4 @@ Funções da ANPD
 	- fiscalizar e aplicar sanções em caso de tratamento de dados
 	- Apreciar petições (titular contra controlador)
 	- Promover a difusão do conhecimento das normas e políticas de proteção de dados
+	- Editar regulamentos e procedimentos sobre proteção de dados
