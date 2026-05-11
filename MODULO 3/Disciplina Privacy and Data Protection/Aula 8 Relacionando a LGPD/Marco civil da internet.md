@@ -9,3 +9,6 @@ Referência na regulação da internet brasileira com os preceitos...
 - Segurança apenas em ambiente online
 
 LGPD
+- Regulamenta a captura e tratamento
+- Reitera o consentimento livre
+- Segurança ambientes online e off-line
