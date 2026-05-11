@@ -8,7 +8,9 @@ Referência na regulação da internet brasileira com os preceitos...
 - Consentimento expresso
 - Segurança apenas em ambiente online
 
-A responsabilidade por eventuais crimes virtuais é `de `
+A responsabilidade por eventuais crimes virtuais é `de quem oferece internet`
+
+Anatel
 
 LGPD
 - Regulamenta a captura e tratamento
