@@ -6,3 +6,5 @@ Art 4° LGPD
 		II - Realizado para `fins` exclusivamente:
 			a) `Jornalísticos` e `artísticos`; ou
 			b) `Acadêmicos`, aplicando-se a esta hipótese os arts 7° e 11 desta Lei."
+		III - Realizado para fins exclusivos de:
+			a) Segurança P´
