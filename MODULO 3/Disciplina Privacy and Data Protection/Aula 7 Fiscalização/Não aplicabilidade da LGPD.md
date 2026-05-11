@@ -11,3 +11,4 @@ Art 4° LGPD
 			b) Defesa nacional;
 			c) Segurança do Estado; ou
 			d) Atividades de investigação e repressão de infrações penais;
+		IV - Provenientes de `fora do território nacional`
