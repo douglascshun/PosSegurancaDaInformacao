@@ -10,4 +10,6 @@ LGPD:
 LAI:
 	prevê a divulgação ou acesso de dados pessoais a terceiros!
 
-Ambas LAI e LGPPD regulamentam direitos fundamentais expressamente previstos na Constituição
+Ambas LAI e LGPD regulamentam direitos fundamentais expressamente previstos na Constituição Federal de 1988!
+	- Direito a informações públicas
+	- Direito à proteção de dados pessoais
