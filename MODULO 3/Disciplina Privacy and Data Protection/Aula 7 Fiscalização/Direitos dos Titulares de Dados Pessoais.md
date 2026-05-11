@@ -9,4 +9,4 @@ Art 18° LGPD
 		- Acesso aos dados;
 		- Correção de dados incompletos, inexatos ou desatualizados;
 		- Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na LGPD;
-		- Portabilidade dos 
+		- Portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação de Autoridade Nacional, observados os segredos comerciais e industriais
