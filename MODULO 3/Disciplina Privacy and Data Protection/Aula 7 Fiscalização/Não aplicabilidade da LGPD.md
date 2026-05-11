@@ -11,4 +11,4 @@ Art 4° LGPD
 			b) Defesa nacional;
 			c) Segurança do Estado; ou
 			d) Atividades de investigação e repressão de infrações penais;
-		IV - Provenientes de `fora do território nacional`
+		IV - Provenientes de `fora do território nacional` e que não sejam objeto de comunicação, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferência internacional de dados com outro país que não o de proveniência, desde que o
