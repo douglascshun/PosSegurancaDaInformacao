@@ -2,4 +2,5 @@
 
 - Com a LGPD surge a ANPD
 - Autoridade nacional de proteção de dados
-- Zela e fiscaliza o cumprimento da LG
+- Zela e fiscaliza o cumprimento da LGPD
+- Natureza normativa e deliberativa
