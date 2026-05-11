@@ -14,4 +14,6 @@ Art 72
 			Detenção de 6 meses a um ano de multa.
 
 Art 73
-	Deixar de corrigir imediatamente informação sobre o consumidor constante de cadastro, 
+	Deixar de corrigir imediatamente informação sobre o consumidor constante de cadastro, banco de dados ficas ou registros que sabe ou deveria saber se inexata.
+		Pena:
+			Detenção de um ano a seis meses ou multa.
