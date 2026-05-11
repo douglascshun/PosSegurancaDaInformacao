@@ -10,3 +10,6 @@ Art 44° LGPD
 		I - O modo pelo qual é realizado
 		II - O resultado e os riscos que razoavelmente dele se esperam
 		III - As técnicas de tratamento de dados pessoais disponíveis à época em que foi realizado." 
+
+Art 44° Parágrafo único LGPD
+	"Responde pelos danos decorrentes da Violação da segurança dos dados o controlador ou o operador que, ao deixar de adotar as medidas de segurança previ"
