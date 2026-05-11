@@ -8,4 +8,7 @@ Revisando a LGPD
 	- Marketing digital é uma das áreas mais impactadas
 
 Como são adquiridos os dados?
-	- Lan
+	- Landing pages
+	- Formulários
+	- Anúncios
+	- Mídias sociais
