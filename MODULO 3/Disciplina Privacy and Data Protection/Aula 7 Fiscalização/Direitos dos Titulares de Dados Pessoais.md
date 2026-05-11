@@ -8,4 +8,5 @@ Art 18° LGPD
 		- Confirmação da existência de tratamento;
 		- Acesso aos dados;
 		- Correção de dados incompletos, inexatos ou desatualizados;
-		- Anonimização 
+		- Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na LGPD;
+		- Portabilidade dos 
