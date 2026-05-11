@@ -11,4 +11,4 @@ Art 18° LGPD
 		- Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na LGPD;
 		- Portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação de Autoridade Nacional, observados os segredos comerciais e industriais;
 		- Eliminação dos dados pessoais tratados com o consentimento do(a) titular, exceto nas hipóteses previstas no Art 16 da Lei;
-		- Informação das entidades públicas e privadas com as quais o Controlador realizou uso compartilha
+		- Informação das entidades públicas e privadas com as quais o Controlador realizou uso compartilhado de dados;
