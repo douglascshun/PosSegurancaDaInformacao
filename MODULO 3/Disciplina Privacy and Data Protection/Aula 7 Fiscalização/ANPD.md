@@ -10,4 +10,4 @@ Composição
 	- Órgão consultivo (23 operantes)
 	- Órgão de assistência ao conselho diretor
 	- Órgãos seccionais
-	- Órgão
+	- Órgãos específicos singulares
