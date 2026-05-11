@@ -12,3 +12,6 @@ Art 4° LGPD
 			c) Segurança do Estado; ou
 			d) Atividades de investigação e repressão de infrações penais;
 		IV - Provenientes de `fora do território nacional` e que não sejam objeto de comunicação, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferência internacional de dados com outro país que não o de proveniência, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto esta Lei."
+
+- Por pessoa física sem finalidade econômica;
+- Para fins jornalí
