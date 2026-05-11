@@ -13,4 +13,6 @@ Composição
 	- Órgãos específicos singulares
 
 Funções da ANPD
-	- fiscalizar e aplicar senções em caso de tra
+	- fiscalizar e aplicar sanções em caso de tratamento de dados
+	- Apreciar petições (titular contra controlador)
+	- Promover a difusão do conhecimento das normas e políticas de proteção de dados
