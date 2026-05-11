@@ -5,7 +5,9 @@ Responsabilidade
 Art 42° LGPD
 	"O controlador ou o operador que, em razão do exercício de atividade de tratamento de dados pessoais, causar a outrem dano `patrimonial, moral, individual`, ou `coletivo`, em violação à legislação de proteção de dados pessoais, é obrigado a `repará-lo`."
 
-Art.43° LGPD
+Art 43° LGPD
+	"Os agentes de tratamento só não serão responsabilizados quando provarem:
+		I - Que `não realizaram o tratamento` de dados pessoais que lhes é atr"
 
 Art 44° LGPD
 	"O tratamento de dados pessoais será irregular quando deixar de observar a legislação ou quando não fornecer a segurança que o titular dele pode esperar, consideradas as circunstâncias relevantes, entre as quais:
