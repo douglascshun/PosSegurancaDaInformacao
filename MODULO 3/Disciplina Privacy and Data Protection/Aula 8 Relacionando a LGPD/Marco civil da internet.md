@@ -11,6 +11,13 @@ Referência na regulação da internet brasileira com os preceitos...
 A responsabilidade por eventuais crimes virtuais é `de quem oferece internet`
 
 Anatel
+	Acompanha a atuação das prestadores de serviço
+
+Secretaria nacional do consumidor
+	Verifica violações aos direitos do consumidor 
+
+ANPD
+	Solicita re
 
 LGPD
 - Regulamenta a captura e tratamento
