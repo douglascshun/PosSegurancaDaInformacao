@@ -8,6 +8,8 @@ Referência na regulação da internet brasileira com os preceitos...
 - Consentimento expresso
 - Segurança apenas em ambiente online
 
+A responsabilidade por eventuais crimes virtuais é `de `
+
 LGPD
 - Regulamenta a captura e tratamento
 - Reitera o consentimento livre
