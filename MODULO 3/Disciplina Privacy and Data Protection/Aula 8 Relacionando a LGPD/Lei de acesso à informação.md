@@ -4,11 +4,9 @@ LAI (Lei de Acesso as Informações)
 
 Princípios e regras para promover a transparência na administração pública!
 
-LGPD:
-	Fortalece a privacidade!
+LGPD: Fortalece a privacidade!
 
-LAI:
-	prevê a divulgação ou acesso de dados pessoais a terceiros!
+LAI: Prevê a divulgação ou acesso de dados pessoais a terceiros!
 
 Ambas LAI e LGPD regulamentam direitos fundamentais expressamente previstos na Constituição Federal de 1988!
 	- Direito a informações públicas
@@ -30,3 +28,4 @@ Comparação:
 			Principio de responsabilização e prestação de contas
 		- LAI:
 			- Sem preocupações do impacto de vazamentos
+
