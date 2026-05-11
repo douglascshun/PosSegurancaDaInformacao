@@ -12,3 +12,5 @@ Como são adquiridos os dados?
 	- Formulários
 	- Anúncios
 	- Mídias sociais
+
+Marketing
