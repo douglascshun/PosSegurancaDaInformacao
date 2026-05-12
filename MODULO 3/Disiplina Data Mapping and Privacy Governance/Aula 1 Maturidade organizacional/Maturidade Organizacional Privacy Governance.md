@@ -12,4 +12,7 @@ Pontos envolvidos em Privacy Governance
 	- Destruição
 
 Data Mapping
-- Ge
+	- Gerenciamento de dados
+	- Mapeamento de Dados
+	- Integração de dados entre diferentes plataformas
+	- Junção entre Privacy Governance e data mapping com Maturidade Organizacional
