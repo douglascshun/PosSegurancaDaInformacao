@@ -13,3 +13,4 @@ Gerenciamento de processos
 	A gestão de processos é o ponto central para maturidade organizacional:
 		Gestão 
 		Processos
+	BPM
