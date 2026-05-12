@@ -7,4 +7,6 @@ Privacy Governance
 
 Pontos envolvidos em Privacy Governance
 	- Classificação de Dados
-	- Gerenciamento de
+	- Gerenciamento de gravações
+	- Retenção
+	- Destruição
