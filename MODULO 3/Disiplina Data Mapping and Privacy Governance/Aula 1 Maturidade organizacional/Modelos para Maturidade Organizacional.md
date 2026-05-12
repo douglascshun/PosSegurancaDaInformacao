@@ -15,3 +15,6 @@ O BPM é um ciclo de vida composto das seguintes etapas:
 	- Execução
 	- Monitoramento
 	- Controle
+
+Ciclo BPM
+Gestão do 
