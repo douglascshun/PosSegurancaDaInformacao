@@ -10,3 +10,6 @@ Pontos envolvidos em Privacy Governance
 	- Gerenciamento de gravações
 	- Retenção
 	- Destruição
+
+Data Mapping
+- Ge
