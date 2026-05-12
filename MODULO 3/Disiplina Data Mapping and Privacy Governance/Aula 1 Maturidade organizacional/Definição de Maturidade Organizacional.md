@@ -9,4 +9,4 @@ Entendendo maturidade organizacional:
 O nível de maturidade está relacionado com:
 	 - Estrutura
 	 - Gerenciamento 
-	 - Pro
+	 - Processos
