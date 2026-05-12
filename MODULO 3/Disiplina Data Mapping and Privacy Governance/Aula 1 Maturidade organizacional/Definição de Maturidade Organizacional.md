@@ -6,4 +6,5 @@ Entendendo maturidade organizacional:
 	- O que é maturidade?
 	- O que é maturidade organizacional?
 
-O nível de maturidade está relacionado:
+O nível de maturidade está relacionado com:
+	 - Estrutura
