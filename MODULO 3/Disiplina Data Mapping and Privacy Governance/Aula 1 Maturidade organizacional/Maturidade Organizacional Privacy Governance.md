@@ -2,4 +2,5 @@
 
 Privacy Governance
 	- Políticas 
-	- P
+	- Procedimentos
+	- Informação Pessoal
