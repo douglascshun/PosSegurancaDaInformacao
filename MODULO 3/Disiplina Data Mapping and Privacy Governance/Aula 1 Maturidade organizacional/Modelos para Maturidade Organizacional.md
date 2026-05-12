@@ -17,4 +17,6 @@ O BPM é um ciclo de vida composto das seguintes etapas:
 	- Controle
 
 Ciclo BPM
-Gestão do 
+Gestão do Processo de Negócios
+
+![[Ciclo BPM.png]]
