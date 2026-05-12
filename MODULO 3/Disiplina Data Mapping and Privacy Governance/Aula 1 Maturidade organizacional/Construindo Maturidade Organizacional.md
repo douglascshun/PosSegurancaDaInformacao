@@ -14,3 +14,10 @@ Gerenciamento de processos
 		Gestão 
 		Processos
 	BPM
+
+Planejamento:
+	Avaliação dos planos organizacionais
+
+Entendendo o nível de maturidade em planejamento:
+	- Poucos consistentes
+	- Referência 
