@@ -15,4 +15,4 @@ Data Mapping
 	- Gerenciamento de dados
 	- Mapeamento de Dados
 	- Integração de dados entre diferentes plataformas
-	- Junção entre Privacy Governance e data mapping com Maturidade Organizacional
+	- Junção entre Privacy Governance e Data Mapping com Maturidade Organizacional
