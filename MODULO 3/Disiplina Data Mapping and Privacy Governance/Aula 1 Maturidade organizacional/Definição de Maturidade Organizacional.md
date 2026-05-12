@@ -10,3 +10,9 @@ O nível de maturidade está relacionado com:
 	 - Estrutura
 	 - Gerenciamento 
 	 - Processos
+
+Por que é importante o nível de maturidade?
+	- Qualidade de Operações
+	- Amadurecimento organizacional
+	- Competição de Mercado
+	- Soluções
