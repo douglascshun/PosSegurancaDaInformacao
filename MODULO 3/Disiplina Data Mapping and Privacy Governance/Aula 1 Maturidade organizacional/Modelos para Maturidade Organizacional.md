@@ -4,4 +4,5 @@ BPM (Business Process Management)
 Gestão dos processos de negócios
 
 BPM:
-- Processos
+- Processos;
+- Gerenciamento e Maturidade
