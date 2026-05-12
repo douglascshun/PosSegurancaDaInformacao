@@ -20,4 +20,4 @@ Planejamento:
 
 Entendendo o nível de maturidade em planejamento:
 	- Poucos consistentes
-	- Referência 
+	- Referência global
