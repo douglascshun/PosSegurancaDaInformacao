@@ -7,3 +7,8 @@ Inventário Pessoal
 		Condução de estratégias.
 	- Listas de Inventários
 		Como verificar uma lista de inventários?
+
+Registro de Operações e Tratamento de dados
+	Dados
+	Tratamento
+Inventário
