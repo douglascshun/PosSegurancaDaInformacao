@@ -15,5 +15,8 @@ Dados
 Informação
 	Dados que sogrem algum tipo de análise:
 		- Processo 
+			- Dados passam por algum tipo d
 		- Execução
 		- Retro-alimentação
+
+Conhecimento
