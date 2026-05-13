@@ -11,4 +11,6 @@ Pontos essenciais:
 	- Locais de armazenamento
 	- Origem dos dados
 	- Compartilhamento de dados
-	- Transferencia int
+	- Transferência internacional de dados (em casos)
+	- Base legal
+	- Políticas de privacidade
