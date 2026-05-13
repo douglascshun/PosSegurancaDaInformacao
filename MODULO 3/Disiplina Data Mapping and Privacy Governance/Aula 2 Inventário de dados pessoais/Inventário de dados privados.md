@@ -10,4 +10,8 @@ Todos os serviços devem ser inventariados
 		- Processos internos
 		- Gestão de pessoas
 
-Identificand
+Identificação dos agentes de tratamento e carregado.
+	Modelos:
+		- Atuação do operador
+		- Fluxo de tratamento
+		- Escopo e natureza
