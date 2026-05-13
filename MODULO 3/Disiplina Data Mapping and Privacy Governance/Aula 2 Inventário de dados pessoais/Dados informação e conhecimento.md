@@ -15,16 +15,17 @@ Dados
 Informação
 	Dados que sogrem algum tipo de análise:
 		- Processo 
-			- Dados passam por algum tipo de tratamento 
+			Dados passam por algum tipo de tratamento 
 		- Execução
-			- Esses dados podem influenciar em tomadas de decisão
+			Esses dados podem influenciar em tomadas de decisão
 		- Retro-alimentação
-			- Por fim esses dados podem deixar de ser outputs para se tornarem novamente inputs
+			Por fim esses dados podem deixar de ser outputs para se tornarem novamente inputs
 
 Conhecimento
 	O que fazer com as informações?
 		Conhecimento 
 			- Tácito
+				O conteúdo que se aprende com a vida como por exemplo apre
 			- Explícito
 			- Sabedoria
 			- Ideias
