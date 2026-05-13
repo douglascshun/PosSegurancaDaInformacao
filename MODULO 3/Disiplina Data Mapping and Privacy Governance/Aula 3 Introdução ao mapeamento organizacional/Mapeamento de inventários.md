@@ -9,3 +9,4 @@ Cada vez mais popular dada a LGPD (Lei Geral de Proteção de Dados).
 		- Segurança dos dados
 		- Informações de clientes
 		- Colaboradores e parceiros
+- 
