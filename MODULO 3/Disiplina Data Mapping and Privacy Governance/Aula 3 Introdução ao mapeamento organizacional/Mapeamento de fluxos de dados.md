@@ -25,4 +25,4 @@ Entender o Mapeamento de Fluxo de Dados
 	- Sensibilidade de dados
 	- Detecção da sensibilidade de dados
 	- Compartilhamento
-	- 
+	- Período de Guarda
