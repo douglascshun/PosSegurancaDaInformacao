@@ -12,3 +12,8 @@ Registro de Operações e Tratamento de dados
 	Dados
 	Tratamento
 Inventário
+
+Descreve Informações - Tratamento de dados.
+	Entendendo o Inventário:
+	- Atores envolvidos;
+	- Finalidade.
