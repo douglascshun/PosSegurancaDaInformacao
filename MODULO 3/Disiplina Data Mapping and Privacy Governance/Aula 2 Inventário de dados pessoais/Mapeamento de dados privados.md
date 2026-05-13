@@ -22,4 +22,4 @@ IMPORTANTE
 	Art 5°
 		Para os fins desta Lei, considera-se:
 			II- Dado pessoal sensível:
-				Dado pessoal sobre origem racial ou ética, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural
+				Dado pessoal sobre origem racial ou ética, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.
