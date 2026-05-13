@@ -6,3 +6,8 @@ Plano de ação:
 		- Volume de dados 
 		- Etapas de fluxos de dados
 
+Pontos essenciais:
+	- Tecnologias
+	- Locais de armazenamento
+	- Origem dos dados
+	- Compartilhamento de dados
