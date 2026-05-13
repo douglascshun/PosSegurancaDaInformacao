@@ -17,3 +17,7 @@ Base de dados
 	- Tipos de banco de dados:
 		Estruturados
 		Não estruturados
+
+IMPORTANTE
+	Art 5°
+		Para os fins desta l
