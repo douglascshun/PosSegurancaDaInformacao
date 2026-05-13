@@ -20,4 +20,4 @@ Descreve Informações - Tratamento de dados.
 	- Finalidade
 		Para qual uso será aqueles dados, por qual razão será autorizado o acesso a aqueles dados?
 	- Previsão legal
-	- Dados Pessoais tra
+	- Dados Pessoais tratados pela instiruição
