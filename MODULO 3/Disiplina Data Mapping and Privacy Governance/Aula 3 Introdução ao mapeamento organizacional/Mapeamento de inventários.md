@@ -9,4 +9,4 @@ Cada vez mais popular dada a LGPD (Lei Geral de Proteção de Dados).
 		- Segurança dos dados
 		- Informações de clientes
 		- Colaboradores e parceiros
-- 
+	A LGPD estipula que determinado operador sempre deve manter os registros das operações que envolvam o tratamento de dados.
