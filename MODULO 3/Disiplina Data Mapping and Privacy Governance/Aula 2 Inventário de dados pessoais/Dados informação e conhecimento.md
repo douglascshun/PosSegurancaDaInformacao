@@ -19,6 +19,12 @@ Informação
 		- Execução
 			- Esses dados podem influenciar em tomadas de decisão
 		- Retro-alimentação
-			- Por fim esses dados podem deixar de ser outputs para se
+			- Por fim esses dados podem deixar de ser outputs para se tornarem novamente inputs
 
 Conhecimento
+	O que fazer com as informações?
+		Conhecimento 
+			- Tácito
+			- Explícito
+			- Sabedoria
+			- Ideias
