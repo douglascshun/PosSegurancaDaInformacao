@@ -10,4 +10,8 @@ Dados
 		- Não estruturado
 			Não estruturados são figuras para alimentar IA's por exemplo.
 		 - Semiestruturado
-			Dados mesclados 
+			Dados mesclados entre estruturados e não estruturados
+Dados que sogrem algum tipo de análise:
+		- Processo 
+		- Execução
+		- Retro-alimentação
