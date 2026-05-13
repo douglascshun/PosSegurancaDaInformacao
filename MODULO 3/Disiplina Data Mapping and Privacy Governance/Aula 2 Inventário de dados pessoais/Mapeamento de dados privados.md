@@ -5,3 +5,9 @@ Categorias de da
 		- Informações pessoais
 		- Informações de instituições
 		- Dados e Identificadores
+
+Cada parte detém:
+	- Descrição
+	- Tempo de Retenção dos Dados
+	- Fonte de Retenção
+	- Nome Base de Dados
