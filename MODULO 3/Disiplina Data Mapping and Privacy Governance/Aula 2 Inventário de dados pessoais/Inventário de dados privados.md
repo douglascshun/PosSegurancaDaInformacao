@@ -9,3 +9,5 @@ Todos os serviços devem ser inventariados
 		- Rotinas
 		- Processos internos
 		- Gestão de pessoas
+
+Identificand
