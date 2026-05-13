@@ -11,3 +11,6 @@ Cada parte detém:
 	- Tempo de Retenção dos Dados
 	- Fonte de Retenção
 	- Nome Base de Dados
+
+Base de dados
+	- SGBD (S)
