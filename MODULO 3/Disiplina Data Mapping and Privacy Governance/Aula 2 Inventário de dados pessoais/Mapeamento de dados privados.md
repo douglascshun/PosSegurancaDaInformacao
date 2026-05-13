@@ -13,4 +13,7 @@ Cada parte detém:
 	- Nome Base de Dados
 
 Base de dados
-	- SGBD (S)
+	- SGBD (Sistema de Gerenciamento de Banco de Dados)
+	- Tipos de banco de dados:
+		Estruturados
+		Não estruturados
