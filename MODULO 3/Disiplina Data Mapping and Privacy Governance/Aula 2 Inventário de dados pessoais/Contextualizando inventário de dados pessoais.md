@@ -16,4 +16,8 @@ Inventário
 Descreve Informações - Tratamento de dados.
 	Entendendo o Inventário:
 	- Atores envolvidos;
-	- Finalidade.
+		Técnicos que entendem sobe o negócio, stackholders que tomam as decisões...
+	- Finalidade
+		Para qual uso será aqueles dados, por qual razão será autorizado o acesso a aqueles dados?
+	- Previsão legal
+	- Dados Pessoais tra
