@@ -7,5 +7,7 @@ Dados
 		Tipos de dados:
 		- Estruturado
 			Informações dispostas para ser analisadas futuramente na tomada de decisões por exemplo CPF, chave primaria, chave estrangeira
-		- Não estruturado ou semiestruturado.
-			Não estruturados Figuras para alimentar IA's por exmplo
+		- Não estruturado
+			Não estruturados são figuras para alimentar IA's por exemplo.
+		 - Semiestruturado
+			Dados mesclados 
