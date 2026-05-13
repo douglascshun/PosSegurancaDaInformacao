@@ -5,7 +5,7 @@ Mapeamento Organizacional
 	- Capacidade.
 Mapeamento de processos X Mapeamento Organizacional
 
-BPMN (bussisness Process Maneg)
+BPMN (Business Process Management Notation)
 	- Processo
 	- Modelo
 	- Feedback
