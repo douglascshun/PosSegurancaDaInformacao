@@ -16,4 +16,10 @@ Mapeamento de fluxo de dados
 		Mapeamento
 
 Fluxo de dados:
-	- Localização
+	- Localização da informação
+	- Definição de colaboradores
+	- Tipos de acessos
+
+Entender o Mapeamento de Fluxo de Dados
+	- Base legal das Informações
+	- Sensibilidade de dados
