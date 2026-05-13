@@ -25,7 +25,8 @@ Conhecimento
 	O que fazer com as informações?
 		Conhecimento 
 			- Tácito
-				O conteúdo que se aprende com a vida como por exemplo apre
+				O conteúdo que se aprende com a vida como por exemplo aprender algo lendo um livro, o conhecimento que o autor te passa com aquilo
 			- Explícito
+				artigos científicos, revistas, internet de um mode geral estão associados 
 			- Sabedoria
 			- Ideias
