@@ -15,3 +15,5 @@ Mapeamento de fluxo de dados
 			Identificação
 		Mapeamento
 
+Fluxo de dados:
+	- Localização
