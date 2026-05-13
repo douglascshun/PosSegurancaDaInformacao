@@ -29,4 +29,6 @@ Conhecimento
 			- Explícito
 				artigos científicos, revistas, internet de um mode geral estão associados 
 			- Sabedoria
+				Utilizar esse conhecimento ao seu favor, sabedoria para ideias insides
 			- Ideias
+				Resultado final ou output
