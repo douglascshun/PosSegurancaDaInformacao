@@ -5,3 +5,6 @@ O que é um dado?
 
 Mapeamento
 	Estabelecer uma condição lógica
+
+Informação
+	Algo proveniente dos dados
