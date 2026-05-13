@@ -2,3 +2,10 @@
 
 Identificação do serviço e do processo.
 	Realizar levantamentos de dados pessoais 
+
+Todos os serviços devem ser inventariados
+	Inventário por processo de negócio:
+		- Processos
+		- Rotinas
+		- Processos internos
+		- Gestão de pessoas
