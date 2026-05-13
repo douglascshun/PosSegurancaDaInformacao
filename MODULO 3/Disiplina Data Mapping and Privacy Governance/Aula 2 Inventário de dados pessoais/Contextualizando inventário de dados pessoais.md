@@ -1,3 +1,7 @@
 [[Aula 2 Inventário de dados pessoais]]
 
-Inven
+Inventário Pessoal
+	- O que é um inventário?
+		Estruturação de inventário.
+	- Orientações
+		Condução de estr
