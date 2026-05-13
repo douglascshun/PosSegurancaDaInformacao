@@ -8,3 +8,10 @@ Mapeamento
 
 Informação
 	Algo proveniente dos dados
+
+Mapeamento de fluxo de dados
+	Elaborando um mapeamento de dados
+			Classificação
+			Identificação
+		Mapeamento
+
