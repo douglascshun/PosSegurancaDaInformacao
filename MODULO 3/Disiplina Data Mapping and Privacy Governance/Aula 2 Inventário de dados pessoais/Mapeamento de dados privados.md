@@ -20,4 +20,6 @@ Base de dados
 
 IMPORTANTE
 	Art 5°
-		Para os fins desta l
+		Para os fins desta Lei, considera-se:
+			II- Dado pessoal sensível:
+				Dado pessoal sobre origem racial ou ética, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter r
