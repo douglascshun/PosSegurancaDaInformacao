@@ -4,3 +4,7 @@ Gestão de Processos
 	- Processo
 	- Dados
 	- Elementos
+
+Análise em Gestão de Processos
+	- Análise Qualitativa
+	- Análise Quantitativa 
