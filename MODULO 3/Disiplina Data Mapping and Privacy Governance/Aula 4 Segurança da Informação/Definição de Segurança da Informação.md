@@ -2,4 +2,4 @@
 
 O que é segurança da informação?
 	Objetivo principal:
-		Blindar contra acessos não requisitados, não autorizados, b
+		Blindar contra acessos não requisitados, não autorizados, bem como alterações indesejadas.
