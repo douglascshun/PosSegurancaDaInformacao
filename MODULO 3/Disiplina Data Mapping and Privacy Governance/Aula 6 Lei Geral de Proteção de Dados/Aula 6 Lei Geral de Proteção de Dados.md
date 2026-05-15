@@ -1,9 +1,5 @@
 [[Data Mapping and Privacy Governance]]
 
-Observação: este site inclui um sistema de acessibilidade. Pressione Control-F11 para ajustar o site para pessoas com deficiências visuais que usam um leitor de tela; Pressione Control-F10 para abrir um menu de acessibilidade.
-
-## Lei Geral de Proteção de Dados
-
 **Introdução**
 
 Agora, vamos conhecer a Lei Geral de Proteção de Dados (LGPD). A Lei Geral de Proteção de Dados (LGPD) é uma lei brasileira que estabelece normas e procedimentos para a coleta, armazenamento, tratamento, uso e compartilhamento de dados pessoais em todos os âmbitos da vida digital no Brasil.
