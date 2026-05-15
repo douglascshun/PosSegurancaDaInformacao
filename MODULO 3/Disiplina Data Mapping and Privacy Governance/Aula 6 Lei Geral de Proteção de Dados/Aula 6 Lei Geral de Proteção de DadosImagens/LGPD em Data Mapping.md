@@ -4,4 +4,4 @@ Adequação para a Lei Geral de Proteção de Dados
 	- Data Mapping
 	- Avaliação LGPD
 	- Mapeamento de Dados
-	- Planm
+	- Planos de Ação
