@@ -4,4 +4,4 @@ Riscos em Privacy Governance
 	Ter uma estrutura formal de governança corporativa para determinar o nível de risco de privacidade aceitável para a alta administração.
 
 Privacy Governance
-	Ter uma estrutura ade privacidade contendo políticas e procedimentos relacionados à privacidade de informações pessoais
+	Ter uma estrutura ade privacidade contendo políticas e procedimentos relacionados à privacidade de informações pessoais, abordando classificação de dados gerenciamento de registros, retenção e destruição.
