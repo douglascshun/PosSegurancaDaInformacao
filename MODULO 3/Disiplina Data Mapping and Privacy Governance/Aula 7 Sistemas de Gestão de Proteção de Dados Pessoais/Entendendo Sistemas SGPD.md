@@ -9,4 +9,6 @@ Partes envolvidas:
 	- Tecnologias 
 	- Dados
 
-Ponto Fundamental ``
+Ponto Fundamental `Tratamento de dados`
+
+
