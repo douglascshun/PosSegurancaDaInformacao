@@ -1,5 +1,8 @@
 [[Aula 4 Segurança da Informação]]
 
-- Privacidade dos dados
-- Ações tomadas para privacidade
+Confidencialidade
+	- Privacidade dos dados
+	- Ações tomadas para privacidade
 
+Integridade
+	- 
