@@ -6,4 +6,7 @@ Adequação para a LGPD
 	- Planos de Ação
 
 Este programa deve incluir requisitos de privacidades, onde:
-	- Demonstre 
+	- Demonstre comprometimento do controlado
+	- Que seja aplicado à um conjunto de dados
+	- SE adapte à estrutura
+	- Estabeleça políticas 
