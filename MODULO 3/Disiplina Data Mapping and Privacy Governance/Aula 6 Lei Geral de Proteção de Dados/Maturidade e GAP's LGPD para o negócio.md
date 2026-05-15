@@ -2,5 +2,5 @@
 
 Gap Analysis
 	- Análise de "gaps" ou "buracos" no tratamento de dados pessoais
-
-é feita no 
+	É feita no mapeamento de dados.
+	Procurar brechas e criar um mapa identificando como os dados são coletados, trazendo uma visão mais eficiente sobre compartilhamento de dados pessoais
