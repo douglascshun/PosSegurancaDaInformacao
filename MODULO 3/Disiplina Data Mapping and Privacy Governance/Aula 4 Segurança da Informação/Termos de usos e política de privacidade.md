@@ -13,3 +13,4 @@ O que deve ser incorporado?
 	- São armazenadas de qual forma?
 	- Por que há essa coleta de dados?
 	- Há uma hospedagem externa?
+	- Por quanto tepo
