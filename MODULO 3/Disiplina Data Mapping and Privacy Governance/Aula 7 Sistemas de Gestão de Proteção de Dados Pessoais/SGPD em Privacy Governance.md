@@ -6,4 +6,8 @@ Adequação para SGPD
 	- Sistema 
 	- Plano de Ações
 
-Esse sistema deve incluir resistitos onde
+Esse sistema deve incluir requisitos onde:
+	- Recursos humanos estão em evidência
+	- Recursos tecnológicos 
+	- Estrutura digital 
+	- Diretrizes e políticas 
