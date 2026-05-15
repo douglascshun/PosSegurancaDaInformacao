@@ -1,3 +1,4 @@
 [[Aula 6 Lei Geral de Proteção de Dados]]
 
-Adequal
+Adequação para a Lei Geral de Proteção de Dados
+	- Data Mapping
