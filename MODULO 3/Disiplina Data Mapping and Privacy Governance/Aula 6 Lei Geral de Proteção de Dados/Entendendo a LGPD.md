@@ -6,4 +6,7 @@ O que é a Lei Geral de Proteção de dados?
 O que é a Lei Geral de Proteção de dados?
 	A lei fala sobre o tratamento de dados pessoais, dispostos em meio físico ou digital, feito por uma pessoa física ou jurídica de direito público ou privado, englobando um amplo conjunto de operações que podem ocorrer em meio manuais ou digitais.
 
-Pessoas envolvidas na 
+Pessoas envolvidas na LGPD
+	- Controlador
+	- Operador
+	- Encarregado
