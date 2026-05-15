@@ -7,3 +7,7 @@ Confidencialidade
 Integridade
 	- Preservação da precisão dos dados
 	- Consistência e confiabilidade
+
+Disponibilidade 
+	- Tempo de acessibilidade dos dados
+	- Consultas 
