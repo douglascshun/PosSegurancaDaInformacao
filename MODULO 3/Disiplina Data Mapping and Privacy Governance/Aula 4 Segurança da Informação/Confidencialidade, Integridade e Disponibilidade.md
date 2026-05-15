@@ -5,4 +5,5 @@ Confidencialidade
 	- Ações tomadas para privacidade
 
 Integridade
-	- 
+	- Preservação da precisão dos dados
+	- Consistência e co
