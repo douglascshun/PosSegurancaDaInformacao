@@ -2,3 +2,5 @@
 
 Gap Analysis
 	- Análise de "gaps" ou "buracos" no tratamento de dados pessoais
+
+é feita no 
