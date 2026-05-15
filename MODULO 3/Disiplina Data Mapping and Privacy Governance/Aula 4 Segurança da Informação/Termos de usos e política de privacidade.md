@@ -10,4 +10,4 @@ Políticas de privacidade
 
 O que deve ser incorporado?
 	- Quais são os tipos de informações?
-	- São armazenadas de qual forma
+	- São armazenadas de qual forma?
