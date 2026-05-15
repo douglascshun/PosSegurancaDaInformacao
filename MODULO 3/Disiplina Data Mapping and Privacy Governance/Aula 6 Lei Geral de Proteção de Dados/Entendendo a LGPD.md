@@ -9,4 +9,4 @@ O que é a Lei Geral de Proteção de dados?
 Pessoas envolvidas na LGPD
 	- Controlador
 	- Operador
-	- Encarregado
+	- Encarregado 
