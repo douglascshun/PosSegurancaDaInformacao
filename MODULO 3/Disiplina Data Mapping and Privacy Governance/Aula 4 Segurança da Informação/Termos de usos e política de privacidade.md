@@ -2,3 +2,9 @@
 
 Contrato
 	Rege a relação entre usuários de internet e proprietários de sites.
+
+Políticas de privacidade
+	- Finalidade de dados
+	- Compartilhamentos
+	- Planos de ação
+
