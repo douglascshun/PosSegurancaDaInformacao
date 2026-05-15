@@ -11,3 +11,5 @@ Políticas de privacidade
 O que deve ser incorporado?
 	- Quais são os tipos de informações?
 	- São armazenadas de qual forma?
+	- Por que há essa coleta de dados?
+	- Há uma hospedagem externa?
