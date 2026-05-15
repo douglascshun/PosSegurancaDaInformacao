@@ -6,4 +6,4 @@ Confidencialidade
 
 Integridade
 	- Preservação da precisão dos dados
-	- Consistência e co
+	- Consistência e confiabilidade
