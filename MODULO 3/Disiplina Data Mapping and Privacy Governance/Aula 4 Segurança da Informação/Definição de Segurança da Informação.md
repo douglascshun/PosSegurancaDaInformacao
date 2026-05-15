@@ -7,4 +7,5 @@ O que é segurança da informação?
 
 O que envolve?
 	- Boas práticas de gestão
-	- 
+	- Integridade de dados
+	- Definição de políticas 
