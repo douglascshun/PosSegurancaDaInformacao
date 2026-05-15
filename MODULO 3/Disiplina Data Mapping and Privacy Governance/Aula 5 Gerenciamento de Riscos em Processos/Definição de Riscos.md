@@ -4,3 +4,6 @@ Gestão de Risco
 	- Processo
 	- Executar
 	- Feedback 
+
+Análise em Gestão de Riscos
+	- Análise Qualitativa
