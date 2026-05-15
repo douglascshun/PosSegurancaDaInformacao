@@ -7,3 +7,4 @@ Gestão de Risco
 
 Análise em Gestão de Riscos
 	- Análise Qualitativa
+	- Análise Quantitativa
