@@ -8,3 +8,6 @@ Políticas de privacidade
 	- Compartilhamentos
 	- Planos de ação
 
+O que deve ser incorporado?
+	- Quais são os tipos de informações?
+	- São armazenadas de qual forma
