@@ -10,3 +10,6 @@ O que é segurança da informação?
 De acordo com a LGPD
 	XVII - Relatório de impacto à proteção de dados pessoais:
 		Documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais bem como medidas, salvaguardas e mecanismos de mitigação de risco.
+
+Questões que buscam ser respondidas
+	- O tratamento é de interesse
