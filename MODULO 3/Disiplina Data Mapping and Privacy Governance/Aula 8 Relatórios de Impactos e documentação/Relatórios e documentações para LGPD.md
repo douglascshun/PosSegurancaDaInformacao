@@ -12,4 +12,6 @@ De acordo com a LGPD
 		Documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais bem como medidas, salvaguardas e mecanismos de mitigação de risco.
 
 Questões que buscam ser respondidas
-	- O tratamento é de interesse
+	- O tratamento é de interesse?
+	- O titular está ciente dos riscos?
+	- Descrever o tratamento
