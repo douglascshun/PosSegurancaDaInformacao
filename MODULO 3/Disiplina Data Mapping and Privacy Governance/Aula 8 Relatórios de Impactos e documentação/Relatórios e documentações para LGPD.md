@@ -5,4 +5,8 @@ Relatório de Impacto à Proteção de Dados Pessoais (RIPDP)
 
 
 O que é segurança da informação?
-Baseia-se no Data Protection Impact Assessment. Permite a criação de uma ferramenta de gestão de risco.
+	Baseia-se no Data Protection Impact Assessment. Permite a criação de uma ferramenta de gestão de risco.
+
+De acordo com a LGPD
+	XVII - Relatório de impacto à proteção de dados pessoais:
+		
