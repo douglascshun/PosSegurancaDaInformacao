@@ -1,13 +1,54 @@
-# MBA em Segurança da Informação
+<!-- ══════════════════════════ BANNER ══════════════════════════ -->
+<div align="center">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height="10px" alt="divider"/>
+</div>
 
- **Repositório central de estudos, resumos técnicos e documentação prática.**
+<div align="center">
+  <img src="https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=1600&height=511&name=Cybersecurity%20Graphic.gif" width="100%" alt="Cybersecurity Banner"/>
+</div>
 
+<div align="center">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height="10px" alt="divider"/>
+</div>
 
----
-> Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
----
+<br/>
 
-## 📂 Organização do Conteúdo
+<h1 align="center">MBA em Segurança da Informação</h1>
+<p align="center"><em>Repositório central de estudos, resumos técnicos e documentação prática</em></p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pós--Graduação-Segurança_da_Informação-1987F0?style=for-the-badge&logo=academia&logoColor=white" alt="pos"/>
+<img src="https://img.shields.io/badge/Status-Em_andamento-FFA500?style=for-the-badge" alt="status"/>
+<br/>
+<img src="https://img.shields.io/badge/Cibersegurança-1987F0?style=flat-square" alt="cyber"/>
+<img src="https://img.shields.io/badge/GRC-004B87?style=flat-square" alt="grc"/>
+<img src="https://img.shields.io/badge/LGPD-2E7D32?style=flat-square" alt="lgpd"/>
+<img src="https://img.shields.io/github/last-commit/douglascshun/PosSegurancaDaInformacao?style=flat-square&color=1987F0" alt="last commit"/>
+<img src="https://img.shields.io/github/license/douglascshun/PosSegurancaDaInformacao?style=flat-square&color=1987F0" alt="license"/>
+
+</div>
+
+<!-- ══════════════════════════ NAVEGAÇÃO ══════════════════════════ -->
+<div align="center">
+
+<a href="#modulos"><img src="https://img.shields.io/badge/▸_MÓDULOS-1987F0?style=for-the-badge" alt="modulos"/></a>
+<a href="#scripts"><img src="https://img.shields.io/badge/▸_SCRIPTS-000000?style=for-the-badge" alt="scripts"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTATO-1987F0?style=for-the-badge" alt="contato"/></a>
+
+</div>
+
+<br/>
+
+> Este repositório consolida o conhecimento adquirido ao longo do MBA, servindo como base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
+</div>
+
+<!-- ══════════════════════════ MÓDULOS ══════════════════════════ -->
+<a id="modulos"></a>
+## Organização do Conteúdo
 
 A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-assuntos técnicos:
 
@@ -284,20 +325,39 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
 
 ---
 
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
+</div>
+
+<!-- ══════════════════════════ SCRIPTS ══════════════════════════ -->
+<a id="scripts"></a>
 ## Scripts e Ferramentas
-* [ Automação de postagem das anotações no Linkedin](./automacao_linkedin.py)
-* [ Sobre o MBA](MBA%20em%20Segurança%20da%20Informação.md)
-* [ LICENSE](./LICENSE)
 
----
+- [Automação de postagem das anotações no LinkedIn](./automacao_linkedin.py)
+- [Sobre o MBA](MBA%20em%20Segurança%20da%20Informação.md)
+- [LICENSE](./LICENSE)
 
-## Contatos:
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
+</div>
 
-- **LinkedIn:** [Douglas Cshunderlick](https://www.linkedin.com/in/cshunderlick/)
-- **E-mail:** Douglascshun@gmail.com
+<!-- ══════════════════════════ CONTATO ══════════════════════════ -->
+<a id="contato"></a>
+## Contato
 
----
+<div align="center">
 
+<a href="https://github.com/douglascshun"><img src="https://img.shields.io/badge/Perfil_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://www.linkedin.com/in/douglas-cshunderlick/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:douglascshun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
-*Este repositório é atualizado automaticamente conforme o progresso das disciplinas.*
+<br/><br/>
+
+<sub><em>Repositório atualizado automaticamente conforme o progresso das disciplinas.</em></sub>
+
+</div>
+
+<div align="center">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height="10px" alt="divider"/>
+</div>
 
