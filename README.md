@@ -119,7 +119,7 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
 </details>
 
 <details>
-  <summary><strong> 🔸 MODULO 2</strong></summary>
+  <summary><strong> 🔹 MODULO 2</strong></summary>
   <blockquote>
 
   <details>
