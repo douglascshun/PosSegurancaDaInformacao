@@ -1,0 +1,12 @@
+# Flag de token expirado (sinaliza ao workflow para abrir Issue de lembrete)
+.token_expired
+
+# Imagem gerada por IA a cada execução
+post_image.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
