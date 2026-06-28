@@ -1,8 +1,8 @@
 <!-- ══════════════════════ IDIOMAS / LANGUAGES ══════════════════════ -->
 <div align="center">
-<a href="README.md"><img src="https://img.shields.io/badge/Português-1987F0?style=for-the-badge" alt="Português"/></a>
+<a href="README.md"><img src="https://img.shields.io/badge/Português-555555?style=for-the-badge" alt="Português"/></a>
 <a href="README.en.md"><img src="https://img.shields.io/badge/English-555555?style=for-the-badge" alt="English"/></a>
-<a href="README.es.md"><img src="https://img.shields.io/badge/Español-555555?style=for-the-badge" alt="Español"/></a>
+<a href="README.es.md"><img src="https://img.shields.io/badge/Español-1987F0?style=for-the-badge" alt="Español"/></a>
 </div>
 
 <!-- ══════════════════════════ BANNER ══════════════════════════ -->
@@ -20,8 +20,8 @@
 
 <br/>
 
-<h1 align="center">MBA em Segurança da Informação</h1>
-<p align="center"><em>Repositório central de estudos, resumos técnicos e documentação prática</em></p>
+<h1 align="center">MBA en Seguridad de la Información</h1>
+<p align="center"><em>Repositorio central de estudios, resúmenes técnicos y documentación práctica</em></p>
 
 <div align="center">
 
@@ -41,13 +41,13 @@
 
 <a href="#modulos"><img src="https://img.shields.io/badge/▸_MÓDULOS-1987F0?style=for-the-badge" alt="modulos"/></a>
 <a href="#scripts"><img src="https://img.shields.io/badge/▸_SCRIPTS-000000?style=for-the-badge" alt="scripts"/></a>
-<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTATO-1987F0?style=for-the-badge" alt="contato"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTACTO-1987F0?style=for-the-badge" alt="contato"/></a>
 
 </div>
 
 <br/>
 
-> Este repositório consolida o conhecimento adquirido ao longo do MBA, servindo como base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
+> Este repositorio consolida el conocimiento adquirido a lo largo del MBA, sirviendo como base de consulta rápida para su aplicación en el día a día profesional y en revisiones académicas.
 
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
@@ -55,11 +55,11 @@
 
 <!-- ══════════════════════════ MÓDULOS ══════════════════════════ -->
 <a id="modulos"></a>
-## Organização do Conteúdo
+## Organización del Contenido
 
-A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-assuntos técnicos:
+La estructura sigue el cronograma oficial del curso, dividida por módulos y subtemas técnicos:
 
-###  Módulos e Disciplinas
+###  Módulos y Disciplinas
 
 <details>
   <summary><strong> 🔹 MODULO 1</strong></summary>
@@ -280,10 +280,10 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
 
 <!-- ══════════════════════════ SCRIPTS ══════════════════════════ -->
 <a id="scripts"></a>
-## Scripts e Ferramentas
+## Scripts y Herramientas
 
-- [Automação de postagem das anotações no LinkedIn](./automacao_linkedin.py)
-- [Sobre o MBA](MBA%20em%20Segurança%20da%20Informação.md)
+- [Automatización de publicación de notas en LinkedIn](./automacao_linkedin.py)
+- [Sobre el MBA](MBA%20em%20Segurança%20da%20Informação.md)
 - [LICENSE](./LICENSE)
 
 <div align="center">
@@ -292,7 +292,7 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
 
 <!-- ══════════════════════════ CONTATO ══════════════════════════ -->
 <a id="contato"></a>
-## Contato
+## Contacto
 
 <div align="center">
 
@@ -302,7 +302,7 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
 
 <br/><br/>
 
-<sub><em>Repositório atualizado automaticamente conforme o progresso das disciplinas.</em></sub>
+<sub><em>Repositorio actualizado automáticamente conforme avanzan las disciplinas.</em></sub>
 
 </div>
 
