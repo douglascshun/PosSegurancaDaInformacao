@@ -2,6 +2,11 @@ name: Post Diario LinkedIn
 
 on:
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Teste sem publicar (monta o post mas NÃO envia)'
+        type: boolean
+        default: false
   schedule:
     - cron: '0 12 * * *'
 
@@ -10,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write
 
     steps:
       - name: Checkout do código
@@ -20,27 +26,51 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Instalar dependências
-        run: pip install -U google-genai requests
+        run: pip install -r requirements.txt
 
       - name: Verificação de Segredos (Debug)
         run: |
-          if [ -z "${{ secrets.GEMINI_API_KEY }}" ]; then echo "❌ GEMINI_API_KEY está vazia nos Secrets"; else echo "✅ GEMINI_API_KEY detectada"; fi
-          if [ -z "${{ secrets.LINKEDIN_ACCESS_TOKEN }}" ]; then echo "❌ LINKEDIN_ACCESS_TOKEN está vazia nos Secrets"; else echo "✅ LINKEDIN_ACCESS_TOKEN detectada"; fi
+          if [ -z "${{ secrets.GEMINI_API_KEY }}" ]; then echo "❌ GEMINI_API_KEY vazio"; else echo "✅ GEMINI_API_KEY detectado"; fi
+          if [ -z "${{ secrets.LINKEDIN_ACCESS_TOKEN }}" ]; then echo "❌ LINKEDIN_ACCESS_TOKEN vazio"; else echo "✅ LINKEDIN_ACCESS_TOKEN detectado"; fi
 
       - name: Rodar Script de Postagem
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
         run: python automacao_linkedin.py
+
+      - name: Avisar se o token expirou (abre Issue)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -f .token_expired ]; then
+            existe=$(gh issue list --state open --search "Token do LinkedIn expirou in:title" --json number --jq 'length')
+            if [ "$existe" = "0" ]; then
+              gh issue create \
+                --title "🔑 Token do LinkedIn expirou — renove o LINKEDIN_ACCESS_TOKEN" \
+                --body "$(cat .token_expired)"
+              echo "📨 Issue de lembrete criada."
+            else
+              echo "ℹ️ Já existe uma issue aberta de lembrete."
+            fi
+          else
+            echo "ℹ️ Falha não relacionada ao token (sem flag .token_expired)."
+          fi
 
       - name: Salvar progresso
         if: success()
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          rm -f .token_expired post_image.png
           git add post_index.txt
-          git commit -m "Atualiza índice [skip ci]" || echo "Sem mudanças"
-          git push
+          if git commit -m "Atualiza índice [skip ci]"; then
+            git push || (git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push)
+          else
+            echo "Sem mudanças no índice."
+          fi
