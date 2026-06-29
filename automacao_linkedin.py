@@ -23,6 +23,7 @@ Opcionais (com defaults):
 import os
 import re
 import sys
+import time
 import hashlib
 import textwrap
 import requests
@@ -109,9 +110,52 @@ def carregar_proximo_arquivo():
     return arquivos_md[index], index
 
 
+# ───────────────────────── Gemini: retry ─────────────────────────
+RETRY_MAX = int(os.getenv("GEMINI_RETRY_MAX", "5"))
+RETRY_BASE = float(os.getenv("GEMINI_RETRY_BASE", "2.0"))  # segundos
+
+# trechos que indicam erro transitório do lado do servidor — vale tentar de novo
+_TRANSIENTE = (
+    "503", "429", "500", "502", "504",
+    "unavailable", "overloaded", "resource_exhausted",
+    "deadline", "timeout", "high demand",
+)
+
+
+def _e_transitorio(err):
+    """True se o erro for transitório (sobrecarga/limite/instabilidade do
+    Gemini), sinalizando que uma nova tentativa pode ter sucesso."""
+    code = getattr(err, "code", None)
+    if code in (429, 500, 502, 503, 504):
+        return True
+    msg = str(err).lower()
+    return any(t in msg for t in _TRANSIENTE)
+
+
+def _gemini_com_retry(descricao, fn):
+    """Executa uma chamada ao Gemini com backoff exponencial (2s, 4s, 8s…)
+    para erros transitórios como '503 UNAVAILABLE'. Erros permanentes
+    (ex.: API key inválida) sobem na primeira ocorrência."""
+    for tentativa in range(1, RETRY_MAX + 1):
+        try:
+            return fn()
+        except Exception as e:
+            if tentativa >= RETRY_MAX or not _e_transitorio(e):
+                raise
+            espera = RETRY_BASE * (2 ** (tentativa - 1))
+            print(
+                f"⚠️  {descricao}: erro transitório ({e}). "
+                f"Tentativa {tentativa}/{RETRY_MAX}, aguardando {espera:.0f}s...",
+                flush=True,
+            )
+            time.sleep(espera)
+
+
 # ───────────────────────── Gemini: texto ─────────────────────────
 def gerar_texto(conteudo):
-    response = client.models.generate_content(
+    response = _gemini_com_retry(
+        "Gemini (texto)",
+        lambda: client.models.generate_content(
         model=TEXT_MODEL,
         contents=(
             "Reescreva para eu publicar no LinkedIn, como um hacker avançado em Red Team escreveria. "
@@ -127,6 +171,7 @@ def gerar_texto(conteudo):
             "6. NÃO USE EMOJIS.\n"
             "7. NÃO use markdown: nada de ** ou * para negrito/itálico, nem # para títulos. "
             "O LinkedIn não renderiza formatação — escreva texto puro."
+        ),
         ),
     )
     if not response or not response.text:
