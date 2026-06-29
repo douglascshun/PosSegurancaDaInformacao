@@ -21,6 +21,8 @@ Opcionais (com defaults):
   GEMINI_RETRY_MAX     (default: 5)  tentativas no texto p/ erro transitório
   GEMINI_RETRY_MAX_IMG (default: 3)  tentativas na imagem (tem fallback de card)
   GEMINI_RETRY_BASE    (default: 2.0) base do backoff exponencial, em segundos
+  USE_POLLINATIONS     (default: "1") usa Pollinations.ai (imagem IA grátis)
+  POLLINATIONS_MODEL   (default: flux) modelo do Pollinations (ex.: flux, turbo)
 """
 
 import os
@@ -38,9 +40,14 @@ ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
 
 TEXT_MODEL = os.getenv("GEMINI_TEXT_MODEL", "gemini-2.5-flash")
 IMAGE_MODEL = os.getenv("GEMINI_IMAGE_MODEL", "imagen-4.0-fast-generate-001")
-IMAGE_MODEL_ALT = os.getenv("GEMINI_IMAGE_MODEL_ALT", "nano-banana-pro-preview")
+IMAGE_MODEL_ALT = os.getenv("GEMINI_IMAGE_MODEL_ALT", "gemini-2.5-flash-image")
 LI_VERSION = os.getenv("LINKEDIN_VERSION", "202606")
 DRY_RUN = os.getenv("DRY_RUN", "0") == "1"
+
+# Pollinations.ai: geração de imagem por IA gratuita (sem API key) — fonte
+# primária, já que o Gemini não tem mais free tier de imagem (jun/2026).
+USE_POLLINATIONS = os.getenv("USE_POLLINATIONS", "1") == "1"
+POLLINATIONS_MODEL = os.getenv("POLLINATIONS_MODEL", "flux")
 
 INDEX_FILE = "post_index.txt"
 TOKEN_FLAG = ".token_expired"        # sinaliza ao workflow que o token caducou
@@ -279,14 +286,55 @@ def gerar_card(titulo, subtitulo):
         return None
 
 
+def gerar_imagem_pollinations(titulo):
+    """Gera a imagem por IA via Pollinations.ai — gratuito e sem API key.
+    Retorna o caminho do arquivo salvo ou None se falhar/indisponível."""
+    import urllib.parse
+    # Prompt ABSTRATO (sem o título literal): modelos de difusão tentam "escrever"
+    # o substantivo do prompt e geram texto fantasma. A relação com o post fica no
+    # texto e no card; aqui buscamos um banner limpo e profissional da marca.
+    prompt = (
+        "Abstract digital cybersecurity concept art, dark navy background, glowing "
+        "electric blue circuit lines and network nodes, faint shield and lock motifs, "
+        "depth and bokeh, minimal clean corporate tech aesthetic. "
+        "No text, no letters, no words, no typography, no UI, no logos, no watermark."
+    )
+    seed = int(hashlib.md5(titulo.encode("utf-8")).hexdigest(), 16) % 100000  # varia por post
+    url = (
+        "https://image.pollinations.ai/prompt/" + urllib.parse.quote(prompt)
+        + f"?width=1200&height=627&nologo=true&model={POLLINATIONS_MODEL}&seed={seed}"
+    )
+    try:
+        r = requests.get(url, timeout=90)
+        r.raise_for_status()
+        ctype = r.headers.get("Content-Type", "")
+        if not ctype.startswith("image/") or len(r.content) < 2000:
+            print(f"⚠️ Pollinations não retornou imagem (ctype='{ctype}', {len(r.content)} bytes).")
+            return None
+        with open(IMG_OUT, "wb") as f:
+            f.write(r.content)
+        print(f"🎨 Imagem gerada por IA grátis (Pollinations/{POLLINATIONS_MODEL}).")
+        return IMG_OUT
+    except requests.RequestException as e:
+        print(f"⚠️ Pollinations indisponível ({e}).")
+        return None
+
+
 def gerar_imagem(titulo, subtitulo):
-    """Imagem do post: tenta IA (Imagen/nano-banana); se indisponível (free tier),
-    gera um CARD dinâmico com o tema do post; e por último o banner fixo."""
+    """Imagem do post: tenta IA grátis (Pollinations) e, se houver billing, o
+    Gemini (Imagen/Flash Image); senão gera um CARD dinâmico com o tema do post;
+    e por último o banner fixo."""
     prompt = (
         f"Professional, modern cybersecurity banner illustration about '{titulo}'. "
         "Dark background, electric blue (#1987F0) accents, abstract network/tech motifs, "
         "clean corporate style, no text, no logos, no watermark."
     )
+
+    # 0) Pollinations.ai — IA gratuita, sem API key (fonte primária)
+    if USE_POLLINATIONS:
+        img = gerar_imagem_pollinations(titulo)
+        if img:
+            return img
 
     # 1) Imagen via predict (requer plano pago)
     try:
