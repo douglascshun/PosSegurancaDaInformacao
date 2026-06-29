@@ -14,10 +14,13 @@ Variáveis de ambiente (GitHub Secrets):
   GEMINI_API_KEY
   LINKEDIN_ACCESS_TOKEN
 Opcionais (com defaults):
-  GEMINI_TEXT_MODEL   (default: gemini-2.5-flash)
-  GEMINI_IMAGE_MODEL  (default: imagen-3.0-generate-002)
-  LINKEDIN_VERSION    (default: 202606)
-  DRY_RUN             ("1" = monta tudo mas NÃO publica)
+  GEMINI_TEXT_MODEL    (default: gemini-2.5-flash)
+  GEMINI_IMAGE_MODEL   (default: imagen-3.0-generate-002)
+  LINKEDIN_VERSION     (default: 202606)
+  DRY_RUN              ("1" = monta tudo mas NÃO publica)
+  GEMINI_RETRY_MAX     (default: 5)  tentativas no texto p/ erro transitório
+  GEMINI_RETRY_MAX_IMG (default: 3)  tentativas na imagem (tem fallback de card)
+  GEMINI_RETRY_BASE    (default: 2.0) base do backoff exponencial, em segundos
 """
 
 import os
@@ -112,6 +115,7 @@ def carregar_proximo_arquivo():
 
 # ───────────────────────── Gemini: retry ─────────────────────────
 RETRY_MAX = int(os.getenv("GEMINI_RETRY_MAX", "5"))
+RETRY_MAX_IMG = int(os.getenv("GEMINI_RETRY_MAX_IMG", "3"))  # imagem tem fallback (card)
 RETRY_BASE = float(os.getenv("GEMINI_RETRY_BASE", "2.0"))  # segundos
 
 # trechos que indicam erro transitório do lado do servidor — vale tentar de novo
@@ -121,10 +125,26 @@ _TRANSIENTE = (
     "deadline", "timeout", "high demand",
 )
 
+# trechos que indicam limite PERMANENTE (cota zerada/plano pago) — retentar não
+# adianta; melhor desistir já e cair no fallback (card) sem perder ~30s no backoff
+_PERMANENTE = (
+    "limit: 0", "only available on paid", "paid plan",
+    "perday", "per day", "billing", "upgrade your account",
+)
+
+
+def _e_permanente(err):
+    """True quando o erro é um limite que não se resolve com nova tentativa
+    (cota free-tier zerada, recurso exclusivo de plano pago)."""
+    return any(t in str(err).lower() for t in _PERMANENTE)
+
 
 def _e_transitorio(err):
-    """True se o erro for transitório (sobrecarga/limite/instabilidade do
-    Gemini), sinalizando que uma nova tentativa pode ter sucesso."""
+    """True se o erro for transitório (sobrecarga/instabilidade do Gemini),
+    sinalizando que uma nova tentativa pode ter sucesso. Limites permanentes
+    (cota zerada/plano pago) NÃO contam como transitórios."""
+    if _e_permanente(err):
+        return False
     code = getattr(err, "code", None)
     if code in (429, 500, 502, 503, 504):
         return True
@@ -132,20 +152,20 @@ def _e_transitorio(err):
     return any(t in msg for t in _TRANSIENTE)
 
 
-def _gemini_com_retry(descricao, fn):
+def _gemini_com_retry(descricao, fn, tentativas=RETRY_MAX):
     """Executa uma chamada ao Gemini com backoff exponencial (2s, 4s, 8s…)
     para erros transitórios como '503 UNAVAILABLE'. Erros permanentes
-    (ex.: API key inválida) sobem na primeira ocorrência."""
-    for tentativa in range(1, RETRY_MAX + 1):
+    (ex.: API key inválida, cota zerada) sobem na primeira ocorrência."""
+    for tentativa in range(1, tentativas + 1):
         try:
             return fn()
         except Exception as e:
-            if tentativa >= RETRY_MAX or not _e_transitorio(e):
+            if tentativa >= tentativas or not _e_transitorio(e):
                 raise
             espera = RETRY_BASE * (2 ** (tentativa - 1))
             print(
                 f"⚠️  {descricao}: erro transitório ({e}). "
-                f"Tentativa {tentativa}/{RETRY_MAX}, aguardando {espera:.0f}s...",
+                f"Tentativa {tentativa}/{tentativas}, aguardando {espera:.0f}s...",
                 flush=True,
             )
             time.sleep(espera)
@@ -271,10 +291,14 @@ def gerar_imagem(titulo, subtitulo):
     # 1) Imagen via predict (requer plano pago)
     try:
         from google.genai import types
-        resp = client.models.generate_images(
-            model=IMAGE_MODEL,
-            prompt=prompt,
-            config=types.GenerateImagesConfig(number_of_images=1, aspect_ratio="16:9"),
+        resp = _gemini_com_retry(
+            "Gemini (imagem/Imagen)",
+            lambda: client.models.generate_images(
+                model=IMAGE_MODEL,
+                prompt=prompt,
+                config=types.GenerateImagesConfig(number_of_images=1, aspect_ratio="16:9"),
+            ),
+            tentativas=RETRY_MAX_IMG,
         )
         data = resp.generated_images[0].image.image_bytes
         with open(IMG_OUT, "wb") as f:
@@ -286,7 +310,11 @@ def gerar_imagem(titulo, subtitulo):
 
     # 2) Modelo de imagem via generateContent (ex.: nano-banana) — pode estar no free tier
     try:
-        resp = client.models.generate_content(model=IMAGE_MODEL_ALT, contents=prompt)
+        resp = _gemini_com_retry(
+            "Gemini (imagem/generateContent)",
+            lambda: client.models.generate_content(model=IMAGE_MODEL_ALT, contents=prompt),
+            tentativas=RETRY_MAX_IMG,
+        )
         for part in resp.candidates[0].content.parts:
             inline = getattr(part, "inline_data", None)
             if inline and inline.data:
