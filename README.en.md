@@ -20,15 +20,21 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://github.com/douglascshun/PosSegurancaDaInformacao">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2600&pause=500&color=1987F0&center=true&vCenter=true&width=660&height=70&lines=MBA+in+Information+Security;Technical+summaries+by+subject;Networks%2C+cloud%2C+data+protection+and+incident+response;My+public+course+notebook" alt="Typing SVG"/>
+  </a>
+</div>
+
 <h1 align="center">MBA in Information Security</h1>
-<p align="center"><em>Central repository of studies, technical summaries and practical documentation</em></p>
+<p align="center"><em>Technical summaries, mind maps and supporting material from my Post-MBA in Information Security, organized by the course's official schedule.</em></p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pós--Graduação-Segurança_da_Informação-1987F0?style=for-the-badge&logo=academia&logoColor=white" alt="pos"/>
-<img src="https://img.shields.io/badge/Status-Em_andamento-FFA500?style=for-the-badge" alt="status"/>
+<img src="https://img.shields.io/badge/Postgraduate-Information_Security-1987F0?style=for-the-badge&logo=academia&logoColor=white" alt="pos"/>
+<img src="https://img.shields.io/badge/Status-In_progress-FFA500?style=for-the-badge" alt="status"/>
 <br/>
-<img src="https://img.shields.io/badge/Cibersegurança-1987F0?style=flat-square" alt="cyber"/>
+<img src="https://img.shields.io/badge/Cybersecurity-1987F0?style=flat-square" alt="cyber"/>
 <img src="https://img.shields.io/badge/GRC-004B87?style=flat-square" alt="grc"/>
 <img src="https://img.shields.io/badge/LGPD-2E7D32?style=flat-square" alt="lgpd"/>
 <img src="https://img.shields.io/github/last-commit/douglascshun/PosSegurancaDaInformacao?style=flat-square&color=1987F0" alt="last commit"/>
@@ -39,15 +45,53 @@
 <!-- ══════════════════════════ NAVEGAÇÃO ══════════════════════════ -->
 <div align="center">
 
-<a href="#modulos"><img src="https://img.shields.io/badge/▸_MODULES-1987F0?style=for-the-badge" alt="modulos"/></a>
-<a href="#scripts"><img src="https://img.shields.io/badge/▸_SCRIPTS-000000?style=for-the-badge" alt="scripts"/></a>
-<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTACT-1987F0?style=for-the-badge" alt="contato"/></a>
+<a href="#sobre"><img src="https://img.shields.io/badge/ABOUT-1987F0?style=for-the-badge" alt="sobre"/></a>
+<a href="#objetivos"><img src="https://img.shields.io/badge/WHAT'S_HERE-000000?style=for-the-badge" alt="objetivos"/></a>
+<a href="#progresso"><img src="https://img.shields.io/badge/PROGRESS-1987F0?style=for-the-badge" alt="progresso"/></a>
+<a href="#modulos"><img src="https://img.shields.io/badge/MODULES-000000?style=for-the-badge" alt="modulos"/></a>
+<a href="#scripts"><img src="https://img.shields.io/badge/SCRIPTS-1987F0?style=for-the-badge" alt="scripts"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/CONTACT-000000?style=for-the-badge" alt="contato"/></a>
 
 </div>
 
 <br/>
 
-> This repository consolidates the knowledge acquired throughout the MBA, serving as a quick reference base for application in daily professional work and academic reviews.
+<a id="sobre"></a>
+## About the course
+
+I am taking the Post-MBA in Information Security at União das Américas. This repository is my public course notebook. Each subject turns into a navigable technical summary, organized exactly by the official schedule, and works both ways: as a review base for me and as reference material for anyone studying the same topics.
+
+The whole thing is read in blocks that open and close. Each module expands into its subjects, each subject into its lessons, and each lesson into the topics it covers. You open only what interests you, without scrolling through entire pages of text.
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
+</div>
+
+<a id="objetivos"></a>
+## What you'll find here
+
+- Lesson-by-lesson summary of each subject, grouped by module
+- Coverage of networks, defense, cloud, incident response, IoT, LGPD and governance
+- Mind maps and supporting material in the `assets` folder
+- A script that automates publishing the notes on LinkedIn
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
+</div>
+
+<a id="progresso"></a>
+## Course progress
+
+<div align="center">
+
+| Module | Core topic | Status |
+|:--:|:--|:--:|
+| 1 | Fundamentals of networks, endpoint and defense | Completed |
+| 2 | Cloud, threats, operations and network security | Completed |
+| 3 | Incident response, IoT and data protection | Completed |
+| 4 | Special topics, career and current affairs | Not started |
+
+</div>
 
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
@@ -57,68 +101,68 @@
 <a id="modulos"></a>
 ## Content Organization
 
-The structure follows the official course schedule, divided into modules and technical sub-topics:
+The structure follows the course's official schedule, divided by modules and technical sub-topics:
 
-###  Modules and Disciplines
+###  Modules and Subjects
 
 <details>
-  <summary><strong> 🔹 MODULO 1</strong></summary>
+  <summary><strong> 🔹 MODULE 1</strong></summary>
   <blockquote>
 
 
   <details>
-    <summary>🔹 Disciplina Networking Essentials</summary>
+    <summary>🔹 Subject Networking Essentials</summary>
     <ul>
-      <li><details><summary>Aula 1: Comunicação de Dados</summary><ul><li>Introdução a Comunicação de Dados<li>Largura de Banda e Taxa de Transmissão<li>Modos de transmissão<li>Transmissão de Dados, Técnicas e Tipos<li>Velocidade de Transmissão</li></ul></details></li>
-      <li><details><summary>Aula 2: Conceitos Básicos de Redes de Computadores</summary><ul><li>Fundamento de Redes<li>Definições e Aplicações de Rede<li>Topologia de Redes<li>Redes e Suas Classificações<li>Exemplo de Projetos de Rede</li></ul></details></li>
-      <li><details><summary>Aula 3: Componentes de Rede</summary><ul><li>Principais Componentes de Rede<li>Hardware de Rede<li>Meios Físicos Guiados<li>Meios Físicos Não Guiados<li>Softwares de Rede</li></ul></details></li>
-      <li><details><summary>Aula 4: Modelos de Rede</summary><ul><li>Camadas dos modelos OSI x TCPip<li>Detalhando a Transmissão de Dados<li>Funcionalidades de Cada Camada<li>Modelo OSI<li>Modelo TCPip</li></ul></details></li>
-      <li><details><summary>Aula 5: Protocolo de Comunicação</summary><ul><li>Fundamentos dos Protocolos de Comunicação<li>Funcionalidades dos protocolos<li>Serviços dos Protocolos de Rede<li>Utilização dos Protocolos de Rede<li>Configurações dos Protocolos de Comunicação</li></ul></details></li>
-      <li><details><summary>Aula 6: Arquitetura do protocolo IP</summary><ul><li>O protocolo IP e seu Datagrama<li>IPv4 e IPv6<li>IPv4 Endereçamento<li>Implementação do IPv6<li>Sub-redes</li></ul></details></li>
-      <li><details><summary>Aula 7: Camada de Aplicação</summary><ul><li>Camada de Aplicação<li>Arquitetura da Aplicação de Rede<li>Funcionalidades da Camada de Aplicação</li></ul></details></li>
-      <li><details><summary>Aula 8: Gerenciamento de Rede</summary><ul><li>Fundamento do Gerenciamento de Rede<li>Histórico do Gerenciamento de Redes<li>Tipo de Analisadores<li>Análise de Protocolos<li>Packet Tracer<li>Saiba mais</li></ul></details></li>
+      <li><details><summary>Lesson 1: Data Communication</summary><ul><li>Introduction to Data Communication<li>Bandwidth and Transmission Rate<li>Transmission modes<li>Data Transmission, Techniques and Types<li>Transmission Speed</li></ul></details></li>
+      <li><details><summary>Lesson 2: Basic Concepts of Computer Networks</summary><ul><li>Network Fundamentals<li>Network Definitions and Applications<li>Network Topology<li>Networks and Their Classifications<li>Network Design Example</li></ul></details></li>
+      <li><details><summary>Lesson 3: Network Components</summary><ul><li>Main Network Components<li>Network Hardware<li>Guided Physical Media<li>Unguided Physical Media<li>Network Software</li></ul></details></li>
+      <li><details><summary>Lesson 4: Network Models</summary><ul><li>Layers of the OSI vs TCPip models<li>Detailing Data Transmission<li>Functions of Each Layer<li>OSI Model<li>TCPip Model</li></ul></details></li>
+      <li><details><summary>Lesson 5: Communication Protocol</summary><ul><li>Fundamentals of Communication Protocols<li>Protocol functions<li>Network Protocol Services<li>Use of Network Protocols<li>Communication Protocol Settings</li></ul></details></li>
+      <li><details><summary>Lesson 6: IP protocol architecture</summary><ul><li>The IP protocol and its Datagram<li>IPv4 and IPv6<li>IPv4 Addressing<li>IPv6 Implementation<li>Subnets</li></ul></details></li>
+      <li><details><summary>Lesson 7: Application Layer</summary><ul><li>Application Layer<li>Network Application Architecture<li>Application Layer Functions</li></ul></details></li>
+      <li><details><summary>Lesson 8: Network Management</summary><ul><li>Network Management Fundamentals<li>History of Network Management<li>Types of Analyzers<li>Protocol Analysis<li>Packet Tracer<li>Learn more</li></ul></details></li>
     </ul>
   </details>  
 
   <details>
-    <summary>🔹 Disciplina Cybersecurity Essentials</summary>
+    <summary>🔹 Subject Cybersecurity Essentials</summary>
     <ul>
-      <li><details><summary>Aula 1: Conceitos de Segurança Cibernética</summary><ul><li>Definição de Autenticidade <li>Confidencialidade<li>Disponibilidade<li>Integridade<li>Irretratabilidade</li></ul></details></li>
-      <li><details><summary>Aula 2: Ameaças, Ataques e Vulnerabilidades</summary><ul><li>Modelagem do Atacante<li>Vetor de Ataque  Cibernético<li>Arquitetura de um Sistema<li>Vulnerabilidades de um Sistema<li>Ameaças aos Sistemas de Informação</li></ul></details></li>
-      <li><details><summary>Aula 3: Medidas de Segurança</summary><ul><li>Análise de Risco<li>Análise de Risco em Iot<li>Definição de Risco<li>Impacto de um Ataque<li>Probabilidade de um Ataque</li></ul></details></li>
-      <li><details><summary>Aula 4: Controle de Segurança para redes Servidores e Aplicações</summary><ul><li>Autenticação<li>Criptografia<li>Firewall<li>Recuperação de um Ataque<li>Sistemas de Detecção e Intrusão</li></ul></details></li>
-      <li><details><summary>Aula 5: Políticas de Segurança</summary><ul><li>Autorização<li>Ciclo de Vida de Credenciais<li>Controle de Acesso ABAC<li>Controle de Acesso ACL<li>Controle de Acesso RBAC</li></ul></details></li>
-      <li><details><summary>Aula 6: Procedimentos Adequados para a Disponibilidade e o Sigilo dos Dados</summary><ul><li>Conceitos da GDPR<li>Conceitos da LGPD<li>Confidencialidade na Era dos Dados<li>Disponibilidade na Era dos Dados<li>Políticas e Gestão de Dados</li></ul></details></li>
-      <li><details><summary>Aula 7: Resolução de Problemas Usando Cisco Packet Tracer</summary><ul><li>Instalação do Cisco Packet Tracer<li>Introdução ao Cisco Packet Tracer<li>Principais Funções do Cisco Packet Tracer<li>Rede com Dois Computadores<li>Rede com Quatro Dispositivos</li></ul></details></li>
-      <li><details><summary>Aula 8: Pensamento Crítico</summary><ul><li>Trade Off entre Segurança e Usabilidade<li>Desafios de Segurança em Aprendizado de Máquina<li>Desafios de Segurança em Computação em Nuvem<li>Desafios de Segurança em Internet das Coisas<li>Desafios de Segurança na Computação Quântica<li>Saiba Mais</li></ul></details></li>
+      <li><details><summary>Lesson 1: Cybersecurity Concepts</summary><ul><li>Definition of Authenticity <li>Confidentiality<li>Availability<li>Integrity<li>Non-repudiation</li></ul></details></li>
+      <li><details><summary>Lesson 2: Threats, Attacks and Vulnerabilities</summary><ul><li>Attacker Modeling<li>Cyber Attack Vector<li>Architecture of a System<li>Vulnerabilities of a System<li>Threats to Information Systems</li></ul></details></li>
+      <li><details><summary>Lesson 3: Security Measures</summary><ul><li>Risk Analysis<li>Risk Analysis in IoT<li>Definition of Risk<li>Impact of an Attack<li>Probability of an Attack</li></ul></details></li>
+      <li><details><summary>Lesson 4: Security Control for Networks, Servers and Applications</summary><ul><li>Authentication<li>Cryptography<li>Firewall<li>Recovery from an Attack<li>Detection and Intrusion Systems</li></ul></details></li>
+      <li><details><summary>Lesson 5: Security Policies</summary><ul><li>Authorization<li>Credential Life Cycle<li>ABAC Access Control<li>ACL Access Control<li>RBAC Access Control</li></ul></details></li>
+      <li><details><summary>Lesson 6: Proper Procedures for Data Availability and Confidentiality</summary><ul><li>GDPR Concepts<li>LGPD Concepts<li>Confidentiality in the Data Era<li>Availability in the Data Era<li>Data Policies and Management</li></ul></details></li>
+      <li><details><summary>Lesson 7: Problem Solving Using Cisco Packet Tracer</summary><ul><li>Installing Cisco Packet Tracer<li>Introduction to Cisco Packet Tracer<li>Main Functions of Cisco Packet Tracer<li>Network with Two Computers<li>Network with Four Devices</li></ul></details></li>
+      <li><details><summary>Lesson 8: Critical Thinking</summary><ul><li>Trade Off between Security and Usability<li>Security Challenges in Machine Learning<li>Security Challenges in Cloud Computing<li>Security Challenges in the Internet of Things<li>Security Challenges in Quantum Computing<li>Learn More</li></ul></details></li>
     </ul>
   </details>
 
   <details>
-    <summary>🔹 Disciplina Endpoint Security</summary>
+    <summary>🔹 Subject Endpoint Security</summary>
     <ul>
-      <li><details><summary>Aula 1: Ameaças e Ciberataques Comuns aos EndPoints</summary><ul><li>O que é EndPoint?<li>O Cubo da Cibersegurança<li>Ataques de Software<li>Erro Humano e Sabotagem<li>Roubo de Identidades e Equipamentos<li>Falhas de Hardware e Energia</li></ul></details></li>
-      <li><details><summary>Aula 2: Proteção de Arquivos</summary><ul><li>Conceitos Básicos Sobre Sistemas de Arquivos<li>Backup e Restore<li>Certificados Digitais<li>Controle de Integridade e Hash<li>Controles de Acesso<li>Criptografia de Arquivos</li></ul></details></li>
-      <li><details><summary>Aula 3: Ferramentas para Proteção de Estações de Trabalho</summary><ul><li>Ferramentas de proteção de estações de trabalho<li>Firewall<li>Proteção Contra Malware<li>Proteção Contra Phishing<li>Proteção Contra Ransomware</li></ul></details></li>
-      <li><details><summary>Aula 4: Segurança Endpoint Windows</summary><ul><li>Microsoft Defender Antivírus<li>Microsoft Defender e Criptografia<li>Windows Defender Credential Guard<li>Windows Defender Firewall<li>Zero trust no Windows</li></ul></details></li>
-      <li><details><summary>Aula 5: Segurança Endpoint Linux</summary><ul><li>Controle de Pacotes Aplicações e Serviços<li>Criptografia e Controle de Acesso SSH e ACL<li>Firewall Iptables e Netfilter<li>Gerenciamento de Usuários e Grupos<li>Proteção Contra Vírus e Ameaças</li></ul></details></li>
-      <li><details><summary>Aula 6: Proteção de Serviços de Nuvem</summary><ul><li>Fundamentos de Computação em Nuvem<li>Boas Práticas de Segurança para Serviços na Nuvem<li>Domínios de Segurança na Nuvem<li>Requisitos de Segurança para Serviços na Nuvem<li>Segurança de Dados na Nuvem</li></ul></details></li>
-      <li><details><summary>Aula 7: Proteção de Dispositivos Móveis</summary><ul><li>Boas práticas de segurança para dispositivos móveis<li>Configuração Segura de Wi-fi<li>Recomendações e Políticas para Dispositivos Móveis<li>Riscos e Ameaças Associadas aos Dispositivos Móveis<li>Soluções de Gerenciamento e Monitoramento Remoto</li></ul></details></li>
-      <li><details><summary>Aula 8: IoT Security Segurança na Internet das Coisas</summary><ul><li>Fundamentos de IoT<li>Malware e Vulnerabilidades de Software e Firmware<li>Principais Vulnerabilidades e Ameaças em IoT<li>Protocolos de Comunicação Inseguros e Ciberataques<li>Vazamento de Dados de IoT</li></ul></details></li>
+      <li><details><summary>Lesson 1: Common Threats and Cyber Attacks against Endpoints</summary><ul><li>What is an Endpoint?<li>The Cybersecurity Cube<li>Software Attacks<li>Human Error and Sabotage<li>Theft of Identities and Equipment<li>Hardware and Power Failures</li></ul></details></li>
+      <li><details><summary>Lesson 2: File Protection</summary><ul><li>Basic Concepts About File Systems<li>Backup and Restore<li>Digital Certificates<li>Integrity Control and Hash<li>Access Controls<li>File Encryption</li></ul></details></li>
+      <li><details><summary>Lesson 3: Tools for Workstation Protection</summary><ul><li>Workstation protection tools<li>Firewall<li>Malware Protection<li>Phishing Protection<li>Ransomware Protection</li></ul></details></li>
+      <li><details><summary>Lesson 4: Windows Endpoint Security</summary><ul><li>Microsoft Defender Antivirus<li>Microsoft Defender and Encryption<li>Windows Defender Credential Guard<li>Windows Defender Firewall<li>Zero trust on Windows</li></ul></details></li>
+      <li><details><summary>Lesson 5: Linux Endpoint Security</summary><ul><li>Control of Packages, Applications and Services<li>Encryption and Access Control SSH and ACL<li>Iptables and Netfilter Firewall<li>User and Group Management<li>Protection Against Viruses and Threats</li></ul></details></li>
+      <li><details><summary>Lesson 6: Cloud Services Protection</summary><ul><li>Cloud Computing Fundamentals<li>Security Best Practices for Cloud Services<li>Cloud Security Domains<li>Security Requirements for Cloud Services<li>Data Security in the Cloud</li></ul></details></li>
+      <li><details><summary>Lesson 7: Mobile Device Protection</summary><ul><li>Security best practices for mobile devices<li>Secure Wi-fi Configuration<li>Recommendations and Policies for Mobile Devices<li>Risks and Threats Associated with Mobile Devices<li>Remote Management and Monitoring Solutions</li></ul></details></li>
+      <li><details><summary>Lesson 8: IoT Security, Security in the Internet of Things</summary><ul><li>IoT Fundamentals<li>Malware and Software and Firmware Vulnerabilities<li>Main Vulnerabilities and Threats in IoT<li>Insecure Communication Protocols and Cyber Attacks<li>IoT Data Leakage</li></ul></details></li>
     </ul>
   </details>
 
   <details>
-    <summary>🔹 Disciplina Network Defense</summary>
+    <summary>🔹 Subject Network Defense</summary>
     <ul>
-      <li><details><summary>Aula 1: Monitoramento de Redes</summary><ul><li>A Importância de se Monitorar Redes<li>Como Monitorar?<li>Erros Comuns em Monitoramento de Redes<li>O que Monitorar?<li>Principais Ferramentas de Monitoramento</li></ul></details></li>
-      <li><details><summary>Aula 2: Defesa de Redes</summary><ul><li>Conceituando Defesa de Redes<li>Exemplos de Casos Reais e Suas Consequências<li>Importância da Defesa de Redes<li>Tipos de Defesa de Redes</li></ul></details></li>
-      <li><details><summary>Aula 3: Técnicas para Proteção de Redes</summary><ul><li>Classificar os Vários Tipos de Ataques à Rede<li>Técnicas Camada de Acesso<li>Técnicas Camada de Aplicação<li>Técnicas Camada de Internet<li>Técnicas Camada de Rede<li>Técnicas Camada de Transporte</li></ul></details></li>
-      <li><details><summary>Aula 4: Controle de Acesso</summary><ul><li>Controle de Acesso Físico<li>Controle de Acesso Lógico<li>Melhores Praticas para Controle de Acesso<li>O que é o Controle de Acesso?</li></ul></details></li>
-      <li><details><summary>Aula 5: Firewalls</summary><ul><li>Firewall de Camada 1 e 2<li>Firewall de Camada 3 e 4<li>Firewall de Camada 7 e Última Geração<li>IDS e IPS<li>Microsegmentação<li>O que é um firewall?</li></ul></details></li>
-      <li><details><summary>Aula 6: Segurança na Nuvem</summary><ul><li>Arquiteturas e Modelos de Segurança<li>Desafios da Segurança em Nuvem<li>Importância da segurança nos Sistemas em Nuvem e Suas Categorias<li>O que é um Sistema em Nuvem?<li>Tipos de Estruturas de Segurança em Nuvem<li>Zero Trust</li></ul></details></li>
-      <li><details><summary>Aula 7: Criptografia Avançada</summary><ul><li>Aplicações de Criptografia<li>Chaves Criptográficas Publicas e Privadas<li>Criptografia Assimétrica<li>Criptografia Simétrica<li>O que é Criptografia?</li></ul></details></li>
-      <li><details><summary>Aula 8: Estratégia de Cibersegurança</summary><ul><li>Compreender o seu Cenário de Ameaça Cibernética<li>Monitoramento de Ameaças<li>Padrão Modernos para a Segurança e Proteção de Dados</li></ul></details></li>
+      <li><details><summary>Lesson 1: Network Monitoring</summary><ul><li>The Importance of Monitoring Networks<li>How to Monitor?<li>Common Mistakes in Network Monitoring<li>What to Monitor?<li>Main Monitoring Tools</li></ul></details></li>
+      <li><details><summary>Lesson 2: Network Defense</summary><ul><li>Conceptualizing Network Defense<li>Examples of Real Cases and Their Consequences<li>Importance of Network Defense<li>Types of Network Defense</li></ul></details></li>
+      <li><details><summary>Lesson 3: Techniques for Network Protection</summary><ul><li>Classify the Various Types of Network Attacks<li>Access Layer Techniques<li>Application Layer Techniques<li>Internet Layer Techniques<li>Network Layer Techniques<li>Transport Layer Techniques</li></ul></details></li>
+      <li><details><summary>Lesson 4: Access Control</summary><ul><li>Physical Access Control<li>Logical Access Control<li>Best Practices for Access Control<li>What is Access Control?</li></ul></details></li>
+      <li><details><summary>Lesson 5: Firewalls</summary><ul><li>Layer 1 and 2 Firewall<li>Layer 3 and 4 Firewall<li>Layer 7 and Next Generation Firewall<li>IDS and IPS<li>Microsegmentation<li>What is a firewall?</li></ul></details></li>
+      <li><details><summary>Lesson 6: Cloud Security</summary><ul><li>Security Architectures and Models<li>Challenges of Cloud Security<li>Importance of security in Cloud Systems and Their Categories<li>What is a Cloud System?<li>Types of Cloud Security Structures<li>Zero Trust</li></ul></details></li>
+      <li><details><summary>Lesson 7: Advanced Cryptography</summary><ul><li>Cryptography Applications<li>Public and Private Cryptographic Keys<li>Asymmetric Cryptography<li>Symmetric Cryptography<li>What is Cryptography?</li></ul></details></li>
+      <li><details><summary>Lesson 8: Cybersecurity Strategy</summary><ul><li>Understand your Cyber Threat Landscape<li>Threat Monitoring<li>Modern Standards for Data Security and Protection</li></ul></details></li>
     </ul>
   </details>
     
@@ -126,62 +170,62 @@ The structure follows the official course schedule, divided into modules and tec
 </details>
 
 <details>
-  <summary><strong> 🔹 MODULO 2</strong></summary>
+  <summary><strong> 🔹 MODULE 2</strong></summary>
   <blockquote>
 
   <details>
-    <summary>🔹 Disciplina Cloud Security</summary>
+    <summary>🔹 Subject Cloud Security</summary>
     <ul>
-      <li><details><summary>Aula 1: Arquitetura de Nuvem</summary><ul><li>A arquitetura em camadas de Cloud Computing<li>Anatomia da Cloud Computing<li>Características essenciais<li>Detalhes da AWS provedor cloud<li>Fundamentos e princípios de computação em nuvem</li></ul></details></li>
-      <li><details><summary>Aula 2: Infraestrutura de Segurança Para Nuvem</summary><ul><li>Alta disponibilidade e de recuperação de desastres<li>Gerenciamento de infraestruturas<li>Principais aspectos dos data centers<li>Tendências em infraestrutura</li></ul></details></li>
-      <li><details><summary>Aula 3: Gerenciamento de Segurança</summary><ul><li>Business Impact Analysis BIA<li>Exemplo de BIA e como construir<li>Planos de continuidade</li></ul></details></li>
-      <li><details><summary>Aula 4: Risco na Nuvem</summary><ul><li>Identificação de ameaças e vulnerabilidades<li>Identificação e avaliação de ativos<li>Plano de tratamento de riscos<li>Software de teste de senhas 2</li></ul></details></li>
-      <li><details><summary>Aula 5: Segurança de Dados na Nuvem</summary><ul><li>Criptografia e os dados em trânsito e em repouso<li>Criticidade da segurança dos dados<li>Mídias de backup e gerenciamento de chaves<li>Segurança de dados</li></ul></details></li>
-      <li><details><summary>Aula 6: Segurança de Aplicação na Nuvem</summary><ul><li>Análise de vulnerabilidades<li>Arquitetura de segurança de aplicações<li>Ciclo de vida de desenvolvimento<li>Conformidades, ferramentas e serviços</li></ul></details></li>
-      <li><details><summary>Aula 7: Gerenciamento de Identidade na Nuvem</summary><ul><li>Autenticação<li>Federação<li>Mídias de backup e gerenciamento de chaves<li>Provisionamento de identidade</li></ul></details></li>
-      <li><details><summary>Aula 8: Operação de Nuvem Segura</summary><ul><li>Auditoria em ambientes<li>Avaliação de capacidades<li>Cuidados ao contratar de serviços em nuvem<li>Dimensionamento de operações<li>Segurança da nuvem com a segurança na nuvem</li></ul></details></li>
+      <li><details><summary>Lesson 1: Cloud Architecture</summary><ul><li>The layered architecture of Cloud Computing<li>Anatomy of Cloud Computing<li>Essential characteristics<li>Details of the AWS cloud provider<li>Fundamentals and principles of cloud computing</li></ul></details></li>
+      <li><details><summary>Lesson 2: Security Infrastructure For Cloud</summary><ul><li>High availability and disaster recovery<li>Infrastructure management<li>Main aspects of data centers<li>Trends in infrastructure</li></ul></details></li>
+      <li><details><summary>Lesson 3: Security Management</summary><ul><li>Business Impact Analysis BIA<li>BIA example and how to build it<li>Continuity plans</li></ul></details></li>
+      <li><details><summary>Lesson 4: Risk in the Cloud</summary><ul><li>Identification of threats and vulnerabilities<li>Asset identification and assessment<li>Risk treatment plan<li>Password testing software 2</li></ul></details></li>
+      <li><details><summary>Lesson 5: Data Security in the Cloud</summary><ul><li>Encryption and data in transit and at rest<li>Criticality of data security<li>Backup media and key management<li>Data security</li></ul></details></li>
+      <li><details><summary>Lesson 6: Application Security in the Cloud</summary><ul><li>Vulnerability analysis<li>Application security architecture<li>Development life cycle<li>Compliance, tools and services</li></ul></details></li>
+      <li><details><summary>Lesson 7: Identity Management in the Cloud</summary><ul><li>Authentication<li>Federation<li>Backup media and key management<li>Identity provisioning</li></ul></details></li>
+      <li><details><summary>Lesson 8: Secure Cloud Operation</summary><ul><li>Auditing in environments<li>Capability assessment<li>Precautions when contracting cloud services<li>Operations sizing<li>Security of the cloud with security in the cloud</li></ul></details></li>
     </ul>
   </details>
 
   <details>
-    <summary>🔹 Disciplina Cyber Threat Management</summary>
+    <summary>🔹 Subject Cyber Threat Management</summary>
     <ul>
-      <li><details><summary>Aula 1: Introdução à Cyber Threat Management</summary><ul><li>As Melhores Práticas<li>Definição de Cyber Threat Management<li>Os desafios<li>Os impactos</li></ul></details></li>
-      <li><details><summary>Aula 2: Governança de Cibersegurança</summary><ul><li>As normas ISO e ABNT<li>Definição de Governança<li>Governança para Segurança<li>Metodologias de Governança</li></ul></details></li>
-      <li><details><summary>Aula 3: Plano de gerenciamento de risco</summary><ul><li>Como identificar um Risco?<li>Definição de Risco<li>Gerenciamento de Risco<li>Plano de Gestão de Riscos</li></ul></details></li>
-      <li><details><summary>Aula 4: Avaliação de vulnerabilidade</summary><ul><li>Avaliar Vulnerabilidades<li>Definição de Vulnerabilidade<li>Gerenciamento SIEM<li>Gerenciar Vulnerabilidades<li>Tipos de Vulnerabilidades</li></ul></details></li>
-      <li><details><summary>Aula 5: Resposta e Plano de Resposta à incidentes</summary><ul><li>Definição de Incidentes<li>Estrutura Nist<li>Plano de Resposta a incidentes<li>Tipos de Incidentes</li></ul></details></li>
-      <li><details><summary>Aula 6: Investigação Forense</summary><ul><li>Definição de Forense Digital<li>Fases de uma Digital Forense<li>Principais técnicas de CFID<li>Tipos de Digital Forense</li></ul></details></li>
-      <li><details><summary>Aula 7: Métodos de recuperação  de desastre</summary><ul><li>Métodos de recuperação de desastre<li>O que é um Disaster Recovery?<li>Plano de Disaster Recovery<li>Tipos de Desastres</li></ul></details></li>
-      <li><details><summary>Aula 8: Ética, políticas e  conformidade em cibersegurança</summary><ul><li>CSIRT, Computer Security Incident Response Team<li>Conformidade em cibersegurança<li>Políticas em cibersegurança<li>Ética na cibersegurança</li></ul></details></li>
+      <li><details><summary>Lesson 1: Introduction to Cyber Threat Management</summary><ul><li>The Best Practices<li>Definition of Cyber Threat Management<li>The challenges<li>The impacts</li></ul></details></li>
+      <li><details><summary>Lesson 2: Cybersecurity Governance</summary><ul><li>The ISO and ABNT standards<li>Definition of Governance<li>Governance for Security<li>Governance Methodologies</li></ul></details></li>
+      <li><details><summary>Lesson 3: Risk management plan</summary><ul><li>How to identify a Risk?<li>Definition of Risk<li>Risk Management<li>Risk Management Plan</li></ul></details></li>
+      <li><details><summary>Lesson 4: Vulnerability assessment</summary><ul><li>Assess Vulnerabilities<li>Definition of Vulnerability<li>SIEM Management<li>Manage Vulnerabilities<li>Types of Vulnerabilities</li></ul></details></li>
+      <li><details><summary>Lesson 5: Incident Response and Response Plan</summary><ul><li>Definition of Incidents<li>NIST Framework<li>Incident Response Plan<li>Types of Incidents</li></ul></details></li>
+      <li><details><summary>Lesson 6: Forensic Investigation</summary><ul><li>Definition of Digital Forensics<li>Phases of a Digital Forensics<li>Main CFID techniques<li>Types of Digital Forensics</li></ul></details></li>
+      <li><details><summary>Lesson 7: Disaster recovery methods</summary><ul><li>Disaster recovery methods<li>What is Disaster Recovery?<li>Disaster Recovery Plan<li>Types of Disasters</li></ul></details></li>
+      <li><details><summary>Lesson 8: Ethics, policies and compliance in cybersecurity</summary><ul><li>CSIRT, Computer Security Incident Response Team<li>Compliance in cybersecurity<li>Policies in cybersecurity<li>Ethics in cybersecurity</li></ul></details></li>
     </ul>
   </details>
 
   <details>
-    <summary>🔹 Disciplina CyberOps</summary>
+    <summary>🔹 Subject CyberOps</summary>
     <ul>
-      <li><details><summary>Aula 1: Arquitetura de Segurança do Linux</summary><ul><li>Administração Básica do Linux<li>Apresentação do Linux Shell<li>Features de Segurança do Linux SELinux<li>Funcionamento e segurança do sistema de arquivos do Linux<li>Monitoramento de logs e Access Control Lists<li>Proteção da conta root, SSH Hardening e Linux Firewall</li></ul></details></li>
-      <li><details><summary>Aula 2: Arquitetura de Segurança do Windows</summary><ul><li>Configuração segura do Active Directory<li>IPSec<li>Network Access Protection<li>VPN e Padrões de Segurança Wi-FI<li>Visão geral dos principais serviços Windows<li>Windows Firewall</li></ul></details></li>
-      <li><details><summary>Aula 3: Infraestrutura de Segurança em Rede</summary><ul><li>Topologia de rede, equipamentos e boas práticas de segurança<li>Visão geral das ameaças e ataques de rede<li>Vulnerabilidades da pilha TCP IP</li></ul></details></li>
-      <li><details><summary>Aula 4: Abordagem de Defesa de Segurança em Rede</summary><ul><li>Estratégias de controle de acesso AAA<li>O que é estratégia de defesa em profundidade?<li>Políticas, Regulações e padrões de segurança em rede<li>Serviços de inteligência de ameaça</li></ul></details></li>
-      <li><details><summary>Aula 5: Avaliação de Vulnerabilidade</summary><ul><li>Análise de risco e vulnerabilidades<li>Common Vulnerability Scoring System CVSS<li>Tipos de proteção de endpoint<li>Técnicas de profiling de rede e servidor</li></ul></details></li>
-      <li><details><summary>Aula 6: Monitoramento da Segurança da Informação</summary><ul><li>Alertas estruturação, configuração e classificação<li>Análise de logs de segurança de redes e devices<li>Avaliação e correlação de alertas<li>Como funciona um Network Security Monitoring?<li>Tipos de dados usados no monitoramento de segurança</li></ul></details></li>
-      <li><details><summary>Aula 7: Resposta a incidentes</summary><ul><li>Conceito de incidente e resposta a incidentes<li>Honey Pot e Honey Tokens<li>Metodologias e processos de resposta a incidentes<li>O que é e qual a importância de um CSIRT?<li>Procedimentos de resposta a incidentes<li>Sala de Guerra</li></ul></details></li>
-      <li><details><summary>Aula 8: Computação forense</summary><ul><li>Análise de sistemas de arquivos<li>Conceitos básicos de computação forense<li>Preservação de evidências</li></ul></details></li>
+      <li><details><summary>Lesson 1: Linux Security Architecture</summary><ul><li>Basic Linux Administration<li>Introduction to the Linux Shell<li>Linux Security Features SELinux<li>Operation and security of the Linux file system<li>Log monitoring and Access Control Lists<li>Protection of the root account, SSH Hardening and Linux Firewall</li></ul></details></li>
+      <li><details><summary>Lesson 2: Windows Security Architecture</summary><ul><li>Secure configuration of Active Directory<li>IPSec<li>Network Access Protection<li>VPN and Wi-FI Security Standards<li>Overview of the main Windows services<li>Windows Firewall</li></ul></details></li>
+      <li><details><summary>Lesson 3: Network Security Infrastructure</summary><ul><li>Network topology, equipment and security best practices<li>Overview of network threats and attacks<li>Vulnerabilities of the TCP IP stack</li></ul></details></li>
+      <li><details><summary>Lesson 4: Network Security Defense Approach</summary><ul><li>AAA access control strategies<li>What is defense in depth strategy?<li>Network security policies, regulations and standards<li>Threat intelligence services</li></ul></details></li>
+      <li><details><summary>Lesson 5: Vulnerability Assessment</summary><ul><li>Risk and vulnerability analysis<li>Common Vulnerability Scoring System CVSS<li>Types of endpoint protection<li>Network and server profiling techniques</li></ul></details></li>
+      <li><details><summary>Lesson 6: Information Security Monitoring</summary><ul><li>Alerts structuring, configuration and classification<li>Analysis of security logs of networks and devices<li>Assessment and correlation of alerts<li>How does Network Security Monitoring work?<li>Types of data used in security monitoring</li></ul></details></li>
+      <li><details><summary>Lesson 7: Incident response</summary><ul><li>Concept of incident and incident response<li>Honey Pot and Honey Tokens<li>Incident response methodologies and processes<li>What is a CSIRT and what is its importance?<li>Incident response procedures<li>War Room</li></ul></details></li>
+      <li><details><summary>Lesson 8: Computer forensics</summary><ul><li>File system analysis<li>Basic concepts of computer forensics<li>Evidence preservation</li></ul></details></li>
     </ul>
   </details>
 
   <details>
-    <summary>🔹 Disciplina Network Security</summary>
+    <summary>🔹 Subject Network Security</summary>
     <ul>
-      <li><details><summary>Aula 1: Definição e Conceito de Network Security</summary><ul><li>Conceito de Rede de telecomunicação<li>Definição de Segurança da Informação<li>Importância dos Dados, Era da Informação e a Indústria 4 0<li>O Cenário atual de Cibersegurança<li>Pilares da Segurança da Informação<li>Segurança Física e Segurança Lógica</li></ul></details></li>
-      <li><details><summary>Aula 2: Ameaças e os dispositivos de rede</summary><ul><li>Ameaças e Vulnerabilidades<li>Dispositivos de rede<li>Ferramentas de Segurança<li>Principais ataques em redes</li></ul></details></li>
-      <li><details><summary>Aula 3: Os Pilares da Segurança da Informação</summary><ul><li>CIDAL, Camadas de Segurança e Segurança e Perímetro<li>Ferramentas<li>Ferramentas Processos e Pessoas<li>Pessoas<li>Processos</li></ul></details></li>
-      <li><details><summary>Aula 4: Controles de Segurança, Gestão de Identidade e Controle de Tráfego</summary><ul><li>Controle de Tráfego com ACL<li>Gestão de Identidade Framework AAA<li>Infraestruturas Críticas<li>Os Controles de Segurança Físicos<li>Os Controles de Segurança Lógicos</li></ul></details></li>
-      <li><details><summary>Aula 5: Principais ferramentas de segurança em redes</summary><ul><li>IPS e IDS<li>NGFW - Firewall<li>VPN</li></ul></details></li>
-      <li><details><summary>Aula 6: Pentests e o Modelo OSI</summary><ul><li>As camadas do modelo OSI<li>Pentest<li>Pentest e o Modelo OS</li></ul></details></li>
-      <li><details><summary>Aula 7: Monitoramento  gerenciamento e log de redes</summary><ul><li>Gestão de Logs com SIEM<li>Monitoramento e suas Ferramentas</li></ul></details></li>
-      <li><details><summary>Aula 8: Projeto de implantação e suporte de rede segura</summary><ul><li>Implementação de Políticas de Segurança da Informação<li>Normas e Frameworks de Segurança da Informação<li>Projeto de Implementação e Suporte<li>Quadrante Mágico do Gartner e seus Insights</li></ul></details></li>
+      <li><details><summary>Lesson 1: Definition and Concept of Network Security</summary><ul><li>Concept of Telecommunication Network<li>Definition of Information Security<li>Importance of Data, the Information Era and Industry 4 0<li>The current Cybersecurity Landscape<li>Pillars of Information Security<li>Physical Security and Logical Security</li></ul></details></li>
+      <li><details><summary>Lesson 2: Threats and network devices</summary><ul><li>Threats and Vulnerabilities<li>Network devices<li>Security Tools<li>Main attacks on networks</li></ul></details></li>
+      <li><details><summary>Lesson 3: The Pillars of Information Security</summary><ul><li>CIDAL, Security Layers and Security and Perimeter<li>Tools<li>Tools, Processes and People<li>People<li>Processes</li></ul></details></li>
+      <li><details><summary>Lesson 4: Security Controls, Identity Management and Traffic Control</summary><ul><li>Traffic Control with ACL<li>Identity Management AAA Framework<li>Critical Infrastructures<li>Physical Security Controls<li>Logical Security Controls</li></ul></details></li>
+      <li><details><summary>Lesson 5: Main network security tools</summary><ul><li>IPS and IDS<li>NGFW - Firewall<li>VPN</li></ul></details></li>
+      <li><details><summary>Lesson 6: Pentests and the OSI Model</summary><ul><li>The layers of the OSI model<li>Pentest<li>Pentest and the OS Model</li></ul></details></li>
+      <li><details><summary>Lesson 7: Network monitoring, management and logging</summary><ul><li>Log Management with SIEM<li>Monitoring and its Tools</li></ul></details></li>
+      <li><details><summary>Lesson 8: Secure network deployment and support project</summary><ul><li>Implementation of Information Security Policies<li>Information Security Standards and Frameworks<li>Implementation and Support Project<li>Gartner Magic Quadrant and its Insights</li></ul></details></li>
     </ul>
   </details>
 
@@ -189,62 +233,62 @@ The structure follows the official course schedule, divided into modules and tec
 </details>
 
 <details>
-  <summary><strong> 🔹 MODULO 3</strong></summary>
+  <summary><strong> 🔹 MODULE 3</strong></summary>
   <blockquote>
 
   <details>
-    <summary>🔹 Disciplina Computer Security Incident Response Teams</summary>
+    <summary>🔹 Subject Computer Security Incident Response Teams</summary>
     <ul>
-      <li><details><summary>Aula 1: CERT Resiliency Engineering Framework</summary><ul><li>Apresentação do CERT Resiliency Engineering Framework<li>Apresentação do Incident Management Process Framework<li>Fundamentos da Engenharia de Resiliência<li>Objetos da Engenharia da Resiliência<li>Relacionamento entre os processos de gerenciamento de incidentes e os CSIRTS</li></ul></details></li>
-      <li><details><summary>Aula 2: Criação de um CSIRT</summary><ul><li>CSIRT políticas e procedimentos<li>Categorias gerais de CSIRTs<li>Componentes de um CSIRT<li>O que é um CSIRT?<li>Serviços de um CSIRT</li></ul></details></li>
-      <li><details><summary>Aula 3: Gerenciamento operacional de um CSIRT</summary><ul><li>Código de ética<li>Ferramentas de segurança utilizadas em um CSIRT<li>Identificação de informações críticas<li>O ambiente operacional do CSIRT<li>Revisão sobre probes, scans e tipos de ataques<li>Tratamento do Hotline de um CSIRT</li></ul></details></li>
-      <li><details><summary>Aula 4: Processo de Gerenciamento de Incidentes</summary><ul><li>Fase 1 Preparar<li>Fase 2 Proteger<li>Fase 3 Detectar<li>Fase 4 Triagem<li>Fase 5 Responder</li></ul></details></li>
-      <li><details><summary>Aula 5: Gerenciamento de Incidentes</summary><ul><li>Análise de notificações de incidentes<li>Busca de informações de contato para notificação<li>Cooperação com Polícia e Operadores da Justiça<li>Coordenação da resposta a incidentes<li>Revisão do Ciclo de vida do tratamento de incidentes<li>Tratamento de ataques comuns</li></ul></details></li>
-      <li><details><summary>Aula 6: Tratamento Avançado de incidentes</summary><ul><li>Ameaças avançadas persistentes (APTs)<li>Revisão das técnicas e categorias de análise de malware e de artefatos<li>Técnicas para prevenir perda e exfiltração de dados (DLP)<li>Visão geral do sistema DNS e seus desafios</li></ul></details></li>
-      <li><details><summary>Aula 7: Gerenciamento de vulnerabilidades</summary><ul><li>Análise coordenação e resposta<li>Causas fundamentais das vulnerabilidades<li>Desenvolvimento de publicações e comunicações eficazes<li>Tratamento de vulnerabilidades</li></ul></details></li>
-      <li><details><summary>Aula 8: Checklist para criação de um CSIRT</summary><ul><li>Primeira etapa<li>Quarta etapa<li>Quinta e útlima etapa<li>Segunda etapa<li>Terceira etapa</li></ul></details></li>
+      <li><details><summary>Lesson 1: CERT Resiliency Engineering Framework</summary><ul><li>Presentation of the CERT Resiliency Engineering Framework<li>Presentation of the Incident Management Process Framework<li>Fundamentals of Resilience Engineering<li>Objects of Resilience Engineering<li>Relationship between incident management processes and CSIRTs</li></ul></details></li>
+      <li><details><summary>Lesson 2: Creating a CSIRT</summary><ul><li>CSIRT policies and procedures<li>General categories of CSIRTs<li>Components of a CSIRT<li>What is a CSIRT?<li>Services of a CSIRT</li></ul></details></li>
+      <li><details><summary>Lesson 3: Operational management of a CSIRT</summary><ul><li>Code of ethics<li>Security tools used in a CSIRT<li>Identification of critical information<li>The operational environment of the CSIRT<li>Review of probes, scans and types of attacks<li>Handling the Hotline of a CSIRT</li></ul></details></li>
+      <li><details><summary>Lesson 4: Incident Management Process</summary><ul><li>Phase 1 Prepare<li>Phase 2 Protect<li>Phase 3 Detect<li>Phase 4 Triage<li>Phase 5 Respond</li></ul></details></li>
+      <li><details><summary>Lesson 5: Incident Management</summary><ul><li>Analysis of incident notifications<li>Search for contact information for notification<li>Cooperation with Police and Justice Operators<li>Coordination of incident response<li>Review of the incident handling life cycle<li>Handling common attacks</li></ul></details></li>
+      <li><details><summary>Lesson 6: Advanced Incident Handling</summary><ul><li>Advanced persistent threats (APTs)<li>Review of techniques and categories of malware and artifact analysis<li>Techniques to prevent data loss and exfiltration (DLP)<li>Overview of the DNS system and its challenges</li></ul></details></li>
+      <li><details><summary>Lesson 7: Vulnerability management</summary><ul><li>Analysis, coordination and response<li>Root causes of vulnerabilities<li>Development of effective publications and communications<li>Vulnerability handling</li></ul></details></li>
+      <li><details><summary>Lesson 8: Checklist for creating a CSIRT</summary><ul><li>First stage<li>Fourth stage<li>Fifth and last stage<li>Second stage<li>Third stage</li></ul></details></li>
     </ul>
   </details>
 
   <details>
-    <summary>🔹 Disciplina Fundamentos de IoT</summary>
+    <summary>🔹 Subject IoT Fundamentals</summary>
     <ul>
-      <li><details><summary>Aula 1: Fundamentos de IoT</summary><ul><li>Arquitetura de Referência IoT<li>Características da IoT<li>Facilitadores para IoT<li>Iniciativas globais de arquitetura de referência de IoT<li>Oportunidades e impacto social da IoT<li>Visão Geral da IoT</li></ul></details></li>
-      <li><details><summary>Aula 2: Arquitetura e aplicações de IoT</summary><ul><li>Aplicações comuns da IoT<li>Desafios da IoT<li>Ecossistema de serviços e endpoints<li>IoT e a comunicação móvel<li>Recursos dos dispositivos IoT</li></ul></details></li>
-      <li><details><summary>Aula 3: IoT sob ataque visão geral</summary><ul><li>Acesso gerenciamento e monitoramento<li>Ameaças e riscos da IoT<li>Disponibilidade Eficiência e Segurança<li>Interações do dispositivo com o mundo físico<li>Quais são os desafios de segurança na IoT?</li></ul></details></li>
-      <li><details><summary>Aula 4: Melhores práticas para segurança de dispositivos IoT</summary><ul><li>Melhores práticas para segurança de dispositivos IoT<li>Princípios de arquitetura de Segurança IoT<li>Segurança das operações de IoT<li>Segurança de Endpoint<li>Segurança de Rede<li>Segurança do Usuário Final</li></ul></details></li>
-      <li><details><summary>Aula 5: Ataques IoT em detalhes Riscos de Segurança mais comuns</summary><ul><li>Aspectos para aumentar a confiabilidade de um ecossistema IoT<li>Ataques baseados na segurança física<li>Ataques baseados no hub central<li>Ataques à infraestrutura<li>Casas Inteligentes sob ataque<li>Metas para a mitigação dos riscos em IoT</li></ul></details></li>
-      <li><details><summary>Aula 6: Segurança de Endpoint</summary><ul><li>Desafios para a segurança de endpoint<li>Recomendações de Alta Prioridade<li>Segurança mínima de endpoint<li>Tipos de ataques aos endpoints</li></ul></details></li>
-      <li><details><summary>Aula 7: Segurança de Infraestrutura de Rede e Cloud em IoT</summary><ul><li>IoT seguro Comunicação e eventos<li>IoT seguro Criptografia identificação e autenticação<li>IoT seguro Dados design e atualização<li>IoT seguro Hardware confiança e integridade<li>Recursos e princípios de segurança de rede IoT</li></ul></details></li>
-      <li><details><summary>Aula 8: Exemplos práticos de brechas de segurança</summary><ul><li>Exemplos práticos de brechas de segurança</li></ul></details></li>
+      <li><details><summary>Lesson 1: IoT Fundamentals</summary><ul><li>IoT Reference Architecture<li>Characteristics of IoT<li>Enablers for IoT<li>Global IoT reference architecture initiatives<li>Opportunities and social impact of IoT<li>Overview of IoT</li></ul></details></li>
+      <li><details><summary>Lesson 2: IoT architecture and applications</summary><ul><li>Common IoT applications<li>IoT challenges<li>Ecosystem of services and endpoints<li>IoT and mobile communication<li>Resources of IoT devices</li></ul></details></li>
+      <li><details><summary>Lesson 3: IoT under attack overview</summary><ul><li>Access, management and monitoring<li>IoT threats and risks<li>Availability, Efficiency and Security<li>Device interactions with the physical world<li>What are the security challenges in IoT?</li></ul></details></li>
+      <li><details><summary>Lesson 4: Best practices for IoT device security</summary><ul><li>Best practices for IoT device security<li>IoT Security architecture principles<li>Security of IoT operations<li>Endpoint Security<li>Network Security<li>End User Security</li></ul></details></li>
+      <li><details><summary>Lesson 5: IoT attacks in detail, the most common Security Risks</summary><ul><li>Aspects to increase the reliability of an IoT ecosystem<li>Attacks based on physical security<li>Attacks based on the central hub<li>Attacks on infrastructure<li>Smart Homes under attack<li>Goals for the mitigation of risks in IoT</li></ul></details></li>
+      <li><details><summary>Lesson 6: Endpoint Security</summary><ul><li>Challenges for endpoint security<li>High Priority Recommendations<li>Minimum endpoint security<li>Types of attacks on endpoints</li></ul></details></li>
+      <li><details><summary>Lesson 7: Network and Cloud Infrastructure Security in IoT</summary><ul><li>Secure IoT, Communication and events<li>Secure IoT, Encryption, identification and authentication<li>Secure IoT, Data, design and update<li>Secure IoT, Hardware, trust and integrity<li>Resources and principles of IoT network security</li></ul></details></li>
+      <li><details><summary>Lesson 8: Practical examples of security breaches</summary><ul><li>Practical examples of security breaches</li></ul></details></li>
     </ul>
   </details>
 
   <details>
-    <summary>🔹 Disciplina Privacy and Data Protection</summary>
+    <summary>🔹 Subject Privacy and Data Protection</summary>
     <ul>
-      <li><details><summary>Aula 1: Leis de proteção de dados</summary><ul><li>CCPA - Califórnia<li>GDPR - Europa<li>LGPD - Brasil<li>Outros países<li>Proteção de dados em todo mundo</li></ul></details></li>
-      <li><details><summary>Aula 2: Dados</summary><ul><li>Consentimento e legítimo interesse<li>Dado pessoal<li>Dado pseudonimizado<li>Dado sensível<li>Dados anonimizados</li></ul></details></li>
-      <li><details><summary>Aula 3: Proteção e privacidade de dados</summary><ul><li>Privacidade de dados<li>Privacidade por design e por default<li>Proteção de dados<li>Proteção ou privacidade<li>Tecnologias e práticas de proteção</li></ul></details></li>
-      <li><details><summary>Aula 4: Soberania de dados</summary><ul><li>Dados em repouso e em trânsito<li>Garantindo a soberania de dados<li>Soberania de dados em nuvem<li>Soberania localização e residência de dados</li></ul></details></li>
-      <li><details><summary>Aula 5: Princípios da LGPD</summary><ul><li>Atores envolvidos nas definições LGPD<li>Livre acesso qualidade dos dados e transparência<li>Não discriminação e responsabilidade<li>Princípio e base legal<li>Propósito adequação e necessidade<li>Segurança e Prevenção</li></ul></details></li>
-      <li><details><summary>Aula 6: Propriedade dos dados</summary><ul><li>Consentimento e revogação<li>Identificando o proprietário dos dados<li>O que é propriedade de dados?<li>Pegada digital<li>Portabilidade de dados</li></ul></details></li>
-      <li><details><summary>Aula 7: Fiscalização</summary><ul><li>ANPD<li>Direitos dos Titulares de Dados Pessoais<li>Não aplicabilidade da LGPD<li>Penalidades e Proporcionalidades<li>Responsabilidade civil da LGPD</li></ul></details></li>
-      <li><details><summary>Aula 8: Relacionando a LGPD</summary><ul><li>Código de defesa do consumidor<li>Lei de acesso à informação<li>Marco civil da internet<li>Marketing digital</li></ul></details></li>
+      <li><details><summary>Lesson 1: Data protection laws</summary><ul><li>CCPA - California<li>GDPR - Europe<li>LGPD - Brazil<li>Other countries<li>Data protection around the world</li></ul></details></li>
+      <li><details><summary>Lesson 2: Data</summary><ul><li>Consent and legitimate interest<li>Personal data<li>Pseudonymized data<li>Sensitive data<li>Anonymized data</li></ul></details></li>
+      <li><details><summary>Lesson 3: Data protection and privacy</summary><ul><li>Data privacy<li>Privacy by design and by default<li>Data protection<li>Protection or privacy<li>Protection technologies and practices</li></ul></details></li>
+      <li><details><summary>Lesson 4: Data sovereignty</summary><ul><li>Data at rest and in transit<li>Ensuring data sovereignty<li>Data sovereignty in the cloud<li>Data sovereignty, location and residence</li></ul></details></li>
+      <li><details><summary>Lesson 5: Principles of the LGPD</summary><ul><li>Actors involved in the LGPD definitions<li>Free access, data quality and transparency<li>Non-discrimination and accountability<li>Principle and legal basis<li>Purpose, adequacy and necessity<li>Security and Prevention</li></ul></details></li>
+      <li><details><summary>Lesson 6: Data ownership</summary><ul><li>Consent and revocation<li>Identifying the data owner<li>What is data ownership?<li>Digital footprint<li>Data portability</li></ul></details></li>
+      <li><details><summary>Lesson 7: Oversight</summary><ul><li>ANPD<li>Rights of Personal Data Subjects<li>Non-applicability of the LGPD<li>Penalties and Proportionalities<li>Civil liability under the LGPD</li></ul></details></li>
+      <li><details><summary>Lesson 8: Relating the LGPD</summary><ul><li>Consumer protection code<li>Access to information law<li>Internet civil framework<li>Digital marketing</li></ul></details></li>
     </ul>
   </details>
 
   <details>
-    <summary>🔹 Disciplina Data Mapping and Privacy Governance</summary>
+    <summary>🔹 Subject Data Mapping and Privacy Governance</summary>
     <ul>
-      <li><details><summary>Aula 1: Maturidade organizacional</summary><ul><li>Construindo Maturidade Organizacional<li>Definição de Maturidade Organizacional<li>Maturidade Organizacional Privacy Governance<li>Modelos para Maturidade Organizacional</li></ul></details></li>
-      <li><details><summary>Aula 2: Inventário de dados pessoais</summary><ul><li>Contextualizando inventário de dados pessoais<li>Dados informação e conhecimento<li>Inventário de dados privados<li>Mapeamento de dados privados</li></ul></details></li>
-      <li><details><summary>Aula 3: Introdução ao mapeamento organizacional</summary><ul><li>Introdução ao mapeamento organizacional<li>Mapeamento de fluxos de dados<li>Mapeamento de inventários<li>Plano de ação em mapeamento de fluxo de dados</li></ul></details></li>
-      <li><details><summary>Aula 4: Segurança da Informação</summary><ul><li>Confidencialidade, Integridade e Disponibilidade<li>Definição de Segurança da Informação<li>Termos de usos e política de privacidade</li></ul></details></li>
-      <li><details><summary>Aula 5: Gerenciamento de Riscos em Processos</summary><ul><li>Definição de Processos<li>Definição de Riscos<li>Gerenciamento de Riscos em Data Mapping<li>Gerenciamento de Riscos em Privacy Governance</li></ul></details></li>
-      <li><details><summary>Aula 6: Lei Geral de Proteção de Dados</summary><ul><li>Entendendo a LGPD<li>LGPD em Data Mapping<li>LGPD em Privacy Governance<li>Maturidade e GAP's LGPD para o negócio</li></ul></details></li>
-      <li><details><summary>Aula 7: Sistemas de Gestão de Proteção de Dados Pessoais</summary><ul><li>Entendendo Sistemas SGPD<li>SGPD e processo de implementação<li>SGPD em Data Mapping<li>SGPD em Privacy Governance</li></ul></details></li>
-      <li><details><summary>Aula 8: Relatórios de Impactos e documentação</summary><ul><li>Relatórios e documentações para LGPD<li>Relatórios e documentações para SGPD</li></ul></details></li>
+      <li><details><summary>Lesson 1: Organizational maturity</summary><ul><li>Building Organizational Maturity<li>Definition of Organizational Maturity<li>Organizational Maturity Privacy Governance<li>Models for Organizational Maturity</li></ul></details></li>
+      <li><details><summary>Lesson 2: Inventory of personal data</summary><ul><li>Contextualizing the inventory of personal data<li>Data, information and knowledge<li>Inventory of private data<li>Mapping of private data</li></ul></details></li>
+      <li><details><summary>Lesson 3: Introduction to organizational mapping</summary><ul><li>Introduction to organizational mapping<li>Mapping of data flows<li>Mapping of inventories<li>Action plan in data flow mapping</li></ul></details></li>
+      <li><details><summary>Lesson 4: Information Security</summary><ul><li>Confidentiality, Integrity and Availability<li>Definition of Information Security<li>Terms of use and privacy policy</li></ul></details></li>
+      <li><details><summary>Lesson 5: Risk Management in Processes</summary><ul><li>Definition of Processes<li>Definition of Risks<li>Risk Management in Data Mapping<li>Risk Management in Privacy Governance</li></ul></details></li>
+      <li><details><summary>Lesson 6: General Data Protection Law</summary><ul><li>Understanding the LGPD<li>LGPD in Data Mapping<li>LGPD in Privacy Governance<li>Maturity and GAPs of LGPD for the business</li></ul></details></li>
+      <li><details><summary>Lesson 7: Personal Data Protection Management Systems</summary><ul><li>Understanding PDPMS Systems<li>PDPMS and implementation process<li>PDPMS in Data Mapping<li>PDPMS in Privacy Governance</li></ul></details></li>
+      <li><details><summary>Lesson 8: Impact reports and documentation</summary><ul><li>Reports and documentation for LGPD<li>Reports and documentation for PDPMS</li></ul></details></li>
     </ul>
   </details>
 
@@ -252,24 +296,24 @@ The structure follows the official course schedule, divided into modules and tec
 </details>
 
 <details>
-  <summary><strong> ▫️ MODULO 4</strong></summary>
+  <summary><strong> ▫️ MODULE 4</strong></summary>
   <blockquote>
 
-  > 📌 Disciplinas ainda a iniciar — conteúdo será adicionado conforme o progresso do curso.
+  > Subjects not yet started. Content will be added as the course progresses.
 
-  <details><summary>▫️ Disciplina Tópicos Especiais de Tecnologia</summary><ul><li>A iniciar</li></ul></details>
-  <details><summary>▫️ Disciplina Tópicos Especiais de Diversidade</summary><ul><li>A iniciar</li></ul></details>
-  <details><summary>▫️ Disciplina Tópicos Especiais de Carreira</summary><ul><li>A iniciar</li></ul></details>
-  <details><summary>▫️ Disciplina Atualidades pós-graduação</summary><ul><li>A iniciar</li></ul></details>
-  <details><summary>▫️ Disciplina Gestão do Tempo</summary><ul><li>A iniciar</li></ul></details>
+  <details><summary>▫️ Subject Special Topics in Technology</summary><ul><li>Not started</li></ul></details>
+  <details><summary>▫️ Subject Special Topics in Diversity</summary><ul><li>Not started</li></ul></details>
+  <details><summary>▫️ Subject Special Topics in Career</summary><ul><li>Not started</li></ul></details>
+  <details><summary>▫️ Subject Postgraduate Current Affairs</summary><ul><li>Not started</li></ul></details>
+  <details><summary>▫️ Subject Time Management</summary><ul><li>Not started</li></ul></details>
 
   </blockquote>
 </details>
   <br>
 
-(🔹Concluido
-🔸Em progresso
-▫️A iniciar)
+(🔹Completed
+🔸In progress
+▫️Not started)
 <br>
 
 ---
@@ -282,7 +326,7 @@ The structure follows the official course schedule, divided into modules and tec
 <a id="scripts"></a>
 ## Scripts and Tools
 
-- [Automation for posting notes on LinkedIn](./automacao_linkedin.py)
+- [Automation for publishing the notes on LinkedIn](./automacao_linkedin.py)
 - [About the MBA](MBA%20em%20Segurança%20da%20Informação.md)
 - [LICENSE](./LICENSE)
 
@@ -296,17 +340,16 @@ The structure follows the official course schedule, divided into modules and tec
 
 <div align="center">
 
-<a href="https://github.com/douglascshun"><img src="https://img.shields.io/badge/Perfil_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://github.com/douglascshun"><img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <a href="https://www.linkedin.com/in/douglas-cshunderlick/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:douglascshun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
 <br/><br/>
 
-<sub><em>Repository automatically updated as the disciplines progress.</em></sub>
+<sub><em>Repository updated automatically as the subjects progress.</em></sub>
 
 </div>
 
 <div align="center">
   <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height="10px" alt="divider"/>
 </div>
-
