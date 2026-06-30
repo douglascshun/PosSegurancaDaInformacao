@@ -8,7 +8,9 @@ on:
         type: boolean
         default: false
   schedule:
-    - cron: '0 12 * * *'
+    # 12:23 UTC (~09:23 BRT). Evita o minuto ':00', a fila mais concorrida do
+    # GitHub Actions, que costuma atrasar o agendamento em horas (ou descartá-lo).
+    - cron: '23 12 * * *'
 
 jobs:
   build:

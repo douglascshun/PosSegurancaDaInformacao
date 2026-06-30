@@ -14,10 +14,15 @@ Variáveis de ambiente (GitHub Secrets):
   GEMINI_API_KEY
   LINKEDIN_ACCESS_TOKEN
 Opcionais (com defaults):
-  GEMINI_TEXT_MODEL   (default: gemini-2.5-flash)
-  GEMINI_IMAGE_MODEL  (default: imagen-3.0-generate-002)
-  LINKEDIN_VERSION    (default: 202606)
-  DRY_RUN             ("1" = monta tudo mas NÃO publica)
+  GEMINI_TEXT_MODEL    (default: gemini-2.5-flash)
+  GEMINI_IMAGE_MODEL   (default: imagen-3.0-generate-002)
+  LINKEDIN_VERSION     (default: 202606)
+  DRY_RUN              ("1" = monta tudo mas NÃO publica)
+  GEMINI_RETRY_MAX     (default: 5)  tentativas no texto p/ erro transitório
+  GEMINI_RETRY_MAX_IMG (default: 3)  tentativas na imagem (tem fallback de card)
+  GEMINI_RETRY_BASE    (default: 2.0) base do backoff exponencial, em segundos
+  USE_POLLINATIONS     (default: "1") usa Pollinations.ai (imagem IA grátis)
+  POLLINATIONS_MODEL   (default: flux) modelo do Pollinations (ex.: flux, turbo)
 """
 
 import os
@@ -35,9 +40,14 @@ ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN")
 
 TEXT_MODEL = os.getenv("GEMINI_TEXT_MODEL", "gemini-2.5-flash")
 IMAGE_MODEL = os.getenv("GEMINI_IMAGE_MODEL", "imagen-4.0-fast-generate-001")
-IMAGE_MODEL_ALT = os.getenv("GEMINI_IMAGE_MODEL_ALT", "nano-banana-pro-preview")
+IMAGE_MODEL_ALT = os.getenv("GEMINI_IMAGE_MODEL_ALT", "gemini-2.5-flash-image")
 LI_VERSION = os.getenv("LINKEDIN_VERSION", "202606")
 DRY_RUN = os.getenv("DRY_RUN", "0") == "1"
+
+# Pollinations.ai: geração de imagem por IA gratuita (sem API key) — fonte
+# primária, já que o Gemini não tem mais free tier de imagem (jun/2026).
+USE_POLLINATIONS = os.getenv("USE_POLLINATIONS", "1") == "1"
+POLLINATIONS_MODEL = os.getenv("POLLINATIONS_MODEL", "flux")
 
 INDEX_FILE = "post_index.txt"
 TOKEN_FLAG = ".token_expired"        # sinaliza ao workflow que o token caducou
@@ -112,6 +122,7 @@ def carregar_proximo_arquivo():
 
 # ───────────────────────── Gemini: retry ─────────────────────────
 RETRY_MAX = int(os.getenv("GEMINI_RETRY_MAX", "5"))
+RETRY_MAX_IMG = int(os.getenv("GEMINI_RETRY_MAX_IMG", "3"))  # imagem tem fallback (card)
 RETRY_BASE = float(os.getenv("GEMINI_RETRY_BASE", "2.0"))  # segundos
 
 # trechos que indicam erro transitório do lado do servidor — vale tentar de novo
@@ -121,10 +132,26 @@ _TRANSIENTE = (
     "deadline", "timeout", "high demand",
 )
 
+# trechos que indicam limite PERMANENTE (cota zerada/plano pago) — retentar não
+# adianta; melhor desistir já e cair no fallback (card) sem perder ~30s no backoff
+_PERMANENTE = (
+    "limit: 0", "only available on paid", "paid plan",
+    "perday", "per day", "billing", "upgrade your account",
+)
+
+
+def _e_permanente(err):
+    """True quando o erro é um limite que não se resolve com nova tentativa
+    (cota free-tier zerada, recurso exclusivo de plano pago)."""
+    return any(t in str(err).lower() for t in _PERMANENTE)
+
 
 def _e_transitorio(err):
-    """True se o erro for transitório (sobrecarga/limite/instabilidade do
-    Gemini), sinalizando que uma nova tentativa pode ter sucesso."""
+    """True se o erro for transitório (sobrecarga/instabilidade do Gemini),
+    sinalizando que uma nova tentativa pode ter sucesso. Limites permanentes
+    (cota zerada/plano pago) NÃO contam como transitórios."""
+    if _e_permanente(err):
+        return False
     code = getattr(err, "code", None)
     if code in (429, 500, 502, 503, 504):
         return True
@@ -132,20 +159,20 @@ def _e_transitorio(err):
     return any(t in msg for t in _TRANSIENTE)
 
 
-def _gemini_com_retry(descricao, fn):
+def _gemini_com_retry(descricao, fn, tentativas=RETRY_MAX):
     """Executa uma chamada ao Gemini com backoff exponencial (2s, 4s, 8s…)
     para erros transitórios como '503 UNAVAILABLE'. Erros permanentes
-    (ex.: API key inválida) sobem na primeira ocorrência."""
-    for tentativa in range(1, RETRY_MAX + 1):
+    (ex.: API key inválida, cota zerada) sobem na primeira ocorrência."""
+    for tentativa in range(1, tentativas + 1):
         try:
             return fn()
         except Exception as e:
-            if tentativa >= RETRY_MAX or not _e_transitorio(e):
+            if tentativa >= tentativas or not _e_transitorio(e):
                 raise
             espera = RETRY_BASE * (2 ** (tentativa - 1))
             print(
                 f"⚠️  {descricao}: erro transitório ({e}). "
-                f"Tentativa {tentativa}/{RETRY_MAX}, aguardando {espera:.0f}s...",
+                f"Tentativa {tentativa}/{tentativas}, aguardando {espera:.0f}s...",
                 flush=True,
             )
             time.sleep(espera)
@@ -158,18 +185,21 @@ def gerar_texto(conteudo):
         lambda: client.models.generate_content(
         model=TEXT_MODEL,
         contents=(
+            "Escreva SEMPRE em português do Brasil (pt-BR), qualquer que seja o idioma do conteúdo base. "
             "Reescreva para eu publicar no LinkedIn, como um hacker avançado em Red Team escreveria. "
             "Tire a mecânica padrão de emojis e as quebras de linha excessivas que entregam que foi gerado por IA. "
             "Converta o conteúdo abaixo em um post para LinkedIn.\n\n"
             f"CONTEÚDO BASE: {conteudo}\n\n"
             "REGRAS CRÍTICAS:\n"
-            "1. RESPONDA APENAS COM O TEXTO FINAL DO POST.\n"
-            "2. NÃO inclua introduções como 'Aqui está o post' ou 'Claro'.\n"
-            "3. NÃO inclua aspas no início ou no fim.\n"
-            "4. Use HOOK, bullet points (cada item começando com '• '), tom profissional/direto, CTA e 3 hashtags.\n"
-            "5. Máximo 1300 caracteres.\n"
-            "6. NÃO USE EMOJIS.\n"
-            "7. NÃO use markdown: nada de ** ou * para negrito/itálico, nem # para títulos. "
+            "1. O POST INTEIRO DEVE ESTAR EM PORTUGUÊS DO BRASIL (pt-BR), incluindo hook, bullets, CTA e hashtags. "
+            "Termos técnicos consagrados em inglês (ex.: Red Team, phishing, firewall) podem ser mantidos, mas o texto é em português.\n"
+            "2. RESPONDA APENAS COM O TEXTO FINAL DO POST.\n"
+            "3. NÃO inclua introduções como 'Aqui está o post' ou 'Claro'.\n"
+            "4. NÃO inclua aspas no início ou no fim.\n"
+            "5. Use HOOK, bullet points (cada item começando com '• '), tom profissional/direto, CTA e 3 hashtags.\n"
+            "6. Máximo 1300 caracteres.\n"
+            "7. NÃO USE EMOJIS.\n"
+            "8. NÃO use markdown: nada de ** ou * para negrito/itálico, nem # para títulos. "
             "O LinkedIn não renderiza formatação — escreva texto puro."
         ),
         ),
@@ -259,22 +289,67 @@ def gerar_card(titulo, subtitulo):
         return None
 
 
+def gerar_imagem_pollinations(titulo):
+    """Gera a imagem por IA via Pollinations.ai — gratuito e sem API key.
+    Retorna o caminho do arquivo salvo ou None se falhar/indisponível."""
+    import urllib.parse
+    # Prompt ABSTRATO (sem o título literal): modelos de difusão tentam "escrever"
+    # o substantivo do prompt e geram texto fantasma. A relação com o post fica no
+    # texto e no card; aqui buscamos um banner limpo e profissional da marca.
+    prompt = (
+        "Abstract digital cybersecurity concept art, dark navy background, glowing "
+        "electric blue circuit lines and network nodes, faint shield and lock motifs, "
+        "depth and bokeh, minimal clean corporate tech aesthetic. "
+        "No text, no letters, no words, no typography, no UI, no logos, no watermark."
+    )
+    seed = int(hashlib.md5(titulo.encode("utf-8")).hexdigest(), 16) % 100000  # varia por post
+    url = (
+        "https://image.pollinations.ai/prompt/" + urllib.parse.quote(prompt)
+        + f"?width=1200&height=627&nologo=true&model={POLLINATIONS_MODEL}&seed={seed}"
+    )
+    try:
+        r = requests.get(url, timeout=90)
+        r.raise_for_status()
+        ctype = r.headers.get("Content-Type", "")
+        if not ctype.startswith("image/") or len(r.content) < 2000:
+            print(f"⚠️ Pollinations não retornou imagem (ctype='{ctype}', {len(r.content)} bytes).")
+            return None
+        with open(IMG_OUT, "wb") as f:
+            f.write(r.content)
+        print(f"🎨 Imagem gerada por IA grátis (Pollinations/{POLLINATIONS_MODEL}).")
+        return IMG_OUT
+    except requests.RequestException as e:
+        print(f"⚠️ Pollinations indisponível ({e}).")
+        return None
+
+
 def gerar_imagem(titulo, subtitulo):
-    """Imagem do post: tenta IA (Imagen/nano-banana); se indisponível (free tier),
-    gera um CARD dinâmico com o tema do post; e por último o banner fixo."""
+    """Imagem do post: tenta IA grátis (Pollinations) e, se houver billing, o
+    Gemini (Imagen/Flash Image); senão gera um CARD dinâmico com o tema do post;
+    e por último o banner fixo."""
     prompt = (
         f"Professional, modern cybersecurity banner illustration about '{titulo}'. "
         "Dark background, electric blue (#1987F0) accents, abstract network/tech motifs, "
         "clean corporate style, no text, no logos, no watermark."
     )
 
+    # 0) Pollinations.ai — IA gratuita, sem API key (fonte primária)
+    if USE_POLLINATIONS:
+        img = gerar_imagem_pollinations(titulo)
+        if img:
+            return img
+
     # 1) Imagen via predict (requer plano pago)
     try:
         from google.genai import types
-        resp = client.models.generate_images(
-            model=IMAGE_MODEL,
-            prompt=prompt,
-            config=types.GenerateImagesConfig(number_of_images=1, aspect_ratio="16:9"),
+        resp = _gemini_com_retry(
+            "Gemini (imagem/Imagen)",
+            lambda: client.models.generate_images(
+                model=IMAGE_MODEL,
+                prompt=prompt,
+                config=types.GenerateImagesConfig(number_of_images=1, aspect_ratio="16:9"),
+            ),
+            tentativas=RETRY_MAX_IMG,
         )
         data = resp.generated_images[0].image.image_bytes
         with open(IMG_OUT, "wb") as f:
@@ -286,7 +361,11 @@ def gerar_imagem(titulo, subtitulo):
 
     # 2) Modelo de imagem via generateContent (ex.: nano-banana) — pode estar no free tier
     try:
-        resp = client.models.generate_content(model=IMAGE_MODEL_ALT, contents=prompt)
+        resp = _gemini_com_retry(
+            "Gemini (imagem/generateContent)",
+            lambda: client.models.generate_content(model=IMAGE_MODEL_ALT, contents=prompt),
+            tentativas=RETRY_MAX_IMG,
+        )
         for part in resp.candidates[0].content.parts:
             inline = getattr(part, "inline_data", None)
             if inline and inline.data:
