@@ -185,18 +185,21 @@ def gerar_texto(conteudo):
         lambda: client.models.generate_content(
         model=TEXT_MODEL,
         contents=(
+            "Escreva SEMPRE em português do Brasil (pt-BR), qualquer que seja o idioma do conteúdo base. "
             "Reescreva para eu publicar no LinkedIn, como um hacker avançado em Red Team escreveria. "
             "Tire a mecânica padrão de emojis e as quebras de linha excessivas que entregam que foi gerado por IA. "
             "Converta o conteúdo abaixo em um post para LinkedIn.\n\n"
             f"CONTEÚDO BASE: {conteudo}\n\n"
             "REGRAS CRÍTICAS:\n"
-            "1. RESPONDA APENAS COM O TEXTO FINAL DO POST.\n"
-            "2. NÃO inclua introduções como 'Aqui está o post' ou 'Claro'.\n"
-            "3. NÃO inclua aspas no início ou no fim.\n"
-            "4. Use HOOK, bullet points (cada item começando com '• '), tom profissional/direto, CTA e 3 hashtags.\n"
-            "5. Máximo 1300 caracteres.\n"
-            "6. NÃO USE EMOJIS.\n"
-            "7. NÃO use markdown: nada de ** ou * para negrito/itálico, nem # para títulos. "
+            "1. O POST INTEIRO DEVE ESTAR EM PORTUGUÊS DO BRASIL (pt-BR), incluindo hook, bullets, CTA e hashtags. "
+            "Termos técnicos consagrados em inglês (ex.: Red Team, phishing, firewall) podem ser mantidos, mas o texto é em português.\n"
+            "2. RESPONDA APENAS COM O TEXTO FINAL DO POST.\n"
+            "3. NÃO inclua introduções como 'Aqui está o post' ou 'Claro'.\n"
+            "4. NÃO inclua aspas no início ou no fim.\n"
+            "5. Use HOOK, bullet points (cada item começando com '• '), tom profissional/direto, CTA e 3 hashtags.\n"
+            "6. Máximo 1300 caracteres.\n"
+            "7. NÃO USE EMOJIS.\n"
+            "8. NÃO use markdown: nada de ** ou * para negrito/itálico, nem # para títulos. "
             "O LinkedIn não renderiza formatação — escreva texto puro."
         ),
         ),
