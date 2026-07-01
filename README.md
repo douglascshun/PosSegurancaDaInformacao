@@ -20,8 +20,14 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://github.com/douglascshun/PosSegurancaDaInformacao">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2600&pause=500&color=1987F0&center=true&vCenter=true&width=660&height=70&lines=MBA+em+Seguranca+da+Informacao;Resumos+tecnicos+por+disciplina;Redes%2C+nuvem%2C+LGPD+e+resposta+a+incidentes;O+meu+caderno+publico+do+curso" alt="Typing SVG"/>
+  </a>
+</div>
+
 <h1 align="center">MBA em Segurança da Informação</h1>
-<p align="center"><em>Repositório central de estudos, resumos técnicos e documentação prática</em></p>
+<p align="center"><em>Resumos técnicos, mapas mentais e material de apoio do meu Pós-MBA em Segurança da Informação, organizados pelo cronograma oficial do curso.</em></p>
 
 <div align="center">
 
@@ -39,15 +45,53 @@
 <!-- ══════════════════════════ NAVEGAÇÃO ══════════════════════════ -->
 <div align="center">
 
-<a href="#modulos"><img src="https://img.shields.io/badge/▸_MÓDULOS-1987F0?style=for-the-badge" alt="modulos"/></a>
-<a href="#scripts"><img src="https://img.shields.io/badge/▸_SCRIPTS-000000?style=for-the-badge" alt="scripts"/></a>
-<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTATO-1987F0?style=for-the-badge" alt="contato"/></a>
+<a href="#sobre"><img src="https://img.shields.io/badge/SOBRE-1987F0?style=for-the-badge" alt="sobre"/></a>
+<a href="#objetivos"><img src="https://img.shields.io/badge/O_QUE_TEM_AQUI-000000?style=for-the-badge" alt="objetivos"/></a>
+<a href="#progresso"><img src="https://img.shields.io/badge/PROGRESSO-1987F0?style=for-the-badge" alt="progresso"/></a>
+<a href="#modulos"><img src="https://img.shields.io/badge/M%C3%93DULOS-000000?style=for-the-badge" alt="modulos"/></a>
+<a href="#scripts"><img src="https://img.shields.io/badge/SCRIPTS-1987F0?style=for-the-badge" alt="scripts"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/CONTATO-000000?style=for-the-badge" alt="contato"/></a>
 
 </div>
 
 <br/>
 
-> Este repositório consolida o conhecimento adquirido ao longo do MBA, servindo como base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
+<a id="sobre"></a>
+## Sobre o curso
+
+Estou cursando o Pós-MBA em Segurança da Informação na União das Américas. Este repositório é o meu caderno público do curso. Cada disciplina vira um resumo técnico navegável, organizado exatamente pelo cronograma oficial, e funciona dos dois lados: como base de revisão para mim e como material de consulta para quem estuda os mesmos temas.
+
+A leitura toda acontece em blocos que abrem e fecham. Cada módulo expande nas suas disciplinas, cada disciplina nas suas aulas, e cada aula nos tópicos cobertos. Você abre só o que interessa, sem rolar páginas inteiras de texto.
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
+</div>
+
+<a id="objetivos"></a>
+## O que você encontra aqui
+
+- Resumo aula a aula de cada disciplina, agrupado por módulo
+- Cobertura de redes, defesa, nuvem, resposta a incidentes, IoT, LGPD e governança
+- Mapas mentais e material de apoio na pasta `assets`
+- Um script que automatiza a publicação das anotações no LinkedIn
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
+</div>
+
+<a id="progresso"></a>
+## Progresso do curso
+
+<div align="center">
+
+| Módulo | Tema central | Status |
+|:--:|:--|:--:|
+| 1 | Fundamentos de redes, endpoint e defesa | Concluído |
+| 2 | Nuvem, ameaças, operações e segurança de redes | Concluído |
+| 3 | Resposta a incidentes, IoT e proteção de dados | Concluído |
+| 4 | Tópicos especiais, carreira e atualidades | A iniciar |
+
+</div>
 
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider"/>
@@ -255,7 +299,7 @@ A estrutura segue o cronograma oficial do curso, dividida por módulos e sub-ass
   <summary><strong> ▫️ MODULO 4</strong></summary>
   <blockquote>
 
-  > 📌 Disciplinas ainda a iniciar — conteúdo será adicionado conforme o progresso do curso.
+  > Disciplinas ainda a iniciar. Conteúdo será adicionado conforme o progresso do curso.
 
   <details><summary>▫️ Disciplina Tópicos Especiais de Tecnologia</summary><ul><li>A iniciar</li></ul></details>
   <details><summary>▫️ Disciplina Tópicos Especiais de Diversidade</summary><ul><li>A iniciar</li></ul></details>
